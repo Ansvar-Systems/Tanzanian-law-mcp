@@ -1,0 +1,66 @@
+{
+  "id": "tz-act-gn-2000-31",
+  "type": "statute",
+  "title": "Road Traffic (SARPCCO Vehicle Clearance Certificate) Regulations, 2000",
+  "title_en": "Road Traffic (SARPCCO Vehicle Clearance Certificate) Regulations, 2000",
+  "short_name": "Road Traffic (SARPCCO Vehic...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/2000/31/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Regulations may be cited as the Road Traffic ( SARPCCO Vehicle Clearance Certificate) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In these Regulations, unless the context requires otherwise– \" Act \" means the Road Traffic Act 1 ; 1 Cap. 168 \" Interpol \" means the International Criminal Police Organisation; \" SARPCCO \" means the Southern African Regional Police Chiefs Co-operation Organisation."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Importation of vehicle or trailer from SARPCCO Member Country",
+      "content": "(1) A person seeking registration of a motor vehicle or trailer under the Act which motor vehicle or trailer is imported from a SARPCCO Member Country shown in the Schedule to these Regulations, shall first apply for and obtain a SARPCCO Vehicle Clearance Certificate from the exporting country. (2) The SARPCCO Vehicle Clearance Certificate so obtained shall be produced to the Interpol Office in Dar es Salaam for verification before the motor vehicle or trailer is registered. (3) The Interpol Office in Dar es Salaam shall, after verifying the authenticity of the SARPCCO Vehicle Clearance Certificate, confirm by letter or other means the authenticity of the certificate. (4) On receipt of the confirmation from the Interpol Office in Dar es Salaam, the applicant for registration of the motor vehicle or trailer shall proceed with the registration process."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Conditions precedent to registration",
+      "content": "(1) The Registrar of motor vehicles shall, subject to the provisions of section 11 of the Act , and, without prejudice to the generality of that section, prior to the registration of a motor vehicle or trailer satisfy himself that the applicant for registration has in his possession a SARPCCO Vehicle Clearance Certificate together with a confirmation from Interpol Office in Dar es Salaam in respect of the motor vehicle or trailer to be registered. (2) In cases where the motor vehicle or trailer to be registered is not imported from a SARPCCO Member Country but imported from any other African country, the Registrar shall satisfy himself that the applicant has a confirmation from the Interpol Office in Dar es Salaam indicating that the motor vehicle or trailer in question has neither been stolen from the country in which it was registered nor stolen from any other African country."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Exportation of vehicle or trailer outside SARPCCO Member Country",
+      "content": "(1) A person seeking to export a motor vehicle or trailer outside Mainland Tanzania so that it may be registered in a SARPCCO Member Country shall first apply for and obtain from the Interpol Office in Dar es Salaam a SARPCCO Vehicle Clearance Certificate of the motor vehicle or trailer to be exported. (2) The SARPCCO Vehicle Clearance Certificate will be granted subject to the discretion of the issuing authority."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Payment of prescribed fee",
+      "content": "Each SARPCCO Vehicle Clearance Certificate will be issued after payment of a prescribed fee. Schedule (Regulation 3(1)) SARPCCO Member Countries 1. Angola 2. Botswana 3. Lesotho 4. Malawi 5. Mauritius 6. Mozambique 7. Namibia 8. South Africa 9. Swaziland 10. Tanzania 11. Zambia 12. Zimbabwe History of this document 31 July 2002 this version Consolidation 01 January 2000 Commenced Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Road Traffic Act 1",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Interpol",
+      "definition": "the International Criminal Police Organisation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "SARPCCO",
+      "definition": "the Southern African Regional Police Chiefs Co-operation Organisation.",
+      "source_provision": "s2"
+    }
+  ]
+}

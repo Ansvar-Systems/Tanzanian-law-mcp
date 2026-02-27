@@ -1,0 +1,67 @@
+{
+  "id": "tz-act-gn-1976-187",
+  "type": "statute",
+  "title": "Road Traffic (Foreign Vehicles) (Exemption from Registration) Order, 1976",
+  "title_en": "Road Traffic (Foreign Vehicles) (Exemption from Registration) Order, 1976",
+  "short_name": "Road Traffic (Foreign Vehic...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/1976/187/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "This Order may be cited as the Road Traffic (Foreign Vehicles) (Exemption from Registration) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Order— \" foreign vehicle \" means a motor vehicle duly registered and licensed in any country other than Tanzania but not registered in Tanzania pursuant to the provisions of Part II of the Road Traffic Act 1 , but does not include any such motor vehicle to which the provisions of the Foreign Commercial Vehicles (Licensing) Act 2 apply; 1 Cap. 168 2 Cap. 84 \" permit \" means a foreign vehicle permit issued under this Order."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Foreign vehicles may be issued with permits",
+      "content": "A foreign vehicle in respect of which a valid permit exists shall during the validity of such permit , be exempt from the provisions of Part II of the Road Traffic Act 3 , which requires every motor vehicle to be registered under that Act. 3 Cap. 168"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application form for permit",
+      "content": "(1) On application made therefor to an Internal Revenue Officer by the owner or person having charge of a foreign vehicle , and on payment by such person of the fee prescribed in the Schedule hereto the Internal Revenue Officer may issue in respect of the foreign vehicle a permit in the form approved by the Permanent Secretary to the Treasury. (2) The fee payable under subsection (1) shall be paid in such foreign currency or other convertible currency approved by the Minister for the time being responsible for finance prescribed in the Schedule hereto. (3) Every permit shall be valid for a period of ninety days from the date when the motor vehicle first entered Mainland Tanzania. (4) Notwithstanding the provisions of subparagraph (3) of this paragraph, the Permanent Secretary to the Treasury may, by order under his hand, extend the period of the validity of any permit issued under this Order or authorise the grant of a second or subsequent permit in respect of the same vehicle in the same calendar year, subject to such conditions (including limitation as to duration) as he may in such order specify."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Defence in prosecution for offence under section 8 of the Road Traffic Act",
+      "content": "Where a person is charged with an offence under section 8 of the Road Traffic Act in relation to a foreign vehicle it shall be a good defence if he proves to the satisfaction of the court that the vehicle first entered Tanzania not earlier than six days immediately preceding the date on which he was first charged with the offence."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Foreign commercial vehicles",
+      "content": "(1) Every foreign commercial vehicle in respect of which a valid licence issued under the provisions of the Foreign Commercial Vehicles (Licensing) Act 4 exists, shall, during the validity of such licence, be exempt from the provisions of section 8 of the Road Traffic Act 5 *, which requires every motor vehicle to be registered under that Act. 4 Cap. 84 5 Cap. 168 (2) For the purposes of this paragraph \"foreign commercial vehicle\" has the meaning assigned to that expression in the Foreign Commercial Vehicles (Licensing) Act."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Revocation of G.N. No. 161 of 1974",
+      "content": "[Revokes the Road Traffic (Foreign Vehicles) (Exemption from Registration) Order.] Schedule Form of application for permit I, __________________ of _______________ hereby apply for a foreign vehicle permit in respect of the following vehicle: (a) Description of the vehicle _______________________________ (b) Name of the owner ______________________________ (c) Country of registration __________________________________ (d) Registration Number ________________________________ My address while in Tanzania shall be ________________________________ I declare that the above particulars are true and that no foreign vehicle permit was issued in respect of the above vehicle in this country during the current calendar year. _________________________ Date ____________________ Name of the owner Fees Fee for foreign vehicle permit: US$ 20 or its equivalent in convertible currency for non-commercial motor vehicles of the capacity to carry up to nine passengers upon expiry of seven days following the day of entry and thereafter a further US$ 20 for every 30 days of stay in the country. History of this document 31 July 2002 this version Consolidation Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "foreign vehicle",
+      "definition": "a motor vehicle duly registered and licensed in any country other than Tanzania but not registered in Tanzania pursuant to the provisions of Part II of the Road Traffic Act 1 , but does not include any such motor vehicle to which the provisions of the Foreign Commercial Vehicles (Licensing) Act 2 apply",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permit",
+      "definition": "a foreign vehicle permit issued under this Order.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "tz-act-1963-57",
+  "type": "statute",
+  "title": "Potable Spirits (Compounding) Act",
+  "title_en": "Potable Spirits (Compounding) Act",
+  "short_name": "Potable Spirits (Compoundin...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/1963/57/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Potable Spirits (Compounding) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context requires otherwise– \" denatured spirits \" means spirits mixed with any substance so as to render the mixture unfit, and incapable of being readily converted so as to be fit for human consumption as a beverage; \" licensing officer \" means a person appointed under section 3 to be a licensing officer for the purposes of this Act; \" Minister \" means the Minister responsible for finance; \" spirits \" means spirits of any description and includes all mixtures, compounds or preparations made with spirits, but does not include any denatured spirits ; \" to compound spirits \" means to communicate any flavour to, or to mix any ingredient or material with, spirits , but not so as to denature the spirits ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Appointment of licensing officers",
+      "content": "(1) The Minister may appoint any person to be a licensing officer and a collector of revenue for purposes of this Act either for the whole or any part of Tanzania. (2) Every appointment made under subsection (1) shall be notified in the Gazette ."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Offence to compound spirits without a licence",
+      "content": "Any person who, for profit or sale, compounds spirits otherwise than under and in accordance with a licence issued under section 5 , shall be guilty of an offence and liable on conviction to a fine not exceeding ten thousand shillings or to imprisonment for a period not exceeding twelve months or to both the fine and imprisonment: Provided that nothing in this section shall apply to the bona fide compounding of spirits – (a) upon any premises licensed under the Intoxicating Liquors Act 1 , by the licensee, for the lawful sale thereof for consumption on those premises; 1 Cap. 77 (b) in any canteen, club, institute, mess or similar institution not conducted by a private individual for personal profit, for the lawful sale thereof to the members only of such canteen, club, institute, mess or similar institution, for consumption therein; (c) in any vessel in territorial waters, or in any aircraft, for the lawful sale thereof to any passenger on or officer or member of the crew of such vessel or aircraft, for consumption therein; (d) in the course of the lawful preparation or administration of medicine by a medical practitioner registered or licensed under the Medical Practitioners and Dentists Act 2 , a Veterinary Surgeon registered or licensed under the Veterinary Surgeons Act 3 , or a Pharmacist registered under the Pharmaceuticals and Poisons Act 4 ; 2 Cap. 152 3 Cap. 319 4 Cap. 219 (e) authorised under the Customs (Management and Tariff) Act 5 ; or 5 Cap. 146 (f) in any circumstances or in any particular case or for any purpose where an exemption from the provisions of this section has been granted in writing by a licensing officer ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Issue of licences",
+      "content": "Upon application being made to him in that behalf, a licensing officer may in his discretion issue a licence to compound spirits on such terms and subject to such conditions, including the specification of formulae, as he may think fit."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Regulations",
+      "content": "The Minister may make regulations– (a) prescribing the form of licences issued under this Act and the fees to be paid therefor and providing for the duration and cancellation thereof; and (b) generally for the better carrying out of the provisions of this Act. History of this document 31 December 2023 Chapter 390 Revised Laws 2023 Consolidation 31 July 2002 this version Chapter 390 Revised Laws 2002 Consolidation 27 December 1963 Commenced Related documents More documents like this one Subsidiary legislation Title Potable Spirits (Compounding) Regulations, 1964 Government Notice 211 of 1964 [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "denatured spirits",
+      "definition": "spirits mixed with any substance so as to render the mixture unfit, and incapable of being readily converted so as to be fit for human consumption as a beverage",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensing officer",
+      "definition": "a person appointed under section 3 to be a licensing officer for the purposes of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for finance",
+      "source_provision": "s2"
+    },
+    {
+      "term": "spirits",
+      "definition": "spirits of any description and includes all mixtures, compounds or preparations made with spirits, but does not include any denatured spirits",
+      "source_provision": "s2"
+    },
+    {
+      "term": "to compound spirits",
+      "definition": "to communicate any flavour to, or to mix any ingredient or material with, spirits , but not so as to denature the spirits .",
+      "source_provision": "s2"
+    }
+  ]
+}

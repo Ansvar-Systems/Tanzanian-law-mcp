@@ -1,0 +1,412 @@
+{
+  "id": "tz-act-gn-2015-447",
+  "type": "statute",
+  "title": "Payment Systems (Electronic Money) Regulations, 2015",
+  "title_en": "Payment Systems (Electronic Money) Regulations, 2015",
+  "short_name": "Payment Systems (Electronic...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/2015/447/eng@2015-10-16",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Regulations may be cited as the Payment Systems (Electronic Money) Regulations, 2015"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In these Regulations, unless the context requires otherwise— “ Act ” means the National Payment Systems Act; “ Bank ” has the meaning ascribed to it in the Bank of Tanzania Act ; [Cap. 197] “ bank ” has the meaning ascribed to it in the Banking and Financial Institutions Act ; [Cap. 342] “ company ” means a company as defined in the Companies Act , in the case of Tanzania Mainland or Companies Decree, in the case of Tanzania Zanzibar; [Cap. 212] “ financial institution ” has the meaning ascribed to it in the Banking and Financial Institutions Act ; [Cap. 342] “ electronic money issuer ” means an entity issuing electronic money and may either be a bank or financial institution or a non- bank entity licensed under these Regulations; “ electronic money holder ” means a person who has a claim on an electronic money issuer for electronic money issued by the electronic money issuer ; “ cash-in ” means accepting banknotes or coins and performing electronic process to credit the equivalent value of that monetary value to the customer’s electronic money account; “ cash-out ” means giving out banknotes or coins performing electronic process to debit the equivalent value of that monetary value from the customer’s electronic money account. “ minimum capital requirement ” means the minimum amount of financial resources that an electronic money issuer is required to effectively cover the costs and expenses necessary to operate the business. “ Special Account ” means an account opened by a bank or financial institution to deposit funds received from consumers in exchange of electronic money issued at equivalent value by the bank . Part II – Electronic money issuance approval"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Application for electronic money approval",
+      "content": "(1) A payment system provider, who is a bank or a financial institution that intends to issue electronic money, shall apply in writing to the Bank for approval to issue electronic money by filling in Form A as set out in the Second Schedule to these Regulations. (2) The application form referred in sub regulation (1) and shall be accompanied with— (a) copy of a payment system provider’s licence; (b) proposed services to be offered; (c) proposed locations where electronic money services will be provided; (d) documented procedures and policies for detecting and reporting incidences of money laundering in line with anti-money laundering and combating the financing of terrorism laws and regulations; (e) governance arrangements including internal controls, risks management, accounting procedures, administrative controls, operational risks management with disaster recovery plans and business continuity arrangements, that demonstrates that the arrangements, control and procedures are appropriate, sound and adequate; (f) documented business plan for the intended use of agents and merchants including issuing, acquiring and redemption mechanisms and drafts of merchant and agent agreements; (g) documented outsourcing arrangements; (h) measures for protecting electronic money holders’ funds; (i) customer terms and conditions that include disclosure requirements, complaints and redress mechanisms; (j) pricing policies that include the variables used to arrive at a price and the nature of and amount of charges or fees imposed to customers; and (k) any other information that the Bank may require."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Consideration of application",
+      "content": "The Bank shall within thirty days, consider the application by assessing the application in regard to the capability of the entity to act as electronic money issuer and— (a) where the Bank approves the application it shall issue an approval certificate to the electronic money issuer ; or (b) where the Bank rejects the application, it shall notify the applicant in writing and give reasons for the rejection."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Review of the bank ’s decision to reject application",
+      "content": "(1) An applicant who is aggrieved by the Bank ’s decision under sub-regulation 5(b) may, within thirty days after the date of the notification, apply to the Bank for review of its decision. (2) The Bank shall, within thirty days of receipt of the application under sub-regulation (1) , review the decision and notify the aggrieved applicant in writing of its decision."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Validity of approval",
+      "content": "An electronic money issuer approval shall, once issued, unless suspended or revoked in accordance with the provisions of these Regulations, remain valid for the duration of its payment system provider licence."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Special account",
+      "content": "Subject to regulation 7 an electronic money issuer shall not commence business until it has opened a special account to be solely used for depositing customers’ money awaiting transfer or collection."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Renewal of approval",
+      "content": "(1) An application for renewal of an electronic money issuer approval shall be made to the Bank within six months before the expiration of the approval. (2) The application for renewal of an approval under sub regulation (1) shall be made in Form B as set out in the Second Schedule to these Regulations (3) The Bank may approve the application for renewal of the approval upon being satisfied that the applicant has carried out their operations in compliance with the prevailing laws."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Suspension of an approval",
+      "content": "(1) The Bank may suspend the approval of an electronic money issuer if it is satisfied that the electronic money issuer — (a) conducts its affairs in a manner that is detrimental to the interest of the national payment systems; or (b) is directed to suspend services under the Act or any other written law. (2) Subject to subsection (1) , the Bank may call upon an approved electronic money issuer to show cause why the approval should not be suspended. (3) Where the approved electronic money issuer fails to show cause to the satisfaction of the Bank , the Bank may suspend the approval or make any other order as it may deem appropriate."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Revocation of approval",
+      "content": "The Bank may revoke the approval of an electronic money issuer if it— (a) fails to establish risk management plans which include operational risks, liquidity management and anti money laundering and combating financing of terrorism; (b) fails to commence operations within six months from the date the approval was granted without a written consent of the Bank ; (c) fails to comply with requirements to settle net obligations in the Tanzania Interbank Settlement System; (d) procured the approval through false or fraudulent representations; (e) fails to comply with these Regulations; and (f) fails to comply with any other requirements under the Act or any other written Law."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Effect of revocation of an approval",
+      "content": "(1) Where an electronic money issuer approval is revoked, the electronic money issuer shall cease to issue electronic money from the date of the revocation. (2) Subject to sub regulation (1) , the Bank shall require the approved electronic money issuer to— (a) distribute the funds held in the special account to the beneficiaries; and (b) pay any shortfall in the special account. (3) The Bank shall notify the public of the revocation in newspapers of wide circulation. Part III – Electronic money issuance licence"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Non- bank electronic money issuer licence",
+      "content": "A payment system provider, who is a non- bank or a non- financial institution , shall establish a separate legal entity for issuance of electronic money."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Application for licence",
+      "content": "An application for a licence to issue electronic money under regulation 13 shall be made in Form C as set out in the Second Schedule to these Regulations and shall be accompanied with— (a) copy of the memorandum and articles of association; (b) copy of certificate of incorporation; (c) an original letter from the Registrar of Companies listing names of shareholders, their addresses, their nationalities, shares held by each, names of directors and whether directors are nominees or not or whether non shareholder directors; (d) reference letters from two individuals who are not relatives vouching for the good moral character of each of the applicant’s shareholders, proposed directors and managers; (e) a duly filled Fit and Proper Person Form E, for shareholders, directors and manager as set out in the Second Schedule to these Regulations; (f) a valid payment system provider’s licence; (g) proposed services to be offered; (h) proposed locations where money services will be conducted; (i) certified copy of a valid network services or application services licence from Tanzania Communications Regulatory Authority; (j) proof of payment of a non-refundable application fee provided in First Schedule to these Regulations; (k) evidence of holding the minimum capital set out in the First Schedule; (l) documented procedures and policies for detecting and reporting incidences of money laundering in line with anti-money laundering and combating the financing of terrorism laws; (m) governance arrangements including internal controls, risks management, accounting procedures; automated issuance of electronic money process; administrative controls, operational risks management with disaster recovery plans and business continuity arrangements, that demonstrates that the arrangements, control and procedures are appropriate, sound and adequate; (n) documented business plan for the intended use of agents and merchants including issuing, acquiring and redemption mechanisms and drafts of merchant and agent agreements; (o) documented outsourcing arrangements; (p) plans to participate in a domestic or foreign payment systems; (q) measures for protecting electronic money holders’ funds; (r) customer terms and conditions that include disclosure requirements, complaints, disclosure and redress mechanisms; (s) process flow and system architecture; (t) pricing policies that include the variables used to arrive at a price and the nature of and amount of charges or fees imposed to customers; and (u) any other information that the Bank may require."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Minimum capital requirements",
+      "content": "(1) An electronic money issuer shall maintain at all times a minimum capital as set out in the First Schedule to these Regulations; (2) The Bank may amend the prescribed minimum capital as set out in the First Schedule from time to time."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Processing of application",
+      "content": "(1) The Bank shall, within thirty days following receipt of an application for a licence, or where further information has been required, after receipt of such information, either grant or reject the application. (2) In reviewing the application, the Bank shall satisfy itself as to— (a) the capability of the applicant to issue electronic money services in a secure and efficient manner; (b) applicants minimum capital as required by these Regulations; (c) the commitment of the applicant to comply with applicable anti-money laundering and combating financing of terrorism requirements; (d) applicants disaster recovery plans and business continuity arrangements; (e) the potential of the applicant’s other licensed commercial activities to impair or affect— (i) the safety or the financial soundness of the payment service provider; or (ii) the ability of the Bank to effectively monitor compliance of the payment service provider with this regulation; and (iii) any other factor as may be determined by the Bank . (3) The Bank may request for additional information from the applicant if the information submitted is not complete or if the Bank considers it necessary. (4) The Bank shall upon receiving a complete application and all information required, and if it is satisfied that the applicant has met all the application requirements, advise the applicant to pay the prescribed licence fees as set out in the First Schedule. (5) The Bank shall assess the application in regard to the ability of the entity and the suitability of its trustees, significant shareholders, directors and senior managers. (6) Where the Bank approves the application it shall within seven days after receipt of licence fees, issue a licence certificate to the applicant. (7) Where the Bank rejects the application, it shall notify the applicant in writing and give reasons for the rejection."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Review of the bank ’s decision to reject application",
+      "content": "(1) An applicant, who is aggrieved by the Bank ’s decision under Regulation 16 (7) may within thirty days of the date of the notification apply to the Bank for review of its decision. (2) The Bank shall, within thirty days of receipt of the application under sub-regulation (1) , review the decision and notify the aggrieved applicant in writing of its decision."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Grant and validity of licence",
+      "content": "(1) The Bank may issue an electronic money issuer licence upon the applicant satisfying the requirements of Regulations 13 , and 14 . (2) An electronic money issuer licence shall, once issued, remain valid for the duration of the service provider’s licence or unless suspended or revoked in accordance with the provisions of the Act and these Regulations."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Renewal of licence",
+      "content": "(1) An application for renewal of an electronic money licence shall be made to the Bank at least six months before the expiration of the licence. (2) The application for renewal of a licence under sub regulation (1) shall be made in Form D as set out in the Second Schedule to these Regulations and shall be accompanied with— (a) payment of licence renewal fees set out in the First Schedule; and (b) any other information the Bank may require. (3) The Bank may approve the application for renewal of the license upon being satisfied that the applicant has carried out their operations in compliance with the prevailing laws."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Suspension of a licence",
+      "content": "(1) The Bank may suspend the licence of an electronic money issuer if it is satisfied that the electronic money issuer — (a) conducts its affairs in a manner that is detrimental to the interest of the national payment systems or participants; or (b) is directed to suspend services under the Act or any other written law (2) Subject to subsection (1) , the Bank may call upon a licensee or an approved person to show cause why the licence should not be suspended. (3) Where a licensee fails to show cause to the satisfaction of the Bank , the Bank may suspend the license or make any other order as it may deem appropriate."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Revocation of a licence",
+      "content": "(1) The Bank may revoke the licence of an electronic money issuer if it— (a) fails to establish risk management plans which include operational risks, anti money laundering and combating financing of terrorism risk mitigation, liquidity management and failure to settle arrangements; (b) fails to commence operations within six months from the date the licence was granted without a written consent of the Bank ; (c) fails to comply with requirements to settle net obligations in the Tanzania Interbank Settlement System; (d) procured the licence through false or fraudulent representations; (e) fails to comply with any other requirements under the Act , these Regulations or any other written law."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Effect of revocation of electronic money licence",
+      "content": "(1) Where an electronic money issuer licence is revoked, the electronic money issuer shall cease to issue electronic money from the date of suspension or revocation. (2) Subject to sub regulation (1) , the Bank may require the licenced electronic money issuer and its trust entity to— (a) distribute the funds held in the trust account to the beneficiaries in a prescribed period and submission of reports of distribution; (b) pay any shortfall in the Trust Account; (c) provide access to or hand over the entire database, electronic records in a readable format and other relevant information to the Bank for investigation purposes; (d) within seven days from the date of service of the notice of revocation, surrender the licence certificate to the Bank ; (e) cease immediately from carrying out payment system services authorised under these Regulations (3) The Bank shall notify the public of the revocation of an electronic money issuer license in newspapers of wide circulation;"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Pre-commencement requirements",
+      "content": "(1) An electronic money issuer shall not commence business until— (a) the business premises, security facilities, communication facilities, processing equipment, anti­money laundering system and accounting systems are in place and have been inspected, reviewed and approved by the Bank ; and (b) has opened a trust account in a bank to be solely used for depositing customer’s money awaiting transfer or collection. (2) Without prejudice to sub regulation (1) (b) , the electronic money issuer who has more than five hundred million shillings in the trust account shall open another trust account in other bank in accordance with these Regulations."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Change in ownership",
+      "content": "An electronic money issuer shall request for a written approval from the Bank prior to changing of its shareholding structure. Part IV – Electronic money issuance"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Issuance and redemption",
+      "content": "(1) An electronic money issuer shall issue electronic money at equivalent value on the receipt of funds. (2) The receipt of funds by an electronic money issuer from an electronic money holder shall— (a) be exchanged for electronic money without delay; and (b) not constitute the taking of a deposit or other repayable funds in the case of an electronic money issuer who is a non- bank or non- financial institution . (3) Subject to sub regulation (2) (b) funds received in respect to electronic money issued shall be held in a trust account in the manner prescribed in these Regulation and the Act . (4) An electronic money issuer shall, upon demand by the electronic money holder , redeem and at equivalent value, the monetary value of electronic money held. (5) An electronic money issuer shall ensure that the amount of electronic money in circulation in its network is, at all times, equivalent to the funds deposited in the trust account or special account held in a bank ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Currency",
+      "content": "(1) Electronic money shall be issued in Tanzania Shillings. (2) Notwishtanding sub regulation (1) an electronic money issuer who is a bank shall seek and obtain the Bank ’s approval to issue electronic money in other currency. Part V – Trust account and special account"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Trust and special accounts",
+      "content": "(1) An electronic money issuer shall not issue electronic money without opening a trust account or a special account in accordance with these Regulations and the Act . (2) Subject to sub regulation (1) an electronic money issuer who is— (a) a non- bank or non- financial institution shall be required to open and maintain a trust account in a bank or financial institution . (b) a bank or financial institution shall be required to open and maintain a special account."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Trust entity",
+      "content": "(1) A licenced electronic money issuer referred to in regulation 27 (2)(a) shall establish a separate legal entity in the form of a trust entity to manage a trust account. (2) Subject to sub-regulation (1) , an electronic money issuer shall, prior to registering a Trust entity submit to the Bank a written application for approval of the proposed Trust entity, by submitting the following information— (a) memorandum and articles of association or constitution of the entity; (b) list of the trustees, their addresses, their nationalities, and whether they are directors or shareholders of the electronic money issuer ; (c) reference letters from two individuals who are not relatives vouching for the good moral character of each of the trustees; (d) a duly filled Fit and Proper Person Form E, for trustees as set out in the Second Schedule to these Regulations; (e) a documented governance plan that include an organisational structure; (f) documented internal control mechanisms, including sound administrative and accounting procedures that highlight the separation of the trust funds from the business of the electronic money issuer ; and (g) such other information that the Bank may require. (3) The Bank shall, within ten days of receipt of the application under sub-regulation (2) , notify the electronic money issuer of the grant or denial of the approval to register the proposed trust entity. (4) Subject to sub regulation (3) the Bank shall provide reasons for not granting the approval and may require the electronic money issuer to resubmit its application after rectifying the deficiency that led to the rejection of the application. (5) Subject to sub regulation (4) , the Bank shall not grant the application, if the electronic money issuer fails to— (a) resubmit its application; or (b) Provide information to rectify the deficiency identified by the Bank."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Special account",
+      "content": "A licenced electronic money issuer referred to in regulation 27 (2) (b) shall— (a) open a special account to maintain funds deposited by non- bank customers who have been issued with electronic money; (b) ensure that the account has records of the customers issued with electronic money; (c) ensure that the special account is protected from risks that may occasion loss to beneficiaries of the funds; and (d) comply with any other requirement as the Bank may require."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Issuance of electronic money",
+      "content": "A licenced electronic money issuer shall not commence to issue electronic money unless the trust entity has opened a trust account as provided in these Regulations."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Interest in funds held in trust account",
+      "content": "(1) Interest accrued in the trust account shall be used for the direct benefit of the electronic money holders as determined by the Bank . (2) Subject to sub regulation (1) the accrued interest and charges shall be separated from the Trust Account by opening an interest and charges account in respect of the trust account balances. (3) Subject to sub regulation (1) the electronic money issuer shall not utilise the interests accrued in the trust account without written approval of the Bank ."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Abandoned property",
+      "content": "An electronic money issuer shall treat balances in the electronic money accounts of its customers as abandoned property as follows— (a) in the case of an electronic money issuer who is a bank or financial institutions it shall comply with the provisions of the Banking and Financial Institutions Act ; (b) in the case of an electronic money issuer who is a non- bank and non- financial institution , shall submit to the Bank the balances in the electronic money account that has been dormant consecutively for a period of five years; (c) The Bank shall treat the abandoned property in accordance with the prevailing laws. Part VI – Risk management and accounting"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Risk management by electronic money issuer",
+      "content": "An electronic money issuer shall— (a) prepare and implement risk mitigation plans to address risks that arise in the issuance of and management of the operations of the electronic money business; (b) comply with the risk management requirements including technical standards issued by the Bank under the Act ; (c) set up safeguard measures to protect the funds from risks that may occasion loss to beneficiaries of the funds, and submit documented policies and procedures in respect thereof to the Bank ; (d) not commingle the trust account funds with any other funds or use it for any other operations; (e) ensure that the board and senior management conduct oversight on the issuance of electronic money in observance to risk management and compliance with these Regulations; and (f) not place more than twenty five per cent of its total trust account funds in a single bank ; unless the total trust account balances are less than one hundred million shillings."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Risk management by trust entity",
+      "content": "A trust entity maintaining the trust account shall— (a) comply with the risk management requirements including technical standards issued by the Bank under the Act ; (b) audit and publish financial statements in respect of the trust account, and submit a copy of the annual audited accounts to the Bank not later than three months after closure of their financial year; (c) submit to the Bank proof of annual audit of the electronic money issuance system; (d) set up safeguard measures to protect the funds from risks that may occasion loss to beneficiaries of the funds, and submit documented policies and procedures in respect thereof to the Bank ; and (e) not commingle the trust account funds with any other funds or use it for any other operations. Part VII – Permissible services"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VII",
+      "section": "34",
+      "title": "Scope of services",
+      "content": "(1) An electronic money issuer shall only provide permissible services provided under this regulation. (2) Subject to sub regulation (1) , an electronic money issuer that is not a bank or financial institution shall— (a) provide payment services within the transactions limits prescribed in these Regulations; (b) provide financial services in partnership with financial institutions; (c) provide any other service as may be prescribed by the Bank . Part VIII – Transaction limits"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VIII",
+      "section": "35",
+      "title": "Transaction limits",
+      "content": "(1) Electronic money issued shall be subject to transaction limits based on categories of electronic money holders that include daily transactions and account balance limits as provided in Form F of the Third Schedule to these Regulations. (2) Subject to sub regulation (1) , the Bank may amend the limits from time to time and issue circulars for reviewed limits. Part IX – Agents"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part IX",
+      "section": "36",
+      "title": "Appointment of agents",
+      "content": "(1) An electronic money issuer may appoint an agent to provide services on its behalf by entering into an agency agreement. (2) Subject to sub regulation (1) , the agency agreement shall— (a) provide for non-exclusive use of an agent; (b) provide for compliance to anti-money laundering and combating financing of terrorism laws; (c) consumer protection mechanisms; and (d) any other requirements that the Bank shall prescribe. (3) For purposes of this regulation an agent is an entity that is contracted by payment systems provider to provide services on behalf of the payment system provider under an agency agreement."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part IX",
+      "section": "37",
+      "title": "Liability for agents’ acts or omissions",
+      "content": "A payment service provider is liable to its customers for the act and omissions of its agents performed within the scope of the agency agreement."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part IX",
+      "section": "38",
+      "title": "Agent recruitment",
+      "content": "(1) An electronic money issuer shall, prior to appointing agents, submit to the Bank documentation on the proposed agents that include— (a) procedure for appointment of an agent including a due diligence plan; (b) copy of the proposed agency agreement based on the agent type and nature of business of the agent; (c) policies for mitigating money laundering and financing of terrorism in compliance to the anti­money laundering laws; (d) risk mitigation plan associated with the agency business; (e) description of the proposed technology to be used by the agent; (f) agent training materials; and (g) any other information the Bank may require. (2) Subject to sub regulation (1) the electronic money issuer shall carry out a due diligence and assessment of the agent’s ability to conduct the agency business. (3) The Bank shall review the documentation on the proposed appointment of agents for regulatory compliance."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part IX",
+      "section": "39",
+      "title": "Type of agent",
+      "content": "(1) Subject to regulation 37 , 38 and 39 an electronic money issuer shall appoint— (a) a retail agent that has a business registration licence, tax identification number, tax clearance certificate and other necessary permits for conducting commercial activities; (b) a wholesale agent that is a registered corporate, with necessary permits for conducting commercial activities; and has capacity, competence and internal controls to perform the agency services that may include— (i) electronic money distribution; (ii) retail agent management; and (iii) any other services approved by the Bank . (2) Subject to sub regulation (1) , an electronic money issuer shall ensure that an agent opens a bank account for the operations of the agency business."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part IX",
+      "section": "40",
+      "title": "Maintenance of agents records",
+      "content": "(1) An electronic money issuer shall maintain and submit to the Bank records of appointed agents that shall include— (a) agents’ and their outlets identity, full addresses including business physical address, global position system coordinates; and (b) a list of suspended or terminated agents with reasons for such suspension or termination. (2) The Bank may develop a public registry of agents and their geographical distribution and place it in its website."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part IX",
+      "section": "41",
+      "title": "Electronic money issuer responsibility",
+      "content": "Subject to the provisions of this Part, an electronic money issuer shall be responsible to— (a) conduct training for the agents and the operations of the agency business including internal controls, accounting, risk management, consumer protection and anti-money laundering and combating financing of terrorism; and (b) conduct effective oversight of the agents and its outlets and take appropriate action in events of breach of the agency agreement. Part X – Submission of returns"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part X",
+      "section": "42",
+      "title": "Submission of returns",
+      "content": "(1) An electronic money issuer shall submit information to the Bank in compliance with the Act and these Regulations. (2) Subject to sub regulation (1) , the electronic money issuer shall submit the information as provided in form G in the Fourth Schedule to these Regulations."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part X",
+      "section": "43",
+      "title": "Data collection",
+      "content": "An electronic money issuer shall maintain a sound management information system that— (a) facilitates efficient collection and processing of statistical information and data; and (b) is capable of providing audit trail for its own use, use by internal and external auditors and the Bank . Part XI – Consumer protection"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part XI",
+      "section": "44",
+      "title": "Display and disclosure of charges and fees",
+      "content": "(1) An electronic money issuer shall display and disclose charges and fees for its services to its customers and any changes thereof. (2) An electronic money issuer shall notify its customers the fees and charges before imposing such fees or charges. (3) The notice to customer shall— (a) be delivered through electronic media and displays in a conspicuous place at the electronic money issuer ’s offices and agents outlets; and (b) not be misleading to customers;"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part XI",
+      "section": "45",
+      "title": "Redress and complaints handling mechanism",
+      "content": "(1) A payment system provider shall establish a consumer redress plan with adequate resources to handle consumer complaints (2) Subject to sub regulation (1) the electronic money issuer shall— (a) record and fil in a complaints register consume complaints received; (b) provide to consumer information on the complaints handling process; (c) address such complaints within twenty one days from receipt of the complaint; (d) inform consumer of their referral rights on unresolved complaints by referring them to the Bank or the Fair Competition Commission or the Tanzania Communication Regulatory Authority as the case may be. Part XII – Sanctions"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part XII",
+      "section": "46",
+      "title": "Offences, fines and penalties",
+      "content": "Any person who contravenes any provision of these Regulations commits an offence and shall be liable to fines and penalties provided for under the Act . Part XIII – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part XIII",
+      "section": "47",
+      "title": "Retention of records",
+      "content": "An electronic money issuer shall obtain records of all transactions conducted in the course of business and keep them for a period of not less than ten years from the date of the transaction."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part XIII",
+      "section": "48",
+      "title": "Compliance with anti-money laundering laws",
+      "content": "An electronic money issuer shall in compliance with the anti-money laundering and combating the financing of terrorism laws and Regulations— (a) employing customer identification procedures; and (b) establishing internal control procedures for identifying and reporting suspicious transactions."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part XIII",
+      "section": "49",
+      "title": "Online monitoring of electronic money",
+      "content": "(1) An electronic money issuer shall provide access to the Bank to its electronic money issuance system to facilitate remote monitoring of the electronic money issuance. (2) A bank or financial institution holding special account or the bank holding a trust account shall provide access to the Bank for the statement of the balances in such accounts."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part XIII",
+      "section": "50",
+      "title": "Unique identifier for electronic money account",
+      "content": "An electronic money issuer shall issue electronic money to its customer’s electronic money account using a unique identifier that is not a phone number and that shall not be assigned to another electronic money account holder."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part XIII",
+      "section": "51",
+      "title": "Concentration risk",
+      "content": "A bank shall not hold trust account deposits that exceed fifty per cent of its core-capital. First Schedule (Regulation 15, 16(6), 19(2)(a)) License fees and capital requirements Licence fee Licence renewal fee Minimum capital Electronic money issuer Two Million Two Million Five Hundred Million Second Schedule Form A (Regulation 4(1)) Form B (Regulation 9(2)) Form C (Regulation 14(1)) Form D (Regulation 20(2)) Form E (Regulation 16(2)(e), 29(2)(d)) Third Schedule Form F (Regulation 35(1)) Fourth Schedule Form G (Regulation 42(2)) Returns The payment system provider shall submit on monthly basis on the volume and values of the following transactions and any other that the Bank shall request by notice: (a) Electronic Money Balances (b) Total Number of Registered Accounts (live in the system) (c) Total Number of Active Accounts (past 90 days transactions) (d) Total Number of Dormant accounts (151 days inactive) (e) Balances in the Dormant Accounts (Unclaimed funds) (f) Total Number of Registered Super Agents (live in the system) (g) Total Number of Active Super Agents (past 30 days transactions) (h) Total Number of Agents (live in the system) (i) Total Number of Active Agents (past 30 days transactions) (j) Total number of dormant agents (151 days inactive) (k) Person to Person payments (l) Person to Business payments (m) Person to Government (n) Business/Government to Person Payments (o) Trust Account Balance Inquiry (p) Trust Account Statements (q) Airtime purchase (r) Bank to E-wallet & E-wallet to bank account (s) Agents cash In transactions (t) Cross border Transactions (u) Remittances transactions (v) Agent Cash transactions (w) Interoperability transactions (x) Trust account and interest balances History of this document 16 October 2015 this version Published in Gazette of the United Republic of Tanzania Commenced Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the National Payment Systems Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Bank",
+      "definition": "ascribed to it in the Bank of Tanzania Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company",
+      "definition": "a company as defined in the Companies Act , in the case of Tanzania Mainland or Companies Decree, in the case of Tanzania Zanzibar",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial institution",
+      "definition": "ascribed to it in the Banking and Financial Institutions Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic money issuer",
+      "definition": "an entity issuing electronic money and may either be a bank or financial institution or a non- bank entity licensed under these Regulations",
+      "source_provision": "s2"
+    },
+    {
+      "term": "electronic money holder",
+      "definition": "a person who has a claim on an electronic money issuer for electronic money issued by the electronic money issuer",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cash-in",
+      "definition": "accepting banknotes or coins and performing electronic process to credit the equivalent value of that monetary value to the customer’s electronic money account",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cash-out",
+      "definition": "giving out banknotes or coins performing electronic process to debit the equivalent value of that monetary value from the customer’s electronic money account. “ minimum capital requirement ” means the minimum amount of financial resources that an electronic money issuer is required to effectively cover the costs and expenses necessary to operate the business. “ Special Account ” means an account opened by a bank or financial institution to deposit funds received from consumers in exchange of electronic money issued at equivalent value by the bank . Part II – Electronic money issuance approval",
+      "source_provision": "s2"
+    }
+  ]
+}

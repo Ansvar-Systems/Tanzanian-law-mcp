@@ -1,0 +1,535 @@
+{
+  "id": "tz-act-gn-2020-270",
+  "type": "statute",
+  "title": "Petroleum (Natural Gas Midstream and Downstream) General Regulations, 2020",
+  "title_en": "Petroleum (Natural Gas Midstream and Downstream) General Regulations, 2020",
+  "short_name": "Petroleum (Natural Gas Mids...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/2020/270/eng@2020-04-17",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Regulations may be cited as the Petroleum (Natural Gas Midstream and Downstream) General Regulations, 2020."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Application",
+      "content": "These Regulations shall govern the conduct of midstream and downstream natural gas activities in Mainland Tanzania."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "In these regulations, unless the context otherwise requires: “ Act ” means the Petroleum Act; [Cap. 392] “ applicable law ” means any principal legislation, treaty, convention, proclamation, regulation, rule, order or bylaw that is customarily treated in the United Republic of Tanzania as having legally binding force and which is relevant to matters pertaining to the regulation of natural gas activities; “ approved person ” means a licensee granted approval for import , transit , or export of natural gas by the Authority ; “ Authority ” means the Energy and Water Utilities Regulatory Authority established under the provisions of the EWURA Act ; [Cap. 414] “ Certifying Authority ” means the Contractors Registration Board (CRB) established under the CRB Act ; [Cap. 235] “ compliance order ” means an order issued by the Authority pursuant to section 39 of the EWURA Act ; [Cap. 414] “ compressed natural gas ” or in its acronym “CNG” means petroleum in the form of a mixture of hydrocarbon gases and vapours, consisting principally of methane (CH4) which have been compressed; “ CNG facility ” means any facility used for compression, transportation and storage of CNG and it includes CNG cylinders, CNG refuelling stations, receiving stations and meters; “ CNG Fuel System ” means a system approved by the CNG Fuel System Certifiers consisting of the following components: (a) CNG cylinders; (b) CNG cylinders fastening devices; (c) manual valves to be installed in cylinders outlets, including their safety systems; (d) high pressure tubing and its fastening device; (e) connector for high pressure tubing; (f) pressure regulator and its fastening device; (g) CNG filling valve and its fastening device; (h) mixer; (i) solenoid valves; (j) fuel selector switch and its electrical connections; (k) pressure gauge; (l) low pressure gas conduit; (m) venting system; and (n) any other component connected to a CNG system “ CNG cylinder ” means a container constructed, inspected and maintained according to the standards issued by the Tanzania Bureau of Standards or such other relevant authority; “ CNG installation workshop ” means workshop approved by Certifying Authority to be technically capable of performing the operations of CNG Fuel System installation, repair, routine maintenance, modification, dismounting or withdrawal of fuel system components. “ CNG filling station ” means premises on which CNG is dispensed for use by end-users; “ CNG Fuel System Certifiers ” means any person responsible for certification of CNG system installation and other fuel system components of CNG-fuelled vehicles. “ CNG Fuel System Inspector ” means any person responsible for inspection of cylinder, valves, pressure relief devices (PRDs) including vent system and other fuel system components of CNG-fuelled vehicles. “ CNG system ” means CNG refuelling station equipment and all components thereto used in the refuelling facility ; “ earthworks ” means— (a) any act of excavating earth, rock, or other material; (b) any act of boring, dredging, jacking, levelling, piling or tunnelling on or under any premises by any mechanical means; or (c) the driving or sinking of any earth rod, casing or tube into the ground; “ export ” means to take, or cause to be taken, out of Mainland Tanzania by any means natural gas produced in Mainland Tanzania; “ facility ” means any facility, system or equipment used for natural gas processing, transportation, distribution, liquefaction, regasification, storage, compression and for connection to end users in respect of which a regulated activity is carried out; “ natural gas leakage ” means a non-expected release of natural gas from a facility or other containment into a living area or any other area and which could create a hazardous situation ; “ natural gas appliance ” means any appliance in which natural gas is consumed as a source of power or heat such as domestic, industrial, or commercial requirements; “ natural gas fitting ” means any fitting including pipe, valve, meter, regulator or any other device for the control, measurement and use of natural gas; “ natural gas installation ” mean spiping, fittings and appliances downstream of the point of supply. “ natural gas installation ” means any installation used to perform particular function in natural gas value chain and includes receiving, processing, transportation, compression, storage, distribution or any other related activity. \" natural gas tightness \" means the freedom from leak when a gas pipeline network, gas installation or gas fitting is tested at the appropriate test pressure; “ hazardous situation ” means situation involving natural gas that— (a) endangers the safety or health of a person, or the safety of a person’s property; or (b) creates an eminent risk of significant environmental harm; “ import ” means to bring or cause to be brought into Mainland Tanzania by any means, natural gas from any place outside Mainland Tanzania; “ infrastructure integrity management plan ” means the annual plan to be prepared by the licensee and approved by the Authority which governs the integrity, operations and maintenance of infrastructure; “ inspector ” means an officer of the Authority or an agent appointed by the Authority to perform the functions of inspection as required under the Act and applicable law ; “ natural gas meter data ” means all data collected and transferred from a meter installation, including the meter readings and CNG throughput volume; “ standard ” means any specification or standards in relation to natural gas applied by the Authority and as approved by the Tanzania Bureau of Standards pursuant to the Standards Act , or any other standards that are widely used for the best international petroleum industry practices; [Cap. 130] “ transit ” means the activity by which natural gas is brought into Mainland Tanzania by any means solely for the purpose of being taken out of Mainland Tanzania by the same or any other means; “ vessel ” has the meaning ascribed to it under the Merchant Shipping Act ; and [Cap. 165] “ WMA ” means the Weights and Measures Agency established under the Weights and Measures Act . [Cap. 340] Part II – General principles in relation to midstream and downstream natural gas operations"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Function of the Authority",
+      "content": "(1) In additional to the functions of the Authority conferred under the Act , the Authority shall, in relation to midstream and downstream natural gas operations, have the following functions: (a) to protect the interests of consumers with regard to the— (i) prices and other terms for the supply of natural gas; (ii) reliability, availability and continuity of the supply of natural gas; and (iii) quality of natural gas supply services provided. (b) to protect the public from dangers arising from the processing, transportation, storage, conveyance, shipping, supply or use of natural gas; (c) to promote efficient use of natural gas by consumers; (d) to promote fair competition in the supply of natural gas; (e) to perform economic, technical and safety regulatory functions in respect to the natural gas; (f) to advise the Government on all matters relating to importation, exportation, processing, storage, transportation, conveyance, shipping, supply or use of gas; and (g) to do such other things as required under these Regulations and to take such steps as necessary or expedient for the effective discharge of its functions and duties under the Act and these Regulations. (2) In performing its functions and exercising its powers, the Authority shall— (a) use its reasonable endeavours to apply principles and methodologies to natural gas licensees who conduct similar activities within a particular sector of the natural gas industry in a non-discriminatory manner; and (b) act in a reasonable manner in all circumstances."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Safety requirements in relation to natural gas",
+      "content": "(1) A person shall not carry out any work in such a manner that allows natural gas to escape unless precautions are taken to prevent any such escape from being a danger to a person or property. (2) A person who intends to connect a natural gas equipment, installation or fitting to a source of natural gas shall ensure that:— (a) every outlet is sealed with the appropriate natural gas fitting ; and (b) the natural gas installation is tested for natural gas tightness . (3) Subject to subregulation (2) , a person who carries out any work in relation to a natural gas fitting which might affect the natural gas tightness , shall immediately thereafter test the system for natural gas tightness . (4) Any person who disconnects a natural gas fitting shall, with the appropriate fitting, seal off every outlet of every pipe to which it is connected. (5) A person who carries out work in relation to a natural gas fitting which involves exposing any part of the natural gas installation which contains or contained flammable gas shall not smoke or use any source of ignition unless the natural gas installation has been purged so as to remove all such gas or has otherwise been made safe from risk of fire or explosion. (6) A person who searches for an escape of gas from a natural gas fitting shall not use any source of ignition unless the source of ignition is incorporated as part of an instrument designed for the detection of natural gas. (7) A person shall not use any flame or carry out any hot work in the vicinity where natural gas is known to be leaking. (8) Any person who contravenes this regulation commits an offence and shall be liable on conviction to a fine of not less than twenty million shillings or to imprisonment for a term of not less than five years or to both. (9) For the purpose of this regulation, “hot work” means any work performed in hazardous environment where there are sources of ignition including welding, soldering, burning."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Licensing of natural gas service worker",
+      "content": "(1) A person shall not:— (a) carry out or offer or undertake to carry out any natural gas service work; or (b) advertise or otherwise hold himself out or conduct himself in any way or by any means as a gas service worker or as a person who carries out or who is qualified by any written law to carry out gas service work; unless he is registered and holds a valid gas service worker license issued by the Authority in respect of the specific class of work being carried out or to be carried out. [Cap.253] (2) Any person who contravenes subregulation (1) commits an offence, and on conviction shall be liable to a fine not less than twenty million shillings or to imprisonment for a term not less than five years or to both."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Application for gas service worker licence",
+      "content": "(1) Any person who intends to be a licensed gas service provider or worker shall apply to the Authority . (2) An application under subregulation (1) accompanied by the prescribed fee and shall be made through a procedure, and in such manner prescribed in the EWURA Act. [Cap. 414] (3) The Authority may, in its discretion, license a gas service worker either unconditionally or subject to such conditions as it thinks fit, or may refuse to license him. (5) The Authority may license gas service workers under different classes for different types of gas service work. [Please note: Numbering as in original.]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Removal of obstruction over existing gas main, etc.",
+      "content": "(1) A person shall not build, erect or construct anything over any existing gas transmission pipeline, gas main or gas service pipe owned by, or under the management or control of, a licensee without the approval of the licensee and consent of the Authority . (2) Any person who contravenes subregulation (1) commits an offence, and on conviction shall be liable to a fine not less than twenty million shillings or to imprisonment for a term not less than five years or to both."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Carrying out of earthworks within vicinity of gas infrastructure",
+      "content": "(1) Subject to this regulation, a person, other than a licensee, shall not commence or carry out, or cause or permit the commencement or carrying out of, any earthworks within the vicinity of any gas infrastructure or gas pipe in a gas pipeline network owned by, or under the management or control of, the licensee unless the person— (a) has given to the licensee not less than seven days’ notice in writing of the type, extent and expected impact of the earthworks to be carried out, and the date on which it is proposed to commence the earthworks ; (b) has obtained from the licensee the necessary information on the location of the gas infrastructure or gas pipe; and (c) has informed or consulted the licensee on the steps to be taken to prevent the gas plant or gas pipe from being damaged while the earthworks are being carried out. (2) A copy of the notice under subregulation (1) shall be served to the Authority by both, the person who will be carrying out the earthworks and the licensee. (3) The Authority may, if it thinks fit in any particular case, vary the period for which a notice under subregulation (1)(a) is to be given to a licensee. (4) It shall be the duty of a person who commences or carries out, or causes or permits the commencement or carrying out of, any earthworks referred to in subregulation (1) — (a) to comply with all reasonable requirements of the gas transporter for the prevention of damage to the gas plant or gas pipe; (b) to ensure that reasonable precautions are taken when such earthworks are being carried out to prevent any damage to the gas plant or gas pipe; and (c) to allow the gas transporter reasonable access to the work site for the purpose of inspecting or taking any necessary measures to protect the gas plant or gas pipe. (5) The licensee to whom a notice under subregulation (1)(a) above has been given shall— (a) promptly inform the person giving the notice of the location of the gas plant or gas pipe, and to provide the person with such other information as may be necessary to enable him to ascertain the exact location of the gas plant or gas pipe; (b) advise the person on the precautions to be taken to prevent damage to the gas plant or gas pipe; and (c) take all such measures at the work site as may be reasonable and necessary for the protection of the gas plant or gas pipe and, in so doing, the gas transporter shall have regard to the potential risks and dangers that can arise from any damage to the gas plant or gas pipe. (6) Nothing in this regulation shall prohibit a person from commencing or carrying out, or causing or permitting the commencement or carrying out of, any earthworks where there are reasonable causes to believe that it is necessary to do so in the interest of public or private safety. (7) Subject to subregulation (6) , as soon as practicable, but not more than twenty hours after the earthworks have been commenced or carried out, or caused or permitted the commencement or carrying out of any earthworks, a person shall give notice, in writing, to the licensee and Authority, stating the location, nature and extent of those earthworks. (8) Any person who contravenes subregulations (1) , (2) , (4) or (7) commits an offence and shall be liable on conviction to a fine not less than twenty million shillings or to imprisonment for a term not less than five years or to both."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Savings of way leaves or easements",
+      "content": "Nothing in this Part shall— (a) affect the right of a licensee to enter into way leave agreement, or obtain a grant of an easement with or from the owner or occupier of any land for the purpose of laying, placing, carrying or erecting any gas pipeline or gas pipeline network or gas plant; (b) affect any such way leave agreement or easement subsisting immediately before the date of commencement of these Regulations; or (c) affect the right of a licensee to negotiate the use of land or facilities belonging to the State or any other person."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Damage to gas infrastructure",
+      "content": "(1) A person shall not, wilfully or recklessly alter, remove, destroy or damage any gas infrastructure owned or operated by, or under the management or control of, a licensee, or hinder or prevent the gas infrastructure from being used, managed, controlled or operated in the manner in which it is intended to be used, managed, controlled or operated. (2) Any person who contravenes subregulation (1) , commits an offence and upon conviction shall be liable, to a fine of not less than twenty million shillings or to imprisonment for a term of not less than two years but not more than five years or to both. Part III – General licencing conditions"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "National Oil Company consent",
+      "content": "(1) Pursuant to the Act , the National Oil Company shall have exclusive rights to undertake natural gas midstream and downstream value chain regulated activity. (2) Subject to the National Oil Company’s exclusive right referred to in subregulation (1) , the National Oil Company may allow other person to undertake midstream and downstream regulated activity. (3) Pursuant to subregulation (2) , any person intending to carry out regulated activity under the Act shall apply for a consent to the National Oil Company. (4) The application under subregulation (3) shall be in writing and contain the following: (a) name, address and nationality of the applicant; (b) type and business location to which the regulated activity is intended to be undertaken; (c) description of the project outlining type of a regulated activity, geographical location, location conditions, lifetime of the project and major risks; (d) proof of financial and technical capacity to undertake such activity; and (e) any other particulars National Oil Company may require. (5) A copy of application shall be submitted to the Authority by the applicant. (6) Within ninety days from the date of receiving the application, the National Oil Company shall issue a decision, giving reasons, whether to grant or refuse consent. (7) Subject to sub regulation (4) , the National Oil Company in granting or refusing the application shall also consider: (a) relevant policy, law, regulations and guidelines; and (b) public interest. (8) A decision under subregulation (6) shall be submitted to the applicant and a copy to the Authority. [Cap. 392]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Application through competitive tendering",
+      "content": "Notwithstanding regulation 12 , the National Oil Company may through competitive tendering, invite interested person to conduct regulated activity."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Licensing procedure",
+      "content": "Upon receipt of consent from the National Oil Company, a person who intends to conduct a regulated activity shall apply to the Authority for a licence in accordance with the Rules issued in accordance with the Act ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Conditions of licences",
+      "content": "Without prejudice to the provisions of the Act , a licence may include terms or conditions— (a) restricting the activities which the licensee is permitted to carry out; (b) requiring the licensee to furnish specified information in such manner and at such times as the Authority may require; (c) requiring the licensee to comply with any direction, determination, order or decision of the Authority as to such matters specified in its licence; (d) requiring the licensee to serve the Authority with the reports as specified by the Authority ; (e) requiring a licensee to have a place of business in Mainland Tanzania; and (f) Any other condition as that Authority may consider necessary for carrying out the regulated activity."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Conditions in relation to transportation licence",
+      "content": "Without prejudice to regulation 9 , a transportation licence may include conditions: (a) requiring the licensee to enter into an arrangement with any person for— (i) the conveyance of gas through a gas pipeline, or any other means including mini LNG, or gas pipeline network owned by, or under the management or control of another licensee; (ii) provide access to other users (third party access); and (iii) such other purposes as may be specified in the licence, on such terms as may be approved by the Authority ; (b) requiring the licensee to have in place procedures to be followed in the event of a public emergency and requiring it to maintain a national gas emergency service for the gas supply system; (c) requiring the licensee to interconnect one or more gas pipelines or gas pipeline networks or to convert a gas pipeline network to allow for the conveyance of natural gas through that gas pipeline network; (d) pertaining to the prices to be charged by the licensee for use of a gas pipeline or gas pipeline network owned by, or under the management or control of another licensee and the methods by which such charges are to be determined; and"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Conditions in relation to distribution licence",
+      "content": "Without prejudice to the generality of regulation 9 , a distribution licence may include conditions— (a) requiring the licensee to ensure safe, reliable, affordable and sufficient supply of natural gas to end users; (b) requiring the licensee to secure such rights for the conveyance of gas through a gas pipeline or any other means including mini LNG or gas pipeline network owned by, or under the management or control of another licensee as are necessary for the purposes of complying with obligations owed by the natural gas supplier to consumers connected to such gas pipeline or gas pipeline network; (c) requiring the licensee to act as a supplier in the event of the failure or default of another gas supplier; and (d) pertaining to the prices to be charged by the licensee and methods by which such charges are determined. Part IV – Regulations in relation to compressed natural gas"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Standards",
+      "content": "A CNG facility manufactured locally or imported and used, sold or offered for sale in Mainland Tanzania shall comply with standards in accordance with the laws of the United Republic of Tanzania."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Certification",
+      "content": "(1) All CNG facilities shall be installed, repaired, routinely maintained, modified, dismounted or withdrawn by part or all CNG fuel system components by CNG installation workshop approved by the Certifying Authority . (2) CNG facility shall be inspected prior to use, inspected after use, tested, calibrated, certified and labelled after installation, modification, dismounting or withdrawal of part or all CNG fuel system components by the CNG Fuel System Certifiers and CNG Fuel System Inspector (CNG-FSI); (3) Any person who contravenes sub regulation (1) and (2) shall be liable to a fine of not less than ten million Shillings or to imprisonment of not less than two years or both. (4) The vehicle installed with CNG fuel system and certified with CNG Fuel System Certifiers shall be insured in accordance with applicable law . (5) Upon certification, the owner of the vehicle installed with CNG fuel system shall notify the authority responsible for motor vehicle registration. (6) The requirement of the foregoing provisions do not exempt a person from complying with other written laws."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Maintenance of CNG register",
+      "content": "The Authority shall develop and maintain registry that shall be updated from time to time— (a) indicating information including, CNG cylinder manufacturer number, vehicle registration number fitted to, inspection, registered CNG fuel system supplier, certification and expiration date; and (b) indicating a list of valid CNG Fuel System Certifiers (CNG-FSC) and approved CNG installation workshops."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "CNG condition and repair",
+      "content": "(1) Any CNG facility manufactured locally or imported and used, sold or offered for sale in Mainland Tanzania shall be kept and maintained in good condition in accordance with applicable law , relevant standards and manufacturer’s specifications. (2) Any person who alters, repairs or cause to be altered or repaired any CNG cylinder or meter shall not use, sale or offer for sale such CNG cylinder or meter unless such CNG cylinder or meter has been inspected, calibrated, tested, certified and labelled by the CNG Fuel System Certifiers and WMA as the case may be. (3) Any person who contravenes this regulation commits an offence an upon conviction shall be liable to a fine of not less than twenty million shillings or to an imprisonment for a term of not less than two years but not exceeding five years or to both."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Construction approval",
+      "content": "(1) A person shall not construct a CNG facility without a construction approval from the Authority as prescribed under the Rules. (2) Any person who contravenes this regulation commits an offence and shall, upon conviction, be liable to a fine of not less than twenty million Shillings or imprisonment for a term of not less than three years or to both."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Application for licence",
+      "content": "(1) A person shall not own or operate a CNG facility without a licence from the Authority as prescribed under the Rules. (2) Any person who contravenes this regulation commits an offence and upon conviction shall be liable to a fine of not less than twenty million shillings or to an imprisonment of not less than two years but not more than five years or to both."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Installation of meters",
+      "content": "(1) All CNG systems shall be fitted with appropriate metering systems allowing for CNG supplied to be accurately metered, and no person shall supply CNG to another person without a meter that complies with applicable standards and applicable law . (2) Without prejudice to subregulation (1) , such meter shall be submitted to periodic re-testing in accordance with best international petroleum industry practices and relevant standards, and in any case no less frequently than every three years. (3) A person shall not tamper with, alter, affect or attempt to affect the accuracy of a meter referred to under subregulation (1) . (4) Where any licensee identifies evidence, which indicates that a meter has been tampered with or altered in any way, he shall notify the Authority without delay. (5) Any person who contravenes this regulation commits an offence and upon conviction shall be liable to a fine of not less than ten million Shillings or to imprisonment of not less than two years or to both."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Right to information",
+      "content": "The Authority shall have the right to request copies of reports and certificates issued by the relevant authorities in respect of such meters and, where the Authority makes such request, the licensee shall promptly provide these to the Authority ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Meter data",
+      "content": "(1) A licensee shall keep and maintain meter data, and shall submit such meter data to the National Petroleum and Gas Information System (NPGIS), in accordance with applicable law concerning keeping and maintaining reports, records and returns related to its regulated activity. (2) Any person who contravenes this regulation commits an offence and upon conviction shall be liable to a fine of not less than ten million shillings or to imprisonment for a term of not less than two years or to both. Part V – Import, transit and export of natural gas"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Conditions for import , export and transit",
+      "content": "(1) Any gas infrastructure used for import , transit or export shall comply with all applicable laws and standards. (2) The quality of natural gas imported or exported shall comply with all applicable laws or best international petroleum industry practices."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Requirement for approval",
+      "content": "(1) A licensee shall not import , transit or export natural gas without an approval from the Authority issued in accordance with these Regulations. (2) Any person who contravenes this regulation commits an offence and on conviction shall be liable to a fine of not less than ten million shillings or to imprisonment for a term not less than two years or to both."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Application for approval",
+      "content": "(1) Any person who intends to apply for an approval for import , transit or export shall have a valid licence for the respective regulated activity granted pursuant to provisions of the Act . (2) The application under this regulation shall be in prescribed form and accompanied by the following: (a) proof of financial capability including financing plan to carry out the activity; (b) proof of technical capability to carry out the activity; (c) details of the shareholders of the applicant; (d) certified copy of tax identification number certificate; (e) certified copy of tax clearance certificate; (f) certified copy of certificate of registration for value added tax; (g) a local content plan in accordance with applicable law ; (h) a duly signed integrity pledge in accordance with applicable law ; (i) an environmental and social impact assessment certificate or environment audit certificate as the case may be; (j) A business plan describing the scope of the activity; (k) the anticipated use and location of the natural gas within Mainland Tanzania; (l) details of the source(s) and destination(s) of natural gas for import , transit or export , as the case may be; (m) details of the means by which such natural gas shall be imported, transited or exported, as the case may be; (n) details of volumes by which such natural gas shall be imported, transited or exported, as the case may be; (o) a list and description of facilities proposed to be used for the activity; and (p) any other document and information as may be required by the Authority . (3) The application under subregulation (2) shall be accompanied by a non-refundable application fee prescribed by the Authority in the Rules."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Criteria for approval",
+      "content": "The Authority shall, in making a decision to grant or refuse an approval under regulation 29 , take into consideration the following: (a) risk analysis of the activity; (b) contribution of the activity to meet potential demand and future needs of the natural gas; (c) the opinion from other relevant authorities with which the Authority consults in relation to the application for approval; and (d) public interests that may be affected by the activity."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Consultation",
+      "content": "Before granting or refusing to grant the approval, the Authority shall consult the Minister, National Oil Company, Petroleum Upstream Regulatory Authority and any other relevant authorities."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Grant or refusal of application",
+      "content": "(1) The Authority shall, upon consideration of the application for import , transit or export , grant or refuse to grant the approval. (2) The decision under this regulation shall be communicated to the applicant in writing. (3) The approval granted under subregulation (1) shall not be transferable. (4) Unless otherwise withdrawn, revoked, suspended or amended, every approval granted under these Regulations, shall be granted for a specified time, facility and a defined capacity. (5) Where the Authority has issued an approval and the activity has not commenced within six months from the date on which an approval was granted or upon expiry of an extended period allowed by the Authority , the approval shall cease to have effect."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Revocation and suspension",
+      "content": "(1) The Authority may by notice in writing, withdraw, revoke, suspend or amend an approval if any term or condition for approval has not been complied with. (2) Notwithstanding subregulation (1) , the Authority may withdraw, revoke, suspend or amend an approval— (a) Where the approved person — (i) knowingly or recklessly give or permit to be given information which is false or misleading; (ii) persistently fails to comply with the approved local content plans; (iii) persistently violates the tariffs, rates and charges established by the Authority ; (iv) persistently fails or refuses to submit information to the NPGIS; (v) fails to comply with the applicable health, safety, service, quality or environmental standards; or (vi) is convicted or found guilty of an offence relating to corruption, money laundering, economic crimes or tax evasion. (b) upon revocation of the licence in relation to the respective regulated activity under these regulations; (c) upon violation of any provisions of the Act affecting the conduct of the respective regulated activity under these regulations. (3) Where the Authority intends to withdrawal, revoke, suspend or amend the approval, it shall, at least within twenty-one-days before the date of its intention, notify the holder of the approval to provide reasons as to why such approval should not be withdrawn, revoked, suspended or amended. (4) The Authority may, by notice in writing, reinstate an approval that was withdrawn, revoked, suspended or amended if it is satisfied that the reasons for the withdrawal, revocation, suspension or amendment do no longer exist."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Power of the Authority to confiscate",
+      "content": "Subject to the Section 131 of the Act , the Authority may confiscate, deal with or dispose of the relevant natural gas imported or in transit contrary to the provision of the Act ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Declaration",
+      "content": "(1) Not later than thirty days prior to the day of import , transit or export of natural gas, the approved person shall provide to the Authority details of any natural gas which he intends to import , transit or export . (2) The declaration referred to in subregulation (1) , shall be submitted to the Authority through the NPGIS, and shall include the following information: (a) the source or sources of the natural gas; (b) the quantity of natural gas to be imported, exported or transited; (c) the specification and quality of the natural gas; (d) the value of the natural gas; (e) the means and form in which the natural gas will be imported, transited or exported; (f) the identity of the owner, transporter, seller and purchaser (as applicable) of the natural gas; (g) the entry point or exit point of the natural gas; (h) loading or offloading of the natural gas; (i) details of the contract or arrangements under which the imported, transited or exported natural gas has been or will be procured; (j) the anticipated use and destination of the natural gas; and (k) any other information as the Authority may request. (3) Following the import , transit or export of natural gas, the approved person shall, within seven days of such import , transit or export , provide actual verification of details as stipulated under subregulation 2 . Part VI – Records, reports and other information"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "General obligation as to records",
+      "content": "Without prejudice to section 124 of the Act , a licensee shall at all times, keep, maintain and make available for inspection or audit, complete and accurate books, records, reports, accounts, returns, operation and maintenance, and any other information or data related to the regulated activity as prescribed in the Rules by the Authority ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Power to obtain information",
+      "content": "(1) The Authority may, by written notice, require a licensee or any person to furnish, all books, records, reports, accounts, returns, operation and maintenance, and any other information or data, documents relating to all such matters as may reasonably be required by the Authority to carry out the functions or duties assigned to the Authority by or under the Act or these Regulations, or any other applicable law which are within the knowledge of that person or in his custody or under his control. (2) The power to require a person to furnish any information or document under subregulation (1) includes the power— (a) to require that person, or any person who is or was an officer or employee of his, to provide an explanation of the information or document; (b) where the information or document is not furnished, to require that person to state, to the best of his knowledge and belief, where it is; and (c) where the information is recorded otherwise than in legible form, to require the information to be made available to the Authority in legible form. (3) Any person who fails, without reasonable excuse, to do anything required of him by notice under subregulation (1) commits an offence."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Form of records, reports and accounts",
+      "content": "(1) The Authority may, by notice in writing, give the licensee or any other person directions or instructions setting out the form of any record, report or account required by these Regulations. (2) All books, records, reports and any information required to be kept or maintained under the Act , these Regulations or any applicable law shall be kept at a place of business located within Mainland Tanzania."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VI",
+      "section": "39",
+      "title": "Duration for keeping records, reports and accounts",
+      "content": "All books, records, reports, accounts or returns and any other information, data or documents which is required to be kept or maintained under the Act , these Regulations or any applicable law , shall be kept or maintained during the validity of the licence or approval, and for a period of five years after the expiration, revocation or cancellation of the licence or approval or further period as may be prescribed by the applicable law ."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Obligation against dealing in records and reports",
+      "content": "(1) A person, having been required to keep, maintain or produce books, records, reports, accounts or returns and any other information, data or documents in relation to a regulated activity under the Act , these Regulations or any applicable laws, shall not— (a) intentionally refuse or fail to keep or maintain such books, records, reports, accounts, returns or document; (b) intentionally or recklessly alter, suppress, destroy or otherwise dispose of it, falsify it or conceal it; (c) cause or permit its destruction, disposal, falsification or concealment; or (d) delay, withhold, publish or otherwise disclose any information in contravention of any provision of the Act or these Regulations; (2) A person shall not, intentionally or recklessly, make or furnish, any books, records, reports, accounts, returns or documents or other information that are false or misleading to the Authority ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Confidentiality",
+      "content": "Except in the performance of his functions or duties or when required to do so by any court or under any written law, no person who is or has been a member, an officer, an employee or an agent of the Authority or a member of a committee of the Authority shall disclose any information relating to the affairs of the Authority , licensee or any other person which has been obtained by him in the performance of his functions or duties under the Act , these regulations or any applicable law ."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Offences and penalty",
+      "content": "Any person who contravenes the provisions under this part commits an offence and upon conviction shall be liable, to a fine of not less than ten million shillings or to imprisonment for a term of not less than two years or to both. Part VII – Monitoring, inspection and audit"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "Monitoring of infrastructure by the licensee",
+      "content": "(1) A licensee or the licensee representative shall monitor all gas infrastructures that is owned or operated by, or under the management or control of the licensee or any other person in accordance with the laws of Tanzania. (2) For purpose of subregulation (1) , within one hundred and twenty days following the grant of licence, or any other period as may be extended by the Authority, a licensee shall prepare and submit an annual infrastructure integrity management plan to the Authority. (3) For each subsequent year, a licensee shall, within ninety days before commencement of each year, submit a reviewed and updated infrastructure integrity management plan . (4) A licensee or the licensee representative shall conduct gas infrastructure tests as may be prescribed by the Authority from time to time. (5) Details of monitoring and testing results under subregulation (1) and (4) shall be accurately kept and maintained."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Monitoring of infrastructure by the Authority",
+      "content": "(1) The Authority shall take any steps as it deems appropriate to ensure that a licensee or the licensee representative who owns, operate, control, or manage gas infrastructure complies with the provisions of the Act or these Regulations in relation to monitoring of gas infrastructure. (2) Notwithstanding subregulation (1) , the Authority shall: (a) monitor the implementation of infrastructure integrity management plan ; (b) review reports submitted by licensee or the licensee representative in accordance with regulation 37 of these Regulations; (c) undertake or cause to be undertaken specific tests, audits or investigations and submit reports to the Authority ; or (d) require the licensee or the licensee representative to submit any further information which may be necessary."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VII",
+      "section": "45",
+      "title": "Audit of infrastructure monitoring activity",
+      "content": "(1) The Authority may issue a fourteen day’s written notice informing the licensee of an audit to be conducted on the infrastructure monitoring activity undertaken by licensee accordance with subregulation (2) . (2) An audit contemplated by a notice given under this regulation shall be conducted by the Authority or any other person appointed by the Authority and at such time as the Authority may prescribe. (3) A licensee to whom a notice is given under subregulation (1) shall: (a) make available to the auditor for inspection and copying any records required by the auditor for the purposes of the audit; (b) make every part of the infrastructure that is in the custody and control of the licensee available for inspection by the auditor; (c) make available for interviewing by the auditor any personnel having responsibility for monitoring infrastructure or for preparing any records in respect of the same; and (d) ensure the co-operation of its employees and other personnel with the conduct of the audit; (4) On completion of the audit exercise, the Authority : (a) shall provide a copy of the audit report to a licensee; (b) shall make the report available for public inspection during normal business hours at the Authority ’s office and website; and (c) may order a licensee to take any corrective action to remedy any case of non-compliance noted in the report."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VII",
+      "section": "46",
+      "title": "Inspection and acces to information",
+      "content": "(1) The Authority shall have the right of access to inspect infrastructure and associated documents at any time with or without notice in any building or premises or gas infrastructure or any other place where the Authority has reason to believe that any information or document in respect of which it has given the notice may be found, and seize or take extracts or copies of any such information or document. (2) The licensee subjected to inspection shall provide assistance to the Authority or any other person appointed by the Authority as may be required in the course of inspection."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VII",
+      "section": "47",
+      "title": "Powers of the Authority",
+      "content": "(1) Without prejudice to the powers conferred by the Act , where any inspection or investigation carried out under these Regulations determines that a licensee fails to comply with requirement of the Act , these Regulations, a condition of a licence, or any applicable laws, the Authority shall have the power to: (a) suspend whole or part of operation of the regulated activity; or (b) impose penalties and fines; and (c) appoint an administrator. (2) The Authority may, while discharging its duties under subregulation (1) , seek the assistance of any law enforcement organs. (3) Any and all costs incurred by the Authority in discharging its duties under subregulation (1) are to be reimbursed in full by the licensee responsible for the infrastructure in question. (4) During an inspection, an officer or representative of the Authority shall be required to do the following: (a) identify himself to a licensee with an identity card issued by the Authority ; (b) explain to a licensee the purpose of the inspection; (c) conduct himself with fairness, objectivity and integrity; (d) not engage in any form of discrimination, bias or harassment; (e) refrain from taking part in the inspection where they have or may appear to have conflict of interest; (f) carry out the inspection in a professional manner; and (g) not use force or abusive, threatening and insulting language to a licensee. (5) A person aggrieved by an act of the officer or representative of the Authority during an inspection may report the matter in writing to the Authority and the Authority shall take such steps as it deems appropriate as soon as reasonably practicable."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VII",
+      "section": "48",
+      "title": "Investigation",
+      "content": "(1) The Authority may on its own motion or in response to a complaint lodged by a third party, initiate an investigation of the construction, use, maintenance, or monitoring of licensed activity to ensure compliance with the Act , these Regulations, condition of a licence, or any applicable law . (2) Where upon investigation the Authority concludes that any licensed activity is not compliant with, or a licensee has not complied with, any requirement of the Act , these Regulations, condition of a licence, or any applicable law , the Authority may issue a compliance order or penalty pursuant to the Act and these Regulations."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VII",
+      "section": "49",
+      "title": "Report of investigation",
+      "content": "(1) Following the completion of an investigation under this part, the Authority shall prepare a report setting out the findings of the investigation and shall include all cases of non-compliance that have been noted. (2) A copy of the report prepared under subregulation (1) shall be provided to the licensee and a copy of the report shall be made available for public inspection during normal business hours at the Authority’s office."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VII",
+      "section": "50",
+      "title": "Impersonation",
+      "content": "Any person who seeks to obtain entry to any place where regulated activity is carried out by a licensee or any other person under the Act or these Regulations, by falsely pretending to be an employee of the Authority or the licensee commits an offence."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VII",
+      "section": "51",
+      "title": "Remedial measures",
+      "content": "Upon completion of inspection, audit or investigation, the Authority may:— (a) issue a compliance order ; (b) issue an order to restrict the conduct of a regulated activity; (c) issue a warning; (d) order a licensee or licensee representative to remedy any situation; (e) issue a notice for general or partial suspension of operations; (f) shut down the operations; (g) take any other action as may be necessary to ensure compliance of the provisions of the Act , these Regulations or any applicable law . Part VIII – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VIII",
+      "section": "52",
+      "title": "Prohibited acts against inspectors",
+      "content": "(1) A licensee shall not: (a) hinder or obstruct the Authority in the exercise of any of the powers conferred upon it under these Regulations; (b) use abusive, threatening or insulting language to an employee, inspector or officer of the Authority ; (c) deny or fail to comply with a requirement, directive or notice of the Authority ; and (d) when required by the Authority to answer a question, deny or fail to answer such question to the best of his knowledge, information and belief. (2) Any person who contravenes the provision of subregulation (1) of this Regulation commits an offence and shall be liable, on conviction, to a fine of ten million shillings or to imprisonment for a term not less than two (2) years or to both."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VIII",
+      "section": "53",
+      "title": "Protection of authorised officers from liability",
+      "content": "Any authorised officer or a person acting on the directions of the Minister or the Authority shall not be held personally liable for any act or omission done or omitted to be done in good faith during the implementing the Act , these Regulations and any other applicable law ."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VIII",
+      "section": "54",
+      "title": "General penalty",
+      "content": "Any person who commits an offence for which no specific penalty is prescribed in these regulations shall be liable on conviction to a fine not less than ten million shillings or to imprisonment for a term not less than two years or to both."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VIII",
+      "section": "55",
+      "title": "Compounding of offences",
+      "content": "(1) The Authority may, where it is satisfied that a person has committed an offence under these Regulations, compound the offence by accepting from such person a sum of money not exceeding one hundred million shillings. (2) The powers conferred under subregulation (1) , shall be exercised when a person admits that he has committed the offence under these Regulations. (3) Subject to the provisions of subregulation (5) , where proceedings are brought against a person for an offence under these Regulations, it shall be a good defence if that person proves that the offence with which he is charged has been earlier compounded. (4) Any sum of money received under these Regulations shall be dealt with as if the sum of money were a fine imposed by the court of law for the offence. (5) Where an offence is compounded under the provisions of these Regulations, the court may make an order under Regulation 55 , as if the person concerned had been convicted by the Court for that offence. (6) The order shall not be made under subregulation (5) unless the person concerned had first had an opportunity of showing cause against the making of the order. History of this document 17 April 2020 this version Published in Gazette of the United Republic of Tanzania 16 Commenced 30 March 2020 Assented to Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Petroleum Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "applicable law",
+      "definition": "any principal legislation, treaty, convention, proclamation, regulation, rule, order or bylaw that is customarily treated in the United Republic of Tanzania as having legally binding force and which is relevant to matters pertaining to the regulation of natural gas activities",
+      "source_provision": "s3"
+    },
+    {
+      "term": "approved person",
+      "definition": "a licensee granted approval for import , transit , or export of natural gas by the Authority",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Energy and Water Utilities Regulatory Authority established under the provisions of the EWURA Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Certifying Authority",
+      "definition": "the Contractors Registration Board (CRB) established under the CRB Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "compliance order",
+      "definition": "an order issued by the Authority pursuant to section 39 of the EWURA Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "CNG",
+      "definition": "petroleum in the form of a mixture of hydrocarbon gases and vapours, consisting principally of methane (CH4) which have been compressed",
+      "source_provision": "s3"
+    },
+    {
+      "term": "CNG facility",
+      "definition": "any facility used for compression, transportation and storage of CNG and it includes CNG cylinders, CNG refuelling stations, receiving stations and meters",
+      "source_provision": "s3"
+    },
+    {
+      "term": "CNG Fuel System",
+      "definition": "a system approved by the CNG Fuel System Certifiers consisting of the following components: (a) CNG cylinders",
+      "source_provision": "s3"
+    },
+    {
+      "term": "CNG cylinder",
+      "definition": "a container constructed, inspected and maintained according to the standards issued by the Tanzania Bureau of Standards or such other relevant authority",
+      "source_provision": "s3"
+    },
+    {
+      "term": "CNG installation workshop",
+      "definition": "workshop approved by Certifying Authority to be technically capable of performing the operations of CNG Fuel System installation, repair, routine maintenance, modification, dismounting or withdrawal of fuel system components. “ CNG filling station ” means premises on which CNG is dispensed for use by end-users",
+      "source_provision": "s3"
+    },
+    {
+      "term": "CNG Fuel System Certifiers",
+      "definition": "any person responsible for certification of CNG system installation and other fuel system components of CNG-fuelled vehicles. “ CNG Fuel System Inspector ” means any person responsible for inspection of cylinder, valves, pressure relief devices (PRDs) including vent system and other fuel system components of CNG-fuelled vehicles. “ CNG system ” means CNG refuelling station equipment and all components thereto used in the refuelling facility",
+      "source_provision": "s3"
+    },
+    {
+      "term": "export",
+      "definition": "to take, or cause to be taken, out of Mainland Tanzania by any means natural gas produced in Mainland Tanzania",
+      "source_provision": "s3"
+    },
+    {
+      "term": "facility",
+      "definition": "any facility, system or equipment used for natural gas processing, transportation, distribution, liquefaction, regasification, storage, compression and for connection to end users in respect of which a regulated activity is carried out",
+      "source_provision": "s3"
+    },
+    {
+      "term": "natural gas leakage",
+      "definition": "a non-expected release of natural gas from a facility or other containment into a living area or any other area and which could create a hazardous situation",
+      "source_provision": "s3"
+    },
+    {
+      "term": "natural gas appliance",
+      "definition": "any appliance in which natural gas is consumed as a source of power or heat such as domestic, industrial, or commercial requirements",
+      "source_provision": "s3"
+    },
+    {
+      "term": "natural gas fitting",
+      "definition": "any fitting including pipe, valve, meter, regulator or any other device for the control, measurement and use of natural gas",
+      "source_provision": "s3"
+    },
+    {
+      "term": "natural gas installation",
+      "definition": "any installation used to perform particular function in natural gas value chain and includes receiving, processing, transportation, compression, storage, distribution or any other related activity. \" natural gas tightness \" means the freedom from leak when a gas pipeline network, gas installation or gas fitting is tested at the appropriate test pressure",
+      "source_provision": "s3"
+    },
+    {
+      "term": "hazardous situation",
+      "definition": "situation involving natural gas that— (a) endangers the safety or health of a person, or the safety of a person’s property",
+      "source_provision": "s3"
+    },
+    {
+      "term": "import",
+      "definition": "to bring or cause to be brought into Mainland Tanzania by any means, natural gas from any place outside Mainland Tanzania",
+      "source_provision": "s3"
+    },
+    {
+      "term": "infrastructure integrity management plan",
+      "definition": "the annual plan to be prepared by the licensee and approved by the Authority which governs the integrity, operations and maintenance of infrastructure",
+      "source_provision": "s3"
+    },
+    {
+      "term": "inspector",
+      "definition": "an officer of the Authority or an agent appointed by the Authority to perform the functions of inspection as required under the Act and applicable law",
+      "source_provision": "s3"
+    },
+    {
+      "term": "natural gas meter data",
+      "definition": "all data collected and transferred from a meter installation, including the meter readings and CNG throughput volume",
+      "source_provision": "s3"
+    },
+    {
+      "term": "standard",
+      "definition": "any specification or standards in relation to natural gas applied by the Authority and as approved by the Tanzania Bureau of Standards pursuant to the Standards Act , or any other standards that are widely used for the best international petroleum industry practices",
+      "source_provision": "s3"
+    },
+    {
+      "term": "transit",
+      "definition": "the activity by which natural gas is brought into Mainland Tanzania by any means solely for the purpose of being taken out of Mainland Tanzania by the same or any other means",
+      "source_provision": "s3"
+    },
+    {
+      "term": "vessel",
+      "definition": "ascribed to it under the Merchant Shipping Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "WMA",
+      "definition": "the Weights and Measures Agency established under the Weights and Measures Act . [Cap. 340] Part II – General principles in relation to midstream and downstream natural gas operations",
+      "source_provision": "s3"
+    }
+  ]
+}

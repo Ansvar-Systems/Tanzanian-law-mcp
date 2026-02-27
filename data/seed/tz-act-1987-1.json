@@ -1,0 +1,657 @@
+{
+  "id": "tz-act-1987-1",
+  "type": "statute",
+  "title": "Patents (Registration) Act",
+  "title_en": "Patents (Registration) Act",
+  "short_name": "Patents (Registration) Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/1987/1/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Patents (Registration) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" application \" means an application for the grant of a patent under this Act and, subject to section 32(3) , includes an international application referred to in section 31(1) ; and the word \"applicant\" shall be construed accordingly; \" ARIPO \" office means the secretariat of the African Regional Designs within the framework of the African Regional Industrial Property Organisation (ARIPO) as amended on 10th December, 1982; \" Convention \" means the Paris Convention for the Protection of Industrial Property of 20th March 1883, and any revisions thereof to which Tanzania is or may become a party; \" court \" means the High Court of Tanzania; \" International Bureau \" means the International Bureau of the World Intellectual Property Organisation established by the Convention signed at Stockholm on 14th July, 1967; \" licensee \" except in Part X of this Act, means a licensee under a contract registered or deemed to have been registered under section 50 ; \" Minister \" means the minister responsible for matters relating to patents; \" Patent Co-operation Treaty \" means the treaty of that name signed at Washington on 19th June, 1970; \" register \" means the register referred to in section 6 ; \" Registrar \" means the Registrar of Patents appointed under section 4 ; \" Regulations \" means the Regulations referred to in section 78 ; and the verb \"to work\" shall be construed in accordance with section 39(3) . Part II – The Patents Office (ss. 3-6)"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Establishment of Patents Office",
+      "content": "There is hereby established a Government Office to be known as the Patents Office."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Appointment of officers",
+      "content": "(1) The President may by notice in the Gazette appoint a Registrar of Patents who shall perform the duties and exercise the powers assigned to the Registrar under this Act and be responsible for its administration. (2) The Minister may appoint one or more Deputy Registrar of Patents who shall, subject to the direction of the Registrar have powers and privileges conferred by this Act on the Registrar . (3) The Minister may appoint such examiners and other officers as may be necessary for carrying out the functions provided under this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Functions of the Patents Office",
+      "content": "The Functions of the Patents Office shall be— (a) to grant patents under this Act; (b) to promote inventiveness among nationals of the United Republic; (c) to establish and operate a patent documentation centre for the purpose of dissemination of information on patents; (d) to collaborate with other bodies whether local or international whose functions relate to patents matters; (e) to provide information on patented technology so as to facilitate transfer and acquisition of technology by the United Republic; (f) to perform such other functions as are necessary for the furtherance of the objects of this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Patents Register",
+      "content": "(1) The Registrar shall maintain a register in which he shall record all matters required to be registered under this Act. (2) Any person may on request consult the Patents Register and may take extracts from it on payment of a prescribed fee. (3) The details concerning the register shall be prescribed by regulations. Part III – Patentability (ss. 7-13)"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Definition",
+      "content": "(1) For the purposes of this Act, \"invention\" means a solution to a specific problem in the field of technology and may relate to a product or process. (2) The following shall not be regarded as inventions within the meaning of subsection (1) — (a) discoveries, and scientific and mathematical theories; (b) plant or animal varieties or essentially biological processes for the production of plants or animals, other than microbiological and the products of such processes; (c) schemes, rules or methods for doing business, performing purely mental acts or playing games; (d) methods for the treatment of the human or animal body by surgery or therapy, as well as diagnostic methods; but shall not apply to products for use in any of those methods; (e) more presentation of information."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Patentable inventions",
+      "content": "An invention is patentable if it is new, involves an inventive step and is industrially applicable."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Novelty",
+      "content": "(1) An invention is new if it is not anticipated by prior art. (2) Everything made available to the public anywhere in the world by means of written disclosure (including drawings and other illustrations) or by oral disclosure, use, exhibition or other non-written means shall be considered prior art provided that such making available occurred before the date of the filing of the application , of priority is claimed, before the priority date, validly claimed in respect thereof. (3) For the sole purpose of the evaluation of novelty, an application for the grant of a patent or a utility certificate in the United Republic shall be considered to have been comprised in the prior art as from the filing date of such application or, if priority is claimed, as from the date of its validly claimed priority, to the extent to which its contents are available, or is later made available, to the public in accordance with this Act or in accordance with the Patent Co-operation Treaty . (4) A disclosure of the invention shall not be taken into consideration if it occurs not earlier than six months before the filing date or, where applicable the priority date of the application and if it was by reason or in consequence of— (a) the fact that the applicant or his predecessor in title displayed; or (b) an evidence of abuse in relation to the applicant or his predecessor in title."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Inventive step",
+      "content": "An invention shall be considered as involving an inventive step if, having regard to the prior art, within the meaning of section 9(2) (a), it would not have been obvious to a person skilled in the art on the date of the filing of the application or, if priority is claimed, on the priority date validly claimed in respect thereof."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Industrial application",
+      "content": "An invention shall be taken to be capable of industrial application if according to its nature, it can be made or used, in the technological sense in any kind of industry, including agriculture, fishery and services."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Prohibition by law, public order or morality",
+      "content": "A patent may be obtained even in respect of an invention the exploitation of which is prohibited by law, except where public order or morality prohibits the exploitation of the invention."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Temporary exclusion from patentability",
+      "content": "Inventions which concern certain kinds of products, or processes for the manufacture of such products, may, by statutory instrument be extended for further periods, each such period not exceeding ten years. Part IV – Right to patent: naming of inventor (ss. 14-17)"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Right to patent",
+      "content": "(1) The right to a patent shall belong to the inventor. (2) If two or more persons have jointly made an invention, the right to the patent shall belong to them jointly. (3) If and to the extent to which two or more persons have made the same invention independently of each other, the person whose application has the earliest filing date or, if priority is claimed, the earliest validly claimed priority date, and leads to the grant of a patent, shall have the right to the patent. (4) The right to a patent may be assigned, or transferred by succession. (5) Section 48 to 52 shall apply mutatis mutandis to contracts assigning the right to a patent."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Unauthorised application based on another's invention",
+      "content": "Where the person who is applying for the grant of a patent has obtained the essential elements of the invention, which is the subject of his application from the invention of another person, the person shall, unless authorised by that other person, assign to that other person the application or, where the patent has already been granted, the patent."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Inventions made in execution of commission or by employees",
+      "content": "(1) Notwithstanding the provisions of section 14 in the absence of contractual provisions to the contrary, the right to a patent for an invention made in execution of a commission or of an employment contract shall belong to the person having commissioned the work or to the employer. (2) The provision of subsection (1) shall apply when an employment contract does not require the employee to exercise any inventive activity, but where the employee has made the invention by using data or means available to him through his employment. (3) Where the provisions of subsection (2) are applicable, the employee shall have a right to equitable remuneration taking into account the importance of the invention and any benefit derived from the invention by the employer. (4) Any remuneration granted under subsection (3) shall in the absence of any agreement be fixed by the court . In the circumstances provided for in subsection (1) the inventor shall have a similar right if the invention is of very exceptional importance. (5) The advantages conferred on the inventor by the provision of subsection (3) , cannot be diminished by contract."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Naming of inventor",
+      "content": "(1) The inventor shall be named as such in the patent unless in a special written declaration addressed to the Registrar he indicates that he wishes not be named. (2) No promise or undertaking by an inventor made to any person to the effect that he will make such a declaration shall have legal effect. Part V – Grant of patent (ss. 18-30)"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part V",
+      "section": "18",
+      "title": "Application for grant of patent",
+      "content": "(1) Every application for the grant of a patent shall be made to the Registrar and shall contain— (a) a request; (b) a description; (c) one or more claims; (d) one or more drawings (where necessary); and (e) an abstract. (2) Where the person applying does not ordinarily reside in the United Republic or the principal place of his business is outside the United Republic he shall be represented by an agent. (3) The request referred to under subsection (1) shall state the name of and other prescribed data concerning the applicant, the inventor and the agent if any, and the title of the invention. (4) Where the person making an application is not the inventor, the request shall be accompanied by a sworn declaration to the effect that the person making the application has a right to the patent. (5) The appointment of an agent shall be indicated by designation of the agent in the request or by the furnishing of a power of attorney signed by the person making the application . (6) The description shall disclose the invention in a manner which is sufficiently clear and complete for the invention to be evaluated and to be carried out, by a person skilled in the art, and shall, in particular, indicate the best mode known to the person making the application for carrying out the invention, and shall include any drawing which is essential for the understanding of the invention. (7) The claim shall define the matter for which protection is sought; shall be clear and concise and shall be fully supported by the description. (8) The abstract shall serve as a technical information; but shall not be taken into account for the purpose of interpreting the scope of the protection sought. (9) The details of the requirements with which the application must comply shall be prescribed by regulations make under this Act."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Unity of invention",
+      "content": "(1) The application for the grant of a patent shall relate to one invention only or to a group of inventions so linked as to form a single general inventive concept. (2) Regulations shall contain rules concerning compliance with requirements of unity under subsection (1) ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Amendment and division of application",
+      "content": "(1) The person making an application , provided that the amendment shall not go beyond disclosure in the initial application . (2) The person making the application may divide the application into one or more applications provided that each divisional application shall not go beyond the disclosure in the initial application ."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Right of priority",
+      "content": "(1) The application may contain a declaration claiming the priority, as provided for in the Paris Convention , of one or more earlier national, regional or international applications filed by the person making the application or his predecessor in title in or for any State party to the Paris Convention . (2) The Registrar may, at any time after the expiration of three months from the filing of the application containing the declaration, require that the person making the application furnish a copy of the earlier application , certified as correct by the Office with which it was filed or, where the earlier application is an international application , filed under the Patent Co-operation Treaty , by the International Bureau . (3) The declaration made under subsection (1) shall have effect as provided in the Paris convention. (4) The details of the requirements under subsection (1) to (3) shall be prescribed by the regulations. (5) If the requirements under this section and the rules pertaining thereto have not been complied with, the declaration referred to in subsection (1) shall be disregarded."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Furnishing of information on corresponding foreign applications and grants",
+      "content": "(1) At the request of the Registrar , made within one year of the date of filing of the application , the person who is making an application shall furnish him with the date and number of any application for a patent or another title of protection filed by him with a national industrial property office relating to the same invention as that claimed in the application filed with the Registrar . (2) The person making an application for registration of a patent shall, at the request of the Registrar , furnish the following documents relating to one of the foreign application referred to in subsection (1) — (a) copies of any communication received by that person concerning the results of any search or examination carried out in respect of the foreign application ; (b) a copy of the patent or other title of protection granted on the foreign application ; (c) a copy of any final decision rejecting the foreign application or refusing the grant requested in the foreign application . (3) The person making an application for registration of a patent shall, at the request of the Registrar furnish him with a copy of any decision invalidating the patent or other title of protection granted to him on the basis of the foreign application referred to in subsection (1) . (4) The person making the application shall, at the request of the Registrar , furnish him with copies of any communication received by the applicant concerning the results of any search or examination carried out in respect of any foreign application other than the one referred to in subsection (2) . (5) The documents furnished under this section shall merely serve the purpose of facilitating the evaluation of novelty and inventive step with respect to the invention claimed in the application filed with the Registrar or in the patent granted on the basis of that application . (6) The person making an application for registration of a patent shall have the right to submit comments on the documents furnished under this section."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Payment of fees",
+      "content": "A fee for registration of a patent shall be prescribed by regulations made under this Act."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Withdrawal of application",
+      "content": "At any time before the grant of a patent or the notification of rejection of the application or of refusal to grant a patent, the person who has made an application for registration of a patent may withdraw the application ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Filing date; examination of application as to form and unity of invention",
+      "content": "(1) The Registrar shall record as a filing date the date of receipt of the application , provided that, at the time of receipt, the documents filed shall contain— (a) the name of the applicant; (b) a part which on the face of it appears to be a description; (c) a part which on the face of it appears to be a claim. (2) If the Registrar finds that the application did not, at the time of receipt, fulfil the requirements referred to in subsection (1) , he shall require the person making the application to file the required correction. (3) If the person making the application complies with the invitation referred to in subsection (2) , the Registrar shall record as filing date, the date of receipt of the required correction, otherwise he shall treat the application as if it has not been filed. (4) Where the application refers to drawings which in fact are not included in the application , the Registrar shall require the applicant to furnish him with the missing drawings and if he complies with the said requirement, the Registrar shall record as a filing date the date of receipt: Provided that the drawings were received within thirty days from the date of receipt of the application . (5) Where no requirement under subsection (2) or (4) was sent to the person making an application and that person nevertheless files a correction, pertaining to any of the requirements under subsection (1) , to his application , the Registrar shall record as filing date the date of receipt of the correction provided that the correction was received within thirty days from the date of receipt of the application . (6) Where the request is accompanied by the statement on the right to the patent referred to in section 18(4) , the Registrar shall send a copy of the statement to the inventor who shall have the right to inspect the application and to receive, at his own expense, a copy of the application . (7) The Registrar shall cause an examination to be carried out as to whether there are any of the following defects with respect to the application — (a) the request does not comply with the requirements of section 18(3) , (4) or (5) and the rules pertaining thereto; (b) the description, the claims and, where applicable, the drawings do not comply with the physical requirements prescribed by the regulations; (c) the application does not contain an abstract; (d) the applicant has not complied with a request made by the Registrar under section 22 ; (e) the fees referred to in section 23 are not paid as provided in the regulations. (8) If the Registrar finds any of the defects referred to under subsection (1) he shall require the person making the application to remedy such defects provided that any corrections made to the application shall not be such that they would require a change of the filing date and if the applicant does not comply with the said invitation, the Registrar shall reject the application . (9) Unless the application is to be the subject of an international-type search under section 26 , the Registrar shall cause an examination to be carried out as to whether the application appears to comply with the requirement of unity of invention prescribed by section 19 and the rules pertaining thereto. (10) If the Registrar is of the opinion that the requirement of unity of invention may not have been complied with, he shall invite the applicant to restrict or divide the application . (11) If the person making the application does not comply with the requirement made under paragraph (b) , the application shall be rejected by the Registrar . (12) The details of the requirements and the procedure under this section shall be prescribed by the regulations."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "International-type search",
+      "content": "(1) The Registrar may direct that any application found in order as to form be the subject of an international search in accordance with the provisions of the Patent Co-operation Treaty . (2) When a direction under subsection (1) is made, the Registrar shall invite the person making the application to pay the fees as prescribed in the regulations. (3) If the applicant does not comply with the said requirement, the application shall be rejected by the Registrar . (4) Upon receipt of the report on the international search, the Registrar may request the person making the application to furnish him with a copy of such document cited in the said report and if without lawful reason, any copy is not furnished within the prescribed time limit, the application shall be rejected. (5) If it is apparent from the report on the international-type search or from the refusal to establish such a report, that the subject of the application or of any claim is not an invention within the meaning of section 7 , the Registrar shall reject the defective application or consider the defective claim to be withdrawn, as the case may be, unless the applicant satisfies him that the subject of the said application or claim constitutes an invention. (6) If it is apparent from the report on the international search or from the refusal to establish such a report that— (a) the description, the claims or, where applicable, the drawings do not comply in whole or in part, with the requirements prescribed by this Act and the regulations to such an extent that no meaningful search could be carried out; (b) the application does not comply, in whole or in part, with the requirement of unity of invention prescribed by section 19 and the rules pertaining thereto; or (c) the invention claimed in the application obviously does not fulfil the requirement of novelty, prescribed by sections 8 and 9 , the Registrar shall reject the application unless the applicant either satisfies him that the said requirements have been fulfilled or amends or divides the application so as to comply with the said requirements. (7) The details of the requirements and the procedure under this section shall be prescribed by the regulations."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Examination as to substance",
+      "content": "(1) The Minister may by regulations direct that applications for patents relating to a specified technical field shall be the subject of an examination as to substance. (2) If, in the opinion of the Registrar the subject matter of an invention for which a patent is sought falls within a technical field covered by the terms of a direction made under subsection (1) , he shall cause an examination to be carried out as to whether the following conditions are fulfilled— (a) the claimed invention is patentable within the meaning of sections 8 , 9 , 10 and 11 ; (b) the claimed invention is not excluded from protection under sections 12 or 13 ; (c) the description and the claims comply with the requirements prescribed by section 18 and the rules pertaining thereto. (3) For the purposes of the examination under subsection (2) , the Registrar may transmit the application together with all relevant documents to the authority designated in the regulations for a preliminary examination as to the patentability of the claimed invention. (4) The authority referred to in subsection (3) shall establish a report on the conclusions of its examination and shall transmit it to the Registrar and to the applicant. (5) Where, taking due account of the conclusions of any report referred to in subsection (4) , the Registrar is of the opinion that any of the conditions referred to in subsection (2) are not fulfilled, he shall notify the applicant accordingly and invite him to submit his observations and where applicable, to amend his application . (6) Where, despite any observation or amendment submitted by the person making the application , the Registrar finds that any of the conditions referred to in subsection (2) are not fulfilled, the Registrar shall refuse the grant of a patent and notify the applicant accordingly. (7) The details of the requirements and the procedure under this section shall be prescribed by the regulations."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Grant, registration and publication of patent",
+      "content": "(1) Unless the application has been rejected under section 25 or 26 or a patent has been refused under section 24 a patent shall be granted and issued to the person making the application in the form specified in these regulations. (2) Any patent granted shall be registered in the register . (3) Any patent granted shall be published as soon as possible by the Registrar as provided in the regulations."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Patents granted by virtue of the protocol",
+      "content": "A patent granted by virtue of the Protocol in respect of which the united Republic of Tanzania is a designated state, shall have the same effect in the United Republic of Tanzania as a Patent granted under, this Act, unless the Registrar has communicated to the ARIPO office in respect of the application therefor, a decision in accordance with the provisions of the Protocol, that if the patent is granted by the ARIPO office, that patent shall have no effect in the United Republic of Tanzania. [s. 28A]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Appeals",
+      "content": "The applicant may appeal to the court against any decision by which the Registrar accords a filing date, rejects the application , treats the application as if it had not been filed, considers any of the claims to be withdrawn or refuses to grant a patent. [s. 29] Part VI – International application (ss. 31-34)"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VI",
+      "section": "31",
+      "title": "Interpretation",
+      "content": "(1) \" International application \" means an international application filed in accordance with the Patent Co-operation Treaty and the regulations established thereunder. (2) \" Receiving Office \", \"designated office\", \"elected office\", \"international publication\", \"international search report\", \"international preliminary examination report\" and the verb, \"to designate\" have the meanings given to them in the Patent Co-operation Treaty . [s. 30]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Functions of Patents Office",
+      "content": "(1) The Patents Office shall act as a receiving office where an international application is filed with it and the applicant is a national or a resident of the country. (2) The Patents Office shall act as a designated office or an elected office in the case of any international application in which the country is designated or elected. (3) The functions of the Patents Office under this Part shall be performed in accordance with the provisions of the Patent Co-operation Treaty , and with the provisions of this Act and the regulations pertaining thereto and in case of conflict, the provisions of the Patent Co-operation Treaty , the regulations thereunder and the Administrative Instructions shall apply. (4) Further details of the functions to be performed by the Patents Office under this section may be prescribed by the regulations. [s. 31]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Unsearched or unexamined international application and lack of novelty",
+      "content": "(1) Where, in accordance with article 17(2) of the Patent Co-operation Treaty , an international search report is not established or relates to only one or some of the claims of the international application , the Registrar shall reject the international application or consider withdrawn any claim not covered by the said report, except to the extent that the applicant satisfies him that the refusal to establish the said report in whole or in part was not justified. (2) Where, in accordance with article 17(3) of the Patent Co-operation Treaty , the international search report relates to only one or some of the claims due to the applicant's refusal to pay additional fees, these parts of the international application which consequently have not been searched shall be considered withdrawn unless the applicant pays the special fee fixed in the regulations or satisfies the Registrar that the invitation to pay the said additional fees was not justified. (3) Where an international preliminary examination report with respect to an international application has been communicated to the Registrar , subsections (3) and (4) shall apply. (4) Where, in the case of lack of compliance with the requirements of unity of invention, the international preliminary examination report indicates that the international preliminary examination under article 34(3)(a) of the Patent Co-operation Treaty , was carried out on restricted claims; or under article 34(3)(c) of the Patent Co-operation Treaty , was carried out on the main invention only, those parts of the international application indicated as not having been the subject of international preliminary examination shall be considered withdrawn unless the applicant pays the special fee fixed in the regulations; or in the case of article 34 (3)(c) of the Patent Co-operation Treaty , satisfies the Registrar that the invitation of the International Preliminary Examining Authority was not justified. (5) Where, in the case of defects under article 34(4) of the Patent Co-operation Treaty , the International preliminary examination report states, with respect to the entire international application or one or some of its claims only, the opinion that the said defects exist, the international application or the claim or claims, as the case may be, for which no statement under article 35(2), second sentence, of the Patent Co-operation Treaty is made in the said report, shall be considered withdrawn unless the person making the application satisfies the Registrar that the said defects do not exist. (6) If it is apparent from an international search report or an international preliminary examination report that an invention claimed in an international application obviously does not fulfil the requirement of novelty prescribed by sections 4 and 5 , the Registrar shall not grant a patent upon the said application unless the person making the application either satisfies the Registrar that the said requirement has been fulfilled, or amends the claim in a way that fulfils the said requirement. [s. 32]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Provisional protection of published international application",
+      "content": "(1) The relief referred to in section 67 may be sought in respect of acts committed before the grant of the patent but after the date of international publication under article 21 of the Patent Co-operation Treaty , provided that the said international publication was effected in English. (2) Where the international publication was effected in a language other than English, subsection (1) shall apply provided that the person who is making the application had transmitted an English translation of the said international publication the infringer and only in respect of acts committed by the latter after the latter person had received the said translation. [s. 33] Part VII – Rights and obligations of the applicant or the owner of the patent (ss. 35-38)"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VII",
+      "section": "35",
+      "title": "Rights and obligations",
+      "content": "(1) The applicant or the owner of the patent shall have the following rights— (a) to be granted the patent, where the relevant requirements under this Act are fulfilled; (b) after the grant of the patent, and within the limits defined in section 38 , to preclude any person from exploiting the patented invention in the manner referred to in section 36 ; (c) to conclude licence contracts, as provided for in Part X and subject to the obligation referred to in subsection (2)(e) . (2) The applicant or the owner of the patent shall have the following obligations— (a) to disclose the invention in a clear and complete manner and in particular to indicate the best mode for carrying out the invention, in accordance with the requirements, and subject to the sanctions, applicable under this Act; (b) to give information concerning corresponding foreign applications and grants, as prescribed in section 22 , subject to the sanctions provided for in section 25 ; (c) to work the patented invention in the United Republic within the time limits and subject to the sanctions provided for in Part VIII and XI; and (d) to pay fees to the Patent Office as prescribed in this Act and the regulations, subject to the sanctions provided for therein; (e) in connection with licence contracts and contracts assigning patents or patent applications, to refrain from making abusive provisions referred to in section 49 . [s. 34]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VII",
+      "section": "36",
+      "title": "Rights of owner of patent",
+      "content": "The owner of the patent shall have the right to preclude any person from exploiting the patented invention by any of the following acts— (a) when the patent has been granted in respect of a product— (i) making, importing, offering for sale, selling and using the product; (ii) stocking such product for the purposes of offering for sale, selling or using; or (b) when the patent has been granted in respect of a process— (i) using the process; or (ii) doing any of the acts referred to in paragraph (a) of this section, in respect of a product obtained directly by means of the process. [s. 35]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VII",
+      "section": "37",
+      "title": "Scope of protection",
+      "content": "The scope of the protection under the patent shall be determined by the terms of the claims; nevertheless, the description and the drawing included in the patent may be used to interpret the claims. [s. 36]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Limitation of rights",
+      "content": "(1) The rights under the patent shall extend only to acts done for industrial or commercial purposes and in particular not to acts done for scientific research. (2) The rights under the patent shall not extend to acts in respect of articles which have been put on the market in the United Republic by the owner of the patent or with his express consent. (3) The rights under the patent shall not extend to the use of articles on aircraft, land vehicles or vessels of other countries which temporarily or accidentally enter the United Republic. (4) The rights under the patent shall be limited by the provisions on the patent term contained in Part VIII. (5) The rights under the patent shall be limited by the provisions on compulsory licences for reasons of public interest or based on interdependence of patents contained in Part XI and by the provisions on Government exploitation of patented inventions contained in Part XIII. [s. 37] Part VIII – Term of patent and annual fees (ss. 39-40)"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VIII",
+      "section": "39",
+      "title": "Term of patent and extension",
+      "content": "(1) Subject to subsections (2) , (3) , (4) , (5) and (6) , a patent shall expire at the end of the tenth year after the date of the filing of the application . (2) Notwithstanding subsection (1) on the request of the owner of the patent, or of a licensee , made not more than twelve months and not less than one month before the expiration of the patent under subsection (1) , and no payment of a prescribed fee, the Registrar shall extend the term of that patent for a period of five years, provided that the said owner or licensee proves, to the satisfaction of the Registrar , either— (a) that the invention which is the subject of the said patent is being worked in the United Republic at the date of the request; or (b) that there are legitimate reasons for failing so to work the invention. (3) The request of the owner of the patent, or of a licensee , made not more than twelve months and not less than one month before the expiration of the patent under paragraph (a) , and on payment of a prescribed fee the Registrar shall, subject to the provision of that paragraph, extend the duration of the said patent for a further period of five years. (4) If the Registrar does not reject the request referred to in subsections (2) and (3) within six months after its receipt, he shall be deemed to have extended the term of the patent as requested. (5) A patented invention is worked if the patented product is effectively made; or if the patented process is effectively used in the United Republic on a scale which is reasonable in the circumstances and importation shall not constitute working. (6) The owner of the patent or a licensee may appeal to the court against any refusal to extend the term of the patent under subsection (2) or (3) . [s. 38]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VIII",
+      "section": "40",
+      "title": "Annual fees",
+      "content": "(1) In order to maintain the application or the patent, an annual fee shall be paid in advance to the Registrar starting with the second year after the date of the filing of the application . (2) A period of grace of six months shall be granted for the payment of the annual fee upon payment of a surcharge whose amount shall be fixed by the regulations. (3) Subject to section 32(3) , if an annual fee is not paid in accordance with this section, the application shall be deemed to have been withdrawn or the patent shall lapse. The said lapse of the patent shall forthwith be published by the Registrar . (4) Within twelve months from the expiration of the period of grace referred to in subsection (2) , any interested person may, upon payment of the prescribed fee, request the Registrar to restore an application that is deemed to have been withdrawn or a patent that has lapsed by virtue of subsection (3) . (5) If the Registrar is satisfied that the failure to pay the annual fee concerned was unintentional and all annual fees due have been paid, he shall make an order restoring the application or the patent, as the case may be. (6) Any interested person may appeal to the court against the decision of the Registrar granting or refusing to grant a request for restoration. (7) Where a patent is restored under subsections (4) , (5) and (6) , no proceedings shall be brought by virtue of the said patent— (a) with respect to any acts performed after the lapse of the patent and before the date of the order for restoration; (b) with respect to any acts performed after the date of the order for restoration in relation to articles imported into the United Republic, or manufactured therein, after the lapse of the patent and before the date of the order for restoration. [s. 39] Part IX – Change in the ownership and joint ownership of applications and patents (ss. 41-42)"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part IX",
+      "section": "41",
+      "title": "Change in ownership of applications and patents",
+      "content": "(1) No contracts assigning applications or patents shall be valid unless they are in writing and signed by the parties thereto. (2) Sections 48 to 52 shall apply mutatis mutandis to contracts assigning applications or patents. (3) Any change in the ownership of an application or a patent shall be recorded in the Patent Register in accordance with the Regulations , and on payment of a prescribed fee and until such change has been recorded, any documents evidencing the change in ownership shall not be admitted in any proceedings as evidence of the title of any person to an application or a patent, unless the court otherwise directs. [s. 40]"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part IX",
+      "section": "42",
+      "title": "Joint ownership of applications and patents",
+      "content": "In the absence of any agreement to the contrary between the parties, joint owners of an application or a patent, may separately transfer their shares in the application or the patent, exploit the patented invention and preclude any person from exploiting the patented invention but may only jointly grant permission to any third person to do any of the acts referred to in section 36 . [s. 41] Part X – Contractual licences (ss. 43-52)"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part X",
+      "section": "43",
+      "title": "Interpretation",
+      "content": "(1) \" Licence contract \" means any contract by which a party grants permission to another person to do any of the acts referred to in section 36 in respect of an invention for which a patent has been granted or an application is pending. (2) For the purposes of this Part— (a) \" licensor \" means the party to the licence contract who grants the permission; (b) \" licensee \" means the person to whom the said permission is granted; (c) \" third person \" means a person other than the licensor or the licensee ; (d) the phrase \"acts referred to in section 36 \" includes those acts where they relate to an application . [s. 42]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part X",
+      "section": "44",
+      "title": "Rights of licensee",
+      "content": "(1) In the absence of any provision to the contrary in the licence contract, the licensee shall be entitled to do in respect of the invention all the acts referred to in section 36 without limitation as to the time, in Tanzania, and through any field of use of the invention. (2) In the absence of any provision to the contrary in the licence contract, the licensee may not grant permission to any third person to do any of the acts referred to in section 36 . [s. 43]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part X",
+      "section": "45",
+      "title": "Rights of licensor to grant further licences and to use the invention",
+      "content": "(1) In the absence of any provision to the contrary in the licence contract, the licensor may grant permission to any third person to do, and may himself do, any of the acts referred to in section 36 and covered by the said contract. (2) If the licence contract provides that such contract or the permission granted by it, is exclusive, and unless it is expressly provided otherwise in the licence contract, the licensor may neither grant permission to any third person to do any of the acts referred to in section 36 and covered by the said contract, nor do himself any of those acts, and the licensee shall be considered an exclusive licensee for the purposes of this Act. [s. 44]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part X",
+      "section": "46",
+      "title": "Effects of non-grant or invalidation of patent",
+      "content": "Where, before the expiration of the licence contract— (a) the application is withdrawn; (b) the application is finally rejected; (c) the grant of a patent is finally refused; or (d) the patent is finally declared invalid, the court may make any order that it deems reasonable under the circumstances for the repayment of the royalties, or the return of any other consideration, paid or given under the said contract, directly relating to only such application or patent. [s. 45]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part X",
+      "section": "47",
+      "title": "Form of licence contracts",
+      "content": "No licence contracts shall be valid unless made in writing and signed by the parties thereto. [s. 46]"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part X",
+      "section": "48",
+      "title": "Petition for registration",
+      "content": "(1) All licence contracts, including modifications thereof, shall be submitted to the Registrar for registration in the patent register . (2) A petition for registration may be made by any party to the contract. (3) The petition shall be accompanied by the documents prescribed by the regulations. (4) The petition shall be subject to the payment of a prescribed fee. (5) The Registrar shall issue to the applicant a receipt, which shall be proof of the fact of filing the petition and of the date on which it was filed; if no receipt is issued within fourteen days from the date of the petition, the petitioner may rely on other evidence to prove the said fact and date. (6) Where— (a) section 47 or subsections (2) to (4) of this section, and the rules relating thereto, have not been complied with; or (b) the licence contract is unregistable under section 49 , the Registrar shall refuse to register the licence contract, stating the reasons for such refusal. (7) Before he refuses to register the licence contract, the Registrar shall notify the petitioner and allow the parties to— (i) submit any observations; (ii) correct any defect in the petition; (iii) amend any term, or to correct any defect, in the licence contract that has been declared by the Registrar to be a term or defect precluding registration, within forty-five days from the date of the notification referred to herein. (8) A licence contract shall be void if the registration has been refused by the Registrar in accordance with the provisions of this Act. [s. 47]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part X",
+      "section": "49",
+      "title": "Prohibited terms in licence contracts",
+      "content": "The Registrar may, with the approval of and after consultation with other competent government authorities, refuse to register a licence contract if the effect of its terms is to— (a) permit or require the importation of technology from abroad when substantially similar or equivalent technology may be obtained on the same or more favourable conditions without importation from abroad; (b) require payment of a price, royalty or other consideration which is disproportionate to the value of the technology to which the contract relates; (c) require the licensee to acquire any materials from the licensor or from sources designated or approved by him, unless it is otherwise impossible, for all practical purposes, to ensure the quality of the products to be produced; (d) prohibit the licensee from acquiring, or to restrict his acquisition of, any materials from any source, unless it is otherwise impossible, for all practical purposes, to ensure the quality of the products to be produced; (e) prohibit the licensee from using, or to restrict his use of, any materials which are not supplied by the licensor or by sources designated or approved by him, unless it is otherwise impossible, for all practical purposes, to ensure the quality of the products to be produced; (f) require the licensee to sell products produced by him under the contract exclusively or principally to persons designated by the licensor ; (g) require the licensee to make available to the licensor without appropriate consideration any improvements made by the licensee with respect to the technology to which the contract relates; (h) limit the volume of the products produced by the licensee with the help of the technology to which the contract relates; (i) prohibit or restrict the export of the products produced by the licensee ; (j) require the licensee to employ on a permanent basis persons designated by the licensor ; (k) impose restrictions on research or technological development carried out by the licensee ; (l) prohibit or restrict the use by the licensee of any technology other than the technology to which the contract relates; (m) extend the coverage of the contract to technology not required for the use of the technology which is the main subject of the contract and to require consideration for such additional technology; (n) fix prices for the sale or resale of the products produced by the licensee with the help of the technology to which the contract relates; (o) exempt the licensor from any liability consequent upon any defect inherent in the technology to which the contract relates or to restrict such liability; (p) prohibit or restrict the use by the licensee , after the expiration of the contract, of the technology acquired as a result of the contract, subject to any right of the licensor under the patent; (q) require the disputes arising from the interpretation or performance of the contract to be governed by a law other than the law of the United Republic or that such dispute to be brought before courts located in the United Republic other than the country; or (r) establish the duration of the contract for a period which is unreasonably long in relation to the economic function of the contract, provided that any period which does not exceed the duration of the patent to which the contract relates shall not be regarded as unreasonably long. [s. 48]"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part X",
+      "section": "50",
+      "title": "Registration of contract, certificate",
+      "content": "(1) When the Registrar finds that the contract may be registered, he shall register the contract and issue a certificate of registration to the petitioner. (2) If the Registrar fails— (a) to notify the petitioner of defects precluding petition or of term or defects in the registration of the licence contract, within ninety days from the date of the petition; or (b) to notify the petitioner of his decision to refuse to register the licence contract, within ninety days from the date of the notification referred to in paragraph (a) , the licence contract shall be deemed to have been registered and the Registrar shall issue a certificate of registration to the petitioner. If no such certificate is issued within fourteen days from the expiration of the ninety days period, the petitioner may rely on other evidence. (3) The registration shall take effect— (a) if the petition was made within sixty days from the conclusion of the contract, on the date of the conclusion of the contract; or (b) in all other cases, on the date of the petition. (4) Where the petition is corrected or the licence contract is amended under section 48(7) , the petition shall, for the purposes of this subsection, be deemed to have been made on the date when such correction or amendment was made. (5) The registration and the certificate shall state— (a) the names of the parties to the contract, and of the licensee if he is not a party; (b) the date of the registration; (c) the date of the petition; and (d) the registration number, all of which shall be published in the Gazette . [s. 49]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part X",
+      "section": "51",
+      "title": "Confidentiality",
+      "content": "The contents of the contract shall be confidential, unless both parties to the contract agree to permit access thereto by third parties and then only to the extent of the permission granted. [s. 50]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part X",
+      "section": "52",
+      "title": "Remedies",
+      "content": "An appeal against a decision of the Registrar under section 48(6) may be made to the court by the petitioner within two months of the Registrar 's refusal provided that the grounds of such an appeal shall be limited to the following grounds— (a) that the decision for refusal contains no statement of the reasons for refusal; (b) that none of the reasons for refusal specified in the decision is a valid reason under this Act or was rightly applied to the petition or to the licence contract; and (c) that the procedure applied by the Registrar was irregular and prejudicial to the rights of the petitioner. [s. 51] Part XI- Compulsory licences (ss. 53-60)"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part XI-Compulsorylicences-ss-53-60",
+      "section": "53",
+      "title": "Compulsory licence for non-working and similar reasons",
+      "content": "(1) At any time after four years from the filing date of an application or three years from the grant of a patent, whichever period last expires, any person may, in proceedings instituted by him against him by the said owner, request the court for the grant of a compulsory licence on any of the following grounds that is to say— (a) that the patented invention, being capable of being worked in the United Republic has not been so worked; (b) that the existing degree of working of the patented invention in the United Republic does not meet in reasonable terms the demand for the patented product on the domestic market or for the purposes of exportation; (c) that the working of the patented invention in the United Republic is being hindered or prevented by the importation of the patented product; and (d) that, by reason of the refusal of the owner of the patent to grant licences on reasonable terms, the establishment or development of industrial or commercial activities in the United Republic, or the possibilities of exportation from the United Republic, are unfairly and substantially prejudiced. (2) Where the patented invention is a process, the phrase \"patented product\" in subsection (1) means a product obtained directly by means of the process. (3) A compulsory licence shall not be granted in respect of a patent if the owner of the patent satisfies the court that his actions in relation to the patented invention are justifiable in the circumstances. [s. 52]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part XI-Compulsorylicences-ss-53-60",
+      "section": "54",
+      "title": "Compulsory licences for interdependence of patents",
+      "content": "(1) Where a patented invention cannot be worked without infringing rights derived from an earlier patent the owner of the later patent may, in proceedings instituted by him against the owner of the earlier patent or in proceedings instituted against him by the latter owner, request the court at any time for the grant of a compulsory licence with respect to the earlier patent to the extent necessary for the working of his invention if the invention— (a) serves industrial purposes different from those served by the invention which is the subject of the earlier patent; or (b) constitutes substantial technical progress in relation to that last mentioned invention. (2) If the two inventions mentioned in subsection (1) serve the same industrial purposes, a compulsory licence may be granted under that subsection only on condition that a compulsory licence shall also be granted in respect of the later patent to the owner of the earlier patent if he so requests. (3) In this section, \"earlier patent\" means a patent granted on an earlier application or benefiting from an earlier validly claimed priority date, and \"later patent\" shall be construed accordingly. [s. 53]"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part XI-Compulsorylicences-ss-53-60",
+      "section": "55",
+      "title": "Compulsory licences for products and processes of vital importance",
+      "content": "(1) The Minister may, by order published in the Gazette , direct that, for a patented invention concerning a certain kind of product, or a process for the manufacture of such a product, declared in the order to be of vital importance for the defence or for the economy or for public health, a compulsory licence may be granted. (2) A compulsory licence with respect to any product or process specified in the order referred to in subsection (1) may be requested at any time after the grant of the relevant patent, in court proceedings instituted against or by the owner of the said patent. [s. 54]"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part XI-Compulsorylicences-ss-53-60",
+      "section": "56",
+      "title": "Preconditions to grant of compulsory licences",
+      "content": "A compulsory licence shall not be granted unless the person requesting such licence— (a) satisfies the court that he has asked the owner of the patent for a contractual licence but has been unable to obtain such a licence on reasonable terms and within a reasonable time, and (b) offers guarantees satisfactory to the court to work the relevant invention sufficiently to remedy the deficiencies or to satisfy the requirements, which gave rise to his request. [s. 55]"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part XI-Compulsorylicences-ss-53-60",
+      "section": "57",
+      "title": "Grant and terms of compulsory licences",
+      "content": "(1) In considering a request for a compulsory licence, the court shall first decide whether a compulsory licence may be granted and shall then, if it decides in favour of the grant and taking into account any terms agreed by the parties, proceed to fix the terms, which shall be deemed to constitute a valid contract between the parties and shall be governed by the provisions of Part X. (2) In fixing the terms under subsection (1) , the court shall ensure that the compulsory licence— (a) entitles the licensee to do any act which is mentioned in section 36 , except that this shall not apply to importation unless a request was made under section 55 ; (b) does not entitle the licensee to grant further licences, without the consent of the owner of the patent; (c) is non-exclusive; and (d) provides for the payment to the owner of the patent of remuneration which is equitable with due regard to all the circumstances of the case. (3) A representative of the Registrar shall have the right to appear and be heard at the hearing of an application for a compulsory licence. [s. 56]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part XI-Compulsorylicences-ss-53-60",
+      "section": "58",
+      "title": "Transfer of compulsory licences",
+      "content": "A compulsory licence may be transferred only with the industrial or commercial undertaking in which the relevant invention is used, and no such transfer shall be valid until the consent of the court has been obtained. [s. 57]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part XI-Compulsorylicences-ss-53-60",
+      "section": "59",
+      "title": "Cancellation of compulsory licences and variation of terms",
+      "content": "(1) On the application of the owner of the patent, the court may cancel a compulsory licence if— (a) the licensee fails to comply with the terms of the licence; (b) the conditions which justified the grant of the licence have ceased to exist, so however that in the latter case a reasonable time shall be given to the licensee to cease working the relevant invention if an immediate cessation would cause him to suffer substantial damage. (2) On the application of the Registrar , the court shall, and on the application of the owner of the patent, the court may, cancel the compulsory licence if, within two years from the grant of the licence, the licensee has not taken the necessary steps to work the relevant invention sufficiently so as to remedy the deficiencies or to satisfy the requirements which gave rise to the owner's request for the said licence. (3) On the application of the owner of the patent or the licensee , the court may vary the terms of a compulsory licence if new facts justify the variation, and in particular and without prejudice to the generality of the foregoing if the patentee has granted contractual licences on more favourable terms. [s. 58]"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part XI-Compulsorylicences-ss-53-60",
+      "section": "60",
+      "title": "Registration of grants, cancellation or variation",
+      "content": "Where the court grants, cancels or varies the terms of a compulsory licence, the court shall inform the Registrar , who shall register without fee in the register the grant, cancellation or variation of the compulsory licence. [s. 59] Part XII – Licences of right (s. 61)"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part XII",
+      "section": "61",
+      "title": "Licences of right",
+      "content": "(1) The owner of a patent may request the Registrar to make an entry in the register to the effect that licences under the patent are to be available as of right. (2) The request shall be notified by the Registrar to the licensees under the patent. (3) Any licensee may, within the prescribed time limit, object to the entry requested, on the ground that the owner of the patent is, by the relevant licence contract, precluded from granting further licences. (4) Where the Registrar receives no objection under subsection (3) or considers all objections made to be unfounded, he shall make the requested entry in the register and shall publish the entry, in the Patents Journal. (5) While a patent is the subject of an entry under this section, any person may require the owner of the patent to grant to that person a non-exclusive licence under the patent on terms which, in the absence of agreement between the parties, shall be fixed by the court . (6) The amount of the annual fees with respect to a patent which is the subject of an entry under this section, falling due after the date of the entry, shall be reduced by half. (7) The owner of the patent may at any time request the Registrar to cancel an entry under this section, and the Registrar shall cancel the entry after payment of the balance of all annual fees which would have been payable if no entry had been made provided that the Registrar shall publish the cancellation of entries under this section. (8) Subsection (3) of section 59 shall apply mutatis mutandis where the terms of a licence granted under subsection (5) have been fixed by the court . (9) Licences granted under subsection (5) are contractual licences within the scope of Part X. [s. 60] Part XIII – Exploitation of patented invention by or through Government (s. 62)"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part XIII",
+      "section": "62",
+      "title": "Exploitation of patented invention by or through Government",
+      "content": "(1) Where a vital public interest (in particular, national security, health or the development of vital sectors of the public economy) requires that one or more acts referred to in section 36 be performed with respect to a patented invention, the Minister may decide that the patented invention shall, even in the absence of the authorisation of the owner of the patent, be exploited by a government agency or by a third person designated by the Minister subject to the payment of a remuneration to the owner of the patent. (2) The Minister shall take his decision in accordance with subsection (1) after consultation with the Registrar and after a hearing to which the patent owner and any licensee shall be invited. (3) Once the decision of the Minister has been taken, the Registrar shall fix the amount of the remuneration to be paid to the owner of the patent, such remuneration being equitable with due regard to all the circumstances of the case. (4) The owner of the patent may appeal to the court against the decision of the Registrar fixing the amount of remuneration referred to in subsection (3) but such appeal shall not suspend the effects of the decision referred to in subsection (1) . [s. 61] Part XIV – Surrender, invalidation and revocation (ss. 63-65)"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part XIV",
+      "section": "63",
+      "title": "Surrender of patents",
+      "content": "(1) A patent may be surrendered by its owner. (2) The surrender of a patent may be limited to one or more claims. (3) If a licence has been recorded in the register , the surrender of the patent shall only be registered upon the submission of a declaration by which the licensee consents to the surrender, unless the latter has expressly waived this right in the licence contract. [s. 62]"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part XIV",
+      "section": "64",
+      "title": "Invalidation of patent",
+      "content": "(1) Any interested person, may, in proceedings instituted by him against the owner of a patent or in proceedings instituted against him by the said owner, request the court to invalidate the patent. (2) The court shall invalidate the patent on any of the following grounds— (a) that the claimed invention is not patentable within the meaning of sections 7 , 8 , 9 , 10 and 11 ; (b) that the claimed invention is not excluded from protection under sections 12 and 13 ; (c) that the description and the claims comply with the requirements prescribed by sections 18(6) and (7) and the rules pertaining thereto; (d) that the person to whom the patent was granted, had no right to the patent: Provided that the patent has not been assigned to the person who has the right to the patent. (3) Where the provisions of subsection (2) apply only to some of the claims or some parts of a claim, such claims or parts of a claim shall be invalidated by the court . (4) The court may require the owner of the patent to submit to it for the purpose of examination publications and other documents showing the prior art which has been referred to either in connection with an application for a patent or other title of protection filed, for the same or essentially the same invention, by the owner or the patent, with any other national or regional industrial property office, or in connection with any proceedings relating to the patent or other title of protection granted upon such application . (5) Notice of the request referred to in subsection (1) shall be served on any licensees under the patent, who shall be entitled to join in the proceedings in the absence of any provision to the contrary in the licence contract. (6) Where, before or during the proceedings, it is alleged, or it appears to the court , that the right to the patent belongs to a person who is not a party to the proceedings, notice of the request referred to in subsection (1) shall be served on that person, who shall be entitled to join the proceedings. [s. 63]"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part XIV",
+      "section": "65",
+      "title": "Effects of invalidation",
+      "content": "(1) Any invalidated patent, or claim or part of a claim shall be regarded as null and void from the date of the grant of the patent. (2) As soon as the decision of the court is no longer subject to appeal, the court shall inform the Registrar , who shall register it in the patent register and publish it as soon as possible. [s. 64] Part XV – Infringement (ss. 66-72)"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part XV",
+      "section": "66",
+      "title": "Acts constituting infringement",
+      "content": "Subject to sections 38 , 38 , 55 and 57 , any act specified in section 36 and performed by a person other than the owner of the patent and without the authorisation of the owner of the patent, in relation to a product or a process falling within the scope of a validly granted patent, shall constitute an infringement of the patent. [s. 65]"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part XV",
+      "section": "67",
+      "title": "Relief",
+      "content": "On the request of the owner of the patent, the court shall grant the following relief— (a) an injunction to prevent infringement where infringement is imminent, or to prohibit the continuation of the infringement, once infringement has started; (b) damages; and (c) any other remedy provided for in the civil law. [s. 66]"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part XV",
+      "section": "68",
+      "title": "Declaration of non-infringement",
+      "content": "(1) Subject to subsection (2) of this section, any person showing a legitimate interest may request the court to declare that the performance of any specific act does not infringe the patent and the owner of the patent and any licensee under the patent shall have the right to be defendant in the proceedings. (2) No declaration under subsection (1) shall be made— (a) if the acts to which the request relates are already the subject of infringement proceedings; or (b) if the person making the request is unable to prove that he has previously demanded from the owner of the patent a written acknowledgement of the lawfulness of the acts referred to and that the owner of the patent has refused such demand or has failed to reply within a reasonable time. [s. 67]"
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part XV",
+      "section": "69",
+      "title": "Threat of infringement proceedings",
+      "content": "(1) Any person threatened with infringement proceedings who can prove that the acts performed or to be performed by him do not constitute infringement or the patent may request the court to grant an injunction to prohibit such threats and to award damages for financial loss resulting from the threats. (2) The mere notification of the existence of a patent shall not constitute threat within the meaning of subsection (1) . [s. 68]"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part XV",
+      "section": "70",
+      "title": "Criminal proceedings",
+      "content": "(1) Any person who intentionally infringes a patent shall be guilty of an offence and shall, on conviction be liable to a fine not exceeding five hundred thousand shillings or to a term of imprisonment of five years or to both that fine and imprisonment and forfeiture of the goods made through that patent. (2) In the event of recidivism, the maximum penalties shall be doubled. (3) Recidivism shall be deemed to have occurred within the preceding five years, the offender has been convicted of infringement of a patent. [s. 69]"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part XV",
+      "section": "71",
+      "title": "Presumption of use of patented process",
+      "content": "If a patent relates to a process for the manufacture of a product showing novel features, such a product shall, in the absence of proof to the contrary, be presumed to have been manufactured by that process. [s. 70]"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part XV",
+      "section": "72",
+      "title": "Legal proceedings by licensee",
+      "content": "(1) Any exclusive licensee within the meaning of section 45(2) may, by registered letter, request the owner of the patent to institute legal proceedings for a specified relief with request to any infringement specified by the licensee . (2) The licensee may, if the owner of the patent refuses or fails to institute the said proceedings within three months from the request, after giving notice to the owner of the patent, institute such proceedings in his own name; the owner of the patent may join in the proceedings and the licensee may also join the owner in the proceedings. (3) Even before the end of the three month period referred to in subsection (2) , the court may, on the request of the licensee , grant an appropriate injunction to prevent infringement or to prohibit its continuation, where the licensee shows that immediate action is necessary to avoid substantial damage. [s. 71] Part XVI – Utility certificates (ss. 73-75)"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part XVI",
+      "section": "73",
+      "title": "Applicability of provisions relating to patents",
+      "content": "(1) Subject to section 74 , the provisions of Parts I to XV and XVII shall apply, mutatis mutandis , to utility certificates or applications as the case may be. (2) Where— (i) the right to a patent conflicts with the right to a utility certificate in the case referred to in section 14(3) ; (ii) a patent and a utility certificate are interdependent within the meaning of section 54 ; or (iii) recidivism is alleged having regard to section 70 , the said provisions shall apply as if the word \"patent\", wherever it occurs, were replaced by the words \"patent or utility certificate\". [s. 72]"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part XVI",
+      "section": "74",
+      "title": "Special provisions relating to utility certificates",
+      "content": "(1) An invention is eligible for a utility certificate if it is new and industrially applicable. (2) Sections 8 and 10 shall not apply in the case of inventions for which utility certificates are requested. (3) Section 27 shall not apply in the case of applications for utility certificates. (4) Utility certificates shall be registered in a separate part of the register . (5) A utility certificate shall expire, without any possibility of renewal at the end of the seventh year after the date of the filing of the application . (6) Section 39(1) , (2) and (6) shall not apply in the case of utility certificates. (7) In proceedings under section 64 , the court shall invalidate the utility certificate on any of the following grounds— (a) that the claimed invention was not eligible for a utility certificate, having regard to subsection (1) of this section and to sections 9 and 11 to 13 ; (b) that the description and the claims do not comply with the requirements prescribed by section 18(6) and (7) and the rules pertaining thereto; (c) that any drawing which is necessary for the understanding of the invention has not been furnished; (d) that the person to whom the utility certificate was granted had no right to the utility certificate, provided that the utility certificate has not been assigned to the person who has the right to the utility certificate. (8) Section 64(2) shall not apply in the case of utility certificates. (9) Section 70(2) shall not apply in the case of the infringement of the rights of the owner of the utility certificate. [s. 73]"
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part XVI",
+      "section": "75",
+      "title": "Conversion of patent applications or applications for utility certificates",
+      "content": "(1) At any time before the grant of a patent or the notification of rejection of the application or of refusal to grant a patent, an applicant for a patent may, upon payment of the prescribed fee, convert his application into an application for a utility certificate, which shall be accorded the filing date of the initial application . (2) At any time before the grant of a utility certificate or of the notification of rejection of the application , an applicant for a utility certificate may, upon payment of the fee prescribed, convert application into a patent application , which shall be accorded the filing date of the initial application . (3) An application may not be converted under subsection (1) more than once. (4) The details of the requirements of the procedure under this section shall be prescribed by the Regulations . [s. 74] Part XVII – United Kingdom designs (protection) (ss. 76-78)"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part XVII",
+      "section": "76",
+      "title": "Rights in Tanzania of proprietor of design registered in United Kingdom",
+      "content": "Subject to the provisions of this Act, the registered proprietor of any design registered in the United Kingdom under the Patents and Designs Acts, 1907 to 1932, or any Act amending or substituted for those Acts shall enjoy in Tanzania's the like privileges and rights as though the Certificate of Registration in the United Kingdom had been issued with an extension to Tanzania. [s. 75]"
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part XVII",
+      "section": "77",
+      "title": "Innocent infringer not liable for damages",
+      "content": "The registered proprietor of a design shall not be entitled to recover any damages in respect of any infringement of copyright in a design from any defendant who proves that at the date of the infringement he was not aware nor had any reasonable means of making himself aware of the existence of the registration of the design: Provided that nothing in this section shall affect any proceedings for an injunction. [s. 76]"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part XVII",
+      "section": "78",
+      "title": "Grounds upon which Court may declare that rights have not been acquired in Tanzania",
+      "content": "The Court shall have power, upon the application of any person who alleges that his interests have been prejudicially affected, to declare upon any of the grounds upon which the United Kingdom registration might be cancelled under the law for the time being in force in the United Kingdom that exclusive privileges and rights in a design have not been acquired in Tanzania under the provisions of this Act. Such grounds shall be deemed to include the publication of the design in Tanzania prior to the date of registration of the design in the United Kingdom. [s. 77] Part XVIII – Miscellaneous provisions (ss. 79-81)"
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part XVIII",
+      "section": "79",
+      "title": "Regulations",
+      "content": "The Minister shall by statutory instrument, make Regulations prescribing anything which under this Act is to be prescribed by the Regulations and generally for the better carrying out of the objects and purposes of this Act or for giving force or effect to its provisions or for its better administration. [s. 78]"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part XVIII",
+      "section": "80",
+      "title": "Repeal of R.L. Cap 217",
+      "content": "[Repeal of the Patent (Registration) Ordinance.] [s. 79]"
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part XVIII",
+      "section": "81",
+      "title": "Saving and transitional provisions",
+      "content": "(1) Where a patent was registered in the United Republic under the former patent law and the privileges and rights conferred by the registration were effective immediately before the commencement of this Act then— (a) subject to the following paragraphs, the patent shall be treated in the United Republic as if it had been granted under this Act; (b) the patent shall expire as regards the United Republic when those privileges and rights would have expired if this Act had not been enacted; (c) the patent may be invalidated only where those privileges and rights could have been declared as not having been acquired in the United Republic if this Act had not been enacted; (d) the certificate of registration, or a certified copy thereof, shall be admissible as prima facie evidence of the date and fact of registration; and (e) an action for infringement shall lie under this Act only if the alleged infringement occurred on or after the commencement of this Act, and in any other case may be instituted and disposed of as if this Act had not been made. (2) So far as is necessary for the purposes of subsection (1) , the register of patents under the former patent law shall be maintained as nearly as may be, and shall be regarded and dealt with, as if it were part of the register under this Act. (3) Section 41(1) and Part X of this Act shall not apply to licence contracts within the meaning of section 43(1) and contracts assigning the right to a patent or assigning applications or patents, provided that the said contracts were concluded before the commencement of this Act, and are submitted for registration to the Registrar within 60 days from the commencement of this Act. (4) In this section \"the former patents law\" means the Patent (Registration) Ordinance 2 . 2 R.L. Cap. 217 [s. 80] History of this document 31 December 2023 Chapter 217 Revised Laws 2023 Consolidation 31 July 2002 this version Chapter 217 Revised Laws 2002 Consolidation 01 September 1994 Commenced Related documents More documents like this one Subsidiary legislation Title Patents (Appointment of Deputy Registrars of Patents) Notice, 2004 Government Notice 342 of 2004 Patent (Appointment of Deputy Registrars of Patent) Notice, 2004 Government Notice 127 of 2004 Appointment of Deputy Registrars of Patents Notice, 2002 Government Notice 424 of 2002 [] [] [] [{\"provision_eid\": \"part_I__sec_2\", \"citations\": 1}] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "application",
+      "definition": "an application for the grant of a patent under this Act and, subject to section 32(3) , includes an international application referred to in section 31(1)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Convention",
+      "definition": "the Paris Convention for the Protection of Industrial Property of 20th March 1883, and any revisions thereof to which Tanzania is or may become a party",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "the High Court of Tanzania",
+      "source_provision": "s2"
+    },
+    {
+      "term": "International Bureau",
+      "definition": "the International Bureau of the World Intellectual Property Organisation established by the Convention signed at Stockholm on 14th July, 1967",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the minister responsible for matters relating to patents",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Patent Co-operation Treaty",
+      "definition": "the treaty of that name signed at Washington on 19th June, 1970",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "the register referred to in section 6",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Patents appointed under section 4",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Regulations",
+      "definition": "the Regulations referred to in section 78",
+      "source_provision": "s2"
+    },
+    {
+      "term": "invention",
+      "definition": "a solution to a specific problem in the field of technology and may relate to a product or process. (2) The following shall not be regarded as inventions within the meaning of subsection (1) — (a) discoveries, and scientific and mathematical theories",
+      "source_provision": "s7"
+    },
+    {
+      "term": "International application",
+      "definition": "an international application filed in accordance with the Patent Co-operation Treaty and the regulations established thereunder. (2) \" Receiving Office \", \"designated office\", \"elected office\", \"international publication\", \"international search report\", \"international preliminary examination report\" and the verb, \"to designate\" have the meanings given to them in the Patent Co-operation Treaty . [s. 30]",
+      "source_provision": "s31"
+    },
+    {
+      "term": "Licence contract",
+      "definition": "any contract by which a party grants permission to another person to do any of the acts referred to in section 36 in respect of an invention for which a patent has been granted or an application is pending. (2) For the purposes of this Part— (a) \" licensor \" means the party to the licence contract who grants the permission",
+      "source_provision": "s43"
+    },
+    {
+      "term": "licensee",
+      "definition": "the person to whom the said permission is granted",
+      "source_provision": "s43"
+    },
+    {
+      "term": "third person",
+      "definition": "a person other than the licensor or the licensee",
+      "source_provision": "s43"
+    },
+    {
+      "term": "acts referred to in section 36",
+      "definition": "those acts where they relate to an application . [s. 42]",
+      "source_provision": "s43"
+    }
+  ]
+}

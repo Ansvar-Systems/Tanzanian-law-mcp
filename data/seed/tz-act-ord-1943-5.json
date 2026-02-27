@@ -1,0 +1,65 @@
+{
+  "id": "tz-act-ord-1943-5",
+  "type": "statute",
+  "title": "Tsetse Fly (Control) Act",
+  "title_en": "Tsetse Fly (Control) Act",
+  "short_name": "Tsetse Fly (Control) Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/ord/1943/5/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Tsetse Fly (Control) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context requires otherwise— \" domestic animals \" means any ass, bull, cow, dog, fowl, goat, heifer, horse, mule, ox, pig, sheep or other captive animal; \" fly area \" means any area defined and declared as such in terms of section 3 of this Act; \" Minister \" means the minister for the time being responsible for agriculture; \" vehicle \" includes a motor vehicle."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power to define fly areas",
+      "content": "The Minister may, buy order published in the Gazette , declare any defined area to be a tsetse fly area for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power to make regulations",
+      "content": "(1) The Minister may make regulations for the following purposes, namely: (a) Prohibiting the movement of persons, domestic animals and vehicles to, from or within a fly area ; (b) restricting such movement to certain defined routes; (c) restricting such movement to fixed periods of the day or night; (d) providing that no such movement shall take place unless it is interrupted at certain intermediate points for prescribed periods; (e) providing for the inspection by duly authorised officials of persons, domestic animals and vehicles upon such movement taking place, for the purpose of detecting the presence of tsetse flies and for the introduction and enforcement of measures for ridding the persons, animals or vehicles of tsetse flies; (f) providing for the introduction of any other measures necessary to prevent the spreading of tsetse flies. (2) For the more effective carrying out of any measures prescribed by regulations made under subsection (1) of this section, those regulations may, notwithstanding anything to the contrary contained in the Highways Act 1 , provide for the erection by duly authorised officials acting in the execution of their duties under the regulations of barriers across any roads and public highways as defined for the purposes of the Highways Act: 1 Cap. 167 Provided always that nothing in this subsection or in any such regulation shall authorise or be construed as authorising any official to obstruct or prevent the passage of any person, vehicle or animal along a road or public highway for a longer period than is reasonably necessary for carrying into effect in relation to that person, vehicle or animal any measures prescribed by the regulations."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Penalties",
+      "content": "Any person who contravenes any regulation made under this Act commits an offence, and upon conviction liable to a fine not exceeding two hundred shillings, or in default of payment to imprisonment for a period not exceeding one month. History of this document 31 December 2023 Chapter 100 Revised Laws 2023 Consolidation 31 July 2002 this version Chapter 100 Revised Laws 2002 Consolidation 24 September 1943 Commenced Related documents More documents like this one Subsidiary legislation Title Tsetse Fly (Declaration of Tsetse Fly Areas) Order, 1944 Government Notice 133 of 1944 Tsetse Fly Regulations, 1939 Government Notice 50 of 1939 [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "domestic animals",
+      "definition": "any ass, bull, cow, dog, fowl, goat, heifer, horse, mule, ox, pig, sheep or other captive animal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fly area",
+      "definition": "any area defined and declared as such in terms of section 3 of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the minister for the time being responsible for agriculture",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vehicle",
+      "definition": "a motor vehicle.",
+      "source_provision": "s2"
+    }
+  ]
+}

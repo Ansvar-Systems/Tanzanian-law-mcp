@@ -1,0 +1,387 @@
+{
+  "id": "tz-act-gn-2020-353",
+  "type": "statute",
+  "title": "Petroleum (Natural Gas Pricing) Regulations, 2020",
+  "title_en": "Petroleum (Natural Gas Pricing) Regulations, 2020",
+  "short_name": "Petroleum (Natural Gas Pric...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/2020/353/eng@2020-05-15",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Regulations may be cited as the Petroleum (Natural Gas Pricing) Regulations, 2020."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Application",
+      "content": "These Regulations shall govern pricing of natural gas for domestic market ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "In these Regulations, unless the context otherwise requires— “ Act ” means the Petroleum Act; [Cap.392] “ compressed natural gas ” also described as “CNG” means a natural gas, predominantly methane (CH4) that has been compressed to less than one percent of its volume it occupies at standard atmospheric pressure and stored in a high-pressure container, usually at 20.684 to 24.821 MPa; “ cost driver ” means the factor of the transmission system operator ’s activity which is correlated to the costs of such transmission system operator , such as distance, technical capacity or forecasted contracted capacity; “ consultation document ” means the document prepared by EWURA inviting the public for comments and views on the draft document; “ distribution tariff ” means a fee determined by EWURA based on fee proposals by local distribution operators. The distribution fee calculation is similar to the transmission tariff calculation, which includes coverage of construction and operation costs and appropriate margins and taxes; “ domestic market ” means the market which involves utilization of natural gas for power generation, industrial heating, household, transportation, commercial and non-commercial institutions and feedstock for petrochemicals industries within the country; “ eligible customers ” means all industrial or commercial customers, who purchase natural gas directly from natural gas producers; “ end user prices ” means the retail prices that natural gas consumers pay to local distributors; “ entry point ” means a point into an entry-exit system, either from an adjacent entry-exit system or from an LNG facility, production facility, storage facility, distribution network or from a third country, that is subject to network tariffs; “ exit point ” means a point out of an entry-exit system either into another entry-exit system or into a distribution network, storage facility, transmission -connected consumer or to a third country, that is subject to network tariffs; “ EWURA ” means the Energy and Water Utilities Regulatory Authority established under section 4 of the Energy and Water Utilities Regulatory Authority Act ; [Cap. 414] “ legal metrological control ” means legal control of measuring instruments or systems, metrological supervision and metrological expertise; “ Liquefied Natural Gas ” shall have the meaning ascribed to it under the Act ; “ licensee ” means a holder of a licence granted by the Minister or EWURA under the Act or other person undertaking regulated activity; “ LNG facility capacity ” means capacity at an LNG terminal for the liquefaction of natural gas or the importation, offloading, ancillary services, temporary storage and re-gasi fication of LNG; “ Metering station ” means an assembly of metering instrument or systems dedicated to determination of measured quantities; “ Minister ” shall have the meaning ascribed to it under the Act ; “ national grid ” means the interconnected electricity transmission network to which the largest cumulative capacity of the national electricity generating facilities are connected; “ natural gas processing ” means removal of condensate, cryogenic operations to extract butane, propane and natural gas liquids (NGLs), impurities and water; odorize or otherwise prepare gas for transportation, shipping, or liquefaction; “ non-transmission service tariff methodology ” means the methodology applied to the associated nontransmission services revenue with the aim of deriving a tariff for a given non- transmission service; “ non-transmission services ” means the regulated services other than transmission services that are provided by the transmission system operator and shall include natural gas processing , compression, storage, liquefaction and re-gasification; “ petrochemicals industries ” for the purpose of these Regulations means, industries that uses natural gas as a feedstock to produce different products which include fertilizer, methanol, plastics and other petrochemical products; “ postage stamp methodology ” means the most straightforward of all cost allocation methodology that supports the entry-exit access methodology; it is a single uniform tariff applied to either the entry points or the exit points, as this tariff should recover the allowed revenue, the costs are allocated to entry and exit points in proportion to the booked capacity; it is a widely used methodology in the transmission services pricing prior to the introduction of the entryexit regime; “ PURA ” shall have the meaning ascribed to it under the Act ; “ reference price methodology ” means the methodology applied to the part of the transmission services revenue to be recovered from capacity-based transmission tariffs with the aim of deriving reference prices; “ regulatory account ” means the account aggregating under and over-recovery of the transmission services revenue under a non-price cap regime; “ regulatory period ” means the time period for which EWURA sets the general rules for setting processing, transmission and distribution tariffs; “ tariff period ” means the time during which a particular level of reference price is applicable, which minimum duration is one year and maximum duration is the duration of the regulatory period ; “ transmission ” means delivering of natural gas from processing, re-gasification or storage facilities using pipelines that have a normal operating pressure exceeding 10 bar gauge, special trucks, ships or any other means; “ transmission services ” means the regulated services that are provided by the transmission system operator within the entry-exit system for the purpose of transmission ; “ transmission system operator ” means a legal person who carries out the functions of transmission of natural gas and is responsible for operating, maintaining, and where necessary, developing the transmission system in a given area; “ transmission tariff ” means the tariff determined by EWURA , based on tariff proposals by natural gas transmission pipeline operators; “ wellhead ” means a component at the surface of natural gas well that provides the structural and pressure containing interface for the drilling and production equipment; “ wellhead natural gas price ” means the price for specification natural gas as determined by PURA , relevant agreements or contracts, as the case may be; and “ WMA ” means the Weights and Measures Agency established under the Executive Agency Act . [Cap.340] Part II – The natural gas pricing principles"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Pricing principles",
+      "content": "The natural gas pricing mechanism shall be based on the Act and the following principles— (a) objectivity; (b) cost reflectivity; (c) non-discrimination; (d) prudence of expenditure; (e) economic efficiency; (f) reliability and quality of service; (g) fair return on invested capital; (h) environmental efficiency; and (i) strategic nature of projects. Part III – Tariffs for transmission , nontransmission and distribution services"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part III",
+      "section": "5",
+      "title": "Transmission services",
+      "content": "(1) For the purpose of these Regulations, transmission services shall meet the following criteria— (a) the costs of such service are caused by the cost drivers of both technical or forecasted contracted capacity and distance; (b) the costs of such service are related to the investment in and operation of the infrastructure which is part of the regulated asset base for the provision of transmission services . (2) Transmission services tariffs shall be determined by using the capacity weighted distance methodology. (3) The transmission services revenue shall be recovered by capacity-based transmission tariffs. (4) Notwithstanding the requirement of subregulation (3) , part of the transmission services revenue may be recovered by the following commodity-based transmission tariffs which are set separately from each other— (a) a flow-based charge, which shall comply with all of the following criteria— (i) levied for the purpose of covering the costs mainly driven by the quantity of the gas flow; (ii) calculated on the basis of forecasted or historical flows, or both, and set in such a way that it is the same at all entry points and the same at all exit points; (iii) expressed in monetary terms or in kind; and (b) a complementary revenue recovery charge, which shall comply with all of the following criteria— (i) levied for the purpose of managing revenue under and over-recovery; (ii) calculated on the basis of forecasted or historical capacity allocations and flows, or both; (iii) applied at points other than interconnection points; and (iv) applied after the Authority has made an assessment of its cost-reflectivity and its impact on cross-subsidization between interconnection points and points other than interconnection points. (5) EWURA shall aggregate delivery points annually at the same or close geographical location or zones set at 100 kilometers apart into a single connection point on the same transmission system in the single price."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part III",
+      "section": "6",
+      "title": "Non transmission services",
+      "content": "(1) The non-transmission services revenue shall be recovered by non- transmission tariffs applicable to a given non- transmission service as follows— (a) cost-reflective, non-discriminatory, objective and transparent; or (b) charged to the beneficiary of a given nontransmission service with the aim of minimizing cross-subsidization between network users. (2) Notwithstanding subregulation (1) , where the beneficiary of a given non-transmission service cannot be identified, the costs for such service shall be allocated to all network users."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Distribution services",
+      "content": "Distribution services tariffs shall be determined by the postage stamp methodology ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Reference price methodology",
+      "content": "(1) The primary reference price methodology adopted for use under these Regulations shall be capacity weighted distance methodology and the postage stamp methodology . (2) Notwithstanding the capacity weighted distance methodology and the postage stamp methodology prescribed in these Regulations, EWURA may, in consultation with a Minister and upon expiry of one tariff period from the coming into force of these Regulations, approve any other price reference methodology other than those prescribed in these Regulations. (3) EWURA shall approve other price methodology under subregulation (2) based on the criteria that— (a) the use of the prescribed reference price methodology has proved failure to the satisfaction of EWURA ; or (b) the required information for use in the existing price reference methodology is not available."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Entry-exit split",
+      "content": "(1) EWURA shall set entry-exit split as part of the directive for the entry-exit system. (2) For transmission services , the entry-exit split shall be set by EWURA for each transmission system operator involved. (3) Where the entry-exit split is used as a parameter of the reference price methodology , it shall be derived from the application of formula specified under the First Schedule to these Regulations. (4) Notwithstanding subregulations (2) and (3) , EWURA may apply an entry-exit split other than 50/50 where— (a) it is based on cost drivers such as distance, technical capacity and forecasted contracted capacity; and (b) it fulfils the following minimum objectives; (i) it minimizes cross-subsidization between network users, in particular between cross-border and domestic network users; (ii) it does not create barriers to cross-border trade; and (iii) it avoids differences between the allowed revenue and the actual obtained revenue. (5) Where the entry-exit split is not used as a parameter of the reference price methodology , it shall be derived from the application of formula set out in the First Schedule to these Regulations."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Capacity weighted distance reference price methodology",
+      "content": "(1) The parameters for the capacity weighted distance reference price methodology shall be as follows— (a) the part of the transmission services revenue to be recovered from capacity-based transmission tariffs; (b) the forecasted contracted capacity at each entry point or a cluster of entry points and at each exit point or cluster of exit points; (c) where entry points and exit points can be combined in a relevant flow scenario, the shortest distance of the pipeline routes between an entry point or a cluster of entry points and an exit point or a cluster of exit points; (d) the combinations of entry points and exit points, where some entry points and some exit points can be combined in a relevant flow scenario; and (e) the entry-exit split referred to shall be 50/50. (2) Where entry and exit points cannot be combined in a flow scenario, this combination of entry and exit points shall not be taken into account. (3) The initial or final reference prices, as relevant, shall be derived in the sequential steps as set out in the Second Schedule to these Regulations (4) The reference price methodology to be applied shall be subject to the approval by EWURA and shall be— (a) one of the primary reference methodologies and may be complemented by a secondary adjustment; or (b) reference price methodology other than set out in paragraph (a) of sub-regulation (1) . (5) Where a secondary adjustment is applied after the application of the primary reference price methodology , the result of such methodology shall be the initial reference prices. (6) Where a secondary adjustment is applied only as a step of the primary reference price methodology , the result of such methodology shall be the final reference prices. (7) Secondary adjustments may be applied after the application of the primary reference price methodology and as a step thereof. (8) The same reference price methodology shall apply to all entry and an entry-exit system. (9) EWURA shall, within one year as from the coming into force of these Regulations, issue a recommendation on reference price methodologies other than the ones provided for in this Part as well as relevant parameters and criteria for choosing such methodologies. (10) EWURA shall, within five years from the coming into force of this Regulation, publish a report on the applied reference price methodologies."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Categories of secondary price adjustment",
+      "content": "(1) The categories of the secondary price adjustment shall be— (a) equalization; (b) benchmarking; and (c) storage. (2) In considering a secondary adjustment proposal, the criterion whether a given secondary adjustment better meets the objectives of the applied primary reference price methodology shall be applied."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Equalisation",
+      "content": "(1) The conditions for the application of equalization shall be one of the following— (a) contribute to security of supply; (b) enhance stability of transmission tariffs; (c) foster competition in the retail market; or (d) foster competition and encourage the use of renewable energy. (2) The equalization shall be carried out by applying the same reference price within a homogenous group of network users comprised of the following entry or exit points— (a) entry interconnection points; (b) exit interconnection points; (c) domestic entry points; (d) domestic exit points; (e) entry points to storage facilities; (f) exit points to storage facilities; (g) entry points from LNG facilities; (h) exit points to LNG facilities; and (i) entry points from production facilities."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Benchmarking",
+      "content": "(1) The conditions for the application of secondary price adjustment through benchmarking on a case-by-case basis shall include the following— (a) where there is effective pipeline-to-pipeline competition between the transmission system operators; (b) where the result of the application of the primary reference price methodology is not sufficient for meeting the competitive level of transmission tariffs; and (c) where the result of its application better meets the set out objectives. (2) Benchmarking shall be considered to be applied, where a consultation document includes the following— (a) the justification for applying the benchmarking; and (b) the explanation of the consequences of decreased transmission tariffs for the other transmission tariffs. (3) Subject to subregulations (2) and (5) , benchmarking shall be carried out by EWURA by decreasing transmission tariffs at a given entry or exit point so that the resulting value meets the competitive level of transmission tariffs. (4) Where the forecasted capacity sales at the points at which benchmarking is carried out are not expected to ensure obtaining of the allowed revenue, the transmission tariffs at other entry or exit points may be increased. (5) EWURA upon request of the transmission system operator on tariff or price adjustment may— (a) review the tariff of price submission; (b) reject the tariff or price submission; (c) adjust tariff or price submission; or (d) approve the tariff or price submission and set the price cap. (6) Where there is no price cap regime, the transmission system operator may, at his own initiatives or after consultation with stakeholders, take a decision on carrying out the benchmarking, provided that EWURA is consulted before taking such decision"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Secondary price adjustment",
+      "content": "Where the conditions prescribed under subregulations 12(1) and 13(1) apply, there shall be a secondary adjustment of the natural gas prices."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Storage",
+      "content": "When EWURA sets the reference prices to storage facilities, the following shall be taken into consideration— (a) the net benefits that the storage facilities may provide to the transmission system; (b) the need to promote efficient investment in the transmission system; and (c) the need to minimize detrimental effects on cross-border trade."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Cost allocation test",
+      "content": "(1) The cost allocation test shall be applied to the transmission services revenue and shall be based on the cost drivers derived from— (a) distance; (b) technical capacity; or (c) forecasted contracted capacity. (2) Where commodity-based transmission tariffs referred to in regulation 5 are proposed, the cost allocation test shall also be based on the direction of natural gas flow. (3) The cost allocation test shall demonstrate the degree of cross-subsidisation between domestic and crossborder network users based on the proposed reference price methodology . (4) The cost allocation test shall be carried out taking into consideration of as per formula set out in the Third Schedule to these Regulations. (5) The transmission services revenue to be obtained from domestic users at entry points shall be calculated as follows— (a) the actual amount of capacity attributed to the provision of transmission services to crossborder network users at entry points shall be deemed equal or proportionate to the amount of capacity attributed to the provision of transmission services to cross-border network users at exit points; (b) the amount of capacity determined as set out in paragraph (a) shall be used to calculate the transmission services revenue to be obtained from cross-border network users at entry points; and (c) the difference between the overall transmission services revenue to be obtained at entry points and the resulting value referred to in point (b) shall be equal to the transmission services revenue to be obtained from domestic network users at entry points. (6) Where more than one cost driver is identified as relevant, the combination of such cost drivers shall be used taking into account the following— (a) the total number of cost drivers shall be minimized; (b) the relative importance of all cost drivers shall be demonstrated; and (c) where distance is used as a cost driver , the weighted average distance shall be used. (7) Where the results of the calculation referred to in subregulation (3) exceed ten (10) percent, EWURA shall provide the justification of the decision. (8) Where the reason for such excess originates from the proposed charge referred to in regulation 5 , the value or the application of such charge shall be reviewed so that the results of the calculation referred to in subregulation (3) do not exceed ten percent."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Multi-year tariffs and indicative natural gas prices",
+      "content": "(1) EWURA shall, at least once in every three (3) years, and three (3) months before the end of the prescribed term issue distribution, transmission and nontransmission tariffs. (2) EWURA shall, in every six months issue indicative natural gas prices for domestic market . Part IV – Natural gas pricing mechanism"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Natural gas price for domestic market",
+      "content": "(1) The following customers shall constitute domestic market — (a) power generation customers; (b) commercial and non-commercial institutional customers; (c) industrial heating customers; (d) feedstock customers; (e) transport sector; and (f) residential customers. (2) The natural gas price formula for domestic market shall consist of the wellhead natural gas price , processing and transmission tariff , distribution tariff , supply and marketing margins defined as follows— DP = W + P + T + D + M Where, DP means the delivered natural gas price (US$/MMBtu or equivalent), regulated by EWURA ; W means the wellhead natural gas price (in US$/MMBtu or equivalent), approved by PURA ; means the natural gas processing tariff (in US$/MMBtu or equivalent), approved by EWURA ; T means the natural gas transmission tariff (in US$/MMBtu or equivalent), approved by EWURA ; D means the natural gas distribution tariff (if any) in US$/MMBtu, approved by EWURA . In case of CNG, the distribution tariff shall include costs related to compressor station; and M means the natural gas supply, marketing and investment margins (in US$/MMBtu), approved by EWURA . (3) EWURA shall review the margins payable to the transmission system operators, including for future investments. The margins shall be calculated as the nominal Weighted Average Cost of Capital (WACC) of the trader will be the margin, since all other expenses are allowed as a pass-through. (4) The natural gas prices for domestic market shall be calculated in US dollars but paid for in equivalent Tanzania Shillings. The exchange rate from US dollars to Tanzania Shillings shall be the mean rate as published by the Bank of Tanzania on the invoice date."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Pricing of wellhead natural gas",
+      "content": "(1) The natural gas wellhead price that producers charge eligible and non- eligible customers of the domestic market shall include— (a) exploration cost; (b) development costs; (c) production costs; and (d) reasonable profit margin. (2) The costs shall include depreciation of existing and new investments and specific capital reinvestments necessary to continue the same activities. (3) The aggregator shall pool the wellhead prices from different producers and calculate a single wellhead price for all its customers in accordance with the formula in the Fourth Schedule to those Regulations. (4) PURA shall review and approve the wellhead price proposed by the aggregator under subregulation (3) . (5) In determining natural gas wellhead prices, PURA shall, review and approve the proposals made by the producer. (6) The terms, conditions and procedures defined by PURA shall specify the parameters to be adjusted for each activity. (7) The determination of natural gas wellhead prices shall be done annually. (8) PURA shall determine and publish the natural gas wellhead prices for domestic market through a notice in the Gazette . (9) An identical natural gas wellhead price, excluding taxes and levies, shall be applied by aggregator to the supply of all eligible and non-eligible domestic customers. (10) Notwithstanding the provisions of subregulation (9) , eligible customers may negotiate and agree on wellhead price with upstream natural gas producers."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Connection charges",
+      "content": "Natural gas distribution operators shall submit the connection charges to EWURA for approval."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Determination of margins",
+      "content": "(1) During tariff application process, the natural gas operators shall propose and submit to EWURA the supply, marketing and future investment margins. (2) In approving the supply, marketing and future investment margins, EWURA shall take into consideration the type of customer, volume of natural gas consumed, level of investment and government policy. (3) Margins for CNG customers shall comprise of investment and costs related to CNG supply facilities. (4) In approving the margins under subregulation (2) , EWURA shall indicate a portion that goes to marketing and future investment. (5) EWURA on its own motion may cause a review of the supply, marketing and future investment margins."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Price review",
+      "content": "EWURA may review delivery price of natural gas sold to customers annually to ensure the price reflects prevailing natural gas market conditions."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Disputes settlement",
+      "content": "(1) A customer shall refer to the Authority any dispute arising from or out of the application of these Regulations, for determination purposes. (2) A person aggrieved by a decision made by the Authority under subregulation (1) may lodge an appeal to the Fair Competition Tribunal within 21 days from the date of the determination."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Publication of natural gas prices",
+      "content": "Within a month following the final decision on indicative natural gas prices, EWURA shall publish the approved natural gas prices in widely circulated newspapers in both Kiswahili and English languages. Part V – Offences and penalties"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Prohibited acts",
+      "content": "(1) A person shall not— (a) manipulate the market natural gas price at the detriment of the rights and interests of other licensees or consumers; (b) supply natural gas at lower-than-the-cost reflective price with the intention to disrupt the normal production and management order to the detriment of the public interests; (c) manipulate natural gas price approved by EWURA ; (d) lure consumers or other operators to conclude transactions by employing falsified or misleading natural gas pricing means; (e) practice natural gas price discrimination towards other customers; or (f) procure, sell commodities or provide services at prices raised or reduced in disguised form by adopting such means as raising or lowering the grade. (2) A person who contravenes the provisions of this regulation commits an offence, and shall on conviction, be liable in accordance with the provisions of sections 240 and 241 of the Act . Part VI – Monitoring and enforcement"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part VI",
+      "section": "26",
+      "title": "Price supervision and inspection by EWURA",
+      "content": "(1) EWURA shall conduct supervision and inspection on natural gas prices and where is necessary, take appropriate action against any violation. (2) In conducting price supervision and inspection, EWURA may exercise the following powers to— (a) inquire from any person or demand any document, information, material or testimony relating to inquiry; (b) inspect the books of accounts, invoices, vouchers, documents and other materials relating to the matter under inquiry; (c) investigate the properties of any person under inquiry; (d) order suspension of the licensee ’s activities relating to inquiry; and (e) register in advance for safekeeping any evidence which may be destroyed, lost or difficult to obtain."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VI",
+      "section": "27",
+      "title": "Price supervision and inspection by PURA",
+      "content": "(1) PURA shall conduct supervision and inspection on natural gas wellhead prices and take appropriate action against any violation. (2 ) In conducting price supervision and inspection, PURA shall have the following powers of— (a) monitoring and evaluating performance in petroleum activities including investment, cost of services, regularity of outputs and availability of crude oil and natural gas for domestic supply; (b) ascertaining the cost of oil and natural gas due to licence holder and other contractors; (c) conducting audit in relation to costs on exploration, development and production; (d) summoning any person to produce or provide any information that PURA may require in discharging its duties or functions; and (e) doing all things which are necessary or desirable to give effects of the provisions of these Regulations. Part VII – Quality and quantity of natural gas"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VII",
+      "section": "28",
+      "title": "Quality and quantity of natural gas",
+      "content": "(1) All natural gas delivered or to be delivered by shipper at entry point for distribution through natural gas distribution network by licensee shall conform to natural gas parameters as per applicable specifications and range of natural gas composition as declared by Tanzania Bureau of Standards. (2) All natural gas entering natural gas distribution networks shall be within the range of natural gas distribution operating pressure and temperature for it to flow in distribution network. (3) WMA shall conduct legal metrological control on natural gas quantity at metering stations. (4) All natural gas introduced into a pipeline transmission and distribution system shall be of a quality consistent with the qualities provided by a competent body responsible for setting out standards for natural gas. (5) EWURA shall monitor natural gas quality and standards, as well as promote reliability and affordability of natural gas. Part VIII – General provisions"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VIII",
+      "section": "29",
+      "title": "Rules and guidelines",
+      "content": "(1) Subject to section 259 of the Act PURA and EWURA may make rules and guidelines for better implementation of these Regulations. (2) PURA and EWURA may, in consultation with relevant institutions, issue guidelines with respect to— (a) price calculation methodologies, as part of Natural Gas Network Codes; and (b) forms prescribed under these Regulations. Part IX – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IX",
+      "section": "30",
+      "title": "General offences",
+      "content": "(1) A person who contravenes the provisions of these Regulations or fails to do any act for which no specific penalty is prescribed, commits an offence, and on conviction shall be liable for a fine not less than twenty million shillings. (2) Notwithstanding subregulation (1) , any licensee who fails to comply with an order of suspension in relation to any regulated business, transfers, conceals or destroys properties registered for safekeeping in accordance with these Regulations commits an offence of economic and organized crime prescribed under section 240 (4) of the Act."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IX",
+      "section": "31",
+      "title": "Revocation and savings",
+      "content": "(1) The Petroleum (Natural Gas Pricing) Regulations, 2016, are hereby revoked. (2) Notwithstanding the revocation of the Petroleum (Natural Gas Pricing) Regulations, 2016, all orders, exemptions or directives made, issued or deemed to have been made or issued under those Regulations shall be deemed to have been made under these Regulations, and shall remain in force until specifically revoked by direct reference or otherwise expire or cease to have effect. (3) All existing Gas Sales Agreements shall remain in force but parties thereof may agree to re-negotiate the Agreements to align them with the provisions of these Regulations. [GN. No. 285 of 2016] First Schedule (Made under regulation 9(3) and (5)) The entry-exit split is used as a parameter of the primary cost allocation methodolgy Where the entry-exit split is used as a parameter of the primary cost allocation methodology, the initial or final reference prices, as relevant, shall be calculated from the following formula— Where, TEn is the reference price at entry points; TEx is the reference price at exit points; R ∑En is the part of the distribution network services revenue to be recovered from capacity-based transmission tariffs at all entry points; R∑Ex is the part of the transmission network services revenue to be recovered from capacity-based distribution network tariffs at all exit points; FC ∑En is the forecasted contracted capacity at all entry points; and FC ∑Ex is the forecasted contracted capacity at all exit points. The entry-exit split is not used as a parameter of the primary cost allocation methodolgy Where the entry-exit split is not used as a parameter of the primary cost allocation methodology, the initial or final reference prices, as relevant, shall be calculated from the following formula— where, TEn, Ex is the reference price at entry and exit points; R ∑En , Ex is the part of the transmission services revenue to be recovered from capacitybased transmission tariffs at all entry and exit points; FC ∑En is the forecasted contracted capacity at all entry points; and FC ∑Ex is the forecasted contracted capacity at all exit points. Second Schedule (Made under regulation 10(3)) The capacity weighted distance methodology 1. The initial or final reference prices, as relevant, Shall be derived from the following Sequences— (i) for an entry point, as the Sum of the products of capacity at each exit point and the distance from this entry point to each exit point, divided by the Sum of capacities at each exit point— where, AD En is the weighted average distance for an entry point; CAP Ex is the forecasted contracted capacity at an exit point; and D En , Ex is the distance between a given entry point and a given exit point. (ii) for an exit point, as the Sum of the products of capacity at each entry point and the distance to this point from each entry point, divided by the Sum of capacities at each entry point— where, AD Ex is the weighted average distance for an exit point; CAP En is the forecasted contracted capacity at an entry point; and DEn, Ex is the distance between a given entry point and a given exit point. 2. Calculate the weight of cost for each entry point or each cluster of entry points and for each exit point or each cluster of exit points in accordance with the following respective formulas— where, Wc, En is the weight of cost for a given entry point or a cluster of entry points; Wc, Ex is the weighted average distance for an entry point or a cluster of entry points; AD Ex is the forecasted contracted capacity at an exit point or a cluster of exit points; CAP En is the forecasted contracted capacity at an entry point or a cluster of entry points; CAP Ex is the forecasted contracted capacity at an exit point or a cluster of exit points. 3. Identify the part of the transmission Services revenue to be recovered from capacitybased transmission tariffs at all entry points and the part of the transmission Services revenue to be recovered from capacity-based transmission tariffs at all exit points by applying the entry-exit Split. 4. Calculate the part of the transmission Services revenue to be recovered from capacitybased transmission tariffs at each entry point or each cluster of entry points anf foe each exit point or each cluster of exit points in accordance with the followingrespective formulas— R En =W c , En ×R ∑En R Ex =W c , Ex ×R ∑Ex where, R En is the weight of cost for a given entry point or a cluster of entry points; R Ex is the weight of cost for a given exit point or a cluster of exit points; W c, En is the part of the transmission Services revenue W c Ex is the part of the transmission Services revenue to be recovered from capacity-based transmission tariffs at an exit point or a cluster of exit points; R ∑En is the part of the transmission Services revenue to be recovered from capacity-based transmission tariffs at all entry points; and R ∑Ex is the part of the transmission Services revenue to be recovered from capacity-based transmission tariffs at all exit points to be recovered from capacity-based transmission tariffs at an entry point or a cluster of entry points; 5. Divide the resulting values referred to in point (4) above by the forecasted contracted capacity at each entry point or each cluster of entry points and at each exit point or each cluster of exit points in accordance with the following respective formulas— where, T En is the reference price at an entry point or each entry point within a cluster of entry points; T Ex is the reference price at an exit point or each exit point within a cluster of exit points; R En is the weight of cost for a given entry point or a cluster of entry points; R Ex is the weight of cost for a given exit point or a cluster of exit points; FC ∑En is the forecasted contracted capacity at an entry point or a cluster of entry points; and FC ∑Ex is the forecasted contracted capacity at an exit point or a cluster of exit points. Third Schedule (Made under regulation 16(4)) Cost allocation test 1. The transmission services revenue to be obtained from domestic network users at both entry and exit points shall be divided by the value of the relevant cost driver(s) for domestic network users in accordance with the following formula— where, R DM is the revenue from domestic network users; and CD DM is the value of cost driver(s) for domestic network users. 2. The transmission service revenue to be obtained from cross-border network users at both entry and exit points shall be divided by the value of the relevant cost driver(s) for crossborder network users in accordance with the following formula— where, R CB is the revenue from cross-border network users; and CD CB is the value of cost driver(s) for cross-border network users. 3. The correlation between the ratios referred to in points (1) and (2) shall be calculated in accordance with the following formula— Fourth Schedule (Made under regulation 19(3)) Pooling of wellhead natural gas prices 1. The mechanism for arriving to the weighted average well head natural gas price has two steps. The first step involve validating the volumes and prices per each gas field as outlined below— (a) GF1 is gas field 1, with V1 as projected volume for domestic gas and P1 as the projected price for domestic gas negotiated by the parties and approved by PURA; (b) GF2 is gas field 2, with V2 as projected volume for domestic gas and P2 as the projected price for domestic gas negotiated by the parties and approved by PURA; and (c) GF3 is gas field 3, with V3 as projected volume for domestic gas and P3 as the projected price for domestic gas negotiated by the parties and approved by PURA. 2. Derivation of uniform delivered pool price of weighted average natural gas price for all natural gas fields— where, WAP is the weighted average price of natural gas P1 is the natural gas price for gas field 1 negotiated by the parties and approved by PURA; P2 is the natural gas price for gas field 2 negotiated by the parties and approved by PURA; P3 is the natural gas price for gas field 3 negotiated by the parties and approved by PURA; V1 is the projected volume of domestic natural gas from gas field 1; V2 is the projected volume of domestic natural gas from gas field 2; and V3 is the projected volume of domestic natural gas from gas field 3. History of this document 31 December 2021 amendment not yet applied Amended by Petroleum (Natural Gas Pricing) (Amendment) Regulations, 2021 15 May 2020 this version Published in Gazette of the United Republic of Tanzania 20 Commenced 04 May 2020 Assented to Related documents Revokes Petroleum (Natural Gas Pricing) Regulations, 2016 Is amended by Petroleum (Natural Gas Pricing) (Amendment) Regulations, 2021 More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Petroleum Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "CNG",
+      "definition": "a natural gas, predominantly methane (CH4) that has been compressed to less than one percent of its volume it occupies at standard atmospheric pressure and stored in a high-pressure container, usually at 20.684 to 24.821 MPa",
+      "source_provision": "s3"
+    },
+    {
+      "term": "cost driver",
+      "definition": "the factor of the transmission system operator ’s activity which is correlated to the costs of such transmission system operator , such as distance, technical capacity or forecasted contracted capacity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "consultation document",
+      "definition": "the document prepared by EWURA inviting the public for comments and views on the draft document",
+      "source_provision": "s3"
+    },
+    {
+      "term": "distribution tariff",
+      "definition": "a fee determined by EWURA based on fee proposals by local distribution operators. The distribution fee calculation is similar to the transmission tariff calculation, which includes coverage of construction and operation costs and appropriate margins and taxes",
+      "source_provision": "s3"
+    },
+    {
+      "term": "domestic market",
+      "definition": "the market which involves utilization of natural gas for power generation, industrial heating, household, transportation, commercial and non-commercial institutions and feedstock for petrochemicals industries within the country",
+      "source_provision": "s3"
+    },
+    {
+      "term": "eligible customers",
+      "definition": "all industrial or commercial customers, who purchase natural gas directly from natural gas producers",
+      "source_provision": "s3"
+    },
+    {
+      "term": "end user prices",
+      "definition": "the retail prices that natural gas consumers pay to local distributors",
+      "source_provision": "s3"
+    },
+    {
+      "term": "entry point",
+      "definition": "a point into an entry-exit system, either from an adjacent entry-exit system or from an LNG facility, production facility, storage facility, distribution network or from a third country, that is subject to network tariffs",
+      "source_provision": "s3"
+    },
+    {
+      "term": "exit point",
+      "definition": "a point out of an entry-exit system either into another entry-exit system or into a distribution network, storage facility, transmission -connected consumer or to a third country, that is subject to network tariffs",
+      "source_provision": "s3"
+    },
+    {
+      "term": "EWURA",
+      "definition": "the Energy and Water Utilities Regulatory Authority established under section 4 of the Energy and Water Utilities Regulatory Authority Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "legal metrological control",
+      "definition": "legal control of measuring instruments or systems, metrological supervision and metrological expertise",
+      "source_provision": "s3"
+    },
+    {
+      "term": "licensee",
+      "definition": "a holder of a licence granted by the Minister or EWURA under the Act or other person undertaking regulated activity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "LNG facility capacity",
+      "definition": "capacity at an LNG terminal for the liquefaction of natural gas or the importation, offloading, ancillary services, temporary storage and re-gasi fication of LNG",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Metering station",
+      "definition": "an assembly of metering instrument or systems dedicated to determination of measured quantities",
+      "source_provision": "s3"
+    },
+    {
+      "term": "national grid",
+      "definition": "the interconnected electricity transmission network to which the largest cumulative capacity of the national electricity generating facilities are connected",
+      "source_provision": "s3"
+    },
+    {
+      "term": "natural gas processing",
+      "definition": "removal of condensate, cryogenic operations to extract butane, propane and natural gas liquids (NGLs), impurities and water",
+      "source_provision": "s3"
+    },
+    {
+      "term": "non-transmission service tariff methodology",
+      "definition": "the methodology applied to the associated nontransmission services revenue with the aim of deriving a tariff for a given non- transmission service",
+      "source_provision": "s3"
+    },
+    {
+      "term": "non-transmission services",
+      "definition": "the regulated services other than transmission services that are provided by the transmission system operator and shall include natural gas processing , compression, storage, liquefaction and re-gasification",
+      "source_provision": "s3"
+    },
+    {
+      "term": "postage stamp methodology",
+      "definition": "the most straightforward of all cost allocation methodology that supports the entry-exit access methodology",
+      "source_provision": "s3"
+    },
+    {
+      "term": "reference price methodology",
+      "definition": "the methodology applied to the part of the transmission services revenue to be recovered from capacity-based transmission tariffs with the aim of deriving reference prices",
+      "source_provision": "s3"
+    },
+    {
+      "term": "regulatory account",
+      "definition": "the account aggregating under and over-recovery of the transmission services revenue under a non-price cap regime",
+      "source_provision": "s3"
+    },
+    {
+      "term": "regulatory period",
+      "definition": "the time period for which EWURA sets the general rules for setting processing, transmission and distribution tariffs",
+      "source_provision": "s3"
+    },
+    {
+      "term": "tariff period",
+      "definition": "the time during which a particular level of reference price is applicable, which minimum duration is one year and maximum duration is the duration of the regulatory period",
+      "source_provision": "s3"
+    },
+    {
+      "term": "transmission",
+      "definition": "delivering of natural gas from processing, re-gasification or storage facilities using pipelines that have a normal operating pressure exceeding 10 bar gauge, special trucks, ships or any other means",
+      "source_provision": "s3"
+    },
+    {
+      "term": "transmission services",
+      "definition": "the regulated services that are provided by the transmission system operator within the entry-exit system for the purpose of transmission",
+      "source_provision": "s3"
+    },
+    {
+      "term": "transmission system operator",
+      "definition": "a legal person who carries out the functions of transmission of natural gas and is responsible for operating, maintaining, and where necessary, developing the transmission system in a given area",
+      "source_provision": "s3"
+    },
+    {
+      "term": "transmission tariff",
+      "definition": "the tariff determined by EWURA , based on tariff proposals by natural gas transmission pipeline operators",
+      "source_provision": "s3"
+    },
+    {
+      "term": "wellhead",
+      "definition": "a component at the surface of natural gas well that provides the structural and pressure containing interface for the drilling and production equipment",
+      "source_provision": "s3"
+    },
+    {
+      "term": "wellhead natural gas price",
+      "definition": "the price for specification natural gas as determined by PURA , relevant agreements or contracts, as the case may be",
+      "source_provision": "s3"
+    },
+    {
+      "term": "WMA",
+      "definition": "the Weights and Measures Agency established under the Executive Agency Act . [Cap.340] Part II – The natural gas pricing principles",
+      "source_provision": "s3"
+    }
+  ]
+}

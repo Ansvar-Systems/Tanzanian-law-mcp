@@ -1,0 +1,353 @@
+{
+  "id": "tz-act-gn-2018-16",
+  "type": "statute",
+  "title": "Electronic Tax Stamps Regulations, 2018",
+  "title_en": "Electronic Tax Stamps Regulations, 2018",
+  "short_name": "Electronic Tax Stamps Regul...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/2018/16/eng@2018-02-02",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Regulations may be cited as the Electronic Tax Stamps Regulations, 2018."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Application",
+      "content": "These Regulations shall apply to Mainland Tanzania as well as Tanzania Zanzibar."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "In these Regulations, unless the context otherwise requires— \" Act \" means the Excise (Management and Tariff) Act, Cap. 147; [Cap. 147] \" Authorised officer \" means an officer whose duty is to perform the functions authorised by the Commissioner-General to perform any functions under the Act and in these Regulations; and shall include any officer from licensing authorities or any public officer duly authorised in writing to perform such functions; [Cap. 399] \" Authority \" means the Tanzania Revenue Authority established by section 4 of the Tanzania Revenue Authority Act , Cap. 399; \" Commissioner \" means the Commissioner-General appointed under section 16 of the Tanzania Revenue Authority Act ; \" Contractor \" means a person appointed by the Commissioner to supply, install, configure, test, commission, support and maintain the System and do any other things as may be directed by the Commissioner ; \" electronic tax stamp \" means an adhesive label used to collect taxes on excisable goods which uses advanced digital coding technology printed or affixed direct on the product packaging; \" importer \" means a person registered by a licensing authority as an importer to import excisable goods specified under these Regulations; \" licensing authority \" means an institution empowered to issue licenses to various dealers, producers, manufacturers and importers of excisable goods; \" manufacturer \" means a person licensed to manufacture excisable goods specified in these Regulations; \" Minister \" means the Minister responsible for finance; \" package \" means a packet, bottle or similar retail unit of excisable goods specified in these Regulations; \" printer \" means a person appointed by the Commissioner to print and supply electronic tax stamps; \" producer \" means a person licensed to produce excisable goods specified in these Regulations; \" stamp \" means an electronic tax stamp ; \" System \" means an Electronic Tax Stamps Management System and its components which enables ordering of stamps, application of stamps on excisable goods, storing of information, producing reports, transmitting data from production line to the Tanzania Revenue Authority , activation of stamps, tracking and tracing, authentication of products and production monitoring; \" user \" means a manufacturers, producer , importers and staff of Tanzania Revenue the Authority ;"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Excisable goods to be affixed with stamps",
+      "content": "A package of excisable goods, specified in the First Schedule manufactured or produced in or imported into the United Republic of Tanzania shall be affixed with a stamp of a type and in a manner specified by the Commissioner ."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Features of stamps",
+      "content": "A stamp required to be affixed under regulation 4 shall be of such specifications as— (a) to deter counterfeiting; (b) to facilitate tracking and tracing of the stamps and excisable goods along the supply chain; (c) to enable accounting for the production of excisable goods manufactured, produced or imported; (d) to enable monitoring of excisable goods; and (e) to facilitate persons in the supply chain to authenticate the stamps and excisable goods."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Stamps fee",
+      "content": "(1) A manufacturer , producer and an importer shall purchase stamps from the contractor at a prescribed fee. (2) The fee under sub regulation (1) shall be prescribed by the Commissioner."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Application for registration",
+      "content": "(1) A person shall not manufacture, produce, import, or engage in business of, excisable goods for which a stamp is required to be affixed in accordance with these Regulations, unless that person is registered by the Commissioner . (2) A person referred to under sub regulation (1) shall be required to apply to the Commissioner using Form 1 set out in the Second Schedule to these Regulations. (3) The Commissioner shall register manufacturers, producers and importers of excisable goods specified under these Regulations subject to such conditions as he may deem necessary. (4) A person who is engaged in the business of manufacturing, producing or importing excisable goods under these Regulations shall be issued with a Certificate set out in the Third Schedule to these Regulations."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Licensing",
+      "content": "A person shall not import, manufacture or produce excisable goods unless that person is licensed by the respective licensing authority ."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Types of stamps",
+      "content": "(1) The design and specifications of the stamps, shall be as may be determined by the Authority and may be changed at any time depending on the supply of stamps required for specific categories of excisable goods. (2) Subject to sub regulation (1) , different types of stamps shall be determined according to the specific categories of excisable goods as follows— (a) stamps for imported excisable goods shall be Green in colour; (b) stamps for locally manufactured excisable goods shall be Blue in colour; and (c) stamps or digital coding printed or affixed directly on the product packaging of excisable goods"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Application of stamps",
+      "content": "(1) A manufacturer or importer shall apply to the Commissioner for stamps in the prescribed Form 2 set out in the Fourth Schedule to these Regulations. (2) An application made under sub regulation (1) shall be submitted to the Commissioner at least ninety days prior to the manufacture or importation the goods. (3) A manufacturer , or importer shall pay for stamps upon approval by the Commissioner . (4) In the case of imported goods, the Commissioner may require evidence of importation before issuance of stamps. (5) Notwithstanding sub regulation (4) , the Commissioner shall subject to such conditions as he may specify, allow delivery of stamps to an importer before importation."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Forecast of consumption",
+      "content": "(1) The manufacturer or importer , as the case may be, shall provide to the Commissioner at least ninety days notice, before the beginning of every financial year, a forecast of quantities of stamps which the manufacturer or importer intends to use in the subsequent year."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Appointment",
+      "content": "(1) Subject to the law regulating public procurement, the Commissioner shall appoint a person to— (a) design, develop, install, configure, test, commission, support and maintain the system; (b) print and deliver stamps; and (c) install, configure, test, commission, support, maintain any other related systems or its sub-system. (2) A person appointed under sub regulation (1) shall not print any stamps required under these Regulations unless requested by the Commissioner to do so."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Delivery of stamps",
+      "content": "(1) The Commissioner may, where necessary and subject to such conditions as he may impose, require the printer to deliver stamps directly to a manufacturer or importer . (2) The printer shall notify the Commissioner of the quantity and type of the stamps supplied under sub regulation (1) ."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Place and time of affixing stamps",
+      "content": "(1) Stamps shall be affixed on excisable goods— (a) in case of locally manufactured goods, in the production facility immediately after packaging; (b) in the case of imported goods, in a place approved by the Commissioner within fourteen days upon clearance from customs for home use; and (c) in any other case, at a place appointed by the Commissioner . (2) Notwithstanding sub regulation (1)(b) , the Commissioner may allow stamps on imported excisable goods to be affixed in the production facility in the exporting country subject to such conditions as the Commissioner may specify. (3) Excisable goods shall not be removed from production facility prior to affixing stamps."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Return of transfer of stamps",
+      "content": "(1) A manufacturer , producer or importer shall return unused stamps to the Commissioner when— (a) a manufacturer or producer stops manufacturing or producing; (b) there are defects in the stamp sheets, coding or reels; (c) an importer fails to import; and (d) the stamps are declared out of use by the Commissioner . (2) The Commissioner shall refund to a manufacturer , producer or importer of excisable goods, within sixty days, the money paid as fees on the returned stamps specified only under sub regulation (1)(d) ."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Stamp accounting, allowance for wastage and damages",
+      "content": "(1) Damaged stamps shall be preserved for verification by an authorised officer. (2) A manufacturer or importer shall be required to account for stamps use on monthly basis. (3) Where a manufacturer or importer cannot account for the stamps issued to him by the Commissioner , the Commissioner shall compute excise duty and other taxes on the unaccounted stamps based on the highest excise rate of excise duty, value and volume of excisable goods manufactured or imported by that manufacturer or importer . (4) In computing excise duty on account of unaccounted stamps, the Commissioner shall allow wastage and damages not exceeding one percent of the issued stamps."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Transfer of stamps",
+      "content": "(1) A manufacturer , producer or importer may, with prior approval of the Commissioner , transfer stamps in stock to another manufacturing or producing facility owned by the same manufacturer , producer or importer . (2) The Commissioner shaII prescribe the procedure and conditions for transfer and accounting of stamps under this regulation. (3) A manufacturer , producer or importer who transfers stamps without prior approval of the Commissioner commits an offence."
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Installation of the system",
+      "content": "(1) A manufacturer , producer or importer of excisable goods specified in these Regulations shall facilitate the installation, configure, test, support and maintain the System in the manufacturing, production or importation facility in accordance with these Regulations. (2) A manufacturer , producer or importer shall bear the cost of stamps, applications, adjustments and adaptations of their equipment and premises necessary to install the System on each production line."
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Composition of the system",
+      "content": "A System installed under regulation 18 shall be composed of— (a) stamps authentication and validation equipment; (b) device for identification and association of each package with individual stamp ; (c) production accounting equipment; and (d) device for the control, registration, recording and transmission of data on the quantities of excisable goods to the Commissioner ."
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Marking of product packages",
+      "content": "The Commissioner shall require the excisable goods to be conspicuously marked by the System on each package , as appropriate for the type of package , by a process of affixing stamp or printing with legible and indelible security ink, with codes that shall enable authentication, production accounting, track and trace of excisable goods."
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Integration",
+      "content": "The installation, integration, preventive and corrective maintenance procedures of all the equipment comprising the System at the manufacturers' producers' or importers' premises or production facility shall be done by the contractor under the supervision of an authorised officer."
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Development and supervision",
+      "content": "The Commissioner shall be responsible for— (a) defining the functional, security and fiscal control requirements to be observed by the contractor in developing the System ; and (b) supervising and monitoring the process of installing the System ."
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Installation of equipment and devices",
+      "content": "(1) A System shall be installed on all production lines at the manufacturers' or producers' production facility or at the customs controlled area for importers, corresponding to each packaging and labelling machine. (2) The System for management of— (a) imports; and (b) locally manufactured excisable goods, shall be installed in a manner prescribed by the Commissioner ."
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Notice of installation",
+      "content": "(1) A manufacturer , producer or an importer shall be notified in writing by the Commissioner at least thirty days in advance regarding— (a) the requirements for the equipment to faciletate use of the System ; (b) the adaptive features required, on each production line; (c) the connectivity features and operating environment for the installation and operation of computers and other equipment comprising the System ; (d) the starting date of installation of the System . (2) Where a manufacturer , producer or importer is required to carry out adjustments or to provide information required by the Commissioner for the installation of the System , the manufacturer , producer or importer shall carry out the adjustments or provide the information at least seven days before the starting date for installation of the System ."
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Manufacturer and importer to avail production lines",
+      "content": "(1) During the installation of the System , the manufacturer , producer or importer shall make production lines available in operating conditions. (2) A manufacturer , producer or an importer shall provide premises for affixing stamps on excisable goods. (3) The premises mentioned in sub regulation (2) shall be approved by the Commissioner."
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Sealing of equipment and devices",
+      "content": "(1) After installation of the System on each production line, the contractor shall list in a specific format the pieces of equipment making up the System , one copy of which shall be delivered to the manufacturer , producer or importer and to the Commissioner . (2) The authorised officer shall secure the System in the presence of the contractor, manufacturer , producer or importer by using security seals."
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Manufacturer, producer and importer to report",
+      "content": "(1) A manufacturer , producer or importer shall report inoperative production lines, within six hours of inoperative production lines occurrence of defects or malfunction of the System to the Commissioner who shall secure the lines using a security seal and register the action in the System . (2) The production lines referred under sub regulation (1) shall not resume operation or be reactivated except with the approval of the Commissioner. (3) It shall be the duty of the contractor to repair any defects or malfunction of the System within forty eight hours after receipt of the report under sub regulation"
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Security of equipment",
+      "content": "(1) A manufacturer , producer or importer shall be responsible for the security of the System installed in his premises. (2) A manufacturer , producer or importer shall report to the contractor and the Commissioner any malfunctioning of the System or tamper of the security seals within six hours."
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Effecting date for lise of system",
+      "content": "The Commissioner shall, through a public notice in at least two daily newspapers with wide circulation, declare the date when the System shall come into operation."
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Maintenance of system",
+      "content": "(1) Maintenance of the System shall be performed by a contractor and shall be under supervision of an authorised officer. (2) A contractor shall provide to the Commissioner a list of technicians authorised to carry out installation or maintenance of the System ."
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Obligation of contractor to train",
+      "content": "A contractor shall— (a) train a user on the best way of administering, runnmg or operationalising the System ; and (b) transfer the technology to the Authority ."
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Advance report on new product",
+      "content": "A manufacturer or importer shall— (a) declare to the Commissioner packages and labels of a new product manufactured, produced or imported including those for export and duty free; (b) declare to the Commissioner , at least thirty days in advance the beginning of production of new product of goods or any change in the graphic art of existing ones, together with the corresponding packages and labels; and (c) apply at least thirty days to the Commissioner for installation or removal of the System , as the case may be, in the occurrence of the following events— (i) reactivation of inoperative production lines; (ii) deactivation of production lines; (iii) repair, maintenance and reallocation of production lines; (iv) installation of new production lines; and (v) acquisition or sale of industrial machinery and equipments."
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Marking of duty free products and packages",
+      "content": "(1) Packages excisable goods for export specified in these Regulations shall bear distinct markings to enable tracking and tracing of goods. (2) The material wrapping for the package for exports shall be printed the name of a country of final destination."
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "Tax exemption",
+      "content": "Excisable goods— (a) imported in transit to a foreign destination; and (b) with approval of the Commissioner of Customs, imported into Tanzania as samples or by international mail, with no commercial value, shall be exempted from excise duty."
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Verification of stamp",
+      "content": "A manufacturer , producer , importer , distributor, retailer or any other person involved in the supply chain of excisable goods, shall verify and authenticate the stamps and excisable goods before admitting them in their premises or in any way handle the goods."
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Prohibition of offences",
+      "content": "(1) A person who— (a) imports any excisable goods without being registered with the Commissioner in accordance with these Regulations; (b) fails to maintain stamp register or records as the Commissioner may prescribe; (c) fails to affix stamp on the package of excisable goods in a secure manner as the Commissioner may prescribe; (d) prints over or defaces stamp affixed on a package ; (e) submits a return that is incorrect; (f) fails to furnish any information as the Commissioner may require; (g) is found in possession of excisable goods on which the stamps have not been affixed and which are not exempted under these Regulations; (h) attempts to acquire or acquires stamp without authority from the Commissioner ; (i) counterfeits, or prints, makes or in any way creates stamp without the authority of the Commissioner ; (j) is found in possession of stamp printed, made or in any way acquired without the authority of the Commissioner ; and (k) is found in possession of. conveys, distributes, sells, offers for sale or by way of trade expose excisable goods without affixing stamps in accordance with these Regulations, is guilty of an offence. (2) A person who contravenes the provisions of sub regulation (1) , commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or, to a fine not less than five million shillings and not exceeding fifty million shillings, or to both."
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "General penalty",
+      "content": "A person who commits an offence under these Regulations for which no specific penalty is provided for shall on conviction, be liable to imprisonment for a term not exceeding twelve months or to a fine not exceeding five million shillings, or to both such fine and imprisonment."
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "Seizure of stamps equipment and goods",
+      "content": "The Commissioner shall seize stamps, equipment and goods where— (a) stamps are— (i) counterfeited; (iii) subject to return and manufacture or importer fails to return the stamps; or (iii) found in the possession of persons other than to whom they have been supplied; [Please note: Numbering as in original.] (b) the equipment or plant is used in the manufacture of counterfeit stamps; and (c) the goods— (i) bear counterfeited stamps; (ii) bear stamps affixed in a manner not consistent with the guidelines prescribed by the Commissioner ; and (iii) do not bear stamps as required in accordance with these Regulations."
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "Disposal of seized goods forfeited stamp etc",
+      "content": "Any excisable goods, stamps and equipment which are seized under these Regulations shall be disposed in a manner prescribed in the Act ."
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "Commissioner ’s power to suspend",
+      "content": "(1) Where circumstances arise which stops or limits the availability of stamps, the Commissioner shall have the power to suspend these Regulations and the Commissioner shall provide guidance on how to deal with such a situation. (2) The suspension of the applicability of these Regulations by the Commissioner under sub regulation (1) shall be published in the local newspaper with wide circulation."
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Financial regulations",
+      "content": "(1) The implementation of electronic tax stamping and marking shall be done on the basis of self financing arrangement to be administered by the Commissioner . (2) For purposes of carrying out the function under sub regulation the Commissioner shall receive and deposit in a designated bank account all the financial proceeds made by manufacturers, producers and importers of excisable goods and use the proceeds for purposes of implementing these Regulations or any related tax law."
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "Minister ’s power to amend, vary, add or replace",
+      "content": "The Minister may, in consultation with the Commissioner , by order published in the Gazette , amend, vary, add or replace these Regulations or any Schedule to these Regulations."
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Revocation GN No. 157 of 1998",
+      "content": "The following Government Notices are hereby 40 of 2003; and 244 of 2013 revoked— (a) The Sales Tax (Tax Stamps) Regulations, 1998; (b) the Wine and Spirits (Tax Stamps) Regulations, 2003; (c) the Films and Music Products (Tax Stamps) Regulations, 2013. First Schedule (Made under regulation 4) List of excisable goods Local and imported— (a) wine and spirits; (b) water; (c) cigarettes; (d) film and music products; (e) juices; (f) beverages; (g) beer; (h) liqueurs and cordials; (i) perfumed products; (j) petroleum jelly; (k) lubricants; (l) disc and tapes; and (m) smart cards. Second Schedule (Made under regulation 7(2)) Application form Third Schedule (Made under regulation 7(4)) Certificate Fourth Schedule Form History of this document 12 October 2018 amendment not yet applied Amended by Electronic Tax Stamps (Amendment) Regulations, 2018 02 February 2018 this version Published in Gazette of the United Republic of Tanzania Commenced 24 January 2018 Assented to Related documents Revokes Films and Music (Tax Stamps) Regulations, 2013 Value Added Tax (Tax Stamps) Regulations, 1998 Wines and Spirits (Tax Stamps) Regulations, 2002 Is amended by Electronic Tax Stamps (Amendment) Regulations, 2018 More documents like this one [] [] [] [{\"provision_eid\": \"sec_36__subsec_1__para_i\", \"citations\": 1}, {\"provision_eid\": \"sec_36__subsec_2\", \"citations\": 1}] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Excise (Management and Tariff) Act, Cap. 147",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Authorised officer",
+      "definition": "an officer whose duty is to perform the functions authorised by the Commissioner-General to perform any functions under the Act and in these Regulations",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Tanzania Revenue Authority established by section 4 of the Tanzania Revenue Authority Act , Cap. 399",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "the Commissioner-General appointed under section 16 of the Tanzania Revenue Authority Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Contractor",
+      "definition": "a person appointed by the Commissioner to supply, install, configure, test, commission, support and maintain the System and do any other things as may be directed by the Commissioner",
+      "source_provision": "s3"
+    },
+    {
+      "term": "electronic tax stamp",
+      "definition": "an adhesive label used to collect taxes on excisable goods which uses advanced digital coding technology printed or affixed direct on the product packaging",
+      "source_provision": "s3"
+    },
+    {
+      "term": "importer",
+      "definition": "a person registered by a licensing authority as an importer to import excisable goods specified under these Regulations",
+      "source_provision": "s3"
+    },
+    {
+      "term": "licensing authority",
+      "definition": "an institution empowered to issue licenses to various dealers, producers, manufacturers and importers of excisable goods",
+      "source_provision": "s3"
+    },
+    {
+      "term": "manufacturer",
+      "definition": "a person licensed to manufacture excisable goods specified in these Regulations",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for finance",
+      "source_provision": "s3"
+    },
+    {
+      "term": "package",
+      "definition": "a packet, bottle or similar retail unit of excisable goods specified in these Regulations",
+      "source_provision": "s3"
+    },
+    {
+      "term": "printer",
+      "definition": "a person appointed by the Commissioner to print and supply electronic tax stamps",
+      "source_provision": "s3"
+    },
+    {
+      "term": "producer",
+      "definition": "a person licensed to produce excisable goods specified in these Regulations",
+      "source_provision": "s3"
+    },
+    {
+      "term": "stamp",
+      "definition": "an electronic tax stamp",
+      "source_provision": "s3"
+    },
+    {
+      "term": "System",
+      "definition": "an Electronic Tax Stamps Management System and its components which enables ordering of stamps, application of stamps on excisable goods, storing of information, producing reports, transmitting data from production line to the Tanzania Revenue Authority , activation of stamps, tracking and tracing, authentication of products and production monitoring",
+      "source_provision": "s3"
+    },
+    {
+      "term": "user",
+      "definition": "a manufacturers, producer , importers and staff of Tanzania Revenue the Authority",
+      "source_provision": "s3"
+    }
+  ]
+}

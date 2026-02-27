@@ -1,0 +1,61 @@
+{
+  "id": "tz-act-1966-3",
+  "type": "statute",
+  "title": "Agricultural Products (Control of Movement) Act",
+  "title_en": "Agricultural Products (Control of Movement) Act",
+  "short_name": "Agricultural Products (Cont...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/1966/3/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Agricultural Products (Control of Movement) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" agricultural products \" includes livestock and products derived from livestock but does not include meat, hides or skins, or horn or bone; \" Minister \" means the Minister for the time being responsible for commerce."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Minister may control movement of agricultural products",
+      "content": "When the Minister has reason to believe that a shortage of any agricultural product exists or is likely to occur in any district or any part of a district, he may, after consultation with the Minister for the time being responsible for regional administration, by order published in the Gazette , prohibit, restrict or regulate the removal of such agricultural product from the district or any part thereof."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Order to specify the period",
+      "content": "Every order made under section 3 shall specify the period during which it is to remain effective and that the Minister may, after consultation as provided in section 3 , time to time, by order published in the Gazette , extend the period of an order for such further period or periods as he may think necessary."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Offences",
+      "content": "Where the Minister has, by an order made under section 3 , prohibited, restricted or regulated the movement of any agricultural product from any district or part of a district, any person who moves, or permits or causes to be moved, or attempts to move such agricultural product from the district or part of the district, as the case may be, in respect of which the order has been made in contravention of any of the terms of such order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding two thousand shillings or to imprisonment for a term not exceeding six months or both."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Repeal",
+      "content": "[Repeals R.L. Cap. 76 .] History of this document 31 December 2023 Chapter 78 Revised Laws 2023 Consolidation 31 July 2002 this version Chapter 78 Revised Laws 2002 Consolidation 07 November 1966 Commenced Related documents More documents like this one [] [] [] [{\"provision_eid\": \"sec_5\", \"citations\": 1}] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "agricultural products",
+      "definition": "livestock and products derived from livestock but does not include meat, hides or skins, or horn or bone",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister for the time being responsible for commerce.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,1266 @@
+{
+  "id": "tz-act-ln-1954-1",
+  "type": "statute",
+  "title": "Customs Regulations, 1954",
+  "title_en": "Customs Regulations, 1954",
+  "short_name": "Customs Regulations, 1954",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/ln/1954/1/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Regulations may be cited as the Customs Regulations. Part I – Administration (regs 2-8)"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Working days and hours",
+      "content": "(1) The working days of officers shall be all days except Sundays and public holidays. (2) Subject to the provisions of paragraph (4) hereof, the hours of general attendance of officers for the service fo the public on working days shall be as follows— (a) Indoor Branch— (i) For the receipt of duties and other revenue— Saturdays: 8.00 a.m. to 11.00 a.m. Other days: 8.00 a.m. to 11.30 a.m. (ii) For other business— Saturdays: 8.00 a.m. to 12 noon. Other days: 8.00 a.m. to 12 noon and 2.00 p.m. to 4.00 p.m. (b) Warehousing Branch— Saturdays: 8.00 a.m. to 12 noon. Other days: 8.00 a.m. to 12 noon and 2.00 p.m. to 4.00 p.m. (c) Outdoor Branch, Including Customs Warehouse— Saturdays: 6.00 a.m. to 12 noon. Other days: 6.00 a.m. to 6.00 p.m.: Provided that attendance between the hours of 6.00 a.m. and 8.00 a.m., 12 noon and 2.00 p.m., and 5.00 p.m. and 6.00 p.m. will only be given on application to the proper officer. (3) The proper officer may grant applications for the attendance of officers on Sundays and public holidays or before or after the hours of general attendance on any working day. (4) The Commissioner-General may, by notice exhibited at any port or place, vary the hours of general attendance of officers at such port or place in order to meet the convenience of the public or the exigencies of the Customs."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Applications for services outside hours of general attendance",
+      "content": "(1) Except in the case of a person arriving in, or departing from, the Partner States overland or by inland waters, applications for services of an officer outside the hours of general attendance shall be made in writing to the proper officer in the form No. C. 1, which shall be submitted to him at least twenty-four hours before the services are required, unless the proper officer, in any special circumstances, otherwise allows. (2) Every application shall set out the nature and probable duration of the services required, and shall contain an undertaking to pay all overtime fees which may be incurred, unless the proper officer requires the applicant to deposit with him in advance a sum sufficient to cover the fees."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Overtime fees",
+      "content": "(1) The fee payable at Customs and frontier stations by the person applying for the services of an officer outside the hours of general attendance for the purpose of dealing with any private vehicle carrying passengers and their personal baggage only shall be twenty shillings. (2) The following fees shall be paid by the person applying for the services of officers outside the hours of general attendance or at any premises or place at which Customs business is not normally carried on for any purpose other than that described in subparagraph (1) of this regulation— Rate per hour Sh. cts. Subordinate officers of the Customs Preventive Service 20 00 Other officers 50 00 Provided that— (a) the time charged for fees shall be calculated to the last completed half hour; (b) for attendance on Sundays and public holidays there shall be a minimum charge for the services of any officer equal to three hours' attendance; (c) if an officer is required to attend at any premises or place at which Customs business is not normally carried on, the applicant for his services may, in the discretion of the proper officer, be required to provide the necessary transportation, or to pay in addition to the fees for attendance such amount for travelling expenses as the proper officer may consider reasonable."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part I",
+      "section": "5",
+      "title": "Division of charge",
+      "content": "When the services of an officer are required on account of more than one applicant during the same period of time, the charge for the fees due shall be divided pro rata between the applicants concerned."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part I",
+      "section": "6",
+      "title": "Fees for cautionary visits",
+      "content": "The applicant for the services of an officer at times outside the hours of general attendance shall, in addition to the fees for the services of such officer, pay fees, at the rates specified in regulation 4 , for such cautionary visits as the proper officer may deem necessary."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part I",
+      "section": "7",
+      "title": "Fees to be paid",
+      "content": "All fees shall be paid into Customs revenue."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part I",
+      "section": "8",
+      "title": "Remuneration to officers",
+      "content": "Officers who have given services to the public outside the hours of general attendance will be remunerated at such rates and for such hours as the Commissioner-General may direct. Part II – Importation (regs 9-63)"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Customs flag",
+      "content": "The Customs flag shall be the blue ensign with a crown in the fly."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Report of vessels",
+      "content": "(1) The inward report by the master of a vessel arriving from a foreign port shall be in the Form No. C. 2 and shall be made to the proper officer at the port or place of arrival. (2) All packages for which no bill of lading has been issued shall be declared on the Parcels List in the Form No. C. 3."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Report of aircraft and cargo",
+      "content": "(1) The inward report by the master of an aircraft arriving from a foreign port shall be in the form No. C. 4 and shall be made to the proper officer at the port or place of arrival. (2) The report of the cargo shall be made in the form No. C. 5 which shall be attached to the general declaration in the form No. C. 4."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Initialling of pages",
+      "content": "Each page of the report submitted under regulations 10 and 11 , other than that on which the declaration is signed, shall be initialled by the master or his agent, and such master or agent shall number and seal together the pages and shall, if required, sign the report in the presence of the proper officer."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "List of passengers, report of stores, and crews' declaration",
+      "content": "(1) The master of a vessel arriving from a foreign port shall, immediately on demand, present to the proper officer a list of passengers disembarking and remaining on board in the Form No. C. 6, a statement of the stores of the vessel in the Form No. C. 7 and a declaration by each member of the crew of all dutiable goods in his possession in the Form No. C. 8. (2) The master of an aircraft arriving from a foreign port shall, immediately on demand, present to the proper officer a list of passengers disembarking and remaining on board in the Form No. C. 9. (3) If the proper officer so requires a stores list in the Form No. C. 7A and a declaration in the Form No. C. 8 by each member of the crew of all dutiable goods in his possession, shall be delivered by the master of an aircraft arriving from a foreign port."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Arrival at two or more ports",
+      "content": "When an aircraft or vessel calls at more than one port or place in the Partner States, a separate report shall be made at each port or place."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Vessels, etc., in ballast",
+      "content": "Aircraft and vessels not having on board goods other than stores and passengers' baggage shall be reported \"In ballast\"."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part II",
+      "section": "16",
+      "title": "Description of cargo on reports",
+      "content": "The contents of every package and of all cargo in bulk intended for discharge at a port or place in the Partner States, shall be reported in accordance with the description thereof in the relevant bill of lading or freight note, as the case may be."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part II",
+      "section": "17",
+      "title": "Weight or measurement of cargo to be reported",
+      "content": "The report of every vessel shall show the weight or cubic measurement of the cargo reported according to which freight has been charged, or, if no freight has been charged, the weight or measurement normally chargeable for the like kind and quantity of goods."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part II",
+      "section": "18",
+      "title": "Reporting cargo for other ports in the partner states",
+      "content": "(1) Cargo intended for discharge at other ports or places in the Partner States shall be shown separately in the inward report in the following form— \"The undernoted cargo is hereby reported for discharge at other ports or places in the Partner States.... tons.\" (2) If the proper officer so requires, cargo intended for discharge at other ports or places in the Partner States shall be reported in the same manner as cargo to which regulation 16 applies."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part II",
+      "section": "19",
+      "title": "Cargo remaining on board",
+      "content": "Cargo remaining on board an aircraft or vessel for exportation may be reported as \"General cargo remaining on board for exportation........ tons\", unless the proper officer in any particular case otherwise directs."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part II",
+      "section": "20",
+      "title": "Bulk not to be broken before report",
+      "content": "Application to break bulk prior to making report and to unload goods prior to entry shall be made to the proper officer in the Form No. C. 10."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part II",
+      "section": "21",
+      "title": "Stores to be produced",
+      "content": "All stores which are required for the use of the crew and passengers of an aircraft or vessel during its stay in port shall, on request, be produced separately to the proper officer, who may either approve the quantity produced or require a portion or the whole of such stores to be placed under seal."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part II",
+      "section": "22",
+      "title": "Duty free allowance of stores to crew",
+      "content": "(1) Every person being the master, an officer or other member of the crew of any vessel, may, in respect of every day of the stay of such vessel in port or in coastwise passage to another port in the Partner States, be permitted by the proper officer to retain in his possession, or subject to paragraph (2) be issued with, for his personal use, an allowance of duty free stores in accordance with the following scale— Tobacco in any form Potable Spirits the importation of which is not prohibited Wine or Beer Master and Officers:30g. 190 cm 3 760 cm 3 Other members of the crew:30g. 190 cm 3 of spirits or 760 cm 3 of beer or 760 cm 3 of wine where wine is normally provided in the rations of the vessel. (2) The allowances provided for in paragraph (1) may be issued at any one time, in respect of a maximum period of four days for alcoholic liquor, and eight days for tobacco goods. (3) Upon the arrival of a vessel in port all stores of the nature, and in excess of the quantities, of the stores set out in the scale in paragraph (1) of this regulation shall be secured by the proper officer and the master of such vessel shall provide a secure place for the retention of such stores and all such facilities for their safe custody as are required by the proper officer. (4) The proper officer may, on the request of the master of any vessel during its stay in port and upon the payment of the proper duties due, permit the withdrawal from the place of retention provided for in paragraph (3) of this regulation of such quantities of tobacco, potable spirits, wine or beer as may be required for the provision of reasonable amenities aboard such vessel during such stay. (5) No master, officer or member of the crew of any vessel shall land any stores issued to him under the provisions of this regulation without the payment of duty thereon and any such master, officer or member of the crew shall, upon request by the proper officer, produce to such officer any stores of the categories provided for in the scales set out in this regulation, of which he is in possession at the time of such request."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part II",
+      "section": "23",
+      "title": "Rummaging of vessels and aircraft",
+      "content": "The crew shall give all possible assistance to officers engaged in rummaging an aircraft or vessel."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part II",
+      "section": "24",
+      "title": "Amending inward report",
+      "content": "(1) Where cargo reported for discharge at a port or place in the Partner States is found to be in excess or short of the report, the master or his agent may make application to the proper officer for permission to amend the report. (2) The application shall be in the Form No. C. 11 and shall set out the reasons for the discrepancies."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part II",
+      "section": "25",
+      "title": "Conditions precedent to amendment of report",
+      "content": "Before the proper officer permits the amendment of a report, the master or his agent shall satisfy him in the case of goods found to be short of the report that such goods— (a) were not shipped; or (b) were discharged and landed at a previous port; or (c) were overcarried and landed at a subsequent port; or (d) having been overcarried, have been returned to and landed at a port in the Partner States on the return voyage, or by some other aircraft or vessel which loaded them at the port to which they were overcarried; or (e) were lost at sea; or (f) were stolen or destroyed before the aircraft or vessel arrived within the Partner States: Provided that the proper officer may, subject to the production of such documentary evidence as the Commissioner-General may direct, permit the amendment of a report where the master or his agent is unable to comply with the aforesaid requirements."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part II",
+      "section": "26",
+      "title": "Aircraft or vessels landing or bringing to owing to accident, etc.",
+      "content": "When the master of an aircraft or vessel which has been lost or wrecked or compelled to land or to bring to within the Partner States owing to accident, stress of weather or other unavoidable cause, reports to the nearest officer or administrative officer he shall, on demand, produce the journey log book or other documents relating to the aircraft or vessel, the cargo, crew and passenger, and shall not allow any goods to be unloaded or any passenger to leave the vicinity of the aircraft or vessel without the consent of such officer. Arrival overland (reg 27)"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part II",
+      "section": "27",
+      "title": "Importation by overland routes",
+      "content": "(1) Vehicles and goods, other than vehicles and goods to which the provisions of regulations 125 to 129 inclusive apply, imported overland shall be entered in the appropriate form prescribed in regulation 39 . (2) The person in charge of a vehicle which arrives overland at any place in the Partner States shall report at the nearest Custom house particulars of the vehicle and goods, if any, in the Form No. C. 12: Provided that the proper officer may, in lieu thereof, accept a signed copy of the manifesto outwards issued by the Customs Authorities at the foreign port or place whence the vehicle has arrived. (3) Where the Commissioner-General permits any goods to be entered at a port other than the first port of entry at which such goods arrive in the Partner States, he may require that such goods be accompanied by an officer to the port at which such goods are entered. The carrier of the goods shall defray the cost of or provide transport to and from his proper port for each officer who accompanies such goods. Unloading and removal of cargo (regs 28-36)"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part II",
+      "section": "28",
+      "title": "Sufferance wharves and unapproved places",
+      "content": "Where the master of an aircraft or vessel wishes to proceed to a sufferance wharf, or any place other than an approved place of unloading, to unload cargo, he shall apply to the proper officer for permission in the Form No. C. 13."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part II",
+      "section": "29",
+      "title": "Accommodation and transport to be provided",
+      "content": "(1) The proper officer may grant such permission, subject to such conditions and directions as he may see fit to impose, and to the master or his agent defraying the cost of or providing accommodation in accordance with section 131 and transport overland or by sea, as the proper officer may decide, from and to his proper port, for each officer whose services the proper officer may deem necessary at such sufferance wharf or other place. (2) The proper officer may, if he thinks fit, require the master of an aircraft or vessel proceeding to a sufferance wharf or other place to deposit with him in advance a sum sufficient to cover the aforesaid expenses."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part II",
+      "section": "30",
+      "title": "Goods not to be unloaded at a sufferance wharf until entered",
+      "content": "No goods shall be unloaded at a sufferance wharf or at any place other than an approved place of unloading until they have been entered: Provided that the Commissioner-General may generally in regard to any particular sufferance wharf or place or in any particular case waive or modify this requirement."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part II",
+      "section": "31",
+      "title": "Boat or tally note",
+      "content": "(1) Where goods are discharged from an importing aircraft or vessel into another vessel to be landed, the master or his agent shall sign and transmit with each shipment an account of the goods. (2) In the case of transhipment cargo the account shall be headed \"Transhipment cargo only\". (3) Before any goods are discharged from such vessel, the account shall be delivered to the proper officer at the place at which the goods are to be landed: Provided that the Commissioner-General may dispense with the furnishing of such an account either generally or in any case if he shall see fit so to do."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part II",
+      "section": "32",
+      "title": "Permission to leave place of unloading",
+      "content": "(1) A vessel to which regulation 31 applies which has arrived at any place of unloading shall not depart therefrom except with the permission of the proper officer. (2) Where any goods remain on board any such vessel so permitted to depart, the person in charge thereof shall observe such directions as the proper officer shall give."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part II",
+      "section": "33",
+      "title": "Transit sheds",
+      "content": "(1) Every building used as a transit shed shall be constructed and secured to the satisfaction of the Commissioner-General. (2) In addition to any fastening which may be affixed by the Customs, the doors of transit sheds shall be secured by one or more locks by the wharf owner or his representative."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part II",
+      "section": "34",
+      "title": "Access to transit sheds",
+      "content": "Immediate access to any transit shed shall be granted on demand made by an officer acting in the execution of his duty. If the wharf owner or his representative fails or refuses to grant such access the proper officer may cause the transit shed to be opened by any means in his power and any expenses thereby incurred, including the cost of repairs, shall be paid by the wharf owner."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part II",
+      "section": "35",
+      "title": "Permit to reland goods",
+      "content": "Before any goods which have been put into any aircraft or vessel may be relanded, the owner shall apply in writing to the proper officer and obtain permission to unload the goods, and shall thereupon land such goods and dispose of them as directed by the proper officer."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part II",
+      "section": "36",
+      "title": "Certificate of landing",
+      "content": "The proper officer may issue to any person who satisfies him that he is so entitled a certificate of landing of any goods in the Form No. C. 14 or in such other form as may be required by the authorities in the country requiring the certificate. Entry, examination and delivery (regs 37-58)"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part II",
+      "section": "37",
+      "title": "Forms of entry",
+      "content": "(1) Imported goods, other than goods in transit or for transhipment and goods to which the provisions of Regulations 124 and 128 inclusive apply, shall be entered in the \"IMPORT ENTRY\" for appearing in the Schedule to these Regulations. The Form shall be printed in white and its dimensions shall be 27.8cm x 18.3cm. (2) (a) Entries referred to in subparagraphs (a) , (b) and (c) of paragraph (1) shall be presented in triplicate. (b) Entries for the warehousing of goods at the port of importation shall be presented in quadruplicate and for the warehousing of goods elsewhere than at the port of importation in quintuplicate. (3) The total number of packages shall be stated on every entry in words at length."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part II",
+      "section": "38",
+      "title": "Collection of transfer tax",
+      "content": "(1) Goods produced or manufactured in a Partner State and which upon transfer to another Partner State are liable to transfer tax in accordance with the Transfer Tax Act of the Partner State to which the goods have been transferred, shall be entered in a Transfer Tax Entry (Form C. 1). (2) The entry shall be presented in triplicate and shall be declared in accordance with the titling of the form of entry."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part II",
+      "section": "39",
+      "title": "Particulars to be declared on forms",
+      "content": "(1) Where on any form in the Schedule to these Regulations the value of any imported goods liable to duty ad valorem is required to be declared, the value shall be declared in accordance with section 108 and the Fourth Schedule to the Act. (2) Where on any form in the Schedule to these Regulations the value of any imported goods, other than goods liable to ad valorem duty, is required to be declared, the value shall be declared in accordance with the provisions of the Fourth Schedule to the Act. (3) Goods declared on all perfect entries shall be declared in accordance with— (a) the titling of the forms of entry; (b) the Schedule to the Customs Tariff legislation of the Partner State in which the goods are entered; and (c) the Import and Export List."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part II",
+      "section": "40",
+      "title": "Declaring value of goods liable to transfer tax",
+      "content": "Where on any form in the Schedule to these Regulations, the value of any goods transfer tax is required to be liable to declared, the value shall be declared in accordance with the provisions of the Transfer Tax Act by which the transfer tax is imposed."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part II",
+      "section": "41",
+      "title": "Reference to be made on all entries for contents of same package",
+      "content": "Where separate entries are made for goods contained in the same package each entry shall contain a reference to the other."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part II",
+      "section": "42",
+      "title": "Imported goods to be entered within 21 days of commencement of discharge on arrival",
+      "content": "Goods for which entries are required under regulation 37 shall be entered within twenty-one days of the commencement of the discharge of the importing aircraft or vessel, or in the case of goods imported overland, of their arrival at the frontier port, and any such goods remaining unentered after such period, or after such further period as the proper officer may allow, shall, if such officer so requires, be deposited in a Customs Warehouse."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part II",
+      "section": "43",
+      "title": "Landing of surplus stores",
+      "content": "If the master of an aircraft or vessel desires to land any surplus stores, he shall apply in writing to the proper officer stating the number of packages and quantity and description of the stores, and such officer may permit them to be landed and entered for warehousing or for home consumption, or he may allow the duty to be paid as if such surplus stores were passengers' baggage."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part II",
+      "section": "44",
+      "title": "Disembarkation of persons",
+      "content": "(1) No person shall land from any aircraft or vessel except at a place appointed in accordance with section 9 . (2) The following persons on landing at any port or place from an aircraft or vessel which has arrived from or called at a foreign port shall proceed forthwith to the baggage room or other place set aside for the examination of baggage and there remain until they receive the permission of the proper officer to leave such room or other place— (a) any person who is disembarking at such port or place; (b) any person, including any person who is returning ashore, who has any uncustomed goods in his possession, whether upon his person or in his baggage; (c) the crew of an aircraft or vessel who are leaving such aircraft or vessel, either temporarily or for any other reason, and wish to remove their baggage, or any part thereof, from such aircraft or vessel; (d) any passenger who is temporarily leaving such aircraft or vessel and wishes to remove his baggage, or any part thereof, from such aircraft or vessel; (e) any other person who may be required by the proper officer so to do. (3) Any person who contravenes this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s44A",
+      "chapter": "Part II",
+      "section": "44A",
+      "title": "Establishment of green and red lanes at airport",
+      "content": "(1) The Commissioner of Customs may establish or cause to be established at the airport two lanes being in green and red colours where all disembarking persons shall stand in queue. (2) The persons who disembarked on the aircraft and who carried goods which are not subject to customs examination shall stand in a green lane while persons carrying goods which are or are likely to be subject to customs examination shall stand in queue in a red lane."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part II",
+      "section": "45",
+      "title": "Access to baggage room",
+      "content": "(1) No person shall enter the baggage room or other place set aside for the examination of baggage, except the persons required by the Customs to enter it, the proper officers, and such other persons as may be permitted by the proper officer to enter such baggage room or other place. (2) Any person who contravenes this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part II",
+      "section": "46",
+      "title": "Baggage to be taken to examination place",
+      "content": "(1) The baggage and any uncustomed goods in the possession, whether upon his person or in his baggage, of any person to whom regulation 44 applies shall be taken without delay to the nearest place appointed for the examination of baggage, or such other place as the proper officer may direct, and shall not be removed therefrom until the baggage or goods have been examined and passed by, and any duty due thereon paid to, the proper officer. (2) No person shall remove any baggage or goods out of the baggage room or other place until the proper officer authorises their removal. (3) Any person who contravenes any of the provisions of this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part II",
+      "section": "47",
+      "title": "Baggage declaration",
+      "content": "(1) Every person, other than a member of the crew of an aircraft or vessel, shall on entering the Partner States make a declaration to the proper officer of his baggage and of the articles contained therein or carried with him. Such declaration shall at the discretion of the proper officer be made orally or in writing in the Form C. 19. (2) All such persons shall pay to the proper officer any duty that is due and shall, subject to regulation 46 , forthwith remove their baggage from the baggage room or other place."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part II",
+      "section": "48",
+      "title": "Baggage examination",
+      "content": "An officer may refuse to attend to any person until the whole of such person's baggage is presented to him in one place, or where the baggage belongs to more than one person, until all the owners thereof attend him together."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part II",
+      "section": "49",
+      "title": "Firearms and ammunition",
+      "content": "(1) Every person importing firearms or ammunition in his baggage shall deliver the firearms or ammunition to the proper officer for detention until he receives the necessary permit to enable delivery to be taken of such firearms or ammunition. The proper officer shall issue to every such person a receipt for the firearms or ammunition left in his charge. (2) Any person who contravenes this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part II",
+      "section": "50",
+      "title": "Unclaimed baggage",
+      "content": "All baggage unclaimed or uncleared after one day shall be removed by the master or agent of the aircraft or vessel to the Customs warehouse and shall, after being deposited therein for a period of eight days, be dealt with in accordance with section 36 ."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part II",
+      "section": "51",
+      "title": "Unaccompanied baggage declaration",
+      "content": "The owner of any passenger's unaccompanied baggage shall make a declaration of such baggage and the articles contained therein in the Form C. 20."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part II",
+      "section": "52",
+      "title": "Goods delivered in special circumstances",
+      "content": "If in any special circumstances the owner of perishable or other goods wishes to take delivery of such goods prior to passing entry, he shall apply to the proper officer on Form No. C. 21 and furnish a bond in the Form No. CB. 1, or such other security as may be required, in such amount as the proper officer may decide. The importer shall enter the goods within forty-eight hours of taking delivery of the goods."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part II",
+      "section": "53",
+      "title": "Provisional entries",
+      "content": "The declaration required in case where an importer makes provisional entry of any goods shall be as set out in the relevant part of the Form No. C. 15."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part II",
+      "section": "54",
+      "title": "Importer to provide special implements for examinations",
+      "content": "If the quantity of any cinematograph films or other goods of which an officer desires to take an account cannot conveniently be ascertained by the usual implements employed in the examination of goods, the importer shall provide apparatus for the use of such officer to enable him to take an account of them."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part II",
+      "section": "55",
+      "title": "Packages found partly empty",
+      "content": "If the importer of any goods contained in packages found slack or partly empty when landed desires to fill them from other packages declared on the same entry, he shall apply on the relative entry to the proper officer for permission to do so and shall carry out all instructions of such officer in regard to the filling of such packages and to the disposal of any resultant residue or empty packages."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part II",
+      "section": "56",
+      "title": "Packing of goods imported in bulk",
+      "content": "If the proper officer so requires, the importer of any goods imported in bulk shall pack such goods into bags or other packages of even net weights before the goods are delivered."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part II",
+      "section": "57",
+      "title": "Free goods may be examined at private premises",
+      "content": "When any goods which have been entered free of duty for home consumption cannot on account of their value, size or packing or for any other reason, be easily examined by the proper officer in a transit shed or a customs area and the importer desires that they be examined at his private premises, he shall apply in writing therefor to the proper officer, who may in his discretion grant the application under such conditions as he may impose."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part II",
+      "section": "58",
+      "title": "Entry not required for goods, etc., imported for temporary use",
+      "content": "Entries shall not be required for any vehicles and goods imported in accordance with regulations 125 to 129 inclusive, unless such vehicles or goods are not re-exported. Provisions relating to a customs warehouse (regs 59-63)"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part II",
+      "section": "59",
+      "title": "Removal coastwise of imported goods",
+      "content": "Goods discharged from an importing aircraft or vessel for removal coastwise shall be constructively warehoused at the port of importation and dealt with in accordance with section 45 : Provided that the proper officer may, generally or in any particular case, allow the master of an aircraft or vessel to remove such goods coastwise as if they were goods reported for transhipment, in which case the master shall enter into a bond in the Form No. CB. 2 or furnish such other security as the proper officer may require and enter the goods in the Form No. C. 42, in quintuplicate."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part II",
+      "section": "60",
+      "title": "Customs warehouse rent",
+      "content": "(1) Rent shall be charged on goods deposited, or deemed to be deposited, in a Customs warehouse at the rate of Shs. 100/-per bill of lading ton per day or part thereof, subject to a minimum charge of Shs. 10/-per package per day; but no rent shall be charged under this regulation on a passenger's baggage if removed within seven days of the date of deposit in a Customs warehouse. (2) For the purpose of calculating rent charges a bill of lading ton means the unit of weight, measurement or value on which any particular bill of lading is based. Fractions of a ton shall be chargeable on tenths and any portion of a tenth shall be regarded as a whole tenth."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part II",
+      "section": "61",
+      "title": "Commissioner-general may waive rent",
+      "content": "If the Commissioner-General is of the opinion that the strict enforcement of the regulations regarding the payment of rent on any goods would cause hardship owing to the nature of the goods or to any emergency or to the fact that the goods have been seized or detained or to any other exception cause, he may waive the whole or any part of the rent charges."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part II",
+      "section": "62",
+      "title": "Rent to be paid before delivery",
+      "content": "All rents and charges on goods deposited, or deemed to be deposited, in a Customs warehouse shall be paid to the proper officer before the delivery of the goods."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part II",
+      "section": "63",
+      "title": "Customs houses deemed to be customs warehouses",
+      "content": "If at any port or place in the Partner States where an officer is stationed a building has not been specifically approved by the Commissioner-General for use as a Customs warehouse, the Custom house and any premises occupied and administered by the Customs shall be deemed to be a Customs warehouse. Part III – Warehousing of goods (regs 64-81)"
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part III",
+      "section": "64",
+      "title": "Goods not to be warehoused",
+      "content": "(1) The following goods, and any other goods which the proper officer may from time to time deem to be unsuitable for warehousing, shall not be warehoused— For trade or business purposes: Acids. Ammunition. Arms. Ashes. Chalk. Cinders. Clay. Explosives. Firewood. Fireworks. Fish (Native dried). Goods of a perishable, or inflammable nature, including petroleum products for storage in approved places. Matches, other than safety matches. Rubbish. Sand. Stone. Straw. (2) If the Commissioner-General requires that any goods entered for warehousing in a bonded warehouse be specially secured while in such warehouse he may require the warehouse keeper in writing to provide to his satisfaction in such warehouse a secure compartment for the storage of such goods. The Commissioner-General may refuse to allow any goods for which special security is required to be warehoused until such time as a secure compartment is provided by the warehouse keeper. (3) Any person who contravenes paragraph (2) of this regulations shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part III",
+      "section": "65",
+      "title": "Owner to keep packages in repair",
+      "content": "The owner of any warehoused goods shall maintain the packages in which they are contained in a proper state of repair."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part III",
+      "section": "66",
+      "title": "Goods refused for warehousing",
+      "content": "(1) If any goods entered to be warehoused are found by the officer examining them to be insecurely packed, he may refuse to permit such goods to be warehoused. (2) Whenever in accordance with the Act an officer refuses to permit any goods to be warehoused, the warehousing entry shall be deemed to be void, and the goods shall be deemed to be unentered. If the goods have been removed from a transit shed or a customs area, they shall be returned thereto without delay by, or at the expense of, the owner, unless the proper officer allows them to be entered for home consumption forthwith. (3) The owner shall be responsible for any loss or damage which may take place between the time the goods are removed from, to the time they are returned to, a transit shed or a Customs area and examined by the proper officer."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part III",
+      "section": "67",
+      "title": "Entries for warehoused goods",
+      "content": "(1) Warehoused goods shall be entered in whichever of the undermentioned forms is appropriate— (a) Home consumption (Form No. C. 22). (b) Exportation or use as stores for aircraft or vessels (Form No. C. 23). (c) Removal (Form No. C. 24). (d) Re-warehousing (Form C. 25). (2) In respect of goods entered under subparagraphs (a) , (b) and (d) , entries shall be furnished in quadruplicate and in respect of subparagraph (c) in quintuplicate. (3) Such entries shall contain such particulars of the goods as are required by the form of entry, and by the Import and Export list, and the total number of packages shall be stated on every entry in words at length. (4) All goods which have been entered shall forthwith be dealt with in accordance with the entry."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part III",
+      "section": "68",
+      "title": "Owner to furnish bond",
+      "content": "In the case of warehoused goods entered for removal, or for exportation, or for use as stores for aircraft or vessels, bonds shall be furnished in the Form Nos. CB. 3, 4 or 5, as the case may be."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part III",
+      "section": "69",
+      "title": "Acceptance by warehouse keeper",
+      "content": "Entries for goods for warehousing, or for removal for re-warehousing, other than entries in respect of goods to be warehoused or re-warehoused in a bonded warehouse licensed by the owner of such goods, shall not be accepted by the proper officer unless the warehouse keeper signifies thereon in writing that he agrees to accept such goods into the warehouse for which they are entered."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part III",
+      "section": "70",
+      "title": "Conditions of repacking in warehouse",
+      "content": "Permission to repack warehoused goods may be granted on application being made to the proper officer in the Form No. C. 26 by the owner of such goods, who shall observe all the requirements of such officer in regard to opening, removing, marking, stacking, sorting, weighing, measuring and closing the packages in which the goods to be repacked are, or are to be, contained, and as to the payment of duty thereon of any part of such goods."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part III",
+      "section": "71",
+      "title": "Transfer of ownership of goods",
+      "content": "When the owner of any goods deposited in a warehouse desires to transfer them to another person, he and the person to whom it is desired to transfer the goods shall each complete and sign in the appropriate places a form of transfer in the Form No. C. 27."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part III",
+      "section": "72",
+      "title": "Time during which goods may be warehoused",
+      "content": "Unless the proper officer in any special circumstances otherwise allows, goods shall not be removed from a transit shed or a Customs area to a Government or a bonded warehouse, or from one such warehouse to another, unless the warehousing of such goods can be completed during the warehousing hours prescribed in regulation 4(2)(b) ."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part III",
+      "section": "73",
+      "title": "Goods to be consigned to the proper officer",
+      "content": "All goods entered for warehousing at a port other than the port at which they are imported and all goods entered for removal from a warehouse for re-warehousing at another port, shall be consigned care of the proper officer at the port at which they are to be warehoused or re-warehoused, as the case may be, and the relative consignment note or other document shall be conspicuously marked \"in bond\". Such goods shall not be delivered to the consignee or to any other person without the authority of the proper officer. Bonded warehouses (regs 74-79)"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part III",
+      "section": "74",
+      "title": "Licence for bonded warehouse",
+      "content": "(1) An application for the licensing of a building as a warehouse shall be made in the Form No. C. 28. (2) The proposed building must be suitable for warehousing purposes so far as situation, construction and accommodation are concerned and a plan of the building and its situation in relation to other buildings and thoroughfares shall accompany the application. (3) The licence shall be in the Form No. C. 29."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part III",
+      "section": "75",
+      "title": "Bonded warehouse fee",
+      "content": "(1) Subject to paragraphs (2) and (3) , the annual fee to be paid for a licence for a bonded warehouse owned by a national of the United Republic shall be five thousand shillings plus one per centum of the amount secured by bond or ten thousand shillings, whichever is the lesser amount. (2) Subject to paragraph (3) , the annual fee to be paid for a licence for a bonded warehouse owned by a foreigner shall be one thousand US dollars plus one per centum of the amount secured by bond, converted into US dollars, or ten thousand US dollars, whichever is the lesser amount. (3) Where the licence referred to in paragraphs (1) and (2) is issued during the second, third or fourth quarter of any year, the fee for such licence shall be respectively three-quarters, one-half or one quarter of the full annual fee."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part III",
+      "section": "76",
+      "title": "Bonds for bonded warehouses",
+      "content": "A bond in the Form No. CB. 6 to secure the duty on goods in a bonded warehouse and compliance with all the provisions of the Customs laws relating to bonded warehouses shall be given by the licensee."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part III",
+      "section": "77",
+      "title": "Alterations to bonded warehouses",
+      "content": "(1) No person shall make any alteration or addition to any bonded warehouse without first obtaining the permission of the Commissioner-General. (2) Any person who contravenes any of the provisions of this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part III",
+      "section": "78",
+      "title": "Death of licensee to be reported",
+      "content": "The death of a licensee of a bonded warehouse or of a surety of the bond therefor or proceedings in bankruptcy against a licensee or any other change shall be reported at once to the Commissioner-General."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part III",
+      "section": "79",
+      "title": "Bonded warehouses to be numbered",
+      "content": "(1) Bonded warehouses shall be distinguished by numbers. (2) The words \"Customs Bonded Warehouse\" and the number allocated to the warehouse shall be clearly marked on the principal entrance to the warehouse or elsewhere as the proper officer shall approve and shall be removed when a warehouse ceases to be licensed under the Customs laws. (3) Any person who contravenes any of the provisions of this regulation shall be guilty of an offence. Government warehouses (regs 80-81)"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part III",
+      "section": "80",
+      "title": "Rent charges in government warehouses",
+      "content": "(1) Rent shall be charged on goods warehoused in Government warehouse at the rate of Shs. 100/-per bill of lading per month or part thereof, subject to a minimum charge of Shs. 10/-per package per day. (2) For the purpose of calculating the rent charges a bill of lading ton means the unit of weight, measurement or value on which any particular bill of lading is based. Fractions of a ton shall be chargeable on tenths and any portion of a tenth shall be regarded as a whole tenth."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part III",
+      "section": "81",
+      "title": "Goods to be removed when government warehouse closed",
+      "content": "Where notice has been given to the owner of any goods warehoused in a Government warehouse that it is proposed to close such warehouse, the owner shall, within the period specified in such notice, either enter the goods for home consumption, or for exportation, or for re-warehousing in another bonded warehouse. Any such goods which are not so entered and removed from such warehouse shall, on the expiry of the aforesaid period, be dealt with in accordance with section 48 . Part IV – Exportation (regs 82-102) Entry outwards and loading of aircraft and vessels (regs 82-96)"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part IV",
+      "section": "82",
+      "title": "Entry outwards",
+      "content": "Entry outwards of a vessel shall be made by the master or his agent in the Form No. C. 30."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part IV",
+      "section": "83",
+      "title": "Entries for exportation",
+      "content": "(1) Goods for exportation, other than warehoused goods, goods under drawback, goods in transit or for transhipment, and goods to which the provisions of Regulations 125 to 129 inclusive apply shall be entered in the \"EXPORT ENTRY\" Form appearing in the Schedule to these Regulations. The Form shall be printed in white and its dimensions shall be 27.8cm x 18.3cm. (2) Entries shall be submitted in quadruplicate and shall contain such particulars of the goods entered for exportation as are required by the entry and by the Import and Export list. (3) The total number of packages shall be stated on every entry in words at length."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part IV",
+      "section": "84",
+      "title": "Sufferance wharves and unapproved places",
+      "content": "Where the master of an aircraft or vessel wishes to proceed to a sufferance wharf, or any place of loading, to load cargo, he shall apply to the proper officer for permission in the Form No. C. 13. NOTE: The IMPORT ENTRY Forms and the EXPORT ENTRY Forms shall be stocked and distributed by the Commissioner at a prescribed fee."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part IV",
+      "section": "85",
+      "title": "Accommodation and transport to be provided",
+      "content": "(1) The proper officer may grant such permission, subject to such conditions and directions as he may see fit to impose, and to the master or his agent defraying the cost of or providing accommodation in accordance with section 131 and transport overland or by sea, as the proper officer may decide, from and to his proper port, for each officer whose services the proper officer may deem necessary at such sufferance wharf or other place. (2) The proper officer may, if he thinks fit, require the master of an aircraft or vessel proceeding to a sufferance wharf or other place to deposit with him in advance a sum sufficient to cover the aforesaid expenses."
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part IV",
+      "section": "86",
+      "title": "Goods not to be loaded at sufferance wharf until entered",
+      "content": "No goods shall be loaded at a sufferance wharf or at any place other than an approved place of loading until they have been entered: Provided that the Commissioner-General may generally in regard to any particular sufferance wharf or place or in any particular case waive or modify this requirement."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part IV",
+      "section": "87",
+      "title": "Master to submit passenger list",
+      "content": "(1) If the proper officer so requires the master or his agent shall deliver to the proper officer before any passenger embarks on any aircraft or vessel, a correct list of the passengers embarking in the Form No. C. 9 or in the Form No. C. 6, as the case may be. (2) No person shall embark on any aircraft or vessel, except at a place appointed in accordance with section 9 , nor, in the case of a passenger, until permission to embark has been granted by the proper officer. (3) The baggage of passengers of an aircraft or vessel proceeding to a foreign port shall be loaded at such place as the proper officer may direct, and unless the proper officer otherwise allows, shall not be loaded until it has been examined and passed by him for shipment. (4) Any person who contravenes this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part IV",
+      "section": "88",
+      "title": "Shipment before entry",
+      "content": "Where, under the provisions of section 67 , the proper officer may permit the exportation, prior to entry, of goods, whether liable to or free of export duty, application shall be made by the exporter in the Form No. C. 34, in duplicate, and security furnished, if the proper officer so requires in the case of goods liable to export duty, in the Form No. CB. 7."
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part IV",
+      "section": "89",
+      "title": "Cargo landed in error",
+      "content": "Where any goods have been unloaded in error, the master or agent of the aircraft or vessel shall make application, in the Form No. C. 35, to the proper officer at the place of unloading for permission to reload the goods, and obtain such permission in writing before removing them from the place of unloading, and he shall observe all such conditions in regard to the removal and reloading of such goods as the proper officer may impose."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part IV",
+      "section": "90",
+      "title": "Shipment of duty paid and free stores",
+      "content": "The master of an aircraft or vessel desiring to ship duty paid stores, other than under drawback, or stores which are not liable to duty, shall make application to the proper officer in the Form No. C. 36."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part IV",
+      "section": "91",
+      "title": "Shipment of drawback and dutiable stores",
+      "content": "The master of an aircraft or vessel desiring to ship as stores any goods from a Government or bonded warehouse or any goods under drawback shall comply with the relevant regulations accordingly."
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part IV",
+      "section": "92",
+      "title": "Transfer of stores",
+      "content": "(1) The master of an aircraft or vessel desiring to transfer stores from one aircraft or vessel to another shall make application to the proper officer in Form No. C. 37, in triplicate. (2) Any person who contravenes this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part IV",
+      "section": "93",
+      "title": "Transfer bond",
+      "content": "Stores subject to import duty shall not be transferred from one aircraft or vessel to another until bond has been given in the Form No. CB. 5."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part IV",
+      "section": "94",
+      "title": "Conditions of loading or transfer of stores",
+      "content": "The loading or transfer of stores shall be subject to the observance by the applicant of any conditions imposed by the proper officer and shall not commence until the appropriate entry has been passed or application has been granted."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part IV",
+      "section": "95",
+      "title": "Production of stores before shipment",
+      "content": "(1) All stores shall be produced to the proper officer before being put on board an aircraft or vessel, and upon being put on board (except in the case of men of war) shall not be taken into use without the express permission of the proper officer while the aircraft or vessel is within the Partner States: Provided that duty paid stores on which a drawback of customs duty or remission, refund or rebate of excise duty is not claimed and stores which are not liable to duty may be taken into immediate use. (2) Any person who contravenes this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part IV",
+      "section": "96",
+      "title": "Conditions under which goods deemed to be put on board",
+      "content": "Goods entered under bond for exportation or use as stores or for transhipment shall not, unless the Commissioner-General otherwise directs, be deemed to have been put on board such aircraft or vessel unless they are— (a) entered on an appropriate form; (b) produced to the proper officer for examination immediately prior to loading; (c) loaded on the exporting aircraft or vessel immediately after examination; (d) produced to the proper officer, if he so requires, after loading; (e) certified on the appropriate form by the master or other principal officer of the aircraft or vessel as having been received on board; (f) except in the case of aircraft on ships' stores, included in the outward manifest of the aircraft or vessel. Departure overland (reg 97)"
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part IV",
+      "section": "97",
+      "title": "Exportation by overland routes",
+      "content": "(1) Vehicles and goods, other than vehicles and goods to which the provisions of regulations 125 to 129 inclusive apply, exported overland shall be entered in the appropriate form prescribed in regulation 83 . (2) The person in charge of a vehicle, whether or not such vehicle is conveying goods, shall report to the proper officer full particulars of the vehicle and the goods, if any, in the Form No. C. 12. Goods in transit or for transhipment (regs 98-102) (A) Transit-General"
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part IV",
+      "section": "98",
+      "title": "Goods in transit",
+      "content": "(1) Goods imported in transit to a foreign port, other than goods to which regulation 99 hereof applies, shall be entered at the port of importation in the Form No. C. 38, in quintuplicate, within twenty-one days of the commencement of the discharge of the importing aircraft or vessel or, in the case of goods imported overland, before such goods are conveyed in transit through the reciprocating States. (2) At the time of entering the goods in transit the owner shall produce to the proper officer the documents relating to such goods. (3) The owner shall give security in such sum as the proper officer may require for— (a) the conveyance of the goods by the roads or routes approved by the proper officer and their exportation within twenty-one days of the date of passing entry or within such further period as the proper officer may allow; and (b) the production within the periods allowed by subparagraph (a) for the exportation of the goods, of evidence satisfactory to the proper officer that the goods have been so exported; and (c) the payment of any import duty which may become payable in respect of the goods or any of them. (4) Security given by bond shall be in the Form No. CB. 8. (5) The quadruplicate copy of the transit entry shall be returned to the owner and shall either accompany the goods and be delivered to the proper officer at the port or place of exportation or be forwarded to such officer by the quickest means. (6) Goods in transit shall be produced to the proper officer at the approved port or place of exportation, together with the quadruplicate copy of the transit entry, if it accompanied the goods. The proper officer at the port or place of exportation may refuse to allow the exportation of any goods in respect of which the quadruplicate copy of the entry has not been delivered to, or received by, him or where the goods do not agree with the particulars in the entry. (7) If the quantity of goods in transit be found at the port or place of exportation or at any place of entrance into foreign territory to be less than that specified in the entry the owner shall forthwith pay to the proper officer the duty chargeable on such deficiency, unless it is accounted for to the satisfaction of the proper officer. (8) On production by the owner within the period allowed by the proper officer of the quadruplicate copy of the entry, duly certified by the proper officer at the port or place of exportation that the goods described therein have been exported, together with such other evidence as the proper officer may require, the deposit referred to in paragraph (3) shall on application being made in the Form No. C. 39, be refunded to the owner, or the bond cancelled. (9) If such evidence is not produced within the period allowed, the goods shall be deemed to have been imported for home consumption and shall be liable to any import duty chargeable on similar goods imported for home consumption at the rate in force at the time the goods are entered for home consumption, and such duty shall be paid forthwith by the owner of the goods. (10) Payment of duty in accordance with paragraphs (7) and (9) shall not, unless the Commissioner-General otherwise allows, absolve the owner from the obligations entered into by him under paragraph (3) . (11) Notwithstanding anything to the contrary contained in these Regulations, where the Commissioner-General is satisfied that the non-production of satisfactory proof of exportation in respect of a part of the goods in due to circumstances beyond the control of the owner, he may in his discretion refund to the owner so much of the deposit made as he deems to be appropriate to that part of the goods in respect of which such proof has been produced, or release the owner from the obligations of any bond in so far as it concerned such part. (12) Goods which have entered the Partner States overland or by inland water shall, on exportation by air or sea, be entered at the port or place of exportation in the Form No. C. 40, in quintuplicate. (13) If the owner wishes to enter for home consumption any goods which have been imported in transit and have not been exported and the importation of such goods is not prohibited or restricted, he shall apply in writing to the proper officer who may allow entry to be made accordingly and shall refund the deposit given or cancel the bond taken in respect of such goods. (14) This Part shall apply, mutatis mutandis , to passengers' baggage imported in transit, save that the receipt given by the proper officer for the deposit paid by the owner or a certificate by such officer that bond has been furnished shall take the place of the entry required under this Part. (B) Transit - Congo, Rwanda and Burundi"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part IV",
+      "section": "99",
+      "title": "Goods in transit to and from congo, rwanda and burundi",
+      "content": "(1) In this regulation the word \"Congo\" means the territories formerly known as the Belgian Congo proper and the word \"Concessionaires\" means Messrs. Agence Maritime Internationale (East Africa) Societe Anonyme or such other person as may be appointed subsequently as concessionaire by agreement between the Governments of Tanzania, the Congo, Rwanda and Burundi. (2) Goods consigned to or from the Congo, Rwanda and Burundi through the port of Dar es Salaam or Kigoma shall be shown separately in the inward report of the importing vessel and may be stored at the Concessionaires' leased sites at Dar es Salaam or Kogia pending removal in transit or exportation. (3) A transit pass, in the Form No. C. 41, in quintuplicate, showing the full particulars of the goods in transit, shall be presented by the Concessionaires to the proper officer within five days of their receipt from the landing contractors and receipt and quittance for the goods specified therein shall be given by the Concessionaires on the transit pass within thirty-one days of the commencement of the discharge of the importing vessel or within such further period as the proper officer may allow. (4) After the transit pass has been signed by the proper officer, the quintuplicate copy shall be returned to the Concessionaires as a warrant for the removal of the goods in transit through Tanzania to port of exit. (5) On arrival of the goods at the port of exit the transit pass shall be endorsed by the Concessionaires and delivered to the proper officer. (6) Wagons used for the conveyance of goods in transit shall, unless the nature of the goods precludes the use of closed trucks, be sealed by the Concessionaires and such seals shall, if the proper officer so requires, be affixed in his presence. (7) If any goods in transit for which the Concessionaires have given a receipt and quittance on the transit pass, have not been exported within twenty-one days after the commencement of the discharge of the importing vessel or have not been otherwise accounted for to the satisfaction of the proper officer, the Concessionaires shall pay the Customs duty thereon as assessed by the proper officer. Zambia"
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part IV",
+      "section": "100",
+      "title": "Goods in transit to and from zambia",
+      "content": "(1) In this regulation \"the Company\" means any person appointed for the purposes of this regulation by the Governments of Tanzania and Zambia. (2) Goods consigned to or from Zambia through the ports of Dar es Salaam, Kigoma or Tunduma shall be shown separately in the inward report of the importing vessel or vehicle and may be stored at such place within the Customs area at Dar es Salaam, Kigoma or Tunduma as the proper officer may allow pending removal in transit or re-exportation. (3) A transit pass in the Form No. C. 41A in quintuplicate, showing the full particulars of the goods in transit duly receipted and quittance given for the goods specified therein, shall be presented by the Company to the proper officer at the port of importation within thirty-one days of the commencement of the discharge of the importing vessel, or forthwith in the case of a vehicle which arrives overland, or in either case within such further period as the proper officer may allow: Provided that the said transit pass shall be presented in any event before such goods are conveyed in transit through Tanzania. (4) After the transit pass has been signed by the proper officer, the quadruplicate copy shall be returned to the Company as a warrant for the removal of the goods in transit through Tanzania to the port of exit. (5) Before exportation at the port of exit the quadruplicate copy of the transit pass shall be endorsed by the Company with full details of the means of exportation and delivered to the proper officer. (6) Vehicles used for the conveyance of goods in transit shall be capable of being sealed and, unless the nature of the goods precludes the use of a closed vehicle, shall be sealed by the proper officer. (7) If any goods in transit for which the Company has given a receipt and quittance on the transit pass have not been re-exported within twenty-one days of the date of presentation of the transit pass at the port of importation, or have not been otherwise accounted for to the satisfaction of the proper officer, the Company shall pay the Customs duty thereon as assessed by the proper officer."
+    },
+    {
+      "provision_ref": "s100A",
+      "chapter": "Part IV",
+      "section": "100A",
+      "title": "Offences",
+      "content": "Any person who commits an offence under regulations 98 , 99 and 100 shall on conviction be liable to a fine of not less than five hundred shillings. (C) Transhipment"
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part IV",
+      "section": "101",
+      "title": "Entry and bond for transhipment",
+      "content": "(1) Goods reported as for transhipment shall be entered in the Form No. C. 42 in quintuplicate, and a transhipment bond shall be furnished in the Form No. CB. 9. (2) Goods which have not been reported for transhipment and have been unloaded may be entered for transhipment in accordance with the provisions of this regulation if— (a) they have not been entered under the Customs laws; (b) the master or agent applies for and obtains the permission of the proper officer to amend the inward report of the importing aircraft or vessel. (3) Goods reported for transhipment shall be entered and reshipped within twenty-one days of the date of the commencement of discharge of the importing aircraft or vessel or within such further period as the proper officer may allow."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Part IV",
+      "section": "102",
+      "title": "Transhipment direct",
+      "content": "Goods entered for transhipment may, with the permission of the proper officer and subject to such conditions as he may impose, be transhipped direct from the importing aircraft or vessel to the exporting aircraft or vessel, if such goods are reported by the importing aircraft or vessel for transhipment. Part V – Departure and clearance of aircraft and vessels (regs 103-107)"
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Part V",
+      "section": "103",
+      "title": "Form of clearance of vessel",
+      "content": "The certificate of clearance of a vessel departing to a foreign port shall be in the Form No. C. 43."
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Part V",
+      "section": "104",
+      "title": "Outward manifest of vessel",
+      "content": "(1) The outward manifest of a vessel shall be in the Form No. C. 44 and shall contain particulars of all cargo shipped in accordance with the description thereof in the relevant bill of lading or freight note, together with the weight or cubic measurement of such cargo in the manner prescribed in regulation 17 . (2) Each page of the outward manifest, other than that on which the declaration is signed, shall be initialled by the master or his agent, and such master or agent shall number and seal together the pages and shall, if required, sign the outward manifest in the presence of the proper officer."
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Part V",
+      "section": "105",
+      "title": "Clearance and general declaration",
+      "content": "(1) Before departing to a foreign port the master of an aircraft shall deliver to the proper officer a general declaration in the Form No. C. 4, in duplicate. One copy of Form No. C. 5, signed by the proper officer, shall be returned to the master and shall be the certificate of clearance of the aircraft. (2) The report of cargo shall be made in the Form No. C. 5 which shall be attached to the general declaration in the Form No. C. 4. Each page of the cargo manifest in the Form No. C. 5 shall be initialled by the master or his agent, and such master or agent shall number and seal the pages together and seal them to the general declaration in the Form No. C. 4 and shall, if required, sign the general declaration in the form No. C. 4 in the presence of the proper officer."
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Part V",
+      "section": "106",
+      "title": "Shipments short or in excess of manifest",
+      "content": "On application being made in the Form No. C. 11 the proper officer may allow the master or agent of an aircraft or vessel to amend the cargo manifest in the Form No. C. 5 or the outward manifest in the Form No. C. 44, as the case may be, in respect of any goods found to have been shipped short or in excess of the manifest."
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Part V",
+      "section": "107",
+      "title": "Separate manifest for each port",
+      "content": "(1) A separate outward manifest in the Form No. C. 44 and passenger list in Form No. C. 6 for each vessel shall be delivered at each port or place of departure in the Partner States, and if no cargo is loaded or no passengers embark at any port or place a nil Form No. C. 44 or Form No. C. 6 shall be delivered. (2) A separate general declaration in the Form No. C. 4 and cargo manifest in the Form No. C. 5 and, if the proper officer so requires, a separate passenger manifest in the Form No. C. 9 for each aircraft shall be delivered at each port or place of departure in the Partner States, but if no cargo is loaded or no passengers embark at any port or place a nil Form No. C. 5 or Form No. C. 9 need not be delivered. Part VI – Importation and exportation by post (regs 108-113)"
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Part VI",
+      "section": "108",
+      "title": "Commissioner-general may waive entries for goods imported by post",
+      "content": "(1) When goods are imported in postal articles the Commissioner-General, in his discretion, may accept for the purpose of assessing the duty on such goods, in lieu of the entry required under the provisions of the Customs laws, the Customs declaration on the form provided by the Postal Administration in the country of origin. (2) In the case of goods exported by post, any form or label affixed to the parcel on which a description of the contents and their value is declared shall be deemed to be the entry required under the Customs laws."
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Part VI",
+      "section": "109",
+      "title": "Customs declaration on postal articles",
+      "content": "(1) A Customs declaration made out by the sender of any goods imported by parcels post shall accompany, or be securely attached to, each parcel or to one of the parcels when the goods are packed in more than one parcel. (2) The declaration shall give a correct description of the quantity or weight, the country of origin and the value of the contents of the parcel or consignment. (3) If a parcel contains goods of a commercial nature, an invoice or a statement showing full particulars of the goods shall be enclosed in such parcel. If the goods are enclosed in two or more parcels an invoice or a statement showing full particulars of the goods shall be enclosed in one of the parcels which shall be clearly marked \"Invoice (or statement) enclosed\". (4) If the invoice or statement cannot be conveniently enclosed inside the parcel it may be securely attached to it."
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Part VI",
+      "section": "110",
+      "title": "Production of postal articles",
+      "content": "All postal articles shall, if the Commissioner-General so requires, be produced by an officer of the Post Office to the proper officer for examination, either at the port of arrival in, or departure from the partner States, as the case may be, or at such other place in the Partner States as the Commissioner-General may direct, for the purpose of which the officer of the Post Office shall be deemed to be the agent of the importer or exporter."
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Part VI",
+      "section": "111",
+      "title": "Detention of postal articles",
+      "content": "In any case where a postal article, or any part of its contents, is found on examination to be conveyed otherwise than in conformity with the provisions of the East African Posts and Telecommunications Corporation Act 1 , or not to agree with any entry, invoice, or other document purporting to relate to its contents and which may be either transmitted therewith or produced by the addressee, or is found to consist of goods prohibited to be conveyed by post or to be imported or exported, as the case may be, or goods regulated by or under the Customs laws contrary to any conditions regulating such importation or exportation, such postal article and all its contents shall be deemed to be goods imported or exported contrary to the Customs laws and shall be dealt with as provided therein. 1 Cap. 17"
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "Part VI",
+      "section": "112",
+      "title": "Uncleared postal articles",
+      "content": "If the addressee of a postal article neglects to claim such postal article, and if such postal article is not delivered to an alternative addressee or returned to the sender within such time as may be specified in the laws relating to the Post Office, or if the addressee refuses to pay the duty, if any, in respect of the goods contained in such postal article, the Post Office shall send the postal article to the Customs for deposit in the Customs warehouse, there to be dealt with in accordance with section 36 ."
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "Part VI",
+      "section": "113",
+      "title": "Duties to be paid to the customs",
+      "content": "The duty collected by the Post Office on postal articles shall be paid to the Customs at such time and in such manner as shall be from time to time agreed. Part VII – Coasting and transfer trade (regs 114-122)"
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "Part VII",
+      "section": "114",
+      "title": "Coastwise clearance and transire",
+      "content": "The transire for coastwise cargo or goods for transfer carried by aircraft and vessels under section 86 and the combined clearance and transire for coasting aircraft and vessels and their cargoes under section 88 shall be in the Form No. C. 45."
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "Part VII",
+      "section": "115",
+      "title": "Separate transires for each port",
+      "content": "When cargo is loaded in an aircraft or vessel for carriage coastwise or transfer to more than one port or place, separate transires, in triplicate, shall be prepared for each port or place."
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "Part VII",
+      "section": "116",
+      "title": "Unloading and examination of coastwise cargo",
+      "content": "(1) Coastwise cargo or goods for transfer shall not be loaded on an aircraft or vessel for carriage coastwise or transfer or removed from a Customs area or a transit shed after it has been unloaded or landed without the prior authority of the proper officer. (2) Any person who contravenes this regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "Part VII",
+      "section": "117",
+      "title": "Sufferance wharves and unapproved places",
+      "content": "Where the master of a coasting aircraft or vessel wishes to proceed to a sufferance wharf, or any place other than an approved place of loading or unloading, to load or unload coastwise cargo or goods for transfer, he shall apply to the proper officer for permission in the Form No. C. 13."
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "Part VII",
+      "section": "118",
+      "title": "Accommodation and transport to be provided",
+      "content": "(1) The proper officer may grant such permission, subject to such conditions and directions as he may see fit to impose, and to the master or his agent defraying the cost of or providing accommodation in accordance with section 131 and transport overland or by sea, as the proper officer may decide, from and to his proper port, for each officer whose services the proper officer may deem necessary at such sufferance wharf or other place. (2) The proper officer may, if he thinks fit, require the master of an aircraft or vessel proceeding to a sufferance wharf or other place to deposit with him in advance a sum sufficient to cover the aforesaid expenses."
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "Part VII",
+      "section": "119",
+      "title": "Transire to be delivered before unloading",
+      "content": "Save with the written permission of the proper officer, no coastwise cargo or goods for transfer shall be loaded on, or unloaded from, a vessel of less than two hundred and fifty tons register, until the master has delivered to the proper officer the transire relating to the cargo to be loaded or unloaded."
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "Part VII",
+      "section": "120",
+      "title": "Amendment of transire",
+      "content": "The proper officer may permit the master or agent of an aircraft or vessel, on application, to amend the transire if any cargo is found to be in excess or short of that described therein."
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "Part VII",
+      "section": "121",
+      "title": "General transires",
+      "content": "General transires in the Form No. C. 46 may, upon application, be granted by the proper officer for periods not exceeding six months to vessels trading regularly in local produce between certain specified ports under the following conditions— (a) the original general transire shall be carried on board the vessel and shall be available for inspection by any officer at any time; (b) no restricted or prohibited goods or goods which have entered into the home consumption of the Partner States shall be carried except as provided for in subparagraph (e) ; (c) within twenty-four hours of arrival at any port and before he allows any goods to be unloaded, the master shall deliver to the proper officer a correct account, in duplicate, of the cargo to be discharged at such port in respect of which he holds a general transire; (d) the master of a vessel shall not carry any goods on which royalties are payable unless he has first obtained a pass note issued by the proper officer in respect of such goods. Restricted or prohibited goods and goods which have entered into the home consumption of the Partner States found on board a vessel having a general transire (except as provided for in subparagraph (e) ), shall be detained and the facts reported to the Commissioner-General. Pending his decision the vessel concerned shall not be cleared outwards; (e) if the master of a vessel wishes to ship restricted or prohibited goods or goods which have been entered into the home consumption of the Partner States he shall deliver to the proper officer at the port at which the goods are loaded a transire, in triplicate, in respect of such goods and shall comply with regulations 114 to 116 ."
+    },
+    {
+      "provision_ref": "s122",
+      "chapter": "Part VII",
+      "section": "122",
+      "title": "Pass note for duty paid goods carried coastwise",
+      "content": "Duty paid goods shipped from one port in the Partner States for subsequent discharge within the Partner States shall be produced to the proper officer prior to shipment. Such officer will, on request, issue in respect of the goods produced to him a pass note which must be delivered to the proper officer at the port of discharge as warrant for free admission of the goods specified therein. Part VIII – Duties (regs 123-139) Payment of duty (regs 123-124)"
+    },
+    {
+      "provision_ref": "s123",
+      "chapter": "Part VIII",
+      "section": "123",
+      "title": "Payment of duties",
+      "content": "(1) Duties shall be paid at the Custom house or at such other place as the Commissioner-General may direct. (2) Credit notes showing that the amount of duty has been paid into a bank to the credit of the Customs and cheques which have been certified by a bank or in respect of which a standing bank guarantee has been lodged with the Customs may be accepted in payment of duty."
+    },
+    {
+      "provision_ref": "s124",
+      "chapter": "Part VIII",
+      "section": "124",
+      "title": "Collection or refund where rates of duty differ",
+      "content": "(1) Where any person desires to transfer goods from one Partner State to another Partner State (hereinafter referred to as the despatching Partner State and the receiving Partner State respectively) and such goods on entering the receiving Partner State are liable to a rate of import duty different from that which such goods were liable on their importation into the despatching Partner State then— (a) if the rate of import duty on such goods in the receiving Reciprocating State is greater than that to which the goods where liable on their importation into the despatching Reciprocating State, the proper officer in the despatching Reciprocating State may, without relieving the transferee in the receiving Reciprocating State of his liability to pay to the proper officer the difference in import duty where such amount has not been paid in the despatching Reciprocating State, require the transferor of the goods in the despatching Partner State on presentation of the appropriate transfer forms to pay the additional amount of import duty and may refuse to allow the transfer until the difference in import duty has been paid; (b) if the rate of import duty on the receiving Reciprocating State is less than that to which the goods were liable on their importation into the despatching Reciprocating State, the proper officer in the despatching Reciprocating State may, on production of documentary evidence to his satisfaction that the goods have been transferred to the receiving Reciprocating State, refund the difference in import duty: Provided that the procedure detailed in subparagraphs (a) and (b) above shall not apply in respect of goods which were liable to the same rate of import duty in each Reciprocating State at the time of their importation and are transferred after a similar change in the rate of import duty has been made in each Reciprocating State. (2) No refund of the difference in import duty shall be granted under subparagraph (b) unless the person claiming such refund presents such claim within a period of twelve months from the date on which the goods were imported into the despatching Reciprocating State. Goods imported for a temporary use or purpose (regs 125-130)"
+    },
+    {
+      "provision_ref": "s125",
+      "chapter": "Part VIII",
+      "section": "125",
+      "title": "Goods imported for temporary use",
+      "content": "(1) The provisions of section 103 shall apply to the following— (a) commercial travellers' samples; (b) goods, including stage properties, imported for local exhibition or entertainment; (c) goods imported solely for renovation or repair; (d) touring propaganda material not otherwise prohibited; (e) any vehicles and goods of a kind described in regulation 127 ; (f) any vehicles and goods of a kind described in regulation 128 ; (g) any vehicle described in regulation 129 . (2) For the purpose of this regulation a commercial traveller means any person who satisfies the proper officer that he is soliciting orders for merchandise on behalf of a business house established outside the Reciprocating States."
+    },
+    {
+      "provision_ref": "s126",
+      "chapter": "Part VIII",
+      "section": "126",
+      "title": "Commercial travellers' samples and goods imported for temporary use",
+      "content": "(1) Any person who desires to import any goods of a kind described in subparagraphs (a), (b), (c) and (d) of regulation 125 shall make application to the proper officer in the form No. C. 47, in duplicate, and shall state therein— (a) the full particulars of the goods imported, specifying the nature thereof and any further particulars necessary for the purpose of identification; (b) the approximate date on which, and the port at which, the goods will be re-exported. (2) If the goods are to be re-exported at a port other than the port of importation, the application shall be made in triplicate. (3) If the proper officer so requires, invoices or other documentary evidence of value shall be produced and attached to the application and retained by the officer. (4) The importer shall deposit a sufficient amount to cover the duty on the goods, or shall furnish security therefor in the Form No. CB. 10, at the election of the proper officer. (5) After the proper officer has stated on the application the amount of duty chargeable and the amount of deposit made or of the security furnished, he shall return the duplicate copy of the application to the owner, who shall retain it, and shall send the triplicate copy, if the goods are to be re-exported at a port other than the port of importation, to the proper officer at the port at which the goods will be exported. (6) Before the deposit is refunded or the security cancelled, the following conditions shall be observed— (a) the goods shall be re-exported within a period of twelve months from the date of importation; (b) the owner shall give due notice to the proper officer at the port of exportation of his intention to re-export such goods and shall deliver to the proper officer the duplicate copy of the application issued to him at the port of importation."
+    },
+    {
+      "provision_ref": "s126A",
+      "chapter": "Part VIII",
+      "section": "126A",
+      "title": "Duty on cif value of certain equipment for temporary use",
+      "content": "(1) Notwithstanding the provisions of regulation 126 and of section 103 of the Act, there shall be charged five per centum (5%) import duty on the CIF value per month on construction equipment, ship bunkering, camping equipment, hunting equipment, loading and unloading equipment, ships and aircraft imported for temporary use. (2) Duties payable under paragraph (1) above shall not apply in case of donor funded projects."
+    },
+    {
+      "provision_ref": "s127",
+      "chapter": "Part VIII",
+      "section": "127",
+      "title": "Temporary importation of vehicles, etc.",
+      "content": "(1) If any person, who is usually resident outside Tanzania and who intends to make only a temporary stay therein, imports— (a) any road vehicle, including trailers, or cycles with or without engines, and their accessories, for his use during the visit; or (b) any goods intended for his use, convenience or comfort while in the Tanzania but not for consumption therein; or (c) any road vehicle, including trailers, designed for the transport of persons for remuneration or for the industrial or commercial transport of goods, and complies with the conditions contained in paragraph (3) , such vehicles and goods shall be granted temporary free admission subject to re-exportation. (2) The vehicle and goods shall be re-exported within a period of twelve months from the date of importation unless the person can establish to the satisfaction of the proper officer that he is prevented doing so by force majeure : Provided that when a vehicle which has been temporarily admitted cannot be re-exported as the result of a seizure, other than an attachment made at the suit of a private person, the period shall be suspended for the duration of the seizure: Provided further that the re-exportation of a badly damaged vehicle shall not be required, in the case of a duly authenticated accident, if the vehicle is either subjected to the import duty to which it is liable or is abandoned free of all expenses to the Customs or destroyed at the expense of the parties concerned, as the proper officer may require. (3) Any person importing a vehicle or goods under the provisions of this regulation shall— (a) at the time and place of importation produce to the proper officer the temporary importation papers (Carnet de Passage en Douane, Pass Sheet or other similar importation documents); (b) satisfy the officer that the vehicle and goods correspond in all respects with the description in the temporary importation papers; (c) in the case of vehicles specified in subparagraph (c) of paragraph (1) the person shall satisfy the Commissioner-General that— (i) his principal place of business is outside the Reciprocating States; (ii) the vehicle is registered outside the Reciprocating States; (iii) the vehicle is owned and operated by a person whose principal place of business is outside the Reciprocating States; (iv) the importation is taking place in the course of a journey which has begun and will end outside the Reciprocating States; and (v) the purpose of the journey is to use the vehicle for the transport of persons for remuneration or for the industrial or commercial transport of goods from or to a place outside the Reciprocating States: Provided that the guaranteeing association shall have a period of one year as from the notification of the non-discharge of the temporary importation papers (such notification to be made within one year of the expiry of the validity of such papers) in which to furnish proof of the re-exportation of the vehicle or goods: Provided further that if such proof is not furnished within the time allowed, the guaranteeing association shall deposit or pay provisionally the import duty payable and such deposit or payment shall become final after a period of one year from the date of the deposit or provisional payment."
+    },
+    {
+      "provision_ref": "s128",
+      "chapter": "Part VIII",
+      "section": "128",
+      "title": "Procedure when temporary importation papers are not produced",
+      "content": "(1) If any person who is usually resident outside Tanzania and who intends to make only a temporary stay therein imports— (a) any road vehicle, including trailers, or cycles with or without engines, and their accessories, for use during his visit; or (b) any goods intended for his use, convenience or comfort while in Tanzania but not for consumption therein; or (c) any road vehicle, including trailers, designed for the transport of persons for remuneration or for the industrial or commercial transport of goods, and does not produce temporary importation papers (Carnet de Passage en Douane, Pass Sheet or other similar importation documents), such vehicle and goods shall be granted temporary free admission subject to compliance with the conditions contained in paragraph (2) . (2) Any person importing a vehicle or goods under the provisions of this regulation shall— (a) at the time and place of importation deposit with the proper officer a sum equal to the duty chargeable on the vehicle and goods in the Partner State into which they are imported; (b) deliver to the proper officer a claim in the Form No. C. 48, in duplicate, for temporary exemption; (c) export the vehicle and goods before the expiration of six months from the date of importation or of such further period as the Commissioner-General may allow; and (d) in the case of vehicles specified in subparagraph (c) of paragraph (1) the person shall satisfy the Commissioner-General that— (i) his principal place of business is outside the Reciprocating States; (ii) the vehicle is registered outside Tanzania; (iii) the vehicle is owned and operated by a person whose principal place of business is outside the Reciprocating States; (iv) the importation is taking place in the course of a journey which has begun and will end outside the Partner States; and (v) the purpose of the journey is to use the vehicle for the transport of persons for remuneration or the industrial or commercial transport of goods from or to a place outside the Reciprocating States. (3) One copy of the form signed and stamped by the proper officer, shall be returned to the importer who shall, on exportation of the vehicle and goods, declare them on Part II of the form and deliver it to the proper officer at the place of exportation. (4) If the officer is satisfied that the vehicle and goods declared for exportation correspond in all particulars with the description in the form, and that they will be exported forthwith, the amount deposited shall be repaid to the importer who shall give a receipt to the proper officer."
+    },
+    {
+      "provision_ref": "s128A",
+      "chapter": "Part VIII",
+      "section": "128A",
+      "title": "Exemptions to the rule in regulation 128",
+      "content": "(1) Where there exists a bilateral or other agreement between the United Republic and any neighbouring country regarding any matter or field of activity, and the implementation of which involves or includes the regular transfer to and from between the countries of goods and persons by motor vehicles or trailers for industrial, commercial or other purposes, the provisions of Regulation 128(2) shall not, subject to paragraph (2) of this Regulation, apply to such motor vehicles or trailers. (2) If any person who is usually resident outside the United Republic intends to engage in any business involving the transfer of goods or persons into the United Republic by motor-vehicle, or trailer in the circumstances referred to in paragraph (1) , he shall make an application in to the Commissioner-General for a permit for the temporary importation of the motor vehicle or trailer. (3) The Commissioner-General may, in his discretion, grant or refuse the application, or revoke an existing permit; and he may grant an application on such conditions as he may deem to impose. (4) A temporary permit shall be in the prescribed form, and shall be granted under this Regulation upon the payment by the applicant of a fee of one thousand shillings. (5) Every temporary permit shall remain in force until the 31st day of December of the year in which it is issued and may be renewed upon payment of one thousand shillings by the holder. (6) Every person holding a temporary permit issued under this Regulation shall, when required by a proper officer, produce the permit for inspection."
+    },
+    {
+      "provision_ref": "s129",
+      "chapter": "Part VIII",
+      "section": "129",
+      "title": "Vehicles from the congo and preferential trade area states",
+      "content": "If a person who is resident in the Congo or any of the Preferential Trade Area States intends to make a temporary stay in Tanzania for a period not exceeding three months, and wishes to import a road vehicle into Tanzania for his use during the visit, the proper officer may allow importation without the production of temporary importation documents (Carnet de Passage en Douane, Pass Sheet or other similar documents) and without the making of a deposit as required by regulation 128 , if such person— (a) at the time and port or place of importation makes and delivers to the proper officer two copies of a declaration in the Form No. C. 49, one of which shall be duly signed and stamped and returned to the importer; (b) at the time and port or place of exportation produces the vehicle to the proper officer and delivers to the officer the importer's copy of the declaration in the Form No. C. 49; (c) exports the vehicle within fourteen days, or such further period not exceeding three months as the proper officer may allow, from the date of importation."
+    },
+    {
+      "provision_ref": "s130",
+      "chapter": "Part VIII",
+      "section": "130",
+      "title": "Restrictions on user of vehicles temporarily imported",
+      "content": "No road vehicle imported into Tanzania under Regulation 127 , 128 or 129 shall be— (a) lent, sold, pledged, hired, given away, exchanged or otherwise disposed of without the prior permission of the proper officer; or (b) used within Tanzania for the transport of persons for remuneration or of goods, other than the bona fide personal possessions of the owner and his passengers, either free or for remuneration: Provided that paragraph (b) shall not apply to vehicles imported under Regulation 127(1)(c) and Regulation 128(1)(c) . Drawback, remission, rebate and refund (regs 131-139)"
+    },
+    {
+      "provision_ref": "s131",
+      "chapter": "Part VIII",
+      "section": "131",
+      "title": "Basis of drawback",
+      "content": "Drawback shall be payable according to the actual quantity of goods exported, or shipped for use as stores, or used as prescribed, as the case may be."
+    },
+    {
+      "provision_ref": "s132",
+      "chapter": "Part VIII",
+      "section": "132",
+      "title": "Conditions of granting drawback",
+      "content": "It shall be a condition for the granting of any drawback that— (a) the goods are not prohibited by any law from being exported or put on board any aircraft or vessel for use as stores; (b) perfect entry of the goods has been made and the relative invoice deposited with the proper officer."
+    },
+    {
+      "provision_ref": "s133",
+      "chapter": "Part VIII",
+      "section": "133",
+      "title": "When drawback is not payable",
+      "content": "Drawback shall not be allowed on any goods— (a) unless the person claiming drawback enters the goods for exportation, or shipment for use as stores, in the Form No. C. 50, in quadruplicate, at the port of exportation and submits within twelve months of the date of exportation a drawback debenture in the Form No. C. 51, in duplicate; (b) unless a bond in the Form No. CB. 4 or CB. 5, as the case may be, for the due exportation, or shipment for use as stores, is given, if the proper officer so requires, by the person claiming drawback; (c) unless such goods are exported in the original packages in which they were imported, or unless the contents were unpacked and repacked in other packages by authority and under supervision of an officer; (d) unless the proper officer is satisfied that such goods are identical with the particulars thereof contained in the entries, invoices, and other documents relating thereto: Provided that in the case of unexposed cinematograph film, petroleum imported in bulk, and leaf tobacco imported and used in the manufacture locally of tobacco, cigars or cigarettes, the repacking and the payment of the drawback may be allowed on such goods under such conditions as the Commissioner-General may impose; (e) which are damaged or spoilt; (f) which, after importation, were used, save as provided for in subparagraph (c) , within the Reciprocating States; (g) unless such goods are produced to the proper officer for examination at the approved place of examination prior to exportation and also, if required, on board the aircraft or vessel on which they are to be exported, or used as stores; (h) unless such goods are conveyed direct and without delay from the place of examination to the aircraft or vessel in which they are to be exported or shipped for use as stores, or, in the case of goods exported overland, to the port of exportation nearest to the frontier: Provided that the proper officer may, in his discretion, allow any goods to remain in official custody for a reasonable time at the risk and expense of the exporter, in which case drawback shall not be allowed unless the goods are thereafter conveyed direct and without delay to the aforementioned aircraft or vessel or port; (i) unless the goods are exported or shipped for use as stores, within twelve months from the date of the payment of duty; (j) unless the proper officer certifies on the export entry that the goods have been exported or shipped for use as stores; (k) unless the person claiming drawback on the goods entered for exportation produces, if required, within the time allowed by the proper officer, a certificate in respect of the landing of such goods from the competent authority at the port or place of discharge."
+    },
+    {
+      "provision_ref": "s134",
+      "chapter": "Part VIII",
+      "section": "134",
+      "title": "Remission or refund of duty on abandoned goods",
+      "content": "Where, in accordance with section 12 , the owner of any goods subject to Customs control wishes to abandon such goods to the Customs, he shall notify the proper officer accordingly and may apply for a remission or refund of duty in the Form No. C. 52, in duplicate."
+    },
+    {
+      "provision_ref": "s135",
+      "chapter": "Part VIII",
+      "section": "135",
+      "title": "Remission of duty on goods lost or destroyed by accident",
+      "content": "Where, in accordance with section 120 , any person claims a remission of duty on any goods, he shall apply therefor in writing to the proper officer, and submit proof of the loss or destruction in such form and manner as the proper officer may require."
+    },
+    {
+      "provision_ref": "s136",
+      "chapter": "Part VIII",
+      "section": "136",
+      "title": "Rebate of duty on damaged goods",
+      "content": "Where, in accordance with section 121 , any person claims a rebate of the duty payable on any imported goods damaged before such goods are delivered out of Customs control, he shall submit to the proper officer an application for such rebate in the Form No. C. 53, in duplicate, together with such evidence as the proper officer may require that the carrier or insurer of the goods has made an allowance to him in respect of the damage and of the amount of such allowance."
+    },
+    {
+      "provision_ref": "s137",
+      "chapter": "Part VIII",
+      "section": "137",
+      "title": "Refund where goods returned to seller",
+      "content": "Where, in accordance with section 122 , the owner of any goods wishes to return such goods to the seller, he shall notify the proper officer accordingly and submit such evidence as the proper officer may require that the goods are not in accordance with the contract of sale or that the goods were damaged before such goods were delivered out of Customs control: Provided that a refund shall not be allowed on any such goods— (a) unless the person claiming refund enters the goods for exportation in the Form No. C. 50, in quadruplicate, at the port of exportation and submits within twelve months of the date of the payment of duty, a drawback debenture in the Form No. C. 51 in duplicate; (b) unless a bond in the Form No. CB. 4 for the due exportation is given, if the proper officer so requires, by the person claiming refund; (c) unless the goods are repacked for exportation by authority and under supervision of the proper officer; (d) unless the proper officer is satisfied that the goods were imported in pursuance of a contract of sale and that the description, quality, state or condition of the goods was not in accordance with the contract; (e) which have been damaged after having been delivered out of Customs control; (f) which, after importation, were used, save as provided for in subparagraph (c) , or exposed for sale, within the Reciprocating States; (g) unless the goods are produced to the proper officer for examination and also, if required, at the approved place of examination prior to exportation and on board the aircraft or vessel on which they are to be exported; (h) unless such goods are conveyed direct and without delay from the place of examination to the aircraft or vessel in which they are to be exported, or, in the case of goods exported overland, to the port of exportation nearest to the frontier: Provided that the proper officer may, in his discretion, allow any goods to remain in official custody for a reasonable time at the risk and expense of the exporter, in which case refund shall not be allowed unless the goods are thereafter conveyed direct and without delay to the aforementioned aircraft or vessel or port; (i) unless the goods are exported within twelve months from the date of the payment of duty; (j) unless the proper officer certifies on the export entry that the goods have been exported; (k) unless the person claiming refund on the goods entered for exportation produces, if required, within the time allowed by the proper officer, a certificate in respect of the landing of such goods from the competent authority at the port or place of discharge."
+    },
+    {
+      "provision_ref": "s138",
+      "chapter": "Part VIII",
+      "section": "138",
+      "title": "Refund of duty on damaged, pillaged, or destroyed goods",
+      "content": "Where, in accordance with section 123 , any person claims a refund of duty which has been paid on any goods which have been damaged or pillaged during the voyage, or damaged or destroyed while subject to Customs control, he shall submit to the proper officer an application for such refund in the Form No. C. 53, in duplicate, and submit such proof of the damage, pillage or destruction as the proper officer may require: Provided that nothing in this regulation shall apply to goods declared for transfer, or in respect of which notification of intention to transfer has been given."
+    },
+    {
+      "provision_ref": "s139",
+      "chapter": "Part VIII",
+      "section": "139",
+      "title": "Refund of duty paid in error and of deposit or cancellation of bond given as security",
+      "content": "(1) Any person claiming a refund of any duties which have been overpaid shall submit to the proper officer at the place where the duty was paid an application therefor in the Form No. C. 54, in duplicate, together with such evidence of overpayment as the proper officer shall require. (2) Save as may be otherwise provided elsewhere in these Regulations, any person claiming a refund of any deposit or requesting cancellation of any bond given by way of security under the provisions of Part IX of the Act, shall submit to the proper officer at the place where such deposit was made or such security given, an application therefor in the Form No. C. 39, in duplicate, together with such evidence of compliance with those provisions of the Act that necessitated payment of a deposit or the giving of such security as the proper officer may require: Provided that notwithstanding anything to the contrary contained in these Regulations, where the Commissioner-General is satisfied that the non-production of satisfactory proof of compliance in respect of any part of an undertaking given is due to circumstances beyond the control of the person entering into such an undertaking, he may in his discretion refund to such person so much of any deposit made as he thinks appropriate to that part of the undertaking in respect of which such proof has been produced or release that person from the obligations of any bond in so far as it concerns such part. Part IX – Customs agents (regs 140-144)"
+    },
+    {
+      "provision_ref": "s140",
+      "chapter": "Part IX",
+      "section": "140",
+      "title": "Application for licence as customs agent",
+      "content": "(1) Every application for a licence as a Customs agent shall be made in writing to a proper officer. (2) The application shall be accompanied with an application fee of one thousand shillings, where the applicant is a national of the United Republic, and if the applicant is a foreigner the application fee shall be twenty US Dollars. (3) The licence, when granted, shall be in the form No. C. 55."
+    },
+    {
+      "provision_ref": "s141",
+      "chapter": "Part IX",
+      "section": "141",
+      "title": "Fees and security payments on approval of application",
+      "content": "When the application is approved, the applicant shall— (a) pay the licence fee of ten thousand shillings or if the licensee is a foreigner, two hundred US Dollars; (b) furnish security in the form No. CB. 11 in such sum as the Commissioner-General may require; and (c) submit to the proper officer, if he so requires, a tariff of the rates to be charged for services rendered to the public."
+    },
+    {
+      "provision_ref": "s142",
+      "chapter": "Part IX",
+      "section": "142",
+      "title": "Expiry and renewal of licences",
+      "content": "(1) Every licence shall expire on the 31st day of December next in each year but may be renewed by the Commissioner-General. (2) Subject to paragraph (3) , the fee for renewal of a licence shall be ten thousand shillings plus one per centum of the annual chargeable commission or fifty thousand shillings, whichever of the options is the lesser. (3) Where the applicant for a licence is a foreigner, the fee for renewal of a licence shall be two hundred US dollars plus one per centum of the annual chargeable commission or one thousand US dollars, whichever is the less."
+    },
+    {
+      "provision_ref": "s143",
+      "chapter": "Part IX",
+      "section": "143",
+      "title": "Penalty for acting without licence",
+      "content": "Any person who in any way acts as, or claims to be, a Customs agent without having a valid licence shall be guilty of an offence and liable to a fine not exceeding ten thousand shillings or in the case of non-citizen, one hundred US Dollars."
+    },
+    {
+      "provision_ref": "s144",
+      "chapter": "Part IX",
+      "section": "144",
+      "title": "Suspension, etc., of licences",
+      "content": "(1) The Commissioner-General may refuse to issue a licence without assigning reason or may by order, suspend, revoke, or refuse to renew, any such licence on the ground that the applicant or holder has been guilty of an offence under the Customs or Excise laws or has been convicted of an offence involving dishonesty or fraud, or for any other reason that he may think fit. (2) A copy of the order shall be delivered to the agent or left at his usual place of abode or business. (3) The agent may appeal to the Authority against such order, but if no appeal is lodged within one month of the delivery of the order, or if on such appeal, the order is confirmed by the Authority, the licence shall be void. (4) Any person who intends to clear his own goods through Customs, shall make an application in writing for a permit to the proper officer and shall pay an application fee of one hundred shillings; save that a foreigner shall pay two US Dollars. (5) Where the application referred to in paragraph (4) is referred to in paragraph (4) is approved, the applicant shall pay a permit fee of five hundred shillings or if he is a foreigner, ten US Dollars. (6) Every permit shall be in the prescribed form and shall be valid until the date indicated in the permit, or when the clearance of the subject consignment has been completed, whichever first happens; and shall not be renewable. Part X – Settlement of cases by the commissioner-general (regs 146-174)"
+    },
+    {
+      "provision_ref": "s145",
+      "chapter": "Part X",
+      "section": "145",
+      "title": "Request to commissioner-general",
+      "content": "The written request by a person that a contravention of the Customs laws be dealt with the Commissioner-General under the provisions of Part XV of the Act shall be in accordance with the Form C. 56. Part XI – Miscellaneous provisions (reg 145)"
+    },
+    {
+      "provision_ref": "s146",
+      "chapter": "Part XI",
+      "section": "146",
+      "title": "Declaration to be made and particulars to be supplied",
+      "content": "The importer of any goods liable to duty ad valorem or at an alternative specific/ ad valorem rate shall, at the time of making entry, produce in respect of the goods a declaration in the form C. 57 together with all invoices in his possession relating to the goods. The declaration in the forms C. 57 shall include all goods detailed in the invoices produced, including any other goods which are liable to duty at a specific rate or which are free of duty. The importer shall also furnish, in such form as the proper officer may direct, such further particulars as the proper officer may deem necessary for a correct valuation of the goods."
+    },
+    {
+      "provision_ref": "s147",
+      "chapter": "Part XI",
+      "section": "147",
+      "title": "Production of books of account and other documents",
+      "content": "The proper officer may require the owner, or any person concerned with the importation, of any goods liable to duty ad valorem to produce at that person's premises, or at such other place as the Commissioner-General may require, all or any books of account or other documents of whatsoever nature relating to the purchase, importation or sale of the goods."
+    },
+    {
+      "provision_ref": "s148",
+      "chapter": "Part XI",
+      "section": "148",
+      "title": "General bonds",
+      "content": "Where in accordance with section 96 security may be accepted to cover all transactions, the wording of the form prescribed in the Schedule may be varied to cover such transactions."
+    },
+    {
+      "provision_ref": "s149",
+      "chapter": "Part XI",
+      "section": "149",
+      "title": "Seizure notice",
+      "content": "The notice of seizure of any aircraft, vessel, vehicle, goods or things shall be in the Form No. C. 58."
+    },
+    {
+      "provision_ref": "s150",
+      "chapter": "Part XI",
+      "section": "150",
+      "title": "Forms",
+      "content": "Where any reference is made in these Regulations to the number of a form it shall be construed as a reference to the form bearing that number in the Schedule."
+    },
+    {
+      "provision_ref": "s151",
+      "chapter": "Part XI",
+      "section": "151",
+      "title": "Particulars on form",
+      "content": "Where in any Customs form or other document a person is required to furnish certain particulars, such particulars shall be printed, such form or document made prior to its acceptance shall be made in such manner as to leave the error as well as the alteration legible. Every such alteration shall be initialled and dated by the person making it."
+    },
+    {
+      "provision_ref": "s152",
+      "chapter": "Part XI",
+      "section": "152",
+      "title": "Incorrect form may not be accepted",
+      "content": "Any officer may refuse to accept or to act upon any form or other document submitted to him unless the requirements of the Customs laws in relation thereto have been duly observed."
+    },
+    {
+      "provision_ref": "s153",
+      "chapter": "Part XI",
+      "section": "153",
+      "title": "Persons requiring copy of entry",
+      "content": "(1) If the person entering any goods requires a copy of the entry he shall present to the proper officer an additional copy marked \"Importer's copy\" or \"Exporter's copy\", as the case may be. (2) Each copy of a bill of entry shall, before presentation to the proper officer, be clearly stamped or marked \"Original\", \"Duplicate\", \"Triplicate\" and \"Quadruplicate\" and, if such additional copies are required by these Regulations, \"Quintuplicate\" and \"Sextuplicate\"."
+    },
+    {
+      "provision_ref": "s154",
+      "chapter": "Part XI",
+      "section": "154",
+      "title": "Amendment of forms",
+      "content": "The Commissioner-General may, by order published in the Gazette (a) amend any form in the Schedule; (b) specify the form of any other document requires or authorised for the purposes of the Customs laws."
+    },
+    {
+      "provision_ref": "s155",
+      "chapter": "Part XI",
+      "section": "155",
+      "title": "Samples",
+      "content": "Only such samples shall be taken as are considered necessary by the proper officer."
+    },
+    {
+      "provision_ref": "s156",
+      "chapter": "Part XI",
+      "section": "156",
+      "title": "Samples may be retained",
+      "content": "Samples taken for analysis are not returnable and a receipt shall, on demand, be given therefor by the proper officer. Other samples may be returned on application by the owner."
+    },
+    {
+      "provision_ref": "s157",
+      "chapter": "Part XI",
+      "section": "157",
+      "title": "Samples to be kept in safe custody",
+      "content": "All samples shall be kept in the custody of the proper officer, and no unauthorised person shall have access to such samples."
+    },
+    {
+      "provision_ref": "s158",
+      "chapter": "Part XI",
+      "section": "158",
+      "title": "Notice of sale",
+      "content": "Public notice by advertisement in such manner as the Commissioner-General may see fit, except in the case of perishable goods or living animals, and by notice posted in a conspicuous place at the Customs house at the port or place where the sale will be held, shall be given of all sales."
+    },
+    {
+      "provision_ref": "s159",
+      "chapter": "Part XI",
+      "section": "159",
+      "title": "Withdrawal of goods from sale",
+      "content": "(1) If the owner of any goods advertised for sale wishes to have such goods withdrawn from the sale he shall— (a) not less than forty-eight hours of the date of the sale apply in writing to the proper officer and notify him of the particulars of the goods he wishes to have withdrawn; (b) satisfy the proper officer that he is the owner of the goods. (2) If the proper officer approves the application and is satisfied that the applicant is the owner of the goods, he may withdraw the goods from the sale on payment by the applicant of any Customs warehouse rent which has accrued and other charges which have been incurred up to the time of the sale: Provided that the proper officer may allow any goods to be withdrawn from a sale although the aforesaid rent and charges have not been paid prior to the sale."
+    },
+    {
+      "provision_ref": "s160",
+      "chapter": "Part XI",
+      "section": "160",
+      "title": "Conditions of sale",
+      "content": "(1) Goods may be sold by the Customs either by auction or by tender. (2) No bid or tender shall necessarily be accepted and should there be any discrepancy between the quantity stated in the sale list and the actual quantity available, the Customs shall not be bound to deliver more than the quantity available for delivery. (3) The purchase money shall be paid on the acceptance of the bid or tender."
+    },
+    {
+      "provision_ref": "s161",
+      "chapter": "Part XI",
+      "section": "161",
+      "title": "Surplus proceeds of sale",
+      "content": "Any person entitled to receive the balance, if any, of the proceeds of a Customs sale, shall, within twelve months from the date of the sale, make application therefor to the proper officer in the Form No. C. 59 and shall produce therewith to the satisfaction of such officer proof of his title to such balance."
+    },
+    {
+      "provision_ref": "s162",
+      "chapter": "Part XI",
+      "section": "162",
+      "title": "Allowance in lieu of food to officer stationed on vessels",
+      "content": "In lieu of providing food to any officer stationed on board a vessel in accordance with section 131 , the master shall pay an allowance of five shillings for each period of twelve hours during which such officer is stationed on board the vessel."
+    },
+    {
+      "provision_ref": "s162A",
+      "chapter": "Part XI",
+      "section": "162A",
+      "title": "Licensing of vehicles for carrying customs goods",
+      "content": "(1) Goods which are subject to Customs control may be carried only by means of a vehicle licensed by the Commissioner for that purpose under section 186 of the Customs Management Act. (2) An application for a licence shall be made in writing to the Commissioner. (3) The Commissioner may grant or refuse a licence or revoke an existing licence and may grant the licence upon such conditions as he may choose. The licence shall be in the Form C. 65. (4) Upon approval of the approval of the application for a licence with or without conditions, the applicant shall pay a licence fee at the following rates: Schedule Locally Owned/Registered Foreign Owned/Registered Tanzania Shs. 200,000 per truck or Trailer US$ 300 per truck or Trailer (5) All licences shall be valid for a period of six months from the date of issue and the fee payable in respect of each licence shall be paid in respect of the original licence and for each renewal. (6) For the purposes of this Regulation, a vehicle means every description of conveyance for the transport of goods by land other than any vehicle owned by the Government or the Party, and a trailer or trailer-tanker shall be counted as a separate vehicle."
+    },
+    {
+      "provision_ref": "s163",
+      "chapter": "Part XI",
+      "section": "163",
+      "title": "Vessels defined",
+      "content": "For the purposes of section 186, vessel means any launch, boat, lighter, barge or other floating craft of any description, but shall not include any vessel owned by the Government of any Partner State or the Community when used in the service of such Government or the Community."
+    },
+    {
+      "provision_ref": "s164",
+      "chapter": "Part XI",
+      "section": "164",
+      "title": "Unlicensed vessels not to be used in transporting goods",
+      "content": "Except with the written permission of the proper officer and subject to such conditions as he may impose, no vessel as aforesaid shall be used or employed within the limits of any port or place, for the conveyance of any goods subject to Customs control, unless such vessel is licensed in accordance with these Regulations."
+    },
+    {
+      "provision_ref": "s165",
+      "chapter": "Part XI",
+      "section": "165",
+      "title": "Application for a licence",
+      "content": "Application for a licence shall be made in writing to the proper officer, and the licence shall be in the Form No. C. 60."
+    },
+    {
+      "provision_ref": "s166",
+      "chapter": "Part XI",
+      "section": "166",
+      "title": "Licence fee",
+      "content": "When the application for a licence has been approved, the applicant shall— (a) pay the licence fee of— (i) Shs. 500/=, if the vessel in question is of a carrying capacity of up to 10 tons; or (ii) Shs. 1,000/=, if the vessel in question is of a carrying capacity of over 10 tons; (b) furnish security in the Form No. CB. 12 in such sum as the Commissioner-General may require; (c) submit to the proper officer, if he so requires, a tariff of the rates to be charged for the conveyance of goods."
+    },
+    {
+      "provision_ref": "s167",
+      "chapter": "Part XI",
+      "section": "167",
+      "title": "Expiry of licences",
+      "content": "All licences shall expire on the 31st December next in each year but shall be renewable at the discretion of the Commissioner-General on payment of the licence fee prescribed in regulation 166(a) ."
+    },
+    {
+      "provision_ref": "s168",
+      "chapter": "Part XI",
+      "section": "168",
+      "title": "Vessel to bear distinguishing number",
+      "content": "Each vessel shall bear the distinguishing registration number allotted to it by the proper officer: Provided that the number or name under which a vessel is registered in accordance with the provisions of any other law in the Partner States may be deemed to be the number allotted to it for the purpose of these Regulations."
+    },
+    {
+      "provision_ref": "s169",
+      "chapter": "Part XI",
+      "section": "169",
+      "title": "One licence may be issued",
+      "content": "At the discretion of the proper officer, one licence may be issued and one form of security required in respect of all vessels belonging to, or in the use of, the same owner."
+    },
+    {
+      "provision_ref": "s170",
+      "chapter": "Part XI",
+      "section": "170",
+      "title": "Unlicensed vessels not allowed alongside",
+      "content": "(1) No unlicensed vessel shall go, or remain, alongside, or approach within one hundred yards of, any aircraft or vessel, except with the permission of the proper officer and subject to such conditions as he may impose. (2) Any person who contravenes this Regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s171",
+      "chapter": "Part XI",
+      "section": "171",
+      "title": "Sealing of hatches of vessels",
+      "content": "(1) Except with the written permission of the proper officer and subject to such conditions as he may impose, a licensed vessel fitted with hatches shall not be used or employed for the conveyance of any warehoused goods, goods under drawback, dutiable goods intended for transhipment, restricted goods, or such other goods as the Commissioner-General may determine, unless such hatches can be securely locked and sealed by the Customs. (2) Any person who contravenes this Regulation shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s172",
+      "chapter": "Part XI",
+      "section": "172",
+      "title": "Penalty",
+      "content": "Any person guilty of an offence under these Regulations for which no specific penalty is provided shall be liable to a fine not exceeding forty thousand shillings or in the case of a non-citizen, four hundred (United States) Dollars."
+    },
+    {
+      "provision_ref": "s173",
+      "chapter": "Part XI",
+      "section": "173",
+      "title": "Import and export list",
+      "content": "The Commissioner-General may, by notice in the Gazette , issue an Import and Export list of articles of merchandise showing the designations and code numbers by which they are to be distinguished, and the denominations (whether by tare, weight, measure, value or otherwise) by which they are severally declarable in the entries, and he may, by notice in the Gazette , make alterations or additions to or deletions from such list."
+    },
+    {
+      "provision_ref": "s174",
+      "chapter": "Part XI",
+      "section": "174",
+      "title": "Fees for services to the public",
+      "content": "The following services may be performed or certificates issued or given by Customs for the public for which the following fees shall be paid— Certified copy of any document for each 200 words or part thereof 50 00 Landing certificate, for each original bill of entry in which the goods are entered 100 00 Certificate of weight for each consignment plus a weighing fee of Sh. 1/-per package 100 00 Approving alterations in the marks, numbers or other particulars in any document submitted to Customs, other than an inward manifest, for each alteration Provided that the Commissioner may, in his discretion, remit such fees entirely or on any alteration in excess of one on each document. 20 00: Any other certificate issued or certification given to a document by Customs 50 00 Supplying information relating to the trade of the Reciprocal States Such fee, if any, as the Commissioner-General, at his discretion, may direct. Schedule Forms Form No. C. 1 Overtime request. C. 2 Report inwards of vessels. C. 3 Parcels list. C. 4 General declaration (Outward/Inward). C. 5 Cargo manifest. C. 6 Passenger list. C. 7 Declaration and advice of consumable stores. C. 8 Crew declaration form. C. 9 Passenger manifest. C. 10 Application to break bulk prior to making report and to unload goods prior to entry. C. 11 Application to amend Inward Report/Outward Manifest. C. 12 Importation and exportation by overland routes. C. 13 Application to proceed to a sufferance wharf or other unapproved place. C. 14 Landing certificate. C. 15 to 18 [Deleted: G.N. No. 388/1989]. C. 19 Declaration of articles imported as accompanied baggage. C. 20 Declaration of articles imported as unaccompanied baggage. C. 21 Application for release of perishable or other goods prior to payment of the fiscal import and entry duty. C. 22 and C. 23 [Deleted by G.N. No. 388/1989]. C. 24 Ex-warehouse removal entry. C. 25 Re-warehousing entry. C. 26 Request to repack warehoused goods. C. 27 Application for transfer of ownership of warehoused goods. C. 28 Application for licence of premises to be used as a bonded warehouse. C. 29 Licence for a Private/General bonded warehouse No....... C. 30 to 33 incl [Deleted: G.N. No. 388 of 1989] C. 34 Application to ship goods prior to entry. C. 35 Application to reload goods unloaded in error. C. 36 Application to ship stores. C. 37 Application to transfer stores of aircraft or vessel. C. 38 Transit entry C. 39 Application for refund of deposit or cancellation of bond in respect of goods entered in transit and subsequently re-exported or for refund of deposit or cancellation of bond given as security in a accordance with Part IX of the Act. C. 40 Transit entry. C. 41 Concessionaire's Transit Pass. C. 41A Zambia Traffic Transit Pass. C. 42 Transhipment entry or removal entry coastwise. C. 43 Certificate of clearance. C. 44 Outward manifest of vessel. C. 45 Transire. C. 46 General transire. C. 47 Application to import goods for a temporary use or purpose. C. 48 Temporary importation of vehicles, vehicles accessories and goods. C. 49 Temporary importation of road vehicles from the Congo, Rwanda, Burundi, the Sudan, Zambia or Malawi: Declaration on on Importation C. 50 Export entry for drawback goods, including stores. C. 51 Drawback debenture. C. 52 Application for a remission or refund of fiscal entry and import duty on abandoned goods. C. 53 Application for a rebate or refund under regulation 134 or 135. C. 54 Other refunds — miscellaneous. C. 55 Customs agent's licence. C. 56 Request for settlement of case under Part XV of the Act. C. 57 Goods liable to any duty ad valorem upon importation into Reciprocating States. C. 58 Notice of seizure. C. 59 Application for payment of proceeds of sale of goods. C. 60 Boat and lighter licence. C. 61 Transfer Tax Entry. Bonds CB. 1 Bond for delivery of perishable or other goods prior to payment of duty. CB. 2 Bond for removal of goods from one port or place to be examined and entered at another port or place. CB. 3 Bond for the warehousing of goods or removal of warehoused goods. CB. 4 Bond for exportation. CB. 5 Bond for shipment of stores. CB. 6 General bond for the security of warehoused goods. CB. 7 Bond for goods to be shipped prior to entry. CB. 8 Transit bond. CB. 9 Transhipment bond. CB. 10 Bond for the re-exportation of imported goods delivered without payment of duty. CB. 11 Bond for Customs agents. CB. 12 Bond for the conveyance of goods subject to Customs control. [Editorial note: The forms have not been reproduced] History of this document 31 July 2002 this version Consolidation Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "tz-act-ord-1943-8",
+  "type": "statute",
+  "title": "Grass Fires (Control) Act",
+  "title_en": "Grass Fires (Control) Act",
+  "short_name": "Grass Fires (Control) Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/ord/1943/8/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and application",
+      "content": "This Act may be cited as the Grass Fires (Control) Act, and shall apply to such areas as the Minister may, by notice published in the Gazette , direct."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act \"vegetation\" means growing, standing or dead vegetation, and includes any trees and any part thereof and any bush, shrub, brushwood, undergrowth, grass, crops and stubble and \"Minister\" means the Minister for the time being responsible for Agriculture."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Restriction on burning of vegetation",
+      "content": "No person shall within any area to which this Act applies— (a) set fire to any vegetation which is not his property unless he has the written authority of the District Commissioner or owner or occupier of the property to do so; (b) wilfully or negligently kindle or cause to be kindled any fire which he has reasonable cause to believe may spread so as to destroy or damage the property of any other person."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Notice to adjoining owners",
+      "content": "(1) Every person shall, before proceeding to burn vegetation upon his own land or upon land on which he is authorised to set fire to vegetation in pursuance of paragraph (a) of section 3 (which land is within any area to which this Act applies), give at least two days' notice in writing of his intention to do so to the owners or occupiers of all land held under a right of occupancy which is situated within half a mile of the place where the burning is to be done. Such notice shall be delivered by hand and shall be deemed to commence from the time when it is received by the person to whom it is addressed, or by any servant or agent of his, and shall state as nearly as possible the time at which the burning will take place. (2) Where the burning is to be done upon land which is owned or occupied by a person who is illiterate, the notice need not be in writing. (3) If a fire lawfully kindled after notice is given in terms of the preceding subsection spreads to other land, the fact that such notice was given— (a) shall to the person who kindled or was responsible for kindling such fire be a sufficient defence to any charge of contravening the provisions of section 3 of this Act, unless it is proved that he wilfully or by the negligence of himself, his servants or agents caused or permitted such fire to spread across his boundaries to such other land; but (b) shall not affect the right of any person aggrieved to receive damages in respect of any loss sustained by him as the result of such fire."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power to require persons to assist in extinguishing fire",
+      "content": "(1) Whenever a fire is burning on any land, any administrative officer or police officer and the owner or occupier of the land on which the fire is burning may, if he has reasonable cause to believe that such fire may become dangerous to life or property, require any person present at or in the vicinity of such fire to render assistance or to do any act or perform any services as he may consider necessary or expedient to control, extinguish or prevent the spread of such fire; and any person who fails to comply with such requirements shall be guilty of an offence. (2) Any person acting in good faith may either alone or with other persons acting under his control enter upon any land for the purpose of extinguishing a fire which he has reasonable cause to believe is not under control or may become dangerous to life or property. (3) In subsection (1) of this section the expression \"owner or occupier of the land on which the fire is burning\" shall include any person managing such land on behalf of the owner or occupier and any employee of the owner or occupier in possession of written authority from the owner or occupier in possession of written authority from the owner or occupier to act on his behalf in the manner provided in the said subsection."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Saving",
+      "content": "(1) Nothing contained shall be deemed to prohibit any person, when his life, person or property is in danger of loss or injury from an approaching fire, from setting alight to and burning vegetation in the manner commonly known as counter-firing in order to prevent such loss or injury. (2) Subject to subsection (1) , that person shall take reasonable care that the fire so kindled does not spread beyond the limits necessary to secure him from such loss or injury."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Penalty",
+      "content": "Any person who contravenes or fails to comply with any of the provisions of this Act commits an offence, and upon conviction is liable to a fine not exceeding two thousand shillings or to imprisonment for a term not exceeding six months or to both such fine and such imprisonment."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Power to make rules",
+      "content": "The Minister may make rules for the better carrying of any of the purposes or provisions of this Act into effect. History of this document 31 July 2002 this version Chapter 135 Revised Laws 2002 Consolidation 24 September 1943 Commenced Related documents More documents like this one Subsidiary legislation Title Grass Fires (Control) (Application) Order, 1943 Government Notice 381 of 1943 [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "vegetation",
+      "definition": "growing, standing or dead vegetation, and includes any trees and any part thereof and any bush, shrub, brushwood, undergrowth, grass, crops and stubble and \"Minister\" means the Minister for the time being responsible for Agriculture.",
+      "source_provision": "s2"
+    }
+  ]
+}

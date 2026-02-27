@@ -1,0 +1,568 @@
+{
+  "id": "tz-act-2008-10",
+  "type": "statute",
+  "title": "Electricity Act, 2008",
+  "title_en": "Electricity Act, 2008",
+  "short_name": "Electricity Act, 2008",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/2008/10/eng@2008-06-20",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Electricity Act, 2008 and shall come into operation on such date as the Minister may, by notice published in the Gazette, appoint."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Application",
+      "content": "This Act shall apply in relation to electricity supply industry in Mainland Tanzania."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context requires otherwise— “ annual report ” means a report issued by the Authority annually in terms of section 48 of the Energy and Water Utilities Regulatory Authority Act; [ Cap. 414 ] \" authorised area \" means an area in which a Distribution Licensee has a non-exclusive right to sell or provide services to consumers; \" Authority \" means the Energy and Water Utilities Regulatory Authority established under EWURA Act ; “ cross-border electricity trade ” means trading in electricity between two states sharing a common border through an inter-connector power line, or between more than two states not sharing common border, but linked through a power pool which involves export or import of electric energy between the states; “ Customer Service Charter ” means a document which sets out terms and conditions of provision of service , rights and duties of a licence and customers; “ customer ” means a person who purchases or receives electricity for own use or sale; “ Distribution Code ” means the technical and procedural rules and standards issued by the Authority governing matters pertaining to the distribution of electricity; “ distribution licensee ” means a licensee authorised to undertake distribution activities; “ distribution ” means the transportation of electric energy and power by means of medium to low voltage lines, facilities and associated meters, including the construction, operation, management and maintenance of such lines, facilities and meters; “ economic regulation ” means an intervention to modify, as and when deemed appropriate, the economic behaviour of a regulated supplier aimed at narrowing choices in certain areas including prices, rate of return and methods of procurement; “ electricity supply industry ” means electricity generation , electric power transmission , electricity distribution and electricity retailing; “ electricity supply installation ” means a facility used to generate, transmit, distribute or supply electricity; “ eligible customer ” means any person who is authorized by the Authority to enter into contract for the supply of electricity directly with any person licensed to generate electricity; “ EWURA Act ” means the Energy and Water-Utilities Regulatory Authority Act; “ Fair Competition Commission ” means the Commission established by the Fair Competition Act; [ Cap. 414 ] “ franchise area ” means the area within which a distribution licensee has the exclusive right to provide service to any customer who is not an eligible customer in that area; [ Cap.285 ] “ generation licensee ” means a licensee authorised to undertake electricity generation activities; “ generation ” means the production of electric energy and power from any primary source of energy; “ Grid Code ” means the technical and procedural rules and standards issued by the Authority on transmission and system operation; “ high voltage ” means ac or de voltage of the amount equal or above to sixty six thousand plus or minus ten per cent; “ licence ” means a licence issued by the Authority pursuant to the EWURA Act , relating to the electricity supply industry ; “ licensed activity ” means the activities specified under section 8 ; “ licensee ” means any person licensed to provide electricity market administration services; “ low voltage ” means ac or de voltage less or equal to four hundred plus or minus five percent; “ Market Operator ” means a person licensed to administer wholesale trade in electricity; “ market rules ” means the technical and procedural rules issued by the Authority on the administration of wholesale trade in electricity; “ medium voltage ” means ac or de voltage between or above four hundred voltage plus or minus ten percent and less or equal to thirty three thousand voltage plus or minus ten percent; “ Minister ” means the Minister responsible for electricity matters; “ off-grid ” means an electricity supply system that is not electrically connected, directly or indirectly to any part of the transmission system; “ Performance Agreement ” means an agreement between a licensee and the Authority which establishes incentives and penalties related to the measurable performance of the licensee , and which is designed to improve the efficiency and effectiveness of the licensee ; “ Power System Expansion Plan ” means a planning document prepared by the Minister and updated on an annual basis by the System Operator , dealing with indicative medium and long-term plans for the expansion of the transmission system to cater for expected generation and demand developments; “ priority customers ” means customers of a distribution licensee who, due to the essential nature of their activities, are prioritised by the Authority to receive supply when the licensee suspends electricity supply services; [ Cap.321 ] “ related business ” means any business or company which directly or indirectly, in whole or in part, is owned by the licensee ; or is owned by a company which owns or is owned by the Licensee; \" Rural Electrification Strategy and Plan \" means the document prepared by the Minister dealing with strategies and plans to promote access to electricity in rural areas; “ Rural Energy Agency ” means the agency established under Part IV of the Rural Energy Act; \" Rural Energy Fund \" means the fund established under Part V of the Rural Energy Act: “ service ” means production and supply of electricity; \" Standardized Small Power Purchase Agreement \" means the agreement between a utility entity and a developer entered for purposes of selling power to the grid not exceeding 10MW but not less than 100kW; \" Standardized Small Power Purchase Tariff \" means the tariff agreed on in the Standardized Power Purchase Agreement; “ supply ” means the sale of electricity to consumers; “ System Operator ” means a person licensed to provide system operation services; “ transmission ” means the transportation of electrical energy and power by means of high-voltage lines, facilities and associated meters, including the construction, operation, management and maintenance of such lines, facilities and meters; “ transmission licensee ” means a licensee authorised to undertake transmission activities. Part II – Powers of the Minister and the authority"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Powers of the minister",
+      "content": "(1) The Minister shall provide supervisory and oversight in the electricity supply industry and shall in that respect— (a) develop and review Government policies in the electricity supply industry ; (b) prepare, publish and revise policies, plans and strategies for development of the electricity subsector; (c) take all measures necessary to reorganize and restructure the electricity supply industry with a view to attracting private sector and other participation; in such parts of the industry, phases or time frames as he deems proper; (d) through the Rural Energy Agency , prepare, revise and publish the Rural Electrification Plan and Strategy; (e) promote the development of the electricity sub-sector, including the development of indigenous energy resources (f) take measures to support and promote rural electrification in accordance with the Rural Energy Act, including the provision of funding for the Rural Energy Fund ; (g) formulate policy by which electricity may be imported or exported; (h) cause to be conducted inquiries into accidents or disasters caused by electricity; (i) any other function as he may deem necessary. (2) Without prejudice to subsection (1) , the Minister shall exercise emergency powers and co-ordinate emergency responses in close co-ordination with the Authority and a licensee ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Powers of the Authority",
+      "content": "The Authority shall have powers to— (a) award licences to entities undertaking or seeking to undertake a licensed activity ; (b) approve and enforce tariffs and fees charged by licensees; (c) approve licensees’ terms and conditions of electricity supply ; and (d) approve initiation of the procurement of new electricity supply installations."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Functions of the Authority",
+      "content": "(1) The functions of the Authority in relation to electricity supply industry shall be to— (a) protect customer 's interests through the promotion of competition; (b) promote access to, and affordability of, electricity services particularly in rural areas; (c) promote least-cost investment and the security of supply for the benefit of customers; (d) promote improvements in the operational and economic efficiency of the electricity supply industry and efficiency in the use of electricity; (e) promote appropriate standards of quality, reliability and affordability of electricity supply ; (f) take into account the effect of the activities of the electricity supply industry on the environment; (g) protect the public from dangers arising from the activities of the electricity supply industry ; and (h) promote the health and safety of persons in the working environment employed in the electricity supply industry . (2) The Authority shall, in the exercise of its functions, consult the Minister on matters of common concern, including— (a) matters of security nature; (b) matters involving— (i) compulsory acquisition of land; (ii) preservation of the environment; (iii) cross-border trade in electricity; and (iv) development of other sources of energy in the electricity supply . (3) A person who contravenes an order issued, direction or condition given by the Authority in relation to performance of its regulatory functions shall be liable to a fine of not less than three million shillings. (4) A person who is aggrieved by the decision under subsection (3) may appeal to the Fair Competition Tribunal."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Reports",
+      "content": "The Authority shall submit to the Minister — (a) the annual report as prepared in accordance with the requirement of section 48 of the EWURA Act ; and (b) other reports on its activities relating to the electricity supply industry as the Minister may request. Part III – Operating licence (a) – Provisional licenses and licenses"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Duty to obtain a licence",
+      "content": "(1) The following activities shall require a licence , namely— (a) generation ; (b) transmission ; (c) distribution ; (d) supply ; (e) system operation; (f) cross-border trade in electricity; (g) physical and financial trade in electricity; and (h) electrical installation. (2) Any person intending to conduct any of the activities stipulated in subsection (1) shall be required to apply to the Authority for a licence, unless— (a) that person has been exempted by the Authority ; or (b) the activity is exempted, under subsection (3) or (4) of section 18 . (3) The Authority shall, by rules, make procedures for application of a licence . (4) The issuance of a licence to a person in relation to a certain activity shall not limit the Authority ’s power to grant a licence to another person providing the same or similar activity within the same area, unless the licence states otherwise. (5) Any person who contravenes the provisions of this section commits an offence and shall on conviction be liable to a fine of not exceeding ten million shilling or to imprisonment for a term not exceeding five years or to both."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Contents and consideration of a licence",
+      "content": "(1) The licence issued under section 8 shall, among others, contain— (a) the name and address of the licensee ; (b) the licence term; (c) the licensed activities; (d) the basis for the determination of tariffs and fees; (e) the licensee ’s reporting requirements; (f) the area of operation; and (g) technical, financial and other necessary information as may be required by the Authority . (2) The Authority shall, when considering application for a licence take into account— (a) the contribution of the proposed activities to meeting the future electricity needs of customers; (b) the consistency of the proposed activities with the Power System Expansion Plan and Strategies and the Rural Electrification Plan and Strategies; (c) the contribution of the proposed activities to competitive conditions in the electricity supply industry ; (d) the social and environmental impacts of the proposed activities; (e) the impact that the proposed activities may have on health and safety of employees and the public; (f) the legal, technical, economic and financial capacity of the applicant to conduct the proposed activities; (g) the costs of the activities and the effect on electricity prices to customers: (h) any representations and objections to the proposed activities made by the public; and (i) other public interests which may be affected by the proposed activities. (3) The Authority shall not issue a licence for any activity where the applicant exhibits evidence of likelihood of the applicant to fail to comply with— (a) technical requirements provided by the Authority ; (b) the requirement to obtain water rights pursuant to the provision of the Water Utilization (Control and Regulation) Act. and other relevant laws, where such requirement is applicable to the activity; and (c) applicable environmental, consumer protection and public safety standards and requirements. [ Cap 331 ] (4) In issuance of a licence , the Authority may attach such conditions including— (a) a requirement to maintain separate accounts for a licensee 's separately licensed activities; (b) the licensee ’s debt limits; and (c) any other condition which the Authority may deem necessary."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Suspension, modification and revocation of a licence",
+      "content": "(1) The Authority may suspend, vary or revoke a licence if the licensee violates terms and conditions of the licence , or any rule or regulations made under this Act, whereby— (a) the violation causes significant damage on public or private interest; (b) the violation occurs in a place repeatedly or persists for a considerable period of time; or (b) the Authority determines that, as a consequence of the violation, the licensee is unable to fulfil his obligations. (2) The Authority may change terms and conditions of any licence issued under this Act, provided that— (a) the licensee has been informed of the change: or (b) the modification is in the public interest, where the benefits to the public significantly exceed any disadvantages to the licensee ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Transfer of a licence",
+      "content": "(1) Any licensee seeking to transfer his licence shall, in writing, apply to the Authority . (2) An application for transfer of a licence shall be made to the Authority and be accompanied by an application of the person to whom the licensee intends to transfer the licence , and the prescribed fee. (3) The Authority shall satisfy itself of the legal, technical, economic and financial capacity of the transferee in undertaking the proposed activities and shall not withhold the consent to any application unless it has reasons to believe that the transferee is unable to adequately undertake the licensed activities or the public interest shall be prejudiced by such transfer. (4) A licensee shall not transfer his licence without prior written consent of the Authority , where— (a) the transfer is made to another person who is not a licensee : (b) the transfer relates to the assets which the licensee requires to conduct its licensed activity ; or (c) a third party becomes, by virtue of the transfer, a majority shareholder to the licensee . (5) The transfer of any licence in violation of this section shall be void."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Provisional licence",
+      "content": "(1) The Authority may issue a provisional licence to carry out assessments, studies and any other activities necessary for application of a licence . (2) The Authority may, in consultation with the Minister and by way of a public tender, invite applications for a provisional licensee to undertake activities specified in subsection (1) and issue such a licence with condition that the holder shall, upon receipt of the licence, apply to the Authority for a licence. (3) Where a licensee intends to expand his licensed activities, he shall apply to the Authority tor an approval to do so. (4) The Authority shall make rules— (a) to determine when an expansion of licensed activities shall be considered significant: (b) prescribing criteria upon which provisional licence shall be required and be granted; and (c) terms and conditions of provisional licence . (5) The Authority may revoke a provisional licence if the holder— (a) violates any provision of the licence ; (b) is unable to fulfil his obligations pursuant to the provisional licence : or (c) fails to initiate work required within the time specified in the provisional licence . (6) A licensee seeking a transfer of a provisional licence issued by the Authority shall apply to the Authority to do so. (7) A provisional licence holder shall not transfer the same in the absence of a written approval by the Authority . (8) The transfer of any provisional licence in violation of sub-section (7) shall be void. (b) – Rights and obligations of licensees"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Rights of a licensee",
+      "content": "Any licensee shall be entitled to— (a) conduct his licensed activity ; (b) plan, develop, install, maintain and refurbish the facilities and equipment required to undertake his licensed activity ; (c) earn a fair return on his investment, provided that his investment has been approved by the Authority ; (d) collect revenues in accordance with his lawfully approved tariffs and fees; (e) provide, at the request of his customers, metering and data collection equipment; and (f) open access to transmission and distribution systems, where such access is permitted by the Authority ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "General obligations a licensee",
+      "content": "(1) A Licensee shall purchase or sell electricity on the basis of contracts to be approved by the Authority . (2) The Authority may, where necessary, inspect licensed activities at any reasonable time (3) The Authority may in consultation with the Minister waive any requiem entreating to a licensee 's licensed activity pursuant to this Act. (4) A licensee shall, at all time during the term of his licence , comply with the provisions of:— (a) terms and conditions of his licence ; (b) the provisions of this Act; and (c) all other relevant laws. (5) Subject to rules established by the Authority and applicable contract provisions, a licensee shall:— (a) safely and reliably provide services arising from his licensed activities to other customers; (b) provide access to its transmission or distribution assets on an open and non-discriminatory basis; (c) employ a sufficient number of qualified personnel to ensure compliance with the licence terms; (d) conclude a Performance Agreement with the Authority ; and (e) prior to concluding any contract with another licensee or a customer , submit such contract to the Authority for its approval. (6) In the conduct of his business, a licensee shall— (a) ensure that his customers are treated on a non-discriminatory basis; (b) ensure that comparable services are provided to all customers: (c) not engage in any activities that disrupt or inhibit competition; and (d) ensure that none of his separately licensed activities give any subsidy to, or receive any subsidy from any other separately licensed activity or any related business . (7) A licensee shall pay licence fees to the Authority pursuant to this Act and the EWURA Act . (8) A licensee shall take into account a need to preserve natural beauty, flora and fauna, buildings and sites of geological, archaeological or cultural significance. (9) A licensee may require a consumer to make account deposit, commensurate with the consumer’s estimated electrical energy consumption for a period agreed upon before electrical energy is supplied. (10) The licensee may, taking into consideration the consumption and change of electrical energy tariffs, revise the amount of the deposit. (11) In this section \"account deposit\" means a payment or payment assurance made by the consumer to the licensee as assurance for electric energy consumed for an agreed period in the form of cash, letter of credit, esrcow account, bank payment guarantee or any other similar arrangements. (12) A licensee who does not intend to renew his licence shall be required to give a notice to the Authority six months before the expiry of the period of licence or within such period as the Authority may prescribe."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Information and reporting obligations",
+      "content": "(1) A licensee shall maintain confidentiality of information and data under his custody relating to other licensees or his customers. (2) Every licensee shall keep proper records and books of accounts as may be prescribed by the Authority . (3) The Authority may specify simplified record keeping and reporting requirements for licensees or persons exempted from the requirements of section 18 . (4) Every licensee shall submit to the Authority in a true and correct form all data and information relating to performance of his functions as may be required by the Authority . (5) Every licensee shall, annually or within a prescribed time, submit a report to the Authority on his licensed activities, which shall include— (a) financial data; (b) technical data related to systems and equipment; (c) operational parameters; and (d) customer service information. (6) Any licensee who posses more than one licence shall keep separate books of accounts and submit separate reports for each licence . (7) A licensee shall notify the Authority annually of any accident that has occurred in any part of the work or in connection with the licensed activities but the notice of loss of life or serious personal injury occasioned by an accident shall immediately be reported to the Authority . (8) Any person who contravenes any provision of this section commits an offence and shall on conviction be liable to a fine not exceeding four million shillings or to imprisonment for a term not exceeding three years or to both."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Generation licence",
+      "content": "Subject to subsection (1) of section 9 , every generation licence shall include— (a) the source, capacity and technology of the generation facilities; (b) the location of the generation facilities; and (c) all applicable licence conditions."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Transmission licence",
+      "content": "(1) Subject to subsection (1) of section 9 , transmission licences shall include— (a) the nature, capacity and technology of transmission facilities; (b) service territory within which a licensee is licensed to provide transmission services on an exclusive basis or the specific transmission facilities to which the licence applies; and (c) all applicable licence conditions. (2) Subject to subsection (1) of section 9 , a transmission licensee shall be required to— (a) comply with all applicable requirements of the Grid Code ; (b) maintain, improve and expand his transmission facilities in an economical manner, taking due account of the Power System Expansion Plan ; and (c) provide transmission services to all users of his facilities on a non-discriminatory basis. (3) Within three months of receiving a licence , a transmission licensee shall establish and publish procedures governing requests to connection access to its transmission facilities, which shall be subject to review and modification by the Authority . (4) A transmission licensee shall not refuse an applicant a right to connect to its transmission facilities, provided that— (a) the applicant has fulfilled the requirements set out in the procedures provided for under subsection (3) ; (b) the authority finds that the licensee is able to provide a connection while maintaining transmission services at charges, terms and conditions consistent with the public interest."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Exemptions",
+      "content": "(1) The Authority may exempt any person from application of the requirements of sect ion 8. (2) An exemption under subsection (1) may be of a general or specific application, and be subject to such terms, conditions and limitations as the Authority may deem proper. (3) Any person who undertakes generation activities in rural areas where the installed generation capacity at a single site is less than one megawatt shall be exempted from the requirement to obtain a licence . (4) Any person who undertakes Off-Grid distribution and supply activities in rural areas where the maximum demand on the Off-Grid system is below one megawatt shall be exempted from the conditions stipulated under section 8 . (5) The Authority may make rules in respect of activities which are exempted from the requirement as provided for under section 8 . (6) Any person exempted under this section shall, in a manner to be provided by the Authority , report to the Authority such information on his activities as it may require."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Duration of a licence",
+      "content": "(1) A licence issued under this Act shall remain in force for a period prescribed therein. (2) A licensee shall, within the period prescribed by the Authority , apply for a new licence . (3) The Authority may renew a licence on such terms and conditions as it may determine."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "System and market operation",
+      "content": "(1) The Authority shall designate a person to be a System Operator and licence such person to— (a) co-ordinate the power supply system, to obtain instantaneous balance between generation and consumption of electricity; (b) be responsible for dispatching all generation installations connected to transmission facilities; (c) co-ordinate planned generation and planned transmission outages; (d) monitor the cross border trade of electricity; (e) recommend amendments to the Grid Code ; and (f) perform such other functions as may be prescribed in its licence or in rules issued by the Authority . (2) The System Operator shall update on an annual basis, a Power System Expansion plan taking into consideration— (a) policies, plans and strategies for the electricity sub-sector; and (b) proposed developments in generation and demand. (3) In the performance of his licensed activities, the System Operator shall abide by the Grid Code . (4) The Authority shall designate a person to be a Market Operator and license such person to:— (a) administer the operations of the wholesale electricity market; (b) admit members to the wholesale electricity market, and require the lodging of securities from such members; (c) receive bids and offers to buy and sell electricity in the wholesale electricity market; (d) clear, reconcile and settle the wholesale electricity market; (e) collect such contract and metering information as may be required by his licence ; and (f) recommend amendments to the market rules . (5) The Market Operator shall, at all times in the performance of licensed activities abide by the market rules . (6) The Authority shall establish a criteria for designation of the System Operator and Market Operator ."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Distribution licence",
+      "content": "(1) Subject to subsection (3) of section 8 , distribution licences shall include, among others— (a) the authorised area and the franchise area of the licensee ; (b) the duration of the licence ; and (c) all applicable licence conditions. (2) Subject to conditions of licence and rules issued by the Authority , a distribution licensee shall— (a) comply with all applicable requirements of the Grid Code ; (b) comply with all applicable requirements of the Distribution Code ; (c) comply with all application requirements or rules issued by the Authority in respect of customer service standards; (d) comply with all application requirements or rules issued by the Authority in respect of safety and technical standards; (e) maintain, improve and expand his distribution facilities in an economical manner in order to provide universal access within his franchise area ; and (f) provide distribution services to all users of his facilities on a non-discriminatory basis. (3) A distribution licensee shall, within three months of receiving a licence — (a) establish and publish procedures governing requests to connect to his distribution facilities, which shall be subject to the Authority ’s review and approval; (b) not refuse an applicant the right to connect to his distribution facilities; provided that the applicant has fulfilled the requirements set out in this Act; (c) establish and publish systems and procedures to receive, register, investigate, resolve and report complaints made by his customers; (d) establish and publish a standard contract for the distribution of electricity to a customer , which shall include the customer ’s rights and duties, and be subject to the Authority ’s review and approval; and (e) establish and publish a Customer Charter, which shall reflect the complaint procedures, customers’ rights and duties provided for under paragraphs (c) and (d) . (4) The Authority shall make rules for the terms and conditions of licences for supply of electricity to customers."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Cross border licences of electricity",
+      "content": "(1) The Authority shall make rules for the terms and conditions of licences for cross border trade of electricity. (2) All application for cross border trade of electricity shall be accompanied by relevant agreements which shall be the basis for such application. (3) Where a licensee amends the agreements referred to in subsection (2) , or enters into new agreements, the amended or the new agreements, as the case may be. shall be submitted to the Authority for verification. Part IV – Tariffs and charges"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Tariffs regulation",
+      "content": "(1) The Authority may regulate— (a) tariffs for the sale of electricity by licensees to other licensees, unless the electricity is sold in markets determined by the Authority to be competitive; (b) tariffs for the sale of electricity by licensees to customers other than eligible consumers; (c) charges for connection to, and the use of any transmission system; (d) charges for connection to, and the use of any distribution system; (e) prices and charges in respect of goods and services provided by licensees determined by the Authority to be subject to tariff regulation. (2) Subject to the provisions of subsection (1) , the Authority shall be guided by the principles that— (a) tariffs should reflect the cost of efficient business operation; (b) tariffs should allow licensees to recover a fair return on their investments, provided that such investments have been approved by the Authority ; (c) costs covered by subsidies or grants provided by the Government or donor agencies shall not be reflected in the costs of business operation; (d) tariff adjustments shall, to the extent possible, ensure price stability: (e) access charges for use of a transmission or distribution system shall be based upon comparable charges for comparable use; (f) no customer class should pay more to a licensee than is justified by the costs it imposes upon such a licensee ; (g) tariffs should enhance efficiency in electricity consumption and should encourage adequate supply to satisfy demand. (3) Regulated tariffs and charges may include automatic tariff adjustments, as approved by the Authority to reflect periodic changes in:— (a) the cost of fuel; (b) the cost of power purchases or the rate of inflation; and (c) the currency fluctuation. (4) Notwithstanding the provisions of subsection (2) , the Authority may prescribe maximum tariffs of a generic nature or simplified tariff methodologies, applicable to licensees or persons exempted under section 18 . (5) Pursuant to rules made by the Authority , a licensee may require an advance financial deposit from a customer as security for the customer ’s future obligations."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Tariff applications and tariff changes",
+      "content": "(1) A licensee shall submit proposed regulated tariffs to the Authority for approval. (2) The Authority shall make amendments or review the regulated tariffs charged by a licensee once in every three years, and such amendments shall not be applied retrospectively. (3) Where the Authority discovers that any tariff, charge term or condition of electricity service is not in compliance with this Act, it may require— (a) changes of the tariff, charge, term or condition of electricity service ; and (b) require the licensee to compensate the affected customers in amounts established by the Authority . (4) A licensee shall not change a regulated tariff, unless— (a) such change has been approved by the Authority ; and (b) the licensee has provided a ninety days notice of his intention to make such change to the public. (5) A licensee ’s notice under paragraph (b) of subsection (4) shall clearly indicate the change and the date on which such change shall become effective. (6) The Authority may, when circumstances dictate, allow the tariff change provided for in subsection 4 to take effect on less than ninety days. (7) A licensee shall indicate a change of circumstances or assumption that underlies an existing regulated tariff in its application for a tariff change. (8) Notwithstanding any payments made in for supply of electrical energy— (a) electric supply lines shall be property of the licensee and may be used to supply other persons provided that such use does not prejudicially affect the supply of electrical energy to the person who first required such electric supply lines to be laid down or erected; (b) such person shall be entitled to reimbursement by the licensee of a fair and just proportion of the cost originally paid by such person from payment made by each person subsequently connected to such electric supply lines; and (c) the licensee shall determine the fair and just proportion of the cost to be reimbursed. Any difference arising under this section as to the amount to be reimbursed by any person, that difference shall, upon application of any person, be determined by the Authority . (9) The Minister may make regulations prescribing the manner in which subsection (8) may be implemented."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Power purchase agreements",
+      "content": "(1) This section shall be applicable only to legally binding agreements concluded subsequent to the entry into force of this Act. (2) A licensee may, by rules made by the Authority conclude agreements for the purchase and sale of electricity. (3) Any agreement under subsection (1) concluded without an approval of Authority shall be void, unless such agreements relate to:— (a) the sale of electricity to eligible customers; (b) electricity purchase and sale in markets determined by the Authority to be competitive; or (c) Standardized Power Purchase Agreement and tariffs for small power projects. (4) The costs incurred by a licensee arising from its obligations pursuant to a power purchase agreement may only influence a licensee ’s regulated tariffs if the Authority deems that the costs were prudently incurred. Consumer rights and protection"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Service obligations",
+      "content": "(1) A distribution licensee may suspend electricity supply services to its customers due to— (a) danger to life, health or safety; (b) danger or risk of damage to property; (c) instruction of the System Operator ; (d) insufficient supply of electricity; (e) instruction of the Authority , in the event of an emergency; (f) operational breakdowns in electrical facilities; (g) in order to carry out:— (i) connections to its distribution facilities; (ii) scheduled or unscheduled maintenance; (iii) repairs, inspections or refits; (iv) tests or control measurements; (v) network expansion; and (vi) other activities which cannot be accomplished without a suspension of service . (2) Notwithstanding sub-section (1) , suspension of electricity supply services by a licensee shall:— (a) be as brief as possible; (b) affect the fewest number of consumers possible; and (c) minimize suspension of supply to priority customers in accordance with the licensee ’s contingency plans referred to in subsection (5) . (3) A licensee shall, in non-emergency situations, give advance notice of the suspension of electricity services pursuant to rules established by the Authority . (4) The Authority shall, where there is insufficient supply of electricity to meet the demand of all its customers, require a licensee to suspend electricity services in order to establish and follow contingency plans to supply priority customers . (5) Subject to rules made by the Authority , a licensee shall be liable to compensate the customer who suffers loss of property or physical injury as a result of an act of a licensee which amounts to— (a) unlawful disconnection of electricity; (b) unlawful suspension of electricity services; or (c) poor quality of supply . (6) The licensee shall be entitled to recover from the customer from loss suffered as a result of— (a) loss or damage in the licensee 's equipment or properties which are in the custody of the customer or customer 's premises; (b) loss or damages occasioned as a result of the licensee undertaking to rectify or repair the damage unlawfully caused by the customer ; (c) loss or damages resulting from the customer tempering with licensee 's installations or equipment, or maliciously or negligently causing physical or financial loss directly or indirectly to the licensee ; or (d) any other loss or damage which, in the natural course of things, does not require proof of having been caused by the customer . (7) The amount of electrical energy consumed by the customer or the number of hours during which the supply is given, the quantity or time connected with the supply shall be ascertained by meters of a type approved by the Tanzania Bureau of Standards or determined in a manner agreed upon by the licensee and the customer . (8) The Minister may make regulations prescribing the manner in which subsection (6) and (7) may be implemented."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Distribution licensees rules",
+      "content": "(1) The Authority shall make rules in respect of a distribution licensee ’s obligations to:— (a) serve other licensees and consumers; (b) connect other licensees and consumers; or (c) disconnect other licensees and consumers."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Disconnection of electricity service",
+      "content": "(1) A licensee may disconnect the supply of electricity to a customer who— (a) unlawfully connected to the electricity system; or (b) is in breach of his contractual obligation in respect electricity supply provided that disconnection does not violate contract or rules made by the Authority . (2) A licensee shall reconnect a customer 's electricity service upon full payment of a past due account and reconnection fees. (3) In the event of a dispute relating to a payment obligation, reference for resolution may be made to the Authority ."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Service standards and customer complaints",
+      "content": "(1) A distribution licensee shall prepare— (a) customer protection standards; (b) service quality standards; (c) performance standards; (d) procedures that are appropriate to the customers of the licensee , including simplified procedures for the licensee ’s customers in rural areas; (e) programmes to inform customers on electricity related issues. (2) A distribution licensee shall establish— (a) an office to receive and respond to customer questions, concerns and complaints; and (b) maintain trained staff to address the issues under paragraph (a) timely and transparently. (3) The Authority may conduct customer education programmes and require licensees to conduct the same. Part V – Monitoring, inspection, investigations and compliance"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Monitoring",
+      "content": "(1) The Authority shall establish systems and procedures to monitor and measure a licensee ’s performance and compliance with this Act. (2) Where prices in a part or all of the electricity market have been deregulated, the Authority shall monitor the behaviour of licensees participating in such parts of the market. (3) The Authority may require the Market Operator to assist the Authority in fulfilling the function specified in subsection (2) . (4) The Authority may collect from a licensee any information it reasonably requires to fulfil its functions pursuant to this Part. (5) Upon reasonable notice, authorised representatives of the Authority shall be given access to inspect the licensee ’s premises, installations, books and accounts and other documentation for the purpose of investigating the licensee ’s compliance with this Act. (6) Information provided by a licensee to the Authority shall be treated as public information unless, upon specific request by the licensee , to treat such information as confidential. (7) The Authority shall, by regulation, publish periodic reports on the performance of licensees, including but not limited to the quality, reliability and security of supply , progress with electrification, investment, efficiency of operations and other standards of customer services."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Inspection",
+      "content": "(1) The Authority shall, in order to monitor and assess compliance with this Act, have right to— (a) inspect the construction of electricity facilities and works; (b) inspect existing facilities to ensure conformity with regulations and standards; and (c) test metering facilities to ensure their adequacy and accuracy. (2) In carrying out inspection and test pursuant to subsection (1) , an officer or an authorised representative of the Authority may, on reasonable notice, enter a licensee’s premises at reasonable time."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Investigations and inquiries",
+      "content": "(1) The Authority may upon receipt of a complaint or on its own motion, investigate— (a) a licensee for non-compliance with this Act; or (b) any aspect of a licensee ’s tariff; (2) The Authority shall consult with the Fair Competition Commission in any investigation into anti-competitive behaviour. (3) The Authority may conduct inquiries into the cause of any accident relating to electricity facilities which affect the safety of electricity sector operation, consumers or the public; and may order necessary corrective measures."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Compliance",
+      "content": "(1) Where the Authority is of the opinion that a licensee has violated or is in violation of a condition of his licence , any requirement or order under this Act, the Authority may— (a) direct the licensee -to comply with that condition, requirement or order; (b) suspend or revoke the licence in accordance with this Act; or (c) impose penalties. (2) The Authority shall make rules prescribing penalties for— (a) engagement in any licensed activity without a licence ; (b) breach of licence conditions; (c) tampering with or adjusting any installation or part of an installation; (d) manufacturing, importation or sale of any equipment so as to cause or likely to cause harm to human life or damage equipment or property: (e) affixing or causing to be affixed any advertisement, bill, notice or any paper against or upon, or otherwise defacing any building, post, bracket, other equipment or an enclosure thereof used for. or in connection with any electrical installation, without a consent of the licensee or the Authority . (f) offences relating to— (i) Negligently cause of injury or damage to any person or property in respect of any electrical supply , installation, equipment or any part thereof; (ii) damage to any meter or other instrument used on or in connection with any licensed installation for recording the output or consumption of energy; (iii) fraudulently: (aa) abstracting electricity; (bb) consuming electricity: (cc) altering the index of any meter or other instrument used on or in connection with any installation for recording the output or consumption of electricity: or preventing any such meter or instrument from duly recording the output or consumption of electricity; (dd) abstracting any oil. lubricant, additive from a transformer or any other part of an electrical installation. (3) A person who fraudulently abstracts, consumes or uses any electricity shall be deemed to have committed theft; and the existence of artificial means for such abstraction shall be prima facie evidence of such Act. Part VI – Access to land for installations"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Compulsory access",
+      "content": "(1) A licensee may, upon issuance of a written notice to the landowner and to the Authority , enter private property for the purposes of operating, repairing or maintaining his facilities. (2) A licensee entering a property pursuant to subsection (1) shall:— (a) use his best efforts to protect the rights and property of the landowner: and (b) upon completion of the work, keep such property to its former condition. (3) A licensee shall remove or trim trees or other high vegetation which may pose threat to the safe and reliable operation of his facilities. (4) Upon application by the owner of land on which a licensee has placed an electric supply line, the Authority may order the licensee , subject to any condition, alter the position of the line or remove the same. (5) Any electrical supply lines, meters, fittings, works or apparatus belonging to a licensee and lawfully placed or installed in or upon any premises which does not belong to the licensee , whether or not it is fixed to any part of such premises shall— (a) remain the property of, and may be removed by the licensee ; (b) not be subject to the land road’s distress for rent; and (c) not be the subject of execution arising from any process of law or legal proceedings in insolvency or liquidation against the owner or occupier of such premises."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Wax leaves",
+      "content": "(1) The Authority shall facilitate acquisition of a wayleave to a licensee around existing and future energy facilities. (2) Owners of property on or bordering a wayleave shall not interfere with a licensee ’s rights related thereto. [ Cap. 118 ] (3) A licensee shall compensate a property owner for any wayleave granted; and any dispute related to the amount of compensation shall be settled as if the wayleave had been obtained pursuant to the Land Acquisition Act. (4) Subject to the relevant laws, a licensee shall be entitled to the free use of public bridges, roads, streets, pavements and other infrastructure for the purpose of laying, connecting, running or maintaining:— (a) overhead power lines: (b) underground cables; (c) gas pipelines: (d) water pipelines; (e) oil pipelines; and (f) other installations as the Authority may approve."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "Compulsory acquisition of land",
+      "content": "(1) A licensee may, if there is a need to acquire land for the purpose of providing or maintaining electricity supply in accordance with this Act and with the consent of the Authority , request for allocation of land to the Minister responsible for lands in accordance with this section. (2) The Authority shall provide a copy of its approval to the Minister responsible for lands and to the owner of the land or the person having interest in the land. (3) The Minister responsible for lands shall, if is satisfied that the land or interest in land is required for the purpose of providing or maintaining electricity supply services to the public, pursue the acquisition of the land on behalf of the licensee in accordance with the Land Act and the Land Acquisition Act. Part VII – Rural electrification"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VII",
+      "section": "37",
+      "title": "Rural electrification plan and strategies",
+      "content": "(1) The Minister shall, in consultation with the Rural Energy Agency and the Authority , prepare a Rural Electrification Plan and Strategies for Mainland Tanzania, and periodically amend and update such plan. (2) The Minister shall submit annually to the National Assembly a report on the progress and achievement of the Rural Electrification Plan and Strategies which shall contain information relating to— (a) expansion of the main grid in rural areas; and (b) development of off-grid electricity supply systems in rural areas, including new and renewable energy systems."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Monitoring and evaluation",
+      "content": "(1) The Minister shall, in consultation with the Rural Energy Agency and the Authority , cause to be established and maintained a rural electrification database for Mainland Tanzania to assist in the monitoring of progress and establishment of the targets of rural electrification. (2) The Minister shall periodically evaluate the impact of the rural electrification program on economic and social development. (3) The Authority may delegate its monitoring functions in respect of electricity supply in rural areas to the Rural Energy Agency , provided that the Rural Energy Agency submits reports on its activities to the Authority ."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Implementation measures",
+      "content": "(1) The Minister shall cause to be adopted specific policies and may impose specific requirements, levies, relief and regulations for the promotion and development of rural electrification, in accordance with the Rural Energy Act. (2) The Authority may make rules prescribing different technical, quality of supply and reporting standards applicable to licensees’ activities in rural areas, where such standards can reduce the costs of, and promote investment in rural electrification. (3) The Authority may, in accordance with licence conditions or exemption under section 8 and 18 , provide enough time for compliance with the specified standards and regulations under this section. (4) For the promotion of the National Energy Policy in relation to rural electrification, every license shall be required to supply electrical energy to the local communities where electrical supply installations are located or along transmission lines. (5) Where electrical generation is done by using natural resources obtained in Mainland Tanzania the licensee shall be required to participate in development projects initiated by communities located near the generation point. (6) The Minister may make regulations prescribing the manner in which subsection (4) and (5) may be implemented. Part VIII – Reorganisation of the electricity market"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VIII",
+      "section": "40",
+      "title": "Reorganization of electricity market",
+      "content": "The Minister may in consultation with the Minister responsible for finance and the Authority , restructure the electricity supply industry in order to foster competition for increased efficiency, enhance development of private capital investment and promote regional electricity trading."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VIII",
+      "section": "41",
+      "title": "Reorganization of the electric its market",
+      "content": "(1) The Minister shall within one year after coming into force of this Act prepare and publish a policy for the reorganization of the electricity market which policy shall stipulate— (a) the parts of the electricity market that shall be subject to competition; (b) the form of competition that shall be introduced in each relevant part of the electricity market; and (c) the timeframes for the introduction of competition. (2) In formulation of a policy the Minister shall take into consideration— (a) international best practices regarding competition policies in the electricity sector: (b) the effects of competition on customer services, investment and private sector participation; (c) the size and nature of the electricity market in Mainland Tanzania; (d) any need to restructure existing entities in the electricity supply industry to give effect to competition; and (e) the views of the Authority , Fair Competition Commission , consumers and licensees. (3) The Minister may, in consultation with the Authority , the Fair Competition Commission , consumers and players in the electricity supply industry , amend the policy at any time. (4) The Minister shall take such steps as is necessary to give effect to the policy including but not limited to the establishment of suitable market institutions. (5) The Authority shall give effect to the policy by— (a) preparation or amendment of the market rules . Grid Code , Distribution Code or any other set of rules issued by the Authority ; (b) defining eligible customers; (c) deregulation of tariffs in relevant sections of the market, provided that the Authority is satisfied that competitive conditions in such sections of the market are adequate. (6) Notwithstanding the preceding provisions of this section, the Tanzania Electric Supply Company shall have a right to first refusal to the supply of electrical energy to all intensive electrical energy consumers. (7) Any person who, before coming into operation of this Act, had arrangement or agreement with the Tanzania Electric Supply Company for the generation and supply of electrical energy and in relation to which the Tanzania Electric Supply Company or the Government guaranteed the importation of, or installation of electricity supply installation shall not be subject of grant of a licence during a period of five years. (8) The provision of subsection (7) shall— (a) have similar effect to a person who acquires or assumes ownership of electricity supply installation from or on behalf of a person who is the subject of that subsection; and (b) not apply to a person who, after the coming into operation of this Act, enters into arrangement or agreement with the Government for the generation and supply of electricity energy to franchise areas. (9) The Minister may make regulations prescribing the manner in which subsections (6) and (7) may be implemented. Part IX – Disputes settlement"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part IX",
+      "section": "42",
+      "title": "Disputes settlement",
+      "content": "Any dispute between the participants in electricity supply industry or between participants and the Authority or any other Government authority relating to application of this Act may be brought before the Fair Competition Commission for mediation."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part IX",
+      "section": "43",
+      "title": "Appeal to the fair competition tribunal",
+      "content": "(1) Any person who is aggrieved by the decision of the Authority , may appeal to the Fair Competition Tribunal in accordance with the provisions of the Fair Competition Act. (2) Notwithstanding the right of appeal conferred by subsection (1) , any person aggrieved by an act of the Authority shall not have the obligation to refer the dispute to the Fair Competition Commission for mediation as a condition for being heard by the Fair Competition Tribunal. [ Cap 414 ] Part X – Misceli.aneous provisions"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part X",
+      "section": "44",
+      "title": "Regulations",
+      "content": "The Minister may make regulations prescribing (a) assurance that supplies of electricity are sufficient to meet expected demand; (b) protection of public from dangers arising from the generation , transmission or supply of electricity, or from the installation, maintenance or use of any electrical equipment; (c) promotion of access to electricity in rural areas in accordance with the Rural Energy Act; (d) promotion of research into, and the development of new techniques relating to the electricity supply industry ."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part X",
+      "section": "45",
+      "title": "Rules",
+      "content": "The Authority may make rules prescribing— (a) the governing activities of licensees; (b) the performance of its functions pursuant to this Act, including— (i) determination of tariffs and fees; (ii) accounting and reporting standards; (iii) customer service standards; (iv) non-discriminatory access to transmission or distribution facilities which are designated for common carriage; (v) the operation and management of the transmission system, to be known as the Grid Code ; (vi) the operation and management of the distribution system, to be known as the Distribution Code ; (vii) the trading of electricity, to be known as the Market Rules; (viii) monitoring technical and safety standards; (c) inspection of licensees' books of accounts and premises: and (d) terms and conditions for licences."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part X",
+      "section": "46",
+      "title": "Publication of regulations and rules",
+      "content": "The Regulations and rules made under this Act shall be published in the Gazette ."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part X",
+      "section": "47",
+      "title": "Indemnity",
+      "content": "No suit, prosecution or other proceeding shall lie against any officer performing in good faith any functions under this Act or purporting to be done in the implementation of this Act."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part X",
+      "section": "48",
+      "title": "Repeal and savings",
+      "content": "(1) The Electricity Act is hereby repealed. (2) Any subsidiary legislation or notice made pursuant to the provisions of the repealed Act which was in force immediately before the commencement of this Act, so far as it is not inconsistent with the provisions of this Act. shall remain in force until they are revoked. (3) Upon repeal of the Electricity Act the following matters shall continue to have effect as if they were made pursuant to this Act— (a) provisions of the Electricity Act which require supply of electricity to continue to be given; (b) any tariffs fixed pursuant to the provisions of the Electricity Act; (c) any applications in process and anything done before this Act in relation to an application for a licence ; (d) any meter of a pattern which was approved pursuant to the provisions of the Electricity Act: (e) any land compulsorily acquired or otherwise in the process of transfer pursuance to the provisions of the Electricity Act; (f) a right of entry into any premises permitted pursuant to the provisions of the Electricity Act: (4) Any person who— (a) is in possession of a licence or permit issued prior to the enactment of the EWURA Act shall comply with this Act and all rules issued by the Authority pursuant thereto within one year of the coming into force of this Act; (b) is in possession of a licence to undertake distribution activities issued prior to the enactment of the EWURA Act shall comply with the provisions of subsection (3) of section 21 within three months of the coming into force of this Act."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part X",
+      "section": "49",
+      "title": "Transitional provisions",
+      "content": "Except as otherwise provided in this Act, licences, permits, consents, orders and contract documents granted or made prior to the enactment of this Act in relation to the provision of electricity services shall remain in force for the terms set forth in such instruments or for such longer interim period as the Authority may grant. History of this document 31 December 2023 Chapter 131 Revised Laws 2023 Consolidation 19 June 2020 amendment not yet applied Amended by Written Laws (Miscellaneous Amendments) (No. 2) Act, 2020 25 September 2015 amendment not yet applied Amended by Tanzania Extractive Industries (Transparency and Accountability) Act, 2015 06 August 2010 amendment not yet applied Amended by Written Laws (Miscellaneous Amendments) (No. 3) Act, 2010 01 April 2009 Commenced by Electricity (Date of Commencement) Notice, 2009 20 June 2008 this version Published in Tanzania Government Gazette 25 06 June 2008 Assented to Related documents Repeals Electricity Act Is amended by Tanzania Extractive Industries (Transparency and Accountability) Act, 2015 Written Laws (Miscellaneous Amendments) (No. 2) Act, 2020 Written Laws (Miscellaneous Amendments) (No. 3) Act, 2010 Is commenced by Electricity (Date of Commencement) Notice, 2009 More documents like this one Subsidiary legislation Title Electricity (Electrical Installation Services) (Amendment) Rules, 2023 Government Notice 196 of 2023 Electricity (Electrical Installation Services) Rules, 2022 Government Notice 113 of 2022 Electricity (Licensing and Registration Fees) Rules, 2022 Government Notice 112 of 2022 Kanuni za Umeme (Huduma za Ufungaji Mifumo ya Umeme) za Mwaka 2019 Government Notice 631 of 2021 Electricity (General) Regulations, 2020 Government Notice 945 of 2020 Electricity (Development of Small Power Projects) Rules, 2020 Government Notice 491 of 2020 Electricity (Development of Small Power Projects) Rules, 2019 Government Notice 462 of 2019 Electricity (Procurement of Power Projects and Approval of Power Purchase Agreements) Rules, 2018 Government Notice 453 of 2019 Electricity (Supply Services) Rules, 2019 Government Notice 387 of 2019 Electricity (Electrical Installation Services) Rules, 2019 Revoked Government Notice 382 of 2019 Electricity (Development of Small Power Projects) Rules, 2019 Government Notice 380 of 2019 Electricity (Generation, Transmission and Distribution Activities) Rules, 2019 Government Notice 287 of 2019 Electricity (Development of Small Power Projects) Rules, 2018 Revoked Government Notice 77 of 2018 Electricity (Net-Metering) Rules, 2018 Government Notice 76 of 2018 Electricity (Market Re-Organization and Promotion of Competition) Regulations, 2016 Government Notice 292 of 2016 Electricity (Licensing Fees) Rules, 2016 Revoked Government Notice 287 of 2016 Electricity (Development of Small Power Projects) Rules, 2016 Revoked Government Notice 217 of 2016 Electricity (Regulation of Own Use Generation Activities) Rules, 2013 Government Notice 64 of 2013 Electricity (Distribution Services) Rules, 2012 Government Notice 322 of 2012 Electricity (Generation Services) Rules, 2012 Government Notice 321 of 2012 Tanzania Electric Supply Company Limited (TANESCO) (Electricity Transmission, System Operation and Cross-Border Electricity Trade Licence) Exemption Rules, 2012 Government Notice 150 of 2012 Tanzania Electric Supply (TANESCO) (Electricity Generation Licence) Exemption Rules, 2012 Government Notice 149 of 2012 Electricity (General) Regulations, 2011 Revoked Government Notice 63 of 2011 [] [] [] [{\"provision_eid\": \"part_IV__subpart_nn_1__sec_28__subsec_3\", \"citations\": 2}, {\"provision_eid\": \"part_V__sec_33__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_V__sec_33__subsec_2/~part_VI__sec_34\", \"citations\": 1}] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "annual report",
+      "definition": "a report issued by the Authority annually in terms of section 48 of the Energy and Water Utilities Regulatory Authority Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "authorised area",
+      "definition": "an area in which a Distribution Licensee has a non-exclusive right to sell or provide services to consumers",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Authority",
+      "definition": "the Energy and Water Utilities Regulatory Authority established under EWURA Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "cross-border electricity trade",
+      "definition": "trading in electricity between two states sharing a common border through an inter-connector power line, or between more than two states not sharing common border, but linked through a power pool which involves export or import of electric energy between the states",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Customer Service Charter",
+      "definition": "a document which sets out terms and conditions of provision of service , rights and duties of a licence and customers",
+      "source_provision": "s3"
+    },
+    {
+      "term": "customer",
+      "definition": "a person who purchases or receives electricity for own use or sale",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Distribution Code",
+      "definition": "the technical and procedural rules and standards issued by the Authority governing matters pertaining to the distribution of electricity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "distribution licensee",
+      "definition": "a licensee authorised to undertake distribution activities",
+      "source_provision": "s3"
+    },
+    {
+      "term": "distribution",
+      "definition": "the transportation of electric energy and power by means of medium to low voltage lines, facilities and associated meters, including the construction, operation, management and maintenance of such lines, facilities and meters",
+      "source_provision": "s3"
+    },
+    {
+      "term": "economic regulation",
+      "definition": "an intervention to modify, as and when deemed appropriate, the economic behaviour of a regulated supplier aimed at narrowing choices in certain areas including prices, rate of return and methods of procurement",
+      "source_provision": "s3"
+    },
+    {
+      "term": "electricity supply industry",
+      "definition": "electricity generation , electric power transmission , electricity distribution and electricity retailing",
+      "source_provision": "s3"
+    },
+    {
+      "term": "electricity supply installation",
+      "definition": "a facility used to generate, transmit, distribute or supply electricity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "eligible customer",
+      "definition": "any person who is authorized by the Authority to enter into contract for the supply of electricity directly with any person licensed to generate electricity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "EWURA Act",
+      "definition": "the Energy and Water-Utilities Regulatory Authority Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Fair Competition Commission",
+      "definition": "the Commission established by the Fair Competition Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "franchise area",
+      "definition": "the area within which a distribution licensee has the exclusive right to provide service to any customer who is not an eligible customer in that area",
+      "source_provision": "s3"
+    },
+    {
+      "term": "generation licensee",
+      "definition": "a licensee authorised to undertake electricity generation activities",
+      "source_provision": "s3"
+    },
+    {
+      "term": "generation",
+      "definition": "the production of electric energy and power from any primary source of energy",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Grid Code",
+      "definition": "the technical and procedural rules and standards issued by the Authority on transmission and system operation",
+      "source_provision": "s3"
+    },
+    {
+      "term": "high voltage",
+      "definition": "ac or de voltage of the amount equal or above to sixty six thousand plus or minus ten per cent",
+      "source_provision": "s3"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued by the Authority pursuant to the EWURA Act , relating to the electricity supply industry",
+      "source_provision": "s3"
+    },
+    {
+      "term": "licensed activity",
+      "definition": "the activities specified under section 8",
+      "source_provision": "s3"
+    },
+    {
+      "term": "licensee",
+      "definition": "any person licensed to provide electricity market administration services",
+      "source_provision": "s3"
+    },
+    {
+      "term": "low voltage",
+      "definition": "ac or de voltage less or equal to four hundred plus or minus five percent",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Market Operator",
+      "definition": "a person licensed to administer wholesale trade in electricity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "market rules",
+      "definition": "the technical and procedural rules issued by the Authority on the administration of wholesale trade in electricity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "medium voltage",
+      "definition": "ac or de voltage between or above four hundred voltage plus or minus ten percent and less or equal to thirty three thousand voltage plus or minus ten percent",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for electricity matters",
+      "source_provision": "s3"
+    },
+    {
+      "term": "off-grid",
+      "definition": "an electricity supply system that is not electrically connected, directly or indirectly to any part of the transmission system",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Performance Agreement",
+      "definition": "an agreement between a licensee and the Authority which establishes incentives and penalties related to the measurable performance of the licensee , and which is designed to improve the efficiency and effectiveness of the licensee",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Power System Expansion Plan",
+      "definition": "a planning document prepared by the Minister and updated on an annual basis by the System Operator , dealing with indicative medium and long-term plans for the expansion of the transmission system to cater for expected generation and demand developments",
+      "source_provision": "s3"
+    },
+    {
+      "term": "priority customers",
+      "definition": "customers of a distribution licensee who, due to the essential nature of their activities, are prioritised by the Authority to receive supply when the licensee suspends electricity supply services",
+      "source_provision": "s3"
+    },
+    {
+      "term": "related business",
+      "definition": "any business or company which directly or indirectly, in whole or in part, is owned by the licensee",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Rural Electrification Strategy and Plan",
+      "definition": "the document prepared by the Minister dealing with strategies and plans to promote access to electricity in rural areas",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Rural Energy Agency",
+      "definition": "the agency established under Part IV of the Rural Energy Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Rural Energy Fund",
+      "definition": "the fund established under Part V of the Rural Energy Act: “ service ” means production and supply of electricity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Standardized Small Power Purchase Agreement",
+      "definition": "the agreement between a utility entity and a developer entered for purposes of selling power to the grid not exceeding 10MW but not less than 100kW",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Standardized Small Power Purchase Tariff",
+      "definition": "the tariff agreed on in the Standardized Power Purchase Agreement",
+      "source_provision": "s3"
+    },
+    {
+      "term": "supply",
+      "definition": "the sale of electricity to consumers",
+      "source_provision": "s3"
+    },
+    {
+      "term": "System Operator",
+      "definition": "a person licensed to provide system operation services",
+      "source_provision": "s3"
+    },
+    {
+      "term": "transmission",
+      "definition": "the transportation of electrical energy and power by means of high-voltage lines, facilities and associated meters, including the construction, operation, management and maintenance of such lines, facilities and meters",
+      "source_provision": "s3"
+    },
+    {
+      "term": "transmission licensee",
+      "definition": "a licensee authorised to undertake transmission activities. Part II – Powers of the Minister and the authority",
+      "source_provision": "s3"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "tz-act-ord-1923-1",
+  "type": "statute",
+  "title": "Destitute Persons Act",
+  "title_en": "Destitute Persons Act",
+  "short_name": "Destitute Persons Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/ord/1923/1/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Destitute Persons Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context requires otherwise— \" destitute person \" means any person without employment and unable to show that he has visible and sufficient means of subsistence; \" vessel \" means any means of conveyance, whether by air, rail, road or water."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power to order destitute persons to find work",
+      "content": "(1) Where it is shown to the satisfaction of a magistrate that any person is a destitute person , the magistrate may in his discretion order that person— (a) to find work and to report to the magistrate before a named date; (b) to be detained in custody for a period not exceeding one month with a view to work being found for him; or (c) if he is a native who is not dwelling in his usual place of residence, to return before a named date to his usual place of residence in Tanzania. (2) If any person fails to report to a magistrate as ordered, he shall be liable to a fine not exceeding five thousand shillings or to imprisonment for any term not exceeding three months."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Consequences of failure to find work",
+      "content": "When a destitute person fails to find work before the named date as ordered, or work cannot be found for a destitute person ordered to be detained in custody, then a magistrate may order that person, if he is a native who is not dwelling in his usual place of residence to return before a named date to his usual place of residence in Tanzania, or, if he is not a person born in Tanzania to be detained in custody for a period of one month from the date of the order with a view to his deportation under this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Deportation of non-native destitute",
+      "content": "(1) Where a magistrate certifies that a destitute person , not being a person born in Tanzania, has failed to find work as ordered, or that work cannot be found for such a destitute person who has been ordered to be detained in custody, the President may order that person to be deported from Tanzania, and to be detained in custody until deportation. (2) A Tanzanian citizen shall be ordered to be deported to any place to which the President is satisfied and he consents to be deported. (3) A person who is not a citizen shall be ordered to be deported to some place in the country to which he belongs, or to any place to which he consents to be deported, provided that the Government is satisfied that the Government of such last-mentioned place consents to receive him. (4) Subject to the directions of the President, a person ordered to be deported may be conducted across the frontier or placed on board a suitable vessel by any police officer, and may be lawfully detained in custody on board so long as the vessel is within the territorial waters of Tanzania. (5) If a person who has been deported under this section is subsequently found in Tanzania without having received the licence of the President to enter Tanzania or contravenes any provision or condition contained in such licence, he shall be liable to a fine not exceeding ten thousand shillings or to imprisonment for any term not exceeding six months, and may again be deported."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Enforcement of order to return to place of residence",
+      "content": "When an order is made for a person to return to his usual place of residence in Tanzania, then— (a) the magistrate may, if he thinks fit, order that that person be kept in custody until a suitable opportunity occurs for his journey, and also that the person be kept in custody during his journey; (b) if the native fails to comply with the order, or having complied with the order leaves such place without the licence of an administrative officer or of his Chairman of the Village or Mtaa acting in accordance with the general or special directions of an administrative officer, he shall be liable to a fine not or exceeding ten thousand shillings or to imprisonment for a term not exceeding six months, and may again be ordered to return to his usual place of residence."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Place of detention",
+      "content": "A person who under this Act is ordered to be detained in custody may be so detained either in a prison or in any place appointed for the purpose by the President, but if detained in a prison shall be treated as a person awaiting trial and not as a convict prisoner, except that he may be required to work to the same extent as if he had been awarded simple imprisonment."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Power of arrest",
+      "content": "Any senior police officer, or any police officer, acting by the instructions of a senior police officer may arrest without warrant any person who is apparently a destitute person , and shall at the earliest opportunity take him before a magistrate."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Power of President to order release",
+      "content": "The President may at any time order the release of any person detained in custody under this Act. History of this document 31 December 2023 Chapter 389 Revised Laws 2023 Consolidation 31 July 2002 this version Chapter 389 Revised Laws 2002 Consolidation 19 January 1923 Commenced Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "destitute person",
+      "definition": "any person without employment and unable to show that he has visible and sufficient means of subsistence",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vessel",
+      "definition": "any means of conveyance, whether by air, rail, road or water.",
+      "source_provision": "s2"
+    }
+  ]
+}

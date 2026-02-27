@@ -1,0 +1,158 @@
+{
+  "id": "tz-act-1967-33",
+  "type": "statute",
+  "title": "Trustee Investments Act",
+  "title_en": "Trustee Investments Act",
+  "short_name": "Trustee Investments Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/1967/33/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Trustee Investments Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" authorised investments \" means the investments authorised by this Act or by the Act or instrument creating the trust; \" company \" means a company incorporated under the Companies Act 1 . 1 Cap. 212 \" debenture \" includes debenture stock, bonds and any other securities of a company or corporation which constitute a charge on the assets of the company or corporation or any part thereof; \" Minister \" means the Minister for the time being responsible for finance. \" private company \" shall have the meaning assigned to that expression in the Companies Act. \" scheduled corporation \" means a body corporate specified in the Schedule to this Act; \" securities \" includes stocks, funds and shares; \" securities payable to bearer \" includes securities transferable by delivery or by delivery and endorsement; \" share \" means a share in the share capital of a company or corporation and includes stock; \" special range property \" means property forming part of a trust fund which, by the Act or instrument creating the trust, the trustee is specifically authorised to retain or property in which he is specifically authorised to invest; the expression \"trust\" does not include the duties incident to an estate conveyed by way of mortgage; but with this exception the expressions \"trust\" and \"trustee\" include implied and constructive trusts, and cases where the trustee has a beneficial interest in the trust property, and the duties incident to the office of personal representative of a deceased person."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application",
+      "content": "(1) The provisions of this Act shall apply to all trusts whether created before or after its commencement. (2) The powers conferred by this Act on trustees shall be in addition to the powers conferred by the Act or instrument creating the trust: Provided that the powers conferred by this Act shall be exercised if and so far only as a contrary intention is not expressed in the Act or instrument creating the trust and subject to such conditions and limitations, if any, as may be imposed by such Act or instrument or by this Act or by any other written law."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Authorised investment",
+      "content": "A trustee may invest any trust funds in his hands, whether at the time in a state of investment or not— (a) in bills, bonds or stock or any other securities issued by the Government; (b) in deposits in the Tanzania Postal Bank; (c) in interest bearing deposits in the National Bank of Commerce; (d) in securities issued by the East African Development Bank, the African Development Bank or by the PTA Bank which are redeemable in and in respect of which the interest is payable in the lawful currency of Tanzania; (e) subject to the provisions of section 9 , in the fully paid up shares or debentures of a scheduled corporation ; (f) subject to the provisions of sections 9 and 10 , in the fully paid up shares or debentures of a company , other than a private company ; (g) subject to the provisions of section 11 , in a first legal mortgage of land held for a Government lease or of land held under a right of occupancy."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Purchase at premium of redeemable stocks",
+      "content": "(1) A trustee may invest in any of the securities specified in section 4 notwithstanding that the same may be redeemable and that the price exceeds the redemption value. (2) A trustee may retain until redemption any redeemable securities purchased in the exercise of the powers conferred upon him by section 4 ."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Discretion of trustees",
+      "content": "Every power conferred by section 4 shall, subject to the provisions of subsection (2) of section 3 , be exercised according to the discretion of the trustee."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Power to retain investment which has ceased to be authorised",
+      "content": "A trustee shall not be liable for breach of trust by reason only of his continuing to hold an investment which has ceased to be an authorised ceased investment."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Investment in bearer securities",
+      "content": "(1) A trustee may, unless expressly prohibited by the Act or instrument creating the trust, retain or invest in securities payable to bearer which, if not so payable, would have been authorised investments : Provided that securities payable to bearer retained or taken as an investment by a trustee, other than the public trustee, shall, until sold, be deposited by him for safe custody and collection of income with a banker or banking company . (2) A direction that investments shall be retained or made in the name of a trustee shall not, for the purposes of subsection (1) of this section, be deemed to be such an express prohibition as aforesaid. (3) A trustee shall not be responsible for any loss incurred by reason of such deposit, and any sum payable in respect of such deposit and collection shall be paid out of the income of the trust fund."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Limitation on investments in scheduled corporations and companies",
+      "content": "(1) The power of a trustee to invest a trust fund in the shares or debentures of scheduled corporations and companies conferred by paragraphs (e) and (f) of section 4 shall be subject to the following limitations— (a) the value of the investment made in any single scheduled corporation or company shall not exceed one-tenth of the total value of the trust fund; (b) the total value of the investments made in companies shall not exceed one-third of the total value of the trust fund; and (c) the total value of the investments made in scheduled corporation and of the investments made in companies shall not exceed two-thirds of the total value of the trust fund. (2) Where a trust fund includes special range property subsection (1) shall have effect as if references to the trust fund were references to each part thereof as does not include special range property ."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Conditions for investments in companies",
+      "content": "A trustee shall not invest any trust fund in the shares or debentures of a company unless— (a) the company 's total issued and paid up capital is two million shillings or more; and (b) the company , during each of the three years preceding the year in which the investment is proposed to be made, has made profits and the total of the profits earned during the three years is not less than fifteen per centum of the total value of the company 's paid-up share capital as at the end of the year immediately preceding the year in which the investment is proposed to be made."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Conditions for investment in mortgages",
+      "content": "A trustee may invest a trust fund in a mortgage of land only if— (a) the value of the land including the value of any buildings thereon is more than twice the amount proposed to be invested; (b) the unexpired term of the leasehold or right of occupancy, as the case may be, is not less than twenty years; (c) the date of repayment of the mortgage debt is not less than fifteen years before the date of the expiry of the lease or right of occupancy, as the case may be; (d) the interest to be received in respect of the mortgage debt is not less than eight per centum per annum; (e) there has been no breach of any covenant of the lease or right of occupancy, as the case may be; (f) development requirements, if any, annexed to the lease or right of occupancy, as the case may be, by or under the authority of any written law, other than any requirement which is of continuing nature, have been complied with; (g) in the case of land held for a Government lease, the rent payable in respect of the land does not exceed the rent prescribed in the First Schedule to the Freehold Titles (Conversion) and Government Leases Act 2 . 2 Cap. 393"
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Loans and investments by trustees not chargeable as breaches of trust",
+      "content": "(1) A trustee lending any trust fund on the security of any property on which he can properly lend shall not be chargeable with breach of trust by reason only of the proportion borne by the amount of the loan to the value of the property at the time when the loan was made, if it appears to the court that— (a) in making the loan the trustee was acting upon a report to the value of the property made by a person whom he reasonably believed to be an able practical surveyor or valuer instructed and employed independently of any owner of the property, whether such surveyor or valuer carried on business in the locality where the property is situate or elsewhere; and (b) the loan was made under the advice of the surveyor or valuer expressed in the report. (2) This section applies to investments made before as well as after the commencement of this Act."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Liability for loss by reason of improper investment",
+      "content": "(1) Where a trustee improperly advances trust fund on a mortgage security which would at the time of the investment be a proper investment in all respects for a smaller sum than is actually advanced thereon, the security shall be deemed an authorised investment for the smaller sum, and the trustee shall only be liable to make good the sum advanced in excess thereof with interest. (2) This section applies to investments made before as well as after the commencement of this Act."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Power to deposit money at bank and to pay calls",
+      "content": "(1) Trustees may, pending the negotiation and preparation of any mortgage, or during any other time while an investment is being sought for, pay any trust fund into a bank to a deposit or other account, and all interest, if any, payable in respect thereof shall be applied as income. (2) Trustees may apply capital money subject to a trust in payment of the calls on any shares subject to the same trust."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Powers supplementary to the powers of investment",
+      "content": "(1) Trustees lending any trust fund on the security of any property on which they can lawfully lend may, subject to the provisions of section 11 , contract that the money shall not be called in during any period not exceeding seven years from the time when the loan was made, provided interest be paid within a specified time not exceeding thirty days after every half-yearly or other day on which it becomes due, and provided there be no breach of any covenant by the mortgagor contained in the instrument of mortgage for the maintenance and protection of the property. (2) Where any securities of a company are subject to a trust, the trustee may concur in any scheme or arrangement— (a) for the reconstruction of the company ; (b) for the sale of all or any part of the property or undertaking of the company to another company ; (c) for the amalgamation of the company with another company ; (d) for the release, modification or variation of any rights, privileges or liabilities attached to the securities or any of them, in like manner as if they were entitled to such securities beneficially, with power to accept any securities of any denomination or description of the reconstructed or purchasing or new company in lieu of or in exchange for all or any of the first-mentioned securities ; and the trustees shall not be responsible for any loss occasioned by any act or thing so done in good faith, and may retain any securities so accepted as aforesaid for any period for which they could have properly retained the original securities . (3) If any conditional or preferential right to subscribe for any securities in any company is offered to trustees in respect of any holding in such company , they may, as to all or any of such securities , either exercise such right and apply capital money subject to the trust on payment of the consideration, or renounce such right, or assign for such right or title thereto to any person, including any beneficiary under the trust, without being responsible for any loss occasioned by any act or thing so done by them in good faith: Provided that the consideration for any such assignment shall be held as capital money of the trust. (4) The powers conferred by this section shall be exercisable subject to the consent of any person whose consent to a change of investment is required by any written law or by the Act or instrument, if any, creating the trust. (5) Where the loan referred to in subsection (1) is made under an order of a court, the powers conferred by that subsection shall apply only if and as far as the court may by order direct."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Amendment of Schedule",
+      "content": "(1) The Minister may, subject to the provisions of subsection (2) and with the approval of the Minister for the time being responsible for legal affairs, by Order published in the Gazette , add to or delete from the Schedule the name of a body corporate. (2) No Order adding the name of a body corporate to the Schedule, shall be made unless either— (a) at the time of making the Order the Government or a corporation established by or under any Act is the beneficial owner of not less than ten per centum of the issued share capital, if any, and the body corporate has made profits during each of the three years immediately preceding the date of the order; or (b) the Government has the power to appoint the majority of the members of the board of directors or other body having the day to day management of the body corporate."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Amendment of R.L. Cap. 397",
+      "content": "[Amends the Local Loans Ordinance.]"
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Disapplication",
+      "content": "[Disapplies Part I of the United Kingdom Trustee Act.] Schedule (Section 2) National Development Corporation. National Housing Corporation. Tanzania Finance Company Limited. Tanganyika Electric Supply Company Limited. Permanent Housing Finance Company of Tanzania Limited Tanzania Tourist Corporation. History of this document 31 December 2023 Chapter 53 Revised Laws 2023 Consolidation 31 July 2002 this version Chapter 53 Revised Laws 2002 Consolidation 11 August 1967 Commenced Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised investments",
+      "definition": "the investments authorised by this Act or by the Act or instrument creating the trust",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company",
+      "definition": "a company incorporated under the Companies Act 1 . 1 Cap. 212 \" debenture \" includes debenture stock, bonds and any other securities of a company or corporation which constitute a charge on the assets of the company or corporation or any part thereof",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister for the time being responsible for finance. \" private company \" shall have the meaning assigned to that expression in the Companies Act. \" scheduled corporation \" means a body corporate specified in the Schedule to this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "securities",
+      "definition": "stocks, funds and shares",
+      "source_provision": "s2"
+    },
+    {
+      "term": "securities payable to bearer",
+      "definition": "securities transferable by delivery or by delivery and endorsement",
+      "source_provision": "s2"
+    },
+    {
+      "term": "share",
+      "definition": "a share in the share capital of a company or corporation and includes stock",
+      "source_provision": "s2"
+    },
+    {
+      "term": "special range property",
+      "definition": "property forming part of a trust fund which, by the Act or instrument creating the trust, the trustee is specifically authorised to retain or property in which he is specifically authorised to invest",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,759 @@
+{
+  "id": "tz-act-2005-10",
+  "type": "statute",
+  "title": "Warehouse Receipts Act",
+  "title_en": "Warehouse Receipts Act",
+  "short_name": "Warehouse Receipts Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/2005/10/eng@2016-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "1 Short title",
+      "content": "This Act may be cited as the Warehouse Receipt Act ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Application",
+      "content": "This Act shall apply to Mainland Tanzania in respect of all agricultural commodities as the Minister may declare by order published in the Gazette . [ Act No. 3 of 2015 s. 2]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "In this Act , unless the context requires otherwise— “ Act ” means the Warehouse Receipt Act; “ Board ” means the Warehouse Receipts Regulatory Board established under section 4 ; “ collateral manager ” means a person who issues warehouse receipt, verifies and gives advice on collateral transactions based on that issued warehouse receipt in order to minimize credit risk of the stored commodities; “ commingle ” means the binning and storage of commodities by class, under circumstances other than identity preserved ; “ commodity ” includes agricultural, non-agricultural commodities as may be declared by the Minister ; “ conditioning ” includes the drying or cleaning of commodities; “ depositor ” means any person who deposits a commodity in a warehouse for storage, handling, or shipment, or who is the owner or legal holder of an outstanding warehouse receipt, or who is lawfully entitled to possession of the commodity; “ failure ” with regards to warehousing receipt; means— (a) inability of the warehouse operator to cover the storage obligations; (b) public declaration of insolvency; (c) revocation of a license and the leaving of an outstanding obligation to a depositor ; (d) failure to redeliver any commodity to a depositor in the ordinary course of business and where a bona fide dispute does not exist between the warehouse operator and the depositor ; (e) failure to make application for license renewal within sixty days after the annual license renewal date: or (f) a denial of the application for a license renewal; “ delivery ” means voluntary transfer of possession from one person to another; “ fungible goods ” means goods of which any unit is, from its nature or by mercantile custom, treated as equivalent of any other unit; “ goods ” includes agricultural commodities; “ holder ” means a person who is in possession of a warehouse receipt, whether negotiable or non-negotiable, and who has proprietary right (herein; “ identity preserved ” means the handling of a commodity in such a manner that guarantees the return of the actual quantity and quality of the \"commodity\" to the depositor ; “ key actors ” includes depositors, warehouse operators, bank or financial institution and collateral managers or directly associated with warehouse receipt; “ license ” means a license issued under this Act and includes any renewals and amendments thereof except where the context requires otherwise; “ licensed warehouse ” means any warehouse for which the Board, subject to other terms and requirements of the Act , has issued a license; “ lien ” means a right to hold and retain goods in terms of section 54(1) and (2) ; “ Minister ” means, the Minister for the time being responsible for marketing of commodities; “ order ” means, an order by endorsement on the warehouse receipt; “ person ” means, any individual, corporation, two or more persons having a joint or common interest or other legal or commercial entity; “ prescribe ” means prescribe in the regulations; “ revocation ” means the permanent removal of a warehouse operator 's license following a hearing on violation of the Act ; “ shortage ” means that a warehouse operator does not have a sufficient amount of commodities by kind, class, and quality, to cover his outstanding obligations for that commodity; “ shrinkage ” means a degree of drawback, contracts to a smaller volume, size or extent as a result of heat, moisture, aeration, drying or deterioration of quality; “ secondary processing ” means the process of changing product form which involve physical means; “ station ” means a warehouse located not more than three kilometres from the central office of the warehouse , for which a warehouse license may be issued listing two or more stations on the same license; however, a fee shall be charged and collected for each station; “ suspension ” means the temporary removal of a license actuated by any action or measure taken pursuant to the provisions of this Act ; “ tertiary processing ” means a process of adding value of a commodity that involves physical and chemical change of a commodity ; “ warehouse ” means any building, structure or other protected enclosure approved by the Board to be used or useable, for the storage or conditioning of commodities or buildings used in relation thereof or including operation of the warehouse; “ warehouse operator ” means any person engaged in the business of operating a warehouse for receiving, storing, shipping or handling of commodities for compensation includes the agent or employee the scope of whose actual or apparent authority renders such person to exercise rights or become liable under the Act ; “ warehouse receipts ” means a receipt in writing or electronic form issued by a warehouse operator in respect of storage. handling or shipment of the commodity. [ Act No. 10 of 2015 s. 3] Part II – Establishment of the warehouse Licensing Board"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Establishment of the Board",
+      "content": "(1) There is established a Board to be known as the Warehouse Receipts Regulatory Board . (2) The Board shall be a body corporate, with perpetual succession and common seal, and in its corporate name be— (a) capable of suing and being sued; (b) subject to this Act . may borrow money, acquire and dispose of property; and (c) do all such things as a body corporate may lawfully do. (3) The composition, procedures at the meeting and tenure of office of members of the Board shall be as stipulated in the Schedule to this Act . (4) Notwithstanding the provisions of this section, the Attorney-General shall have the right to intervene in any suit or matter instituted by, or against the Board . (5) Where the Attorney-General intervenes in any matter in pursuance of subsection (2) , the provisions of the Government Proceedings Act shall apply in relation to the proceedings of that suit or matter as if it had been instituted by, or against the Government. [Cap. 6] (6) For the purposes of subsections (2) and (3) , the Board shall have a duty to notify the Attorney-General of any impending suit or intention to institute a suit or matter by, or against the Board . [ Act No. 3 of 2015 s. 4]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Functions of the Board",
+      "content": "The functions of the Board shall be to— (a) license warehouse operations; (b) lincense collateral managers; (c) print and approve warehouse receipt books or receipts in any other forms; (d) enroll and keep a register of key actors ; (e) collaborate with other national and international bodies with similar functions and objectives to those of the Board ; (f) represent the Government in national and international fara (g) license warehouse inspectors; (h) approve negotiable warehouse receipts books; (i) carry out or perform such other functions as are conferred or imposed on it by this Act ; and (j) perform any other function as may be assigned or directed by the Minister . [ Act No. 3 of 2015 s. 5]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Powers of the Board",
+      "content": "(1) For the purpose of carrying out its functions, the Board shall have power to— (a) investigate the receiving, storing, conditioning , shipping and handling of commodities and complaints with respect thereto, including the inspection of any warehouse , commodities stored and all property and records pertaining thereto; (b) determine whether the warehouses for which licences are applied for or have been issued, are suitable for the receiving, storage, conditioning , shipping, and handling of the commodity stored or expected to be received, stored, conditioned, shipped, or handled; (c) require such reports as it may deem necessary in the administration of this Act ; (d) require licensed warehouse operators to terminate receiving, storage, conditioning , shipping, and handling agreements upon revocation of their license; (e) administer oaths and issue summons to compel attendance and testimony of witnesses or the production of records in connection with any investigation or hearing; (f) prescribe all forms, within the limitations set forth in this Act , including the forms of receipts and applications for licenses; (g) propose to the Minister all necessary' rules and regulations for proper carrying out the provisions of the Act ; (h) investigate the storage, warehousing, classification according to grades and otherwise, weighing, and certification of goods ; (i) at any time, with or without application, inspect or cause to be inspected all warehouses licensed under this Act ; (j) classify warehouses licensed or applying for a licence in accordance with their ownership, location, surroundings, capacity, conditions, and other qualities, and as to the kinds of licenses issued or to be issued for them; (k) prescribe , within the limitations of the Act the duties of warehouse operators conducting warehouses licensed with respect to their care of and responsibility for the goods stored; (l) provide guidelines and standards for the suitability for the proper storage of the goods for which a license is applied; (m) suspend or revoke any license issued to any warehouse operator conducting a licensed warehouse in contravention of or failure to comply with any provision of the Act or regulations and other legislative instruments made under the Act ; (n) charge, assess and collect fees from key actors ; (o) examine all books, records, papers, and accounts of warehouse operators licensed under this Act and of the warehouse operators conducting the warehousing business relating to them; (p) retain the charged fee for the purposes of improving the services provided under this Act ; (q) with approval of the Minister for Finance, borrow for the purposes of carrying out its functions under this Act ; (r) approve negotiable warehouse receipt books to be used under this Act ; and (s) carry out any other activity incidental or conducive to the carrying out of its functions under section 5 of this Act . (2) The Board may delegate to the Managing Director, Officer or any other employee of the Board , performance of and function or the exercise of any of its powers except for powers with regard to approval of budget and approval of the balance sheet, audited accounts and statement of account. (3) For purpose of implementation of the provisions of this Act , the Board shall require region and district authorities to form supervision committees to supervise Warehouse Receipt Systems. (4) Meeting of the regional and district supervision committees shall be chaired by Regional Administrative Secretary or District Executive Director. (5) In consultation with the Minister responsible for local government authorities, the Minister may make Regulations prescribing composition of the supervision committees and other matters that relates to the Supervisory Committee. [ Act No. 3 of 2015 s. 6]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Managing Director",
+      "content": "(1) There shall be a Managing Director of the Board who shall be appointed by the Minister from among three names recommended by the Board. (2) The Managing Director shall be the Chief Executive Officer of the Board and shall be responsible for the day-to-day operations of the Board . (3) Subject to the provisions of this Act , the Managing Director shall be responsible for the management of the funds, properly and business of the Board and for the administration, organization and control of the staff of the Board. (4) The Managing Director shall be a Secretary to the Board . (5) The Managing Director shall, from time to time, in writing, keep the Board informed of the progress of the business of the Board . (6) In addition to any other functions that may be conferred upon him by the Board , the Secretary shall— (a) keep the custody of the seal of the Board ; (b) take minutes of the meetings of the Board ; and (c) keep records of all activities of the Board ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Other staff",
+      "content": "(1) The Board may employ such number of employees and such other officers as it may determine to be necessary for the efficient performance of the functions and the exercise of the powers of the Board . (2) The Board may, on the terms and conditions as it may deem fit, fix remuneration, grant pension, gratuities or other benefits on retirement or termination of services of the officers and employees of the Board . (3) The Board may delegate any of its powers of employment under this section to the Managing Director, subject to such terms and conditions as the Board may determine."
+    },
+    {
+      "provision_ref": "s8A",
+      "chapter": "Part II",
+      "section": "8A",
+      "title": "Indemnity",
+      "content": "Anything done by a member of the Board or any staff of the Board shall, if done in good faith, in the execution of the functions conferred upon the member or staff of the Board by this Act , not render the member or staff personally liable for any matter. [ Act No. 3 of 2015 s. 7] Part III – Financial provisions"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Sources of funds",
+      "content": "The funds of the Board shall consist of— (a) such sums of money as may be appropriated by Parliament; (b) all moneys received by the Board from key actors ; (c) all moneys borrowed by the Board ; (d) any other moneys received by or donated or made available to the Board for the purpose of performing its functions. [ Act No. 3 of 2015 s. 8]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Duty of the Board to operate on prudential principles",
+      "content": "The Board shall perform its functions in accordance with prudential financial principles."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Estimates",
+      "content": "(1) The Managing Director shall, not later than three months before the end of each financial year, prepare and submit to the Board for its approval, estimates of income and expenditure of the Board for the next following financial year and may, at any time before the end of each financial year, prepare and submit to the Board for approval any estimates supplementary' to the estimates of the current year. (2) No expenditure shall be made out of the funds of the Board unless that expenditure is part of the expenditure approved by the Board under the estimates for the financial year in which that expenditure is to be made or supplementary estimates."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Accounts",
+      "content": "(1) The Board shall ensure that the management keeps proper accounts and records of its transactions and affairs and shall ensure that all moneys received are properly accounted for, all payments of its moneys are correctly made and properly authorized and that adequate control is maintained over its property and over the incurring of liabilities by the Board . (2) The Board shall cause to be prepared in respect of each financial year, and not later than three months after the close of the financial year, a statement of accounts which shall include a report on the performance of the functions of the Board during that financial year; comprising of— (a) a balance sheet and a statement of income and expenditure of the Board in respect of that financial year; and (b) any other information in respect of the financial affairs of the Board as the Minister may in writing, require."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Audit",
+      "content": "(1) The accounts of the Board shall, in respect of each financial year, be audited by the Controller and Auditor-General or by an auditor appointed by the Controller and Auditor-General. (2) Within six months after the close of each financial year, the accounts including the balance sheet of the Board in respect of that financial year shall be audited and the balance sheet be placed before the Board for approval. (3) The Controller and Auditor-General and any auditor appointed by the Controller and Auditor-General shall access all books of accounts, vouchers and other financial records of the Board and is entitled to have any information and explanations required in relation thereof. (4) The Controller and Auditor-General shall, within two months after receipt of the statement of accounts under subsection (2) , audit the accounts and deliver to the Board a copy of the audited accounts together with a statement on matters which in his opinion should be brought to the attention of the Minister . (5) The Board , shall as soon as possible upon receiving report of the Controller and Auditor General, deliver to the Minister a copy of the audited accounts together with the auditor's report."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Financial year",
+      "content": "(1) The financial year of the Board shall be the period of twelve months beginning from the 1 st day of July and ending on the 30 th day of June in the year following. (2) Without prejudice to subsection (1) the first financial year of the Board may be a shorter period commencing on the date on which the Board is established and ending with the next following 30 th day of June. Part IV – Licensing procedures"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Conditions for operating warehouse under the Act",
+      "content": "(1) The Board may, upon application, issue a warehouse license for the conduct of warehouse business. (2) Two or more warehouses which constitute a station may be licensed under a single licence. (3) All warehouses licensed under a single licence shall be treated as a single warehouse for all the purposes of this Act , including issuance of receipts, and delivery of commodities."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Licensing procedure",
+      "content": "(1) Any person who requires a licence to conduct warehousing operations or business shall apply to the Board in the manner prescribed by regulations. (2) The Board shall, before granting a warehouse licence, either by itself or any other authorized person , inspect any warehouse in respect of which a license is applied, to determine whether the warehouse is suitable for the storage of the particular goods for which the license is applied. (3) The Board shall, upon being satisfied that a warehouse is suitable for the storage of the goods in question, grant a warehouse license to the applicant. (4) The applicant shall, upon being granted a licence pay a fee prescribed by the Board ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Validity of licence",
+      "content": "The validity of the license shall be twelve months and shall be renewable subject to the provisions of this Act ."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Conditions for granting of a license",
+      "content": "(1) The Board shall not grant any license, unless the applicant has satisfied all the conditions prescribed by the Act . (2) Before the Board grants a license to any person it shall satisfy itself of the following- (a) that the applicant is in possession of a Warehouse whether as a tenant or owner; (b) that upon inspection the warehouse is suitable for warehousing of respective goods in accordance with the regulations made under this Act ; (c) that the applicant’s Director or Manager is of good business and management records and has not been involved in any criminal proceedings involving business and dishonesty or impropriety; (d) that the warehouse and the goods which are or may be kept therein are fully insured in respect of fire, theft and burglary or any other damage; and (e) that the applicant is financially capable of conducting the business of warehousing. (3) A person to whom a licence has been granted by the Board shall not, without approval of the Board assign it to any other person . (4) A person who contravenes subsection (3) commits an offence and on conviction, is liable to a fine of not less than twenty million shillings or to imprisonment for a term of not less than twelve months and not exceeding five years or both. [ Act No. 3 of 2015 s. 9]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Applicant to execute bond",
+      "content": "(1) Warehouse operator applying for a license under this Act shall execute and file with the Board a bond sufficient to secure the faithful performance by him of the obligations as a warehouse operator under this Act and regulations and other statutory instruments made under this Act . (2) Where the Board determines that a previously approved bond is, or for any cause has become insufficient, it may require an additional bond or bonds to be given by the warehouse operator concerned, conforming with the requirements of this section, and, unless the additional bond is given within the time fixed by a written demand made by the Board, the license of the warehouse operator may be suspended or revoked by the Board, [ Act No. 3 of 2015 s. 10]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Action on bond by person injured",
+      "content": "Any person injured by reason of the breach of any obligation for which a bond is given, shall be entitled to sue on the bond in his own name in any court, not lower than the Court of a Resident Magistrate to recover the damages for injury sustained because of the breach."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Designation as a licensed and bonded warehouse",
+      "content": "(1) Upon execution of a bond, the Board may designate the warehouse in respect of which a bond was executed as both licensed and bonded. (2) Notwithstanding anything in this Act , no warehouse shall be designated as licensed and bonded under this Act and no name or description conveying the impression that any of such warehouse is licensed and bonded, shall be used— (a) until a licence has been issued and a bond has been filed and approved by the Board ; or (b) unless the licence issued under this Act remains unsuspended and not revoked."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Casualty insurance and recovery for loss",
+      "content": "(1) Each applicant for a license to operate a warehouse in accordance with this Act shall, as a condition to the granting, file or cause to be filed with the Board a certificate of insurance evidencing effective policy of insurance issued by an insurance company authorized to do business in Tanzania in the name of the applicant insuring all commodities which are or may be in such warehouse for their full market value for loss by fire, theft, bulgaraly, arson or any other risk which the Board may direct to be included under this category. (2) In the case of outbreak of fire, bulgaraly, arson or any other risk categorized under sub-section (1) and destroys or damages any commodities in any licensed warehouse , the warehouse operator shall, upon demand by the depositor , and upon being presented with the receipt or other evidence of ownership and after deducting the warehouse operators charges and advances at the market value of the commodity, make the settlement. (3) The warehouse operator shall make complete settlement to all depositors having commodities stored in any warehouse , damaged or destroyed, within ten days' after settlement with the insurance company. (4) Failure by the warehouse operator to make settlement shall be the grounds for suspension or revocation of the warehouse licence."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Additional insurance",
+      "content": "(1) Where the Board determines that a previously approved insurance is insufficient, it shall require additional insurance to be given by the warehouse operator , conforming to the requirements of this Act . (2) Without prejudice to subsection (I), the warehouse operator shall be required to upgrade the insurance policy with a view to maintain sufficient policy all the lime arising from settlement of loss through insurance, the warehouse operator shall meet the amount that falls short of the value of the loss unable to be settled through insurance,"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Cancellation of insurance or suspension and revocation of license",
+      "content": "(1) A licensed warehouse operator shall not cancel or suspend an approved insurance policy or arrange for substitution of insurance policy without prior written approval of the Board. (2) The insurance company may cancel insurance required by this Act only after the expiration of a thirty day period from the date of mailing, by registered or certified mail, of the notice to the Board of the intention to cancel or suspend the insurance policy. (3) The insurance company shall, at the time of giving notice to the Board send a copy of the notice to the warehouse operator . (4) Notwithstanding any other provision of this Act , failure by the warehouse operator to provide new evidence of insurance within fifteen days after the Board receives the notice of cancellation shall cause the warehouse license to be suspended or revoked."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Schedule of charges",
+      "content": "(1) Every applicant for a licence to operate a warehouse under this Act shall, as a condition to the granting, file or cause to be filed with the Board the commodities from among the notified list proposed to be warehoused and a copy of the schedule of charges as a warehouse operator . (2) A licensed warehouse operator shall not make a change in the charges unless a notice of such change and the reasons thereof have been filed with and the Board approves the change. (3) The Board shall refuse to approve any change, which it finds to be unjust, unreasonable, or discriminatory. (4) Where the Board receives a proposal for changes of charges, it shall afford opportunity to the warehouse operator to substantiate reasons for changes. (5) Any person aggrieved by the decision of the Board, may appeal to the Minister ."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Revocation, suspension and denial of licenses",
+      "content": "(1) The Board may revoke, suspend, or deny a license in any case, in which it determines after providing opportunity for a hearing to the warehouse operator that there has been violation of or failure to comply with the requirements of this Act . (2) Any person aggrieved by the suspension or revocation of a license by the Board, may appeal to the Minister ."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Operation after revocation suspension or expiratioin of licenses",
+      "content": "(1) Where a license is revoked, suspended or has expired, the warehouse operator shall terminate, in the manner prescribed by the Board, all arrangements covering the receiving, storing, shipping, conditioning , or handling of commodities in the warehouse stations covered by such license, but shall be permitted, under direction or supervision of the Board to deliver commodities previously received. (2) During any suspension of a license, the warehouse operator may, under direction or supervision of the Board, operate the warehouse station , but shall not receive any commodities for storage, conditioning , shipping, or handling during the term of such suspension ."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Power to appoint inspectors",
+      "content": "(1) The Board may appoint or otherwise authorize persons or a group of persons to be warehouse inspectors. (2) The Minister shall prescribe in the regulations qualifications of □ person to be appointed as an inspector."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Functions of inspectors",
+      "content": "The inspectors appointed pursuant to the provisions of this Act shall have power to inspect warehouses premises and goods kept to ensure that the warehouse operator observes the conditions in this Act , regulations and those appearing on the issued license."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Power of entry, inspection, etc.",
+      "content": "A warehouse inspector or any other person duly authorized in writing in that behalf may, at any reasonable time during the day, enter a warehouse premises for the purposes of ensuring that the provisions of this Act are observed. Part V – Warehouse receipts"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Who may issue a warehouse receipt",
+      "content": "A warehouse receipt shall only be issued by a warehouse operator duly authorized and licensed to do so under the provisions of this Act ."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Warehouse receipt as evidence of proprietary rights",
+      "content": "(1) Subject to the provisions of this Act , any warehouse receipt drawn and issued by a warehouse operator in accordance with the provisions of sections 5 and 31 shall be a proof of the holder having proprietary rights in the goods same as of that person in respect of which such warehouse receipt was issued, (2) In relation to warehouse receipts , a person acquires proprietary rights in the goods if that person is entitled to the ownership of the goods — (a) in warehouse receipts as mortgage or in return for a binding commitment to extend credit or for extension of an immediately available credit, whether or not drawn; (b) as security for or in total or partial satisfaction of a pre­existing claim; (c) by accepting delivery under a pre-existing contract for purchase: (d) in return for any consideration sufficient to support a pre-existing contract, (e) as a proof of title of ownership; (f) as a mortgage instrument. (3) A warehouse operator shall insure a warehouse with a comprehensive insurance cover. [ Act No. 3 of 2015 s. 11]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Contents of warehouse receipt",
+      "content": "(1) The warehouse receipt shall contain the following information, and terms- (a) the location of the warehouse where goods are stored; (b) the date of issue of the receipt; (c) the serial number of the receipt; (d) a statement whether the goods received will be delivered to the bearer, to a specified person or that specified person ’s order ; (e) a short description of the goods or of the packages containing them; (f) the registered signature of the authorized warehouse operator ; (g) the nature and fact of ownership of the goods , whether solely or jointly or commonly owned with others; and (h) a statement as to the amount of advances made and of liabilities incurred. (i) a statement on the treatment of warehouse receipts of the commodity which undergoes secondary or tertiary processing ; and (j) signatures of both authorized signatories. (2) A warehouse operator shall be liable to the person injured thereby, for damages caused by the omission of any such term required to be included in the warehouse receipt under this Act . (3) A warehouse operator may insert in a receipt any other terms and conditions which are not contrary to the provisions of this Act and which do not impair obligations of delivery or duty of care. (4) Any provision appearing in a warehouse receipt, purporting to contain any condition which is contrary to this Act , shall not be capable of enforcement by the court. [ Act No. 3 of 2016 s. 12 ]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Negotiable warehouse receipts",
+      "content": "(1) A warehouse receipt in which it is stated that the goods received will be delivered to the person named in the receipt or his order shall be known as a negotiable warehouse receipt. (2) No words shall be inserted in a negotiable receipt with the effect of rendering that receipt non-negotiable. (3) The Minister may prescribe in the regulations the procedure and limits of negotiation of negotiable warehouse receipts ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Non negotiable warehouse receipts",
+      "content": "A warehouse receipt on which it is stated that the goods received will be delivered to the bearer shall be treated as a non-negotiable receipt."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Altered warehouse receipts",
+      "content": "(1) An alteration to a warehouse receipt shall be regarded as— (a) immaterial if the alteration does not affect ex-ante proprietary rights of the holder ; (b) authorized when made with an implied or direct permission or connivance of the Warehouse operator and which render a warehouse operator and the perpetrator liable under the provisions of this Act ; or (c) unauthorized but made without fraudulent intent, when made without an implied or direct permission or connivance of the warehouse operator and which render the warehouse operator liable according to the terms of the receipt, as they were before alteration. (2) Notwithstanding subsection (1) , a warehouse receipt shall be void if— (a) the warehouse receipt is not consistent with the requirements stipulated under section 33 ; (b) the contents of the warehouse receipt are not duly filled in; (c) it is not signed by authorised parties; (d) there is a duplication of serial numbers; (e) there is mismatch of records between the warehouse receipt and inner documents; or (f) there is a misrepresentation of required information. [ Act No. 3 of 2015 s. 13]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "Rights of purchasers of altered receipts against warehouse operator",
+      "content": "(1) A purchaser of a warehouse receipt for value without notice of alteration shall acquire the same proprietary rights against the warehouse operator which the purchaser would have acquired if the receipt had not been altered at the time of purchase. (2) A purchaser of a warehouse receipt shall be regarded to have had notice of alteration, if before the purchase of the warehouse receipt, he or his agent took part in or influenced the alteration of the said warehouse receipt. (3) A purchaser of an altered warehouse receipt who has been found or who could be reasonably imputed with possession of notice of alteration commits an offence and shall be proceeded under section 74 in the same footing with the operator."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part V",
+      "section": "38",
+      "title": "Lost or missing warehouse receipts",
+      "content": "(1) The holder shall, in the case of loss, theft or destruction of a warehouse receipt, immediately report to warehouse operator . (2) Subject subsection (1) , the warehouse operator , shall, upon receipt of the information of loss, theft or destruction of a warehouse receipt, immediately report to the Board. (3) If a warehouse receipt has been lost, stolen or destroyed, a duplicate may be issued by the warehouse operator provided that— (a) the holder pays a prescribed fee; and (b) the request of the holder is accompanied by— (i) a police report of the loss, theft, or destruction of the receipt; (ii) download from the website of the Board or an approval letter from the Board ; and (iii) a copy of a notice of loss, theft, or destruction published in a newspaper of nationwide circulation. (4) The Minister may, by order published in the Gazette , prescribe some of the requirements under subsection (2) which shall not apply to a certain class or category of warehouses. (5) An appeal regarding the issuance or otherwise of a duplicate receipt shall be made to the Board . (6) Any person dealing in warehouse operation using the original receipt after a duplicate receipt has been issued commits an offence for issuing false information. [Act No. 3 of 2015 s. 14]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part V",
+      "section": "39",
+      "title": "Duplicate warehouse receipts",
+      "content": "(1) A warehouse receipt upon the face of which the word “duplicate” is plainly placed shall be a representation and warranty by the warehouse operator that such warehouse receipt— (a) is an accurate copy of the original receipt; and (b) has the same rights as the original receipt properly issued and outstanding at the date of issue of the duplicate. (2) A duplicate receipt issued shall have the same standing as the original and shall not impose upon the warehouse operator any additional liability."
+    },
+    {
+      "provision_ref": "s39A",
+      "chapter": "Part V",
+      "section": "39A",
+      "title": "Collateral manager",
+      "content": "(1) A person who wishes to perform functions of a collateral manager shall apply for a licence to the Board. (2) The Minister may make regulations prescribing among other things: (a) functions, rights and obligations of a collateral manager ; and (b) conditions to be fulfilled by a collateral manager before applying for a licence under this section. [Act No. 3 of 2015 s. 15] Part VI – Rights and obligations of warehouse operators"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Obligation of warehouse operator to deliver goods",
+      "content": "Except as provided in this Act , a warehouse operator shall deliver the goods upon demand made by the holder of the warehouse receipt or depositor , if the holder or depositor — (a) offers to effect payments for the warehouse operator 's lien on the goods ; (b) offers to sign relevant documents proving the delivery of the goods ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Obligation to deliver in accordance to the demand of the holder",
+      "content": "(1) Subject to section 40 , the warehouse operator shall have obligation to deliver the goods in accordance with the demand by the warehouse receipt holder or, as the case may be, the depositor . (2) Where the warehouse operator refuses to deliver the goods as demanded by the warehouse receipt holder or depositor , the burden shall be upon the warehouse operator to establish the existence of any lawful excuse for the refusal. (3) Where the warehouse operator refuses to deliver the goods as demanded by the depositor or holder of warehouse receipt because of the reason that the warehouse receipt was altered, the holder or depositor who had notice of alteration shall be estopped from demanding more or less proprietary rights in the warehouse receipt than those provided on the altered warehouse receipt."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Justification for delivery of goods",
+      "content": "Subject to provisions of sections 40 and 41 , a warehouse operator shall deliver goods only after being satisfied that— (a) the person receiving the goods is lawfully entitled to the possession of the goods ; (b) by the terms indicated in the warehouse receipt issued for the particular goods , that person is entitled to delivery , either by himself or on his written authorization, to another person ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VI",
+      "section": "43",
+      "title": "Liability for mis- delivery",
+      "content": "(1) A warehouse operator shall not deliver the goods if, prior to delivery , he receives information or otherwise becomes aware that a person to whom delivery is about to be made is not legally entitled to the delivery . (2) A warehouse operator who— (a) comes to know that the person who claim delivery of the goods is not in fact lawfully entitled to the possession thereof; (b) ignores the request not to make delivery of the goods , made under paragraph (a) ; (c) had information or knowledge that the delivery about to be made was to a person not lawfully entitled to the possession of the goods , and continues to deliver the goods , shall be liable for conversion to all persons having proprietary rights in or possession of the goods ."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VI",
+      "section": "44",
+      "title": "Exception to obligation to deliver",
+      "content": "The warehouse operator shall not be liable for failure to deliver the goods to the depositor , or owner of the goods , or to a holder of a receipt given for the goods when they were deposited, even if such receipt is negotiable, in a situation where goods have been lawfully sold or disposed of— (a) because of their perishable or hazardous nature; or (b) to satisfy the warehouse operator ’s lien ."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VI",
+      "section": "45",
+      "title": "Liability for failure to cancel warehouse receipt after delivering goods",
+      "content": "(1) Except as provided for under this Act , where a warehouse operator delivers goods for which he had issued a negotiable receipt shall take up and cancel the receipt. (2) A warehouse operator who delivers goods for which he had issued a negotiable receipt and fails to lake up and cancel the receipt, he shall be liable for failure to deliver goods to depositor or to any person who purchases such receipt for value and in good faith. (3) If the receipt is not taken up or cancelled as provided for under subsection (1) , the fact that the purchaser acquired title to the receipt before or after the delivery of the goods by a warehouse operator shall not exonerate the warehouse operator from liability."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VI",
+      "section": "46",
+      "title": "Liability for failure to cancel or mark warehouse receipt when part of the goods have been delivered",
+      "content": "(1) Except as provided under this Act , where a warehouse operator delivers part of the goods for which he had issued a negotiable warehouse receipt, he shall— (a) take up and cancel that receipt and issue a new receipt for the remaining goods ; or (b) place conspicuously upon it a statement of what goods and packages have been delivered. (2) A warehouse operator who fails to comply with the provisions of subsection (1) shall be liable for failure to deliver all the goods specified in the receipt to any person who purchases such receipt for value and in good faith. (3) If the receipt is not taken up or cancelled as provided for under subsection (1) , the fact that the purchaser acquired title to the receipt before or after the delivery of any portion of the goods by a warehouse operator shall not exonerate the warehouse operator from liability."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VI",
+      "section": "47",
+      "title": "Liability after a warehouse receipt has been lost, stolen or destroyed",
+      "content": "Subject to the provisions of section 38 , a warehouse operator shall be liable for failure to deliver goods to a person to whom the lost, stolen or destroyed warehouse receipt has been or shall be negotiated for value in good faith and without notice of the fact that a duplicate receipt has been issued or goods have already been delivered."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VI",
+      "section": "48",
+      "title": "Delivering goods to persons with valid titles or right",
+      "content": "(1) The warehouse operator shall take all necessary precautions to ensure that the delivery of goods is made to a person who has lawfully obtained a warehouse receipt. (2) The warehouse operator ’s title or right to the possession of goods shall only be derived directly or indirectly from— (a) a transfer made by a depositor at the time of or subsequent to deposit of goods ; or (b) lien . (3) Unless the title or right to possession of the goods by a warehouse operator is obtained in accordance with the provisions of subsection (2) no title or right to possession of goods shall exonerate the Warehouse Operator from liability for refusing to deliver the goods according to the terms indicated on the warehouse receipt."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VI",
+      "section": "49",
+      "title": "Ascertaining valid titles to goods",
+      "content": "(1) In cases where more than one person are claiming title or possession of the goods , the warehouse operator shall, before making delivery of those goods to either of them, require all known claimants to goods to interplead in accordance with the Civil Procedure Code. [Cap. 33] (2) The suit for which the warehouse operator shall request claimants to interplead referred to under subsection (1) , may be filed as an action against the warehouse operator for non- delivery of the goods , or as an original suit. (3) The warehouse operator shall not be liable for non­ delivery if he has evidence to believe that someone other than the depositor or person claiming under him, has a claim to the title or possession of the goods , and that because of that evidence the warehouse operator is taking reasonable steps to ascertain the validity of the adverse claim or to initiate legal proceedings to compel all claimants to interplead. (4) The ascertainment of the right claimant of the goods by interpleading or any other manner shall be initiated within twenty four hours of initial notice to the warehouse operator and the procedure shall be completed within seven days. (5) Except as is allowed under this section, the fact that a third person has right or title to goods , shall not be a defense to an action brought by the holder of the warehouse receipt or person claiming under him against the warehouse operator for failure to deliver the goods according to the terms indicated on the warehouse receipt."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VI",
+      "section": "50",
+      "title": "Liability for mis-described goods",
+      "content": "(1) Subject to subsection (2) , the warehouse operator shall be liable to the holder of the warehouse receipt for damages caused by non-existence of the goods or by failure of the goods being delivered to correspond with the description thereof in the receipt al the time of deposit. (2) The warehouse operator shall not be liable for goods which are being conditioned or processed and such conditioning or processing is noted on the warehouse receipt. (3) A mere description in the warehouse receipt by a statement of marks or label, or upon packages, or by a depositor ’s statement that the goods do contain goods of a certain kind, or by words of like purport, though found to be true, shall not render the warehouse operator liable."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VI",
+      "section": "51",
+      "title": "Warehouse operator's duty of care",
+      "content": "(1) A warehouse operator shall exercise such care in regard to the goods kept by him as reasonably and as carefully as a reasonable and careful owner of similar goods would exercise. (2) In addition to other conditions that may be imposed to the warehouse operator ’s license, the warehouse operator shall be liable for breach of duty of care if he acts contrary to subsection (1) in keeping safe custody of the goods ."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VI",
+      "section": "52",
+      "title": "Duty to keep goods separately",
+      "content": "Except as provided in this Act , a warehouse operator shall keep goods of each depositor separate from goods of other depositors and from other goods of the same depositor for which a separate receipt has been issued as to permit the identification and re- delivery of the goods deposited."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VI",
+      "section": "53",
+      "title": "Comingling of fungible goods",
+      "content": "(1) A warehouse operator may, with the approval of the Board, mingle fungible goods with other goods of same kind and grade. (2) In case the warehouse operator has mingled the goods in accordance with subsection (1) , various depositors of the mingled goods shall own the entire mass in common and each depositor shall be entitled to such portion thereof as the amount deposited by him bears to the whole. (3) The warehouse operator shall be severally liable to each depositor for the care and delivery of his share of the mass to the same extent and under the same circumstances as if the goods had been kept separate. [Act No. 3 of 2015 s. 16]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VI",
+      "section": "54",
+      "title": "Warehouse operator's right to lien",
+      "content": "(1) A warehouse operator ’s lien on goods deposited or the proceeds thereof shall derive from— (a) all lawful charges for storage and preservation of the goods ; (b) lawful claims for money advanced, interest, insurance, transportation, labour, weighing, coopering and other charges and expenses in relation to such goods ; (c) all reasonable charges and expenses incurred for notice and advertisements of sale; and (d) sale of the goods where default has been made in satisfying the warehouse operator ’s lien . (2) The term “ warehouse operator ’s lien ” as used in subsection (1) and subsequent provisions of this Part means the right of a warehouse operator to recoup expenses necessarily incurred for services rendered or supplied in accordance with the provisions of subsection (1) and the term “right of Hen” shall be construed accordingly."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VI",
+      "section": "55",
+      "title": "Enforcement of lien",
+      "content": "A warehouse operator ’s lien may be enforced subject to the provisions of section 56 — (a) against all goods , whenever deposited, belonging to the person who is liable as debtor for the claims in regard to which the lien is asserted; and (b) against all goods belonging to others, which have been deposited by the person who is liable as a debtor for the claims to which the lien is asserted if such person has been entrusted with goods at the time of deposit just as person who takes the goods in good faith and for value."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VI",
+      "section": "56",
+      "title": "Loss of lien",
+      "content": "A warehouse operator shall lose right of his lien upon the goods by— (a) surrendering possession thereof; or (b) refusing to deliver the goods when a demand is made with which he is bound to comply under the provisions of this Act ."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VI",
+      "section": "57",
+      "title": "Statement of charges under lien",
+      "content": "Where a negotiable receipt is issued for goods , the warehouse operator shall have no lien thereon, except for charges of storage of those goods subsequent to the date of the receipt, unless the receipt expressly enumerates other charges for which a lien is claimed in which case there shall be a lien for the charges enumerated so far as they are within the terms of section 54 , although the amount of the charges so enumerated is not stated in the receipt."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part VI",
+      "section": "58",
+      "title": "Refusal to deliver goods until lien is satisfied",
+      "content": "A warehouse operator having a lien valid against the person demanding the goods may refuse to deliver the goods to him until the lien is satisfied."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part VI",
+      "section": "59",
+      "title": "Warehouse operator's lien loss does not preclude other remedies",
+      "content": "The fact that a warehouse operator has or has not a lien upon the goods , shall not affect entitlement to all remedies allowed by law to a creditor against his debtor, for the collection from the depositor of all charges and advances which the depositor has expressly or impliedly contracted with the warehouse operator ."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VI",
+      "section": "60",
+      "title": "Methods of enforcing the lien",
+      "content": "(1) A warehouse operator ’s lien may be satisfied by— (a) sale of goods ; (b) other remedies allowed by the law for the enforcement of a lien against personal property; or (c) any other action for recovery of the warehouse operator ’s claim. (2) Where a warehouse operator refuses to deliver goods for the purpose of satisfying a lien , the Board shall access and approve the value and amount of the commodity to be sold to satisfy the lien . [Act No. 3 of 2015 s. 17]"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VI",
+      "section": "61",
+      "title": "Perishable and hazardous goods",
+      "content": "(1) Where the goods are of a perishable nature and likely to deteriorate greatly in value, or by their odor, leakage, inflammability, or explosive nature, are likely to injure other property or endanger the life of persons legally likely to come into contact with the goods , the warehouse operator may give such notice to the owner, or to the person in whose name the goods are stored, as is reasonable and possible under the circumstances, to satisfy the lien upon such goods , and to remove them from the warehouse , and in the event of failure of such person to satisfy the lien and to remove such goods within the time so specified, the warehouse operator may sell the goods at public or private sale with or without advertising. (2) If after reasonable efforts have been made the warehouse operator is unable to sell such goods , he may dispose of them in any lawful manner, and shall incur no liability by reason thereof. (3) The proceeds of any sale made under the terms of this section shall be disposed of in the same way as the proceeds of sales made under this Act . Part VII – Negotiation and transfer of warehouse receipts"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part VII",
+      "section": "62",
+      "title": "Different ways of negotiating a warehouse receipt",
+      "content": "A negotiable warehouse receipt to the order of a name of person may be negotiated by endorsement and delivery — (a) after endorsement in blank or to the bearer; or (b) after endorsement to a specific person ."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part VII",
+      "section": "63",
+      "title": "Negotiation by endorsement",
+      "content": "(1) Negotiation of a negotiable warehouse receipt after it has been endorsed to a specified person shall require endorsement of the endorsee as well as delivery . (2) An endorsement made pursuant to subsection (1) shall be made to a specified person and may be again negotiated to another specified person and subsequent negotiations shall be done in the like manner. (3) For the purposes of this section, a negotiable warehouse receipt shall be regarded as “duly negotiated” when it is negotiated in the manner stated under this section to a person who purchases it in good faith, without notice of any defect or claim to it on the part of any person , and for value."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part VII",
+      "section": "64",
+      "title": "Effect of endorsement to non-negotiable receipt",
+      "content": "Endorsement of a non-negotiable warehouse receipt shall not render it negotiable."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part VII",
+      "section": "65",
+      "title": "Persons capable of negotiating a warehouse receipt",
+      "content": "A negotiable warehouse receipt may be negotiated by any person in possession of the same irrespective of the manner the warehouse receipt was acquired, if, by the terms of the receipt, the warehouse operator undertakes to deliver the goods to the order of such person or if at the time of negotiation the receipt is in such a form that it may be negotiated by delivery ."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part VII",
+      "section": "66",
+      "title": "Rights acquired after due negotiation of a warehouse receipt",
+      "content": "(1) Subject to the provisions of this section, a person to whom the receipt has been duly negotiated, shall acquire— (a) such title to goods as the person negotiating the receipt to him had ability to convey to a purchaser in good faith for value and also such title to the goods as the depositor or person to whose order the goods were to be delivered by the terms of the receipt had or had ability to convey to a purchase in good faith and for value; (b) the direct obligation of the warehouse operator to hold possession of the goods for him according to the terms of the receipt as fully as if the warehouse operator had contracted direct with him; and (c) all rights accruing under the law of agency, estoppel, including Tight to good delivered to the warehouse operator after the warehouse receipt was delivered. (2) The negotiation of a warehouse receipt in good faith and the acquisition of title by a person to whom a warehouse receipt has been negotiated, shall create a direct obligation to the warehouse operator to hold possession of the goods for him according to the terms of the receipt as fully as if the warehouse operator had contracted directly with him,"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part VII",
+      "section": "67",
+      "title": "Rights acquired in the absence of due negotiation of a warehouse receipt",
+      "content": "A warehouse receipt may be transferred without negotiation if it has been transferred by— (a) the holder to another person under a separate arrangement or agreement; or (b) order of the court."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part VII",
+      "section": "68",
+      "title": "Rights of a transferee of a warehouse receipt",
+      "content": "(1) A transferee of a warehouse receipt, which is not duly negotiated shall acquire thereby against the transferor, the title of the goods . (2) The title acquired by the transferee shall be subject to the terms of the agreement with the transferor. (3) The court may order a warehouse receipt to be transferred where it is proved that there was an agreement to that effect between the transferor and the transferee. (4) Where a warehouse receipt that has been transferred becomes non-negotiable, in order to acquire title to the goods , the transferee shall notify the warehouse operator of the transfer to him of such warehouse receipt. (5) Proceedings instituted for the purpose of enforcing rights of a transferee of a warehouse receipt shall be made by way of summary procedure provided for under Order XXXV of the Civil Procedure Code Act . [Cap. 33] (6) Where a warehouse receipt that has been transferred is not negotiated before the transferee notifies the warehouse operator of the transfer to him. the transferee’s claim of title to the goods may be defeated by— (a) an attachment order or execution upon the goods by a creditor of the transferor to the extent of such order or execution; or (b) a subsequent purchaser in good faith from the transferor or a subsequent sale of the goods by the transferor."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part VII",
+      "section": "69",
+      "title": "Rights and obligations of transferors and transferees of negotiable warehouse receipts",
+      "content": "(1) The transferee of a negotiable warehouse receipt for value and in good faith shall have the right to compel the transferor of such receipt to endorse the receipt in a case where endorsement is essential for negotiation. (2) In a case where it is essential that the warehouse receipt should be endorsed before it is transferred, that warehouse receipt shall not be regarded as negotiated until the transferor endorses it. (3) The endorsement of a warehouse receipt in good faith shall not make the transferee liable for any default or fraudulent acts on the receipt occasioned by the warehouse operator or previous endorsers."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part VII",
+      "section": "70",
+      "title": "Warranties on negotiation of the warehouse receipt",
+      "content": "(1) The negotiation or transfer by endorsement or delivery , or assignment of a warehouse receipt for value shall be an adequate proof or warranty that the person who negotiates, transfers or assigns that warehouse receipt, does so because— (a) the receipt is genuine; (b) has a legal right to negotiate, transfer or assign it: (c) knows no fact which would impair the validity or worth of the receipt; and (d) has the right to transfer the title to the goods . (2) If the contract of the parties is in respect of the transfer of goods to which such warehouse receipt is involved, the fact that goods are merchantable or fit for that particular purpose, would have been implied. (3) Warranty shall not be implied in cases where a creditor of the transferor demands in good faith or receives payment of the debt for which such receipt is security."
+    },
+    {
+      "provision_ref": "s70A",
+      "chapter": "Part VII",
+      "section": "70A",
+      "title": "Trade platforms",
+      "content": "(1) Notwithstanding any other written law, the transfer of a warehouse receipt by a warehouse operator or collateral manager under the warehouse receipt system, shall be effected through a trading platform which is licensed or approved in accordance with the Capital Markets and Securities Act . [Cap. 79] (2) A person who operates a trading platform in accordance with any other written law shall, within three months of the coming into operation of this act, apply for a license or approval in accordance with the Capital Markets and Securities Act . [Cap. 79] [Act No. 3 of 2015 s. 18] Part VIII – Offences and penalties"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part VIII",
+      "section": "71",
+      "title": "Issue of receipts for goods not received",
+      "content": "A warehouse operator , or any officer, agent, or servant of a warehouse operator , who issues or aids in issuing a receipt knowing that the goods for which such receipt is issued have not been actually received by such warehouse operator , or are not under his actual control at the time of issuing such receipt, commits an offence and upon conviction is liable to a fine of not less than fifty percent of the value of such goods or to imprisonment for a term of not less than twelve months and not exceeding five years, or both. [Act No. 3 of 2015 s. 19]"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part VIII",
+      "section": "72",
+      "title": "Issue of receipt containing false statement",
+      "content": "A warehouse operator , officer or agent of servant of a warehouse operator , who fraudulently issues or aids in fraudulently issuing a receipt for goods knowing that it contains any false statement, commits an offence and is liable on conviction to a fine of not less than fifty percent of the value of such goods or to imprisonment for a term of not less than twelve months and not exceeding five years or both. [Act No. 3 of 2015 s. 20]"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part VIII",
+      "section": "73",
+      "title": "Issue of duplicate receipts not so marked",
+      "content": "(1) A warehouse operator , or any officer, agent, or servant of a warehouse operator , who issues or aids in issuing a duplicate or additional negotiable receipt for the same goods or any part of them which is outstanding and uncancelled, without plainly placing upon the face thereof the word “Duplicate” commits an offence and is liable on conviction to a fine of not less than fifty percent of the value of such goods or to imprisonment for a term of not less than twelve months and not exceeding five years, or both. (2) The provision of this section shall not apply where a duplicate of a warehouse receipt is issued in accordance with the provisions of section 38 . [Act No. 3 of 2015 s. 21]"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part VIII",
+      "section": "74",
+      "title": "Issue for warehouse operator 's goods of receipts, which do not state that fact",
+      "content": "Where there are deposited with or held by a warehouse operator goods of which he is owner, either solely or jointly or in common with others, then such warehouse operator or his agents or servants who knowing this ownership, issues or aids in issuing a negotiable receipt for such goods and omits to state any fact with respect to ownership, commits an offence and is liable for imprisonment for a term not exceeding one year or to a fine not exceeding one million shillings or both,"
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part VIII",
+      "section": "75",
+      "title": "Delivery of goods without obtaining negotiable receipt",
+      "content": "(1) A warehouse operator , or any officer, agent, or servant of a warehouse operator who delivers goods out of the possession of such warehouse operator , knowing that a negotiable receipt the negotiation of which would transfer the right to the possession of such receipt is outstanding and uncancelled, without obtaining possession of that warehouse receipt, at or before the time of such delivery , is liable to imprisonment for a term not exceeding one year, or by a fine not exceeding one million shillings or to both. (2) Where a holder of a warehouse receipt or depositor proves that the goods for which a receipt was obtained was not delivered to him, court may, in addition to any penalty imposed under subsection (1) , order the warehouse operator , officer, agent or servant of the warehouse as the case may be, to compensate the owner or holder an amount of money equal to the value of the undelivered goods . [Act No. 3 of 2015 s. 22]"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part VIII",
+      "section": "76",
+      "title": "Negotiation of receipt for mortgaged goods",
+      "content": "Any person who— (a) deposits goods to which he has no title, or upon which there is a lien or mortgage; (b) takes for such goods a negotiable receipt which he afterwards negotiates for value with intent to deceive and without disclosing his want of title or the existence of lien or mortgage, commits an offence and on conviction is liable to imprisonment for a term not exceeding seven year or to a fine not exceeding ten million shillings."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part VIII",
+      "section": "77",
+      "title": "Obstructing a warehouse inspector",
+      "content": "Any person who obstructs the warehouse inspector or any other authorized person in the exercise of the power conferred upon him by this Act or who neglects or refuses to produce to the warehouse inspector or any authorized person any books, records, information or anything which the inspector or any other authorized person may request to be produced for inspection, commits an offence and is liable on conviction to imprisonment for three months or to a fine not exceeding one million shillings or to both."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part VIII",
+      "section": "78",
+      "title": "General penalty",
+      "content": "Any person who commits any offence against any of the provisions of this Act , to which no specific penalty is provided is liable on conviction for every such offence not exceeding ten million shillings or imprisonment for a term of not less than twelve months and not exceeding five years or both. [Act No. 3 of 2015 s. 23]"
+    },
+    {
+      "provision_ref": "s78A",
+      "chapter": "Part VIII",
+      "section": "78A",
+      "title": "Compounding offences",
+      "content": "(1) Where a person admits commission of an offence under this Act , the Board may compound the offence by accepting from such person a sum of twenty percent of the value of the goods . (2) Subject to subsection (4) , where proceedings are brought against a person for an offence under this Act , it shall be a defence if that person proves that the offence against which he is charged was compounded. (3) Any sum of money received under this section shall be treated as a fine imposed by a court for the offence. (4) Where an offence is compounded under this section, the court may make an order as if the person concerned had been convicted by the court for that offence. (5) The order under subsection (4) shall not be made unless the person concerned is given an opportunity to show cause why the order should not be made. [Act No. 3 of 2015 s. 24] Part IX – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part IX",
+      "section": "79",
+      "title": "Powers to make regulations",
+      "content": "(1) The Minister may make regulations for the better carrying out of the provisions and purposes of this Act and may, in particular make regulations— (a) prescribing the procedures and limits of negotiation of a negotiable warehouse receipt; (b) prescribing a standard format of a warehouse receipt; (c) determining the standards or requirements for allowing a warehouse operator to sell or dispose of goods , which are perishable or hazardous; (d) determining the manner of keeping depositors goods in a warehouse ; (e) prescribing the classification of warehouses; (f) determining goods which may be commingled in the warehouse receipt; (g) ways of recovering the warehouse operator ’s lien by sale of goods ; (h) prescribing conditions for the registration of the warehouse ; (i) prescribing conditions that may be inscribed on the warehouse license; (j) prescribing warehouse registration and license application procedure; (k) prescribing warehouse registration and license application appeal procedure; (l) prescribing the qualifications of the employees that may be employed by a warehouse operator ; (m) prescribing fees that may be paid for warehouse registration, licensing, supervision of warehousing, and issuance of duplicate warehouse receipts ; (n) prescribing forms as may be prescribed under this Act ; (o) prescribing obligations and rights of key actors ; (p) prescribing a form of licence issued under this Act ; and (q) prescribing for anything which may be prescribed under this Act . (2) Regulations made pursuant to subsection (1) shall be published in the Gazette . [Act No. 3 of 2015 s. 25]"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part IX",
+      "section": "80",
+      "title": "Standard grade and quality",
+      "content": "Subject to the provisions of this Act , every warehouse operator shall abide by standards, grades and quality parameters set out by a competent authority. [Act No. 3 of 2015 s. 26]"
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part IX",
+      "section": "81",
+      "title": "Weights and measures",
+      "content": "Subject to the provisions of this Act , every warehouse operator shall abide by weight and measurement parameters set out by a competent authority. [Act No. 3 of 2015 s. 26]"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part IX",
+      "section": "82",
+      "title": "Recognition of electronic licence and warehouse receipt",
+      "content": "Where this Act provides information or any other matter in respect of a licence or a warehouse receipt, such information or matter shall be in writing, typewritten or printed form, and shall be typewritten or printed form, and shall be deemed to be valid if such licence or warehouse receipt— (a) is rendered or made available in an electronic form; and (b) is accessible for subsequent reference. [Act No. 3 of 2015 s. 26]"
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part IX",
+      "section": "83",
+      "title": "Deposit of commodities in warehouse",
+      "content": "Notwithstanding any provision of this Act , a farmer shall not be compelled to deposit commodities in the warehouse . [Act No. 3 of 2015 s. 26] Schedule (Under section 4(3)) Composition, tenure and procedure of meetings of the Board 1. Composition of the Board (1) The Board shall comprise of— (a) the Chairman; and (b) other eight members, all of whom shall be appointed by the Minister. (2) The persons to be appointed as members of the Board shall comprise of the following— (a) one member representing the Ministry responsible for crop marketing; (b) two representatives of the cooperative societies as recommended by the Umbrella Co-operative Society, at least one of whom shall be a woman; (c) a representative of the organisation of Tanzania private farmers; (d) a representative of the Tanzania Bankers Association recommended by the Association; (e) a representative of the Tanzania Insurers Association, recommended by the Association; (f) a representative of farmers; and (g) one member representing warehouse operator’s association or organisation. (3) A person shall not be qualified to be a member of the Board unless he is of high moral character and proven integrity. 2. Tenure of office (1) A member of the Board shall hold office for a term of three years and shall be eligible for re-appointment but shall not hold office for more than two consecutive terms. (2) A member of the Board shall vacate office— (a) by resignation; (b) on written recommendation of the body which he represents to revoke his nomination; (c) upon removal by the Minister on the ground of— (i) misconduct, misbehavior or abuse of office; (ii) failure to attend three consecutive meetings without reasonable excuse as certified by the Board; (iii) inability to perform the functions of that office arising from infirmity of body or mind; and (d) on affluxion of term of office. (3) The Chairman shall hold office for three years but shall be eligible for re-appointment. (4) The Minister may remove the Chairman from that office on ground of incompetence or abuse of office. (5) Where a vacancy occurs in the office of a member of the Board, the Minister shall consult the body which recommended that member for the purpose of appointing an alternate member of the member who vacated office. (6) An alternate member shall assume responsibilities of the outgoing member and enjoy all the privileges until the expiration of the term of office of the member who vacated the office. 3. Remuneration of members of the Board Members of the Board shall be paid such sitting and other allowances as the Board may, with approval of the Minister, determine. 4. Convening meetings (1) The Chairman shall convene the first meeting of the Board as soon as is practicable after the appointment of the Board and thereafter the Board shall meet for the transaction of business al times and places that may be decided upon by the Board but the Board shall meet at least once in every four months. (2) The Chairman or, in the absence of the Chairman, a member of the Board appointed by the Board to act as Chairperson may at any time call a special meeting of the Board, or shall call a special meeting upon a written request by a majority of the members of the Board. (3) The Chairman shall preside at all meetings of the Board and in his absence the members present may appoint a member from among themselves to preside at that meeting. 5. Quorum The quorum at a meeting of the Board shall be five members. 6. Making decisions Questions proposed at a meeting of the Board shall be decided by a majority of the votes of the members present and if there is equality of votes the person presiding shall have a casting vote in addition to his deliberative vote. 7. Disclosure of interest (1) A member of the Board who has any pecuniary Interest in a matter being considered or about to be considered by the Board shall, as soon as possible after the relevant facts have come to his knowledge, disclose the nature of his interest to the Board. (2) A disclosure of interest under sub-paragraph (1) shall be recorded in the minutes of the meeting of the Board and the member making the disclosure shall not in respect of that matter— (a) be present during any deliberation on the matter by the Board; (b) take pan in the decision-making of the Board on the matter. 8. Co-option of persons to meetings of Board (1) The Board may co-opt any person to any meeting of the Board to assist it on any matter if the Board is satisfied such person’s qualifications and experience are likely to benefit the Board in making a decision on any particular matter. (2) A person co-opted to assist the Board under subparagraph (1) is entitled to take part in the proceedings of the Board at the meeting concerning the matter in connection with which he is co-opted, but shall not be entitled to vote or take part in any other proceedings of the Board. 9. Minutes of proceedings The Board shall cause the minutes of its meeting to be recorded kept and the minutes of each meeting shall be confirmed by the Board at the next meeting and signed by the Chairman of the meeting. 10. Board to regulate its own procedure Subject to the provisions of this Schedule, the Board shall regulate its proceedings. History of this document 31 December 2023 Chapter 339 Revised Laws 2023 Consolidation 31 July 2016 this version Chapter 339 Revised Laws 2016 Consolidation 02 November 2015 Amended by Commodity Exchanges Act, 2015 22 May 2015 Amended by Warehouse Receipts (Amendment) Act, 2015 06 June 2005 Assented to Commenced Note: 2023 R.E. cites GN182 of 2006 Related documents Is amended by Commodity Exchanges Act, 2015 Warehouse Receipts (Amendment) Act, 2015 More documents like this one Subsidiary legislation Title Warehouse Receipts Regulations, 2016 Government Notice 109 of 2016 Warehouse Receipt Regulations, 2006 Revoked Government Notice 185 of 2006 [] [] [] [{\"provision_eid\": \"part_II__sec_4\", \"citations\": 2}, {\"provision_eid\": \"part_II__sec_6__subsec_3\", \"citations\": 1}, {\"provision_eid\": \"part_I__sec_3\", \"citations\": 1}, {\"provision_eid\": \"part_IV__sec_21__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_IX__sec_79\", \"citations\": 1}, {\"provision_eid\": \"part_IX__sec_83\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_70A\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_50__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_51__subsec_1\", \"citations\": 1}] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Warehouse Receipt Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Board",
+      "definition": "the Warehouse Receipts Regulatory Board established under section 4",
+      "source_provision": "s3"
+    },
+    {
+      "term": "collateral manager",
+      "definition": "a person who issues warehouse receipt, verifies and gives advice on collateral transactions based on that issued warehouse receipt in order to minimize credit risk of the stored commodities",
+      "source_provision": "s3"
+    },
+    {
+      "term": "commingle",
+      "definition": "the binning and storage of commodities by class, under circumstances other than identity preserved",
+      "source_provision": "s3"
+    },
+    {
+      "term": "commodity",
+      "definition": "agricultural, non-agricultural commodities as may be declared by the Minister",
+      "source_provision": "s3"
+    },
+    {
+      "term": "conditioning",
+      "definition": "the drying or cleaning of commodities",
+      "source_provision": "s3"
+    },
+    {
+      "term": "depositor",
+      "definition": "any person who deposits a commodity in a warehouse for storage, handling, or shipment, or who is the owner or legal holder of an outstanding warehouse receipt, or who is lawfully entitled to possession of the commodity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "delivery",
+      "definition": "voluntary transfer of possession from one person to another",
+      "source_provision": "s3"
+    },
+    {
+      "term": "fungible goods",
+      "definition": "goods of which any unit is, from its nature or by mercantile custom, treated as equivalent of any other unit",
+      "source_provision": "s3"
+    },
+    {
+      "term": "goods",
+      "definition": "agricultural commodities",
+      "source_provision": "s3"
+    },
+    {
+      "term": "holder",
+      "definition": "a person who is in possession of a warehouse receipt, whether negotiable or non-negotiable, and who has proprietary right (herein",
+      "source_provision": "s3"
+    },
+    {
+      "term": "identity preserved",
+      "definition": "the handling of a commodity in such a manner that guarantees the return of the actual quantity and quality of the \"commodity\" to the depositor",
+      "source_provision": "s3"
+    },
+    {
+      "term": "key actors",
+      "definition": "depositors, warehouse operators, bank or financial institution and collateral managers or directly associated with warehouse receipt",
+      "source_provision": "s3"
+    },
+    {
+      "term": "license",
+      "definition": "a license issued under this Act and includes any renewals and amendments thereof except where the context requires otherwise",
+      "source_provision": "s3"
+    },
+    {
+      "term": "licensed warehouse",
+      "definition": "any warehouse for which the Board, subject to other terms and requirements of the Act , has issued a license",
+      "source_provision": "s3"
+    },
+    {
+      "term": "lien",
+      "definition": "a right to hold and retain goods in terms of section 54(1) and (2)",
+      "source_provision": "s3"
+    },
+    {
+      "term": "prescribe",
+      "definition": "prescribe in the regulations",
+      "source_provision": "s3"
+    },
+    {
+      "term": "revocation",
+      "definition": "the permanent removal of a warehouse operator 's license following a hearing on violation of the Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "shortage",
+      "definition": "that a warehouse operator does not have a sufficient amount of commodities by kind, class, and quality, to cover his outstanding obligations for that commodity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "shrinkage",
+      "definition": "a degree of drawback, contracts to a smaller volume, size or extent as a result of heat, moisture, aeration, drying or deterioration of quality",
+      "source_provision": "s3"
+    },
+    {
+      "term": "secondary processing",
+      "definition": "the process of changing product form which involve physical means",
+      "source_provision": "s3"
+    },
+    {
+      "term": "station",
+      "definition": "a warehouse located not more than three kilometres from the central office of the warehouse , for which a warehouse license may be issued listing two or more stations on the same license",
+      "source_provision": "s3"
+    },
+    {
+      "term": "suspension",
+      "definition": "the temporary removal of a license actuated by any action or measure taken pursuant to the provisions of this Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "tertiary processing",
+      "definition": "a process of adding value of a commodity that involves physical and chemical change of a commodity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "warehouse",
+      "definition": "any building, structure or other protected enclosure approved by the Board to be used or useable, for the storage or conditioning of commodities or buildings used in relation thereof or including operation of the warehouse",
+      "source_provision": "s3"
+    },
+    {
+      "term": "warehouse operator",
+      "definition": "any person engaged in the business of operating a warehouse for receiving, storing, shipping or handling of commodities for compensation includes the agent or employee the scope of whose actual or apparent authority renders such person to exercise rights or become liable under the Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "warehouse receipts",
+      "definition": "a receipt in writing or electronic form issued by a warehouse operator in respect of storage. handling or shipment of the commodity. [ Act No. 10 of 2015 s. 3] Part II – Establishment of the warehouse Licensing Board",
+      "source_provision": "s3"
+    }
+  ]
+}

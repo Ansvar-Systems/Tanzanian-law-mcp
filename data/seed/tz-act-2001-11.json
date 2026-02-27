@@ -1,0 +1,537 @@
+{
+  "id": "tz-act-2001-11",
+  "type": "statute",
+  "title": "Energy and Water Utilities Regulatory Authority Act, 2001",
+  "title_en": "Energy and Water Utilities Regulatory Authority Act, 2001",
+  "short_name": "Energy and Water Utilities ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/2001/11/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Energy and Water Utilities Regulatory Authority Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Commencement",
+      "content": "(1) This Act shall come into operation on such date as the Minister may, by notice published in the Gazette , appoint. (2) The Minister may appoint different dates for the commencement of different parts of the provisions of this Act."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "In this Act unless the context requires otherwise— \" annual report \" means the annual report of the Authority referred to in section 32 ; \" Authority \" means Energy and Water Utilities Regulatory Authority established by section 4 or as known by its acronym EWURA; \" award \" means an award of the Authority referred to in section 36 ; \" Board \" means the Board of Directors of the authority referred to in section 8 ; \" Chairman \" means the person appointed as Chairman of the Authority under section 8 and includes the Deputy Chairman and any other person performing the functions of the Chairman; \" class licence \" means a licence that may be granted to two or more suppliers under sector legislation on standard terms and conditions or substantially standard terms and conditions; \" Commission \" means the Fair Competition Commission; \" confidential material \" means and includes the material which the Authority is satisfied that it is of confidential nature and— (a) its disclosure could adversely affect the competitive position of any person; (b) is commercially sensitive for some other reason; \" Council \" means the EWURA Consumer Consultative Council established under section 30 ; \" Director-General \" means the Director-General of the Authority appointed under section 14 of the Act; \" Division \" means a division of the Authority constituted under section 15 ; \" Division Director \" means a Division Director appointed under section 15 ; \" Gazette \" means the Government Gazette of the United Republic of Tanzania; \" inquiry \" means the inquiry instituted by the Authority pursuant to section 19 ; \" Internal Review Committee \" means the committee appointed by the Authority pursuant to section 29 ; \" member \" means any member of the Board of the Authority including the Chairman and Director-General ; \" Minister \" means the Minister for the time being responsible for the Authority ; \" officer \" means any member or employee of the EWURA; \" Permanent Secretary \" means the Permanent Secretary for the time being responsible for the Authority ; \" Public Register \" means the Public Register of the Authority , kept by the Authority pursuant to section 24 ; \" regulated goods \" means any goods produced, supplied or offered for supply or for use in a regulated sector and includes any goods the Authority declares under section 40 ; \" regulated goods and services \" means any regulated goods and any regulated services ; \" regulated sector \" means any one or more of the following— (a) electricity; (b) petroleum and natural gas pipeline transmission and natural gas distribution; (c) distribution of water and sewerage; \" regulated services \" means any services supplied or offered for supply in a regulated sector and includes services which the Authority declares to be such services under section 40 ; \" regulated supplier \" means any person engaging in activities in or in connection with a regulated sector and includes any person whom the Authority declares under section 40 to be such supplier; \" Review Panel \" means the review panel established under section 26 ; \" sector Act \" means any of the statutes referred to in the Third and Fourth Schedules and any statutes amending or replacing those statutes; \" sector legislation \" means the legislation referred to in the Third Schedule; \" sector Minister \" means the Minister for the time being responsible for a regulated sector ; \" spectrum \" means the electromagnetic spectrum; \" standards \" includes standards relating to the content applied in the electricity supply, water and sewerage, petroleum and natural gas distribution; \" sub-office \" means in relation to the Authority any office of the Authority other than its head office; \" Tribunal \" means the Fair Competition Tribunal established under section 4 of the Fair Competition Act 1 . 1 Cap. 285 Part II – The Authority (ss 4-15)"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Establishment of the Authority",
+      "content": "There is hereby established a body to be known as the Energy and Water Utilities Regulatory Authority by its acronym \"EWURA\"."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Legal status and capacity of the Authority",
+      "content": "(1) The Authority shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of— (a) suing and being sued; (b) acquiring, holding and disposing of movable and immovable property; (c) exercising the powers and performing the functions conferred upon it by or under this Act; (d) entering into any contract or other transaction, and doing or suffering to do all such other acts and things which a body corporate may lawfully perform, do or suffer to be done. (2) A document in writing recording acts or decisions of the Authority may be executed or authenticated on behalf of the Authority under the hand of the Chairman , the Director-General , or the Secretary of the Authority . (3) The common seal of the Authority shall be duly affixed if witnessed under hand by the Chairman , the Director-General or the Secretary of the Authority . (4) Judicial notice shall be taken of the common seal of the Authority and any document executed or authenticated in accordance with this section. (5) Notwithstanding the preceding provisions of this section, and the Authority having the status of a body corporate, the Attorney-General shall have the right to intervene in any suit or matter instituted by or against the Authority . (6) Where the Attorney-General intervenes in any matter in pursuance of subsection (6) , the provisions of the Government Proceedings Act 2 , shall apply in relation to the proceedings of that suit or matter as if it had been instituted by or against the Government. 2 Cap. 5"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Duties of the Authority",
+      "content": "It shall be the duty of the Authority that in carrying out its functions it shall strive to enhance the welfare of Tanzania society by— (a) promoting effective competition and economic efficiency; (b) protecting the interests of consumers; (c) protecting the financial viability of efficient suppliers; (d) promoting the availability of regulated services to all consumers including low income, rural and disadvantaged consumers; (e) enhancing public knowledge, awareness and understanding of the regulated sectors including— (i) the rights and obligations of consumers and regulated suppliers; (ii) the ways in which complaints and disputes may be initiated and resolved; and (iii) the duties, functions and activities of the Authority ; (f) taking into account the need to protect and preserve the environment."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Functions of the Authority",
+      "content": "(1) The functions of the Authority shall be— (a) to perform the functions conferred on the Authority by sector legislation ; (b) subject to sector legislation — (i) to issue, renew and cancel licences; (ii) to establish standards for goods and services; (iii) to establish standards for the terms and conditions of supply of goods and services; (iv) to regulate rates and charges; (v) to make rules; (c) to monitor the performance of the regulated sectors in relation to— (i) levels of investment; (ii) availability, quantity and standard of services; (iii) the cost of services; (iv) the efficiency of production and distribution of services; and (v) other matters relevant to the Authority ; (d) in the case of petroleum and natural gas, to regulate transmission and natural gas distribution; (e) to facilitate the resolution of complaints and disputes; (f) to disseminate information about matters relevant to its functions; (g) to consult with other regulatory Authorities; (h) to perform such other functions as are conferred on the Authority ; (i) to administer this Act. (2) The Authority shall not perform its functions in contravention of any International Agreements to which the United Republic is a party. (3) In the performance of its functions, the Authority shall not award or cancel a major or exclusive licence having a term of five or more years without prior consultation with the Minister and the relevant sector Minister . (4) In addition to the preceding provisions of this section, the Minister may, from time to time as occasion necessitates it, give to the Authority directions of a specific or general character on specific issues, other than in relation to the discharge of the regulatory functions, arising in relation to any sector, for the purposes of securing the effective performance by the Authority of its policy, functions and compliance with the code of conduct."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Establishment of the Board of Directors",
+      "content": "(1) There is hereby established a Board of Directors which shall be the governing body of the Authority and shall consist of seven members as follows— (a) a Chairman who shall be a non-executive; (b) five non-executive members; (c) the Director-General appointed under section 14 . (2) The Chairman shall be appointed by the President, and the five non-executive members shall be appointed by the Minister after consultation with the relevant sector Ministers. (3) A person shall, if appointed a member of the Board , relinquish any of the following offices if he holds it namely— (a) The office of Member of Parliament; (b) the office of Member of the House of Representatives of Zanzibar; (c) the office of Speaker of the National Assembly; (d) the office of Speaker of the House of Representatives of Zanzibar; (e) the office of Judge of the High Court or of the Court of Appeal; (f) the office of Permanent Secretary . (4) The members of the Board of Directors shall be paid such remuneration and allowances as shall be set out in their letters of appointment or as may be determined by the Minister , on the advice of the Authority and after consultation with the relevant sector Minister . (5) The provisions of the First Schedule to this Act shall have effect as to the composition of the Board of Directors, the tenure of office of its members, termination of their appointment, the proceedings of the Board of Directors and other matters in relation to the Board of Directors and its members."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Establishment of the Nomination Committee and nominations",
+      "content": "(1) Whenever there is to be appointed a member or members of the Board , there shall be established a Nomination Committee composed of— (a) the Permanent Secretary , who shall be the Chairman ; and (b) two other persons representing the private sector nominated in accordance with subsection (2) . (2) One of the two persons referred to in subsection (1)(b) shall be nominated from a legally recognised body representative of private sector interests, and the other person shall be nominated by the Council . (3) The Council and the body representing private sector shall both consult with other industry organisations and chambers of commerce as may be reasonable by advertising in the widely circulating news media within and outside (Tanzania) the country as well as by using consultants to secure the best candidates for the Authority before nominating any person under subsection (2) . (4) The Authority in the cause of performing their duty shall pay all the allowances, fees, and any other expenses incurred by the Nomination Committee, consultants or any other person in the cause of his duties to the Authority , as it may be approved by the Minister from time to time. (5) Notwithstanding anything contained in this Act, the proceeding of the Nomination Committee shall be carried on as provided in the Second Schedule to this Act."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Functions of the Nomination Committee",
+      "content": "(1) The functions of the Nomination Committee shall be to nominate persons for appointment as members of the Board of Directors and a Director-General of the Authority . (2) The Nomination Committee may take such actions as are reasonably necessary to identify and attract the best candidates including by advertising in the news media widely circulating within and outside Tanzania Mainland. (3) The Authority shall pay from its funds expenses incurred by the Nomination Committee in the cause of its duties."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Codes of conduct",
+      "content": "(1) The Authority shall adopt a code of conduct prescribing standards of behaviour to be observed by the members and employees of the Authority in the performance of their duties, within twelve months of the commencement of this Act. (2) Subject to subsection (1) , before finally adopting a code of conduct the Authority shall— (a) publish a draft of a code in the Gazette and the Public Register ; and (b) hold an inquiry . (3) The Authority shall place on the Public Register a copy of its codes of conduct and shall include in it an Annual Report on compliance with the codes. (4) The codes of conduct adopted or prescribed under this section shall be binding on the Authority and its employees, and may be amended from time to time."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Conflict of interest",
+      "content": "(1) A member or employee of the Authority shall be considered to have a conflict of interest for the purposes of this Act, if he knowingly acquires any pecuniary advantage or other interest that could conflict with the proper performance, or assists in the acquisition of any pecuniary advantage by another person, as a member or employee of the Authority . (2) Where at any time a member of the Authority has a conflict of interest in relation to— (a) any matter before the Authority for consideration or determination; or (b) any matter the Authority could reasonably expect might come before it for consideration or determination, the member must immediately disclose the conflict of interest to the other members of the Authority and refrain from taking part, or any further part, in the consideration or determination of the matter. (3) Where the Chairman becomes aware that a member has a conflict of interest in relation to any matter before the Authority , shall direct the member to refrain from taking part, or taking any further part, in the consideration or determination of the matter. (4) Upon the Authority becoming aware of any conflict of interest it must make a determination as to whether in future the conflict is likely to interfere significantly with the proper and effective performance of the functions and duties of the member or the Authority and the member with the conflict of interest must not vote on this determination. (5) When the Authority determines that the conflict is likely to interfere significantly with the member 's proper and effective performance as provided in subsection (4) , the member must resign. (6) The Authority shall report to the Minister any determination of the conflict which is likely to interfere significantly with performance. (7) The Annual Report of the Authority shall disclose details of all conflicts of interest and the determination arising therefrom. (8) A member or employee of the Authority who is subject to this Act shall be considered to have breached the code if— (a) he fails without reasonable cause to make declaration of his interests as required; or (b) he knowingly makes a declaration false or misleading in a material particular thereby affecting the decision, that person shall be guilty of an offence the effect of which will be resigning from office."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Removal of members",
+      "content": "(1) The President acting in accordance with the advice of the Sector Minister and the Minister may remove a member from office at any time if— (a) the member is declared bankrupt; (b) the member is convicted of a criminal offence; (c) the President decides that the member should be removed because of a conflict of interest; (d) the President decides that the member is incapable of carrying out the member 's duties because of ill health or physical or mental impairment; (e) the member has committed a material breach of a code of conduct to which the Authority is subject; (f) the member fails to attend at least two thirds of all meetings of the Authority in a period of consecutive twelve months; (g) the President decides that the member should be removed because of the conflict of interest whether or not the member is required to resign. (2) Before removing a member from office, the President shall inform a member in writing stating the grounds for removal. (3) A member of the Board , including the Chairman and the Director-General , as well as an employee of the Authority , shall not, during a period of eighteen months after the expiration or termination of the term of office or service within the Authority — (a) enter into any contract of employment with, or contract for the supply of services to, any person or organisation under the jurisdiction of the Authority during the member 's term of office or employee's service with the Authority ; (b) acquire or hold any financial interest, whether as an employee, partner, shareholder, officer or joint venture, in any business or organisation supplying services to any person or organisation under the jurisdiction of the Authority during the member 's term of office or employee's service with the Authority . (4) Notwithstanding the provisions of this section, copy of notices, decisions and any reply by the member and any report shall as soon as practicable after they are brought into existence whether or not they result in the removal of a member , be placed under the Public Register ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "The Director-General",
+      "content": "(1) There shall be a Director-General of the Authority , who shall be appointed by the Board after consultation with the Minister , from amongst a list of names submitted by the Nomination Committee. (2) A person shall not be qualified for appointment as a Director-General unless he— (a) is a graduate of a recognised university; (b) possesses at least ten years experience in one or more of the fields of management, law, economics, finance or engineering; (c) has knowledge and experience of the utilities; (d) has satisfied the Board that he is unlikely to have a conflict of interest under section 12 ; (e) is willing to serve as the Director-General ; (f) is, in the opinion of the Board , otherwise well suited to perform the functions and duties of a Director-General competently and honestly. (3) The Director-General shall be appointed to serve on such terms and conditions as shall be set out in the letter of his appointment or as may from time to time be determined by the Board of Directors with the approval of the Minister . (4) The Director-General shall also be the Chief Executive Officer of the Authority and shall not engage in any other paid employment. (5) The Director-General shall not participate in any deliberations or decisions of the Board relating to his terms and conditions of employment. (6) The Director-General shall be responsible for the day to day operations of the Authority , subject to the directions of the Board of Directors."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Directors, consultants and other staff",
+      "content": "(1) There shall be employed by the Authority Divisional Directors each with responsibilities of a particular utility sector. (2) The Authority shall appoint a Divisional Director who shall have experience and provable knowledge on relevant utility subsector. (3) A Divisional Director appointed under subsection (2) shall serve the Authority for a term of five years and may be re-appointed for such term or terms as the Authority deems fit. (4) There shall be employed by the Authority such other officers, staff and employees of the Authority of such number and titles as may be necessary for the efficient discharge of the functions of the Authority on such terms and conditions as may be determined by the Board of Directors. (5) The Authority may appoint consultants and experts of the Authority in various disciplines on such terms and conditions as the Authority may from time to time decide determine. (6) The Authority shall establish a competitive selection procedure for the appointment of all employees, consultants and experts. (7) The Authority shall comply with the competitive selection procedure established under subsection (6) whenever it appoints employees, consultants or experts unless, because of the urgency of the appointment or other special circumstance, the procedure is not reasonably practical in any particular case. (8) A member of the Board , including the Chairman and the Director-General , as well as an employee of the Authority , shall not, during a period of eighteen months after the expiration or termination of the term of office or service with the Authority — (a) enter into any contract of employment with, or contract for the supply of services to, any person or organisation under the jurisdiction of the Authority during the member 's term of officer or employee's service with the Authority ; (b) acquire or hold any financial interest, whether as an employee, partner, shareholder, officer or joint venture, in any business or organisation supplying services to any person or organisation under the jurisdiction of the Authority during the member 's term of office or employee's service with the Authority . Part III – Powers and proceedings of the Authority (ss 16-25)"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "General powers",
+      "content": "(1) Subject to the Provisions of this Act, the Authority shall have power to do all things which are necessary for or in connection with the performance of its functions or to enable it to discharge its duties. (2) Without limiting the powers conferred under subsection (1) , the Authority shall also have the following powers: (a) Such powers as may be conferred on it by the sector legislation ; (b) the power to appoint an administrator to manage the business of a regulated supplier whose licence to operate has been cancelled as may be provided under sector legislation ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Power to regulate rates and charges",
+      "content": "(1) Subject to the provisions of sector legislation and licences granted under the legislation, the Authority shall carry out regular reviews of rates and charges. (2) In making any determination, setting rates and charges or establishing the method for regulating such rates and charges, the Authority shall take into account— (a) the costs of making, producing and supplying the goods or services; (b) the return on assets in the regulated sector ; (c) any relevant benchmarks including international benchmarks for prices, costs and return on assets in comparable industries; (d) the financial implications of the determination; (e) the desirability of establishing maximum rates and charges, and in carrying out regular reviews of rates and charges; (f) any other factors specified in the relevant sector legislation ; (g) the consumer and investor interest; and (h) the desire to promote competitive rates and attract market; (i) any other factors the Authority considers relevant. (3) The Authority shall publish in the Government Gazette all the rates, tariffs and charges regulated by the Board ."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Power to obtain information",
+      "content": "(1) Where the Authority has reason to believe that a person is capable of supplying information, producing a document or giving evidence that may assist in the performance of any of its functions, a member of the Authority may, by summons signed by the Chairman or Secretary of the Authority served on that person, require that person— (a) to furnish the information in writing signed by him, in the case of a body corporate signed by a competent officer of the body corporate; (b) to produce the document to the Authority ; (c) to appear before the Assembly to give evidence orally. (2) A summons under this section shall specify the required time and manner of compliance. (3) The Authority may require that any evidence referred to under this section be given on oath or affirmation. The Chairman , the Secretary or any member of the Authority may administer the oath or affirmation. (4) Any person shall not be excused from complying with summons under this section on the grounds that compliance may tend to incriminate the person or make the person liable to a penalty, save that information, documents and evidence provided in answer to a summons will not be admissible in any proceedings against the person other than proceedings under this Act, sector legislation , the Fair Competition Act 3 , or any environment protection legislation. 3 Cap. 285 (5) Any person who without lawful excuse refuses or fails to comply with a summons under this section, commits an offence and is liable on conviction to a fine not exceeding three hundred thousand shillings or imprisonment for a term not exceeding fifteen months or to both. (6) Where the Authority has reason to believe that a person is in possession or control of any documents that may assist it in the performance of any of its functions, the Chairman , the Secretary or any member of the Authority , may apply to a District Court for grant of a warrant permitting the Authority to enter into any premises at reasonable times to search or inspect the premises for documents in the possession or under the control of the person and make copies of, or take extracts from, those documents. (7) Any person, who knowingly gives false or misleading information or evidence in purported compliance with a summons under this section commits an offence and is liable on conviction. (8) Where— (a) the Authority has authorised a member of the staff of the Authority to enter premises; and (b) the authorised officer is refused or prevented from gaining entry to the premises, a magistrate shall on application, be empowered to issue a warrant authorising any police officer to forcibly enter the premises to conduct the search and make copies or take extracts of documents therein."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part III",
+      "section": "19",
+      "title": "Power to hold inquiries",
+      "content": "(1) The Authority may conduct an inquiry where it considers it necessary or desirable for the purpose of carrying out its functions. (2) The Authority shall conduct an inquiry before exercising a power to— (a) grant, renew or cancel a licence other than a class licence ; (b) regulate any rate or charge; (c) adopt a code of conduct. (3) The Minister may specify in a direction under subsection (2) a time within which the Authority shall submit its report on the inquiry and if so the Authority must submit its report to the Minister within that time. (4) The Authority shall give notice of an inquiry by— (a) publishing a notice in the Gazette and in a daily newspaper circulating generally in Tanzania specifying the purpose of the inquiry , the time within which submissions may be made to the Authority , the form in which submissions should be made, the matters the Authority would like submissions to deal with and in the case of an inquiry conducted at the direction of the Minister , the Minister 's terms of references; (b) sending written notice of the inquiry , including the information in paragraph (a) to— (i) service providers known to the Authority whose interests the Authority considers are likely to be affected by the outcome of the inquiry ; (ii) the Consumer Consultative Council ; (iii) industry and consumer organisations which the Authority considers may have an interest in the matter; (iv) the Minister and sector Ministers having responsibilities for utilities and transport sectors."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part III",
+      "section": "20",
+      "title": "Competition policy and contraventions of competition legislation",
+      "content": "(1) In carrying out its functions and exercising its powers under this Act, and under sector legislation in relation to particular markets for regulated services , the Authority shall take into account— (a) whether the conditions for effective competition exist in the market; (b) whether any exercise by the Authority is likely to cause any lessening of competition or additional costs in the market and is likely to be detrimental to the public; (c) whether any such detriment to the public are likely to outweigh any benefits to the public resulting from the exercise of the powers. (2) The Authority shall deal with all competition issues which may arise in the course of the discharge of its functions, and may investigate and report on those issues, making appropriate recommendations to the Tanzania Bureau of Standards, the Commission or any other relevant authority in relation to— (a) any contravention of the Fair Competition Act 4 , the Standards Act 5 or any other written law; 4 Cap. 285 5 Cap. 130 (b) actual or potential competition in any market or regulated services ; and (c) any detriment likely to result to the members of the public. (3) Subject to the provisions of subsections (1) and (2) , the Authority shall place on the Public Register a copy of any recommendation."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part III",
+      "section": "21",
+      "title": "Authority may sit in Divisions",
+      "content": "(1) There shall be established a Division of the Authority composed of not less than two members of the Authority . (2) The Authority may direct that some of its powers in relation to a matter or matters of particular kind, other than powers the Authority may not delegate, under section 22 , be exercised by a Division of the Authority . (3) There may be established in relation to a matter or matters of a particular kind, a Division of the Authority composed of not less than two members of the Board ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part III",
+      "section": "22",
+      "title": "Delegation",
+      "content": "(1) The Authority may delegate to a member or an employee of the Authority , either generally or otherwise as provided by the instrument of delegation, any of its powers other than the power of delegation, its powers to revoke or vary a delegation and the powers referred to in subsection (3) . (2) Subject to the provisions of subsection (1) , the delegated power shall be exercised in accordance with the instrument of delegation. (3) Notwithstanding the powers conferred to the Authority to delegate, the Authority shall not delegate some of its powers, namely power to— (a) grant, renew or cancel a licence other than a class licence ; (b) fix the method of calculating and reviewing of rates and charges; (c) adopt a code of conduct; and (d) make any rule or declaration; (e) make any decision to hold inquiry ; (f) adopt a report on the result of inquiry ; (g) such other matters as the Minister may by notice in the Gazette determine."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Consultation with consumers, industry and government",
+      "content": "(1) The Authority shall, before the start of each year, establish an annual programme for consultation with such persons and organisations as the Authority may consider necessary or desirable to consult for the purpose of effectively carrying out its functions. (2) Subject to provisions of subsection (1) , the Authority shall, supply a copy of its consultation programme to the Minister and place a copy on the Public Register . (3) The Authority shall include in its annual report , a report on the implementation of its consultation programme during the year covered by the report. (4) For the purposes of this section, it shall be the duty of the Authority to establish and identify the persons, organisations and institutions to be consulted."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Public Register",
+      "content": "(1) There shall be a Public Register kept by the Authority at its principal office, which shall be available for public inspection at all times during business hours. (2) There shall be kept at the sub-offices of the Authority copies of the Public Register which shall be accessible for inspection by members of the public. (3) The Minister shall upon the advice of the Authority , determine the categories of decisions and information which is to be placed on the Public Register from time to time. (4) The Authority shall cause to be published in the Gazette as soon as may be practicable— (a) any code of conduct to be adopted; (b) any rules or regulations; (c) a summary of any decision by the Authority setting rates or charges for the regulated goods or services; (d) any other decision or information the Authority may decide to publish in the Gazette . (5) The Authority shall exclude from the Public Register any document or part of a document which is confidential within the provisions of section 25 . (6) The Authority shall ensure that, where possible the Public Register shall be accessible to the public by internet."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Confidentiality",
+      "content": "(1) For the purposes of this Act, any person who gives or discloses any material to the Authority , whether under compulsion of law or otherwise, that person may claim confidentiality in respect of the whole or any part of the material. (2) The Authority shall set out procedures and publish them in the Gazette on how it will disclose its confidential materials or information. (3) Any person who discloses confidential information otherwise than as authorised by the Authority , commits an offence. Part IV – Review and appeals procedure (ss 26-29)"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Review Panel",
+      "content": "(1) The Authority shall establish a Review Panel which shall at all times consist of— (a) two persons who have experience in law for at least ten years; (b) two persons who are graduates of a recognised university, each having at least ten years of experience in one or more fields of economics, finance, engineering or management. (2) The Authority shall appoint the members of the Review Panel for a term not exceeding five years on such terms and conditions as the Authority shall deem fit, and shall fill any vacancy on the Panel as soon as is reasonably practical after the vacancy occurs."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Decision made under delegated power",
+      "content": "(1) Any person aggrieved by any substantive decision made on behalf of the Authority under delegated power by— (a) a Division of the Authority ; or (b) one or more members or employees of the Authority , may, within fourteen days after receipt of the record of the decision apply to the Authority for it to review the decision in question. (2) Decisions on procedural matters shall not be considered as substantive decisions. (3) Upon receipt of an application under subsection (1) , the Authority shall appoint an Internal Review Committee which shall consist of— (a) two members of the Review Panel , one of whom shall be a lawyer and another shall be qualified in the field of the subject of the application; (b) one member of the Board who did not participate in the decision which is the subject of the application. (4) The Internal Review Committee shall deliver or send by registered post a copy of the application for review and a written invitation to make submissions on the application to the following persons— (a) the Minister ; (b) the relevant sector Minister ; (c) all persons who made submissions to the review or who have otherwise indicated to the Authority an interest in the decision; (d) the Consumer Consultative Council ; (e) any other persons the Committee considers should receive notice of the application. (5) The Internal Review Committee shall allow not less than twenty one days for submissions to be made in relation to the application for review. (6) Subject to this section, the Internal Review Committees shall determine its own procedure and shall not be bound by the rules of evidence. (7) The Internal Review Committee — (a) shall comply with section 26 and may exercise the powers of the Authority under that section; (b) may take such steps, including exercising the power of the Authority to obtain information, documents and evidence under section 18 , as it deems necessary to inform itself of matters relevant to the applications for review. (8) Within three weeks after receipt of the submissions under subsection (4) , the Internal Review Committee shall consider the application together with any submissions received, prepare a recommendation and submit to the Authority for its decision. (9) The Internal Review Committee may recommend to— (a) dismiss the application; (b) set aside the original decision and make a different decision; (c) vary the decision; or (d) set aside the decision and delegate the matter to a Division or to one or more members or officers of the Authority for a fresh decision without directions as to ways in which that decision will be made. (10) The Authority shall make a determination on the recommendation by the Internal Review Committee by a vote of the majority of its members and may either confirm, vary or dismiss the decision subject of review."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "A decision by a Division to be placed on the Public Register",
+      "content": "(1) A decision by a Division of the Authority , a member or members or employees of the Authority shall, if not applied for review in pursuance of section 26 , be placed on the Public Register . (2) Where there is an application for review of a decision of the Division of the Authority , a member or members or employees of the Authority , that decision shall not be placed on the Public Register until the application for review or the appeal to the Fair Competition Tribunal , as the case may be, is determined."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Appeals to the Fair Competition Tribunal against decisions of the Authority",
+      "content": "(1) Any person aggrieved by the decision of the Internal Review Committee or any other decision made in connection to the purposes of this Act may, appeal to the Fair Competition Tribunal . (2) Subject to the provisions of subsection (1) , the grounds of appeal shall be on the following, that— (a) the decision made was not based on evidence produced; (b) there was an error in law; (c) the procedures and other statutory requirements applicable to the Authority were not complied with and non-compliance materially affected the determination; (d) the Authority was not in possession of evidence required for the determination of the matter; (e) the Authority did not have power to make determination. (3) Notwithstanding the provisions of this section, the decision of the Fair Competition Tribunal shall be final. Part V – The Council (ss 30-33)"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Establishment of the Council",
+      "content": "(1) There is hereby established a Council to be known as the EWURA Consumer Consultative Council . (2) The Council shall consist of not less than six members nor more than ten members appointed by the Minister from amongst a list of the business community or by an organisation or organisations legally recognised as being representative of private sector interests. (3) Before making the appointments of members pursuant to subsection (2) , the Minister shall, by notice published in the Gazette , and in any newspaper or newspapers circulating widely in the country invite nominations for appointments and having received them publish the names and call for comments, objections or representations from the public concerned. (4) In nominating and appointing persons for the Council , the members of the private sector and the Minister shall have regard to the desirability of the Council as a group having knowledge and understanding of the interests of consumers and that of the regulated services , including the interest of— (a) low income, rural and disadvantaged persons; (b) industrial and business users; (c) Government and community organisations. (5) The Council shall make its own rules for regulating its procedure and other matters relating to its functions."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Functions and powers of the Council",
+      "content": "(1) In carrying out its functions conferred under this Act, the Council shall— (a) represent the interests of consumers by making submissions to, providing views and information to and consulting with the Authority , Minister and sector Ministers; (b) receive and disseminate information and views on matters of interest to consumers of regulated goods and services ; (c) establish regional and sector consumer committees and consult with them; (d) consult with industry, Government and other consumer groups on matters of interests to consumers of regulated goods and services ; (e) establish local and sector consumer committees and consult with them. (2) The Authority shall in the first three years of the existence of the Council provide for the secretarial functions of the Council , and thereafter the Council shall maintain its own Secretariat. (3) The Council shall have power to regulate its own procedure in relation to the performance of its business."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Proceedings of the Council",
+      "content": "(1) The Council shall hold meetings four times in any period of twelve months. (2) The Chairman of the Council shall convene meetings of the Council as directed by the Council or if requested by members in writing so to do. (3) At least seven days written notice of a meeting shall be given to all members, unless for extraordinary meeting the requirement shall be waived. (4) Subject to subsections (1) , (2) and (3) , the Chairman in consultation with the members may convene meetings at such time and places as he may think fit. (5) The Chairman shall preside at meetings of the Council and may appoint one of their number as Deputy Chairman to preside the meeting in his absence. (6) A quorum at a meeting of the Council shall be five members."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Funds of the Council and annual report",
+      "content": "(1) There shall be funds of the Council which shall comprise of— (a) such sums as may be appropriated by Parliament for the purposes of the Council during the first three years of its existence of the Council ; (b) such sums as may be appropriated from the funds of the Authority for the purposes of the Council ; (c) grants, donations, bequests or other contributions. (2) The Council shall prescribe procedure for enabling members of the business community and organisations representative of the private sector to contribute to and budget for all the meetings and transactions of the Council . (3) The Council shall keep books of accounts and maintain proper records of its operations in accordance with commercial accounting standards . (4) The Council shall at any time, and at the end of each financial year have the accounts of the Council audited by a person registered under the Accountants and Auditors (Registration) Act 6 appointed by the Council on such terms and conditions as the Council may determine. 6 Cap. 286 (5) The Council shall prepare an annual report in relation to each year ended 30th June and submit it to the Authority before 30th November in that year. (6) The Annual report shall provide detailed information regarding the activities of the Council during the previous year ended 30 June and any additional information requested by the Minister , and within 28 days of its receipt or on the first available sitting day thereafter, the Minister table in the National Assembly the annual report of the Council . (7) Subject to subsection (5) , the annual report of the Council shall include the financial statements of the Council for the immediately preceding financial year and the auditor's report based on the aforementioned financial statements. (8) The Council shall prepare a budget and submit to the Authority for approval before the end of each financial year for the following financial year showing estimates of its receipts and expenditures for the following financial year. (9) At the Authority 's request, the Council shall commission its auditors to assess and report on the extent to which the budget represents a fair and reasonable projection of the income and expenditure of the Council for the relevant year and shall submit that report to the Authority . Part VI – Complaints and dispute resolution (ss 34-38)"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Complaints",
+      "content": "(1) This section shall apply to any complaint against a supplier of regulated goods or services in relation to any matter connected with the supply, possible supply or purported supply of the goods or services. (2) Where a complaint is referred to, or otherwise comes to the attention of the Authority and it appears to the Authority that— (a) the complainant has an interest in the matter to which the complaint relates; and (b) the complaint is not frivolous or vexatious, the Authority shall investigate the matter. (3) Where it appears to the Authority at any time during or after its investigation that the supplier has not considered the complaint, or has not considered it adequately, the Authority may refer the complaint to the supplier with a request that the supplier should consider or reconsider the complaint. (4) The Authority may make representations to the supplier on behalf of the complainant or to the complainant on behalf of the supplier as the Authority sees fit. (5) Subject to the provisions of this Act, if a complaint is not resolved to the satisfaction of a complainant within sixty days after the Authority first became obliged to investigate it, the complainant may by writing signed by him request the Authority to refer the complaint to a Division of the Authority for decision. (6) After the complaint has been referred to a Division for decision as provided under subsection (5) , the complainant and the supplier shall be parties to the reference. (7) For the purposes of dealing with consumer complaints, the Authority shall establish a dedicated unit in each Division which shall receive and follow up on complaints from consumers. (8) The units referred to in subsection (7) shall investigate all complaints and attempt to resolve the complaints amicably, and in the event they cannot be resolved within thirty to sixty days, the Division concerned shall present its findings and recommendations for action. (9) Subject to the provisions of this section, the Board shall in each case make a ruling to be carried out by the Division concerned."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Procedure and powers of the Authority",
+      "content": "The Authority may make order— (a) requiring a party to pay money; (b) requiring a party to supply goods or services for specified periods; (c) requiring a party to supply goods or services on specified terms and conditions; (d) requiring a party to pay the costs of another party or of a person appearing at the hearing or producing documents; (e) dismissing a complaint. (2) Subject to the provision of subsection (1), the orders of the Authority shall be enforceable as orders of the High Court. [Please note: numbering as in original.]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VI",
+      "section": "36",
+      "title": "Appeals to the Fair Competition Tribunal",
+      "content": "(1) This section shall apply to any award of the Authority under which a party has been ordered— (a) to pay money in excess of an amount specified in the regulations under this Act; (b) to supply goods or services having a market value in excess of an amount specified in regulations under this Act; (c) to pay money and supply goods and services where the total amount of the money and the value of the goods or services exceeds an amount, or have market value in excess of an amount specified in the regulation under this Act. (2) Where a party is not satisfied with an award to which this section applies may appeal to the Fair Competition Tribunal within 21 days thereafter the award shall be placed on the Public Register . (3) Subject to the provisions of this Act the grounds of appeal to the Fair Competition Tribunal shall be as follows, that— (a) the award was not reasonably open to the Authority based on the evidence; (b) there was an error in law; (c) the procedures or other statutory requirements applicable to the Authority were not complied with and the non-compliance materially affected the award ; (d) the Authority did not have power to make the award . (4) The Fair Competition Tribunal shall, after hearing an appeal, do any one or more of the following— (a) dismiss the appeal in whole or in part; (b) set aside the award in whole or in part and refer outstanding matters to the Authority for re-determination with or without directions as to the matters to be taken into account in the re-determination; or (c) set aside the award in whole or in part and substitute its own award . (5) The Fair Competition Tribunal may make such orders as to the payment of any person's costs of the appeal as it deems appropriate and any person aggrieved by the decision of the Tribunal may appeal to the Court of Appeal."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VI",
+      "section": "37",
+      "title": "Inconsistency with sector legislation",
+      "content": "(1) Subject to subsection (2) , where there is any inconsistency between the provisions of this Act, the provisions of the sector Act shall prevail and this Act shall be read down to the extent of the inconsistency. (2) Where a sector Act has been passed, and that Act expressly provides that the provisions of that Act will supersede or prevail over the provisions of this Act, the provisions of the sector Act shall prevail and this Act shall be read down to the extent of the inconsistency."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VI",
+      "section": "38",
+      "title": "Inconsistency with the Fair Competition Act or the Standards Act",
+      "content": "(1) A person shall not contravene a provision of the Fair Competition Act or the Standards Act by reason only of engaging in conduct or refraining from engaging in conduct if this Act, a sector Act or any subordinate legislation or instrument under any of the aforementioned Acts— (a) requires the person to engage or refrain from engaging in the conduct or conduct of that kind; or (b) authorises or approves the person engaging or refraining from engaging in conduct of that kind. (2) Where the Commissioner for Fair Competition is of the opinion that any conduct required, authorised or approved by the Authority — (a) would be in breach of the Fair Competition Act 7 if subsection (1) did not apply to the conduct; and 7 Cap. 285 (b) the conduct is against the public interest, the Commissioner shall report the matter to the Minister . (3) Where the Minister receives a report from the Commissioner for Fair Competition under subsection (2) , he may direct the Authority to take the necessary steps to ensure that the conduct described by the Commissioner is not required, authorised or approved by the Authority . Part VII – Enforcement and compliance (ss 39-42)"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Compliance orders",
+      "content": "(1) Where the Authority is satisfied that a person has committed or is likely to commit an offence against this Act or a sector Act it may make a compliance order under this section. (2) Any person against whom a compliance order is made shall comply with the order. (3) A compliance order may require a person to refrain from conduct which is in contravention of the provisions of this Act or a sector Act or to take actions required to be taken in order to comply with this Act or a sector Act . (4) A compliance order shall be made in writing specifying the grounds for its making and shall be enforceable as an injunction of the High Court. (5) A copy of a compliance order shall be placed on the Public Register and a copy shall be served on the person against whom it is made. (6) Notwithstanding any law to the contrary, the provisions of this Act where an order or a certified certificate is produced or submitted to the High Court, the order or a certificate shall be conclusive proof of its making by the High Court and of the facts to which it relates."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VII",
+      "section": "40",
+      "title": "Rules and declarations",
+      "content": "(1) The Authority with prior approval of the Minister may, make Rules with respect to— (a) codes of conduct; (b) records to be kept, including the form and content of accounting and business records, and information and documents to be supplied to the Authority by regulated suppliers; (c) standards of regulated goods and services ; (d) terms and conditions of supply of regulated goods and services ; (e) conduct in connection with the production, distribution and supply of regulated goods and services ; (f) complaint handling procedures; (g) rates and charges for regulated goods and services ; (h) levies and fees payable to the Authority ; (i) the circumstances in which, and the terms and conditions on which, a supplier or intending supplier of regulated goods or services shall be able to gain access to facilities owned or controlled by another person; (j) such other matters as the Authority considers necessary or desirable to give effect to this Act. (2) Rules made by the Authority under subsection (1) shall not be inconsistent with this Act, a sector Act or regulations made under this Act or a sector Act . (3) Any person who contravenes or fails to comply with rules made under this section is guilty of an offence liable on conviction to a fine not exceeding five hundred thousand shillings. (4) Apart from other functions upon which the Authority is empowered to perform, it can also make declarations on— (a) particular goods or services, or particular classes of goods or services and on regulated goods or services for the purposes of this Act; (b) particular persons or classes of persons and regulated suppliers for the purposes of this Act; (c) particular activities in or in connection with a regulated sector ; or (d) varying, amending, reviewing or revoking previous declarations made under this section. (5) Subject to reviews or appeals made under Part IV of this Act, declarations by the Authority under this section shall be conclusive for the purposes of this Act. (6) Declarations made by the Authority shall not be inconsistent with this Act, a sector Act or subordinate legislation made under this Act or a sector Act . (7) Before making any declaration under this section, the Authority shall furnish to the Minister with a draft of the proposed declaration, and shall afford the Minister the opportunity to consult with the Authority and with any sector Minister about the draft declaration within twenty days after the draft is supplied to the Minister and, if requested to do so by the Minister , shall consult with the Minister within that twenty days period. (8) A copy of any declaration made under this section shall be placed on the Public Register ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VII",
+      "section": "41",
+      "title": "Regulations",
+      "content": "The Minister may make regulations not inconsistent with this Act or a sector specific Act as he considers necessary or desirable to give effect to the provisions of this Act."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VII",
+      "section": "42",
+      "title": "Offences",
+      "content": "(1) Any person who contravenes or fails to comply with a provision of this Act, commits an offence against this Act and is liable on conviction to a fine not exceeding three million shillings or imprisonment for a term not exceeding five years, or both. (2) A person shall commit an offence against this Act if he— (a) aids, abets, counsels or procures; (b) conspires with others to commit; (c) is directly or indirectly knowingly concerned in, an offence under subsection (1) . (3) Any person who suffers loss or damage as a result of an offence against this Act may recover by compensation for such loss or damage from the person who committed that offence whether or not that person has been convicted of an offence. (4) Any person making a claim under subsection (3) within 4 years after the loss or damage is suffered or within 4 years the person becomes aware of the offence, whichever is the later, a claim shall be made by way of a complaint provided under section 34 of this Act. (5) Where a person is charged with an offence under this Act is a body corporate, every person who, at the time of the commission of the offence, was a director, manager or officer of the body corporate may be charged jointly in the same proceedings with such body corporate and where the body corporate is convicted of the offence, every such director, manager or officer of the body corporate shall be deemed to be guilty of that offence unless he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of the offence. (6) For the purposes of this section, any partner of a firm shall be jointly and severally liable for the acts or omissions of any other partner of the same firm done or omitted to be done in the course of the firm's business. (7) For the purposes of the provisions of this section, a penalty for non compliance of an order of the Authority shall be a fine which shall be equal to a civil debt. Part VIII – Financial provisions (ss 43-49)"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VIII",
+      "section": "43",
+      "title": "Funds of the Authority",
+      "content": "(1) The funds and resources of the Authority shall consist of— (a) fees collected by the Authority , including fees payable for the grant and renewal of licences; (b) levies collected from regulated suppliers; (c) all other payment or property due to the Authority in respect of any matter incidental to its functions; and (d) any grants, donations, bequests or other contributions made to the Authority . (2) The Authority shall by rules made under section 40 require regulated suppliers to pay annual levies to the Authority calculated as percentage of the revenues of regulated suppliers from the supply of regulated goods and services . (3) An annual levy under subsection (2) shall not exceed one percent of the gross operating revenues of a regulated supplier from the supply of regulated goods and services . (4) The percentage of an annual levy payable under subsection (2) may differ as between different regulated sectors but may not be different within the same regulated sector . (5) The Authority shall by rules published in the Gazette made under section 40 and Public Register prescribe filing fees, fixing fees, licence fees and other fees to be paid by person in connection with the procedures of the Authority . (6) The Authority shall disclose details of the sources of its funds in the annual report . (7) The Authority shall not accept any grant or donation from a regulated supplier ."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VIII",
+      "section": "44",
+      "title": "Surplus funds",
+      "content": "(1) As soon as may be reasonably practical after the end of each financial year, the Authority shall deposit to a Special Account all surplus funds of the Authority at the end of that financial year. (2) The Authority shall use funds from the Special Account only for one or more of the following purposes— (a) consumer education or information projects; (b) special non-recurring projects; (c) budgeted capital expenditure; or (d) major rate regulating inquiries."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VIII",
+      "section": "45",
+      "title": "Authority exempted from taxes etc.",
+      "content": "(1) The Authority is hereby exempted from payment of any import and other duties, taxes and levies in respect of its operations, capital, property or documents or any other transaction, deed, agreement, fees or promissory note to which it is a party. (2) Notwithstanding the provisions of subsection (1) , the employees of the Authority shall be liable to pay taxes, duties and excise just like any other employees of other Government institutions."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VIII",
+      "section": "46",
+      "title": "Accounts and financial audit",
+      "content": "(1) The Authority shall keep books of accounts and maintain proper records of its operations in accordance with commercial accounting standards . (2) The accounts of the Authority may at any time and shall, at the end of the financial year, be audited by a person registered as an auditor under the Accountants and Auditors (Registration) Act 8 appointed by the Authority on such terms and conditions as the Authority may determine. 8 Cap. 286"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Performance audit",
+      "content": "(1) The Controller and Auditor-General shall at least once every two years and more frequently as he sees fit, conduct an audit of the performance by the Authority of its functions including its performance in relation to key performance indicators, on such terms and conditions as the Minister may determine. (2) The Controller and Auditor-General shall conduct additional audits of the performance of the Authority as requested by the Minister . (3) The key performance indicators under subsection (1) shall be as directed by the Minister or, in the absence of such direction, as determined by the Controller and Auditor-General."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Annual report",
+      "content": "(1) Before 30th September each year, the Authority shall prepare an annual report in respect of that year up to the immediately preceding 30th June and submit to the Minister . (2) The annual report shall provide detailed information regarding the exercise of the functions and powers of the Authority during the year to which it relates and shall include— (a) a copy of the audited accounts of the Authority as per section 46 of this Act; (b) a copy of the report of the Controller and Auditor-General on the performance audit carried out under section 47 of the Act by the Controller and Auditor-General during the year to which the annual report relates; (c) such information and other material as the Authority may be required by this Act or the Regulations to include in the annual report ."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Budget",
+      "content": "(1) Before the end of each financial year, the Authority shall prepare a budget for the following financial year showing estimates of its receipts and expenditures for the following financial year. (2) Subject to the provisions of subsection (1) , the Authority shall inform the Minister of its budget for the following financial year by submitting a copy to Minister for information. (3) Where the Minister so requests, the Authority shall commission the Authority 's auditor to assess and report on the extent to which the budget represents a fair and reasonable projection of the income and expenditure of the Authority for the relevant year. (4) The Authority shall deliver to the Minister a copy of a report prepared pursuant to subsection (3) as soon as possible after the Authority receives it. (5) If the Authority 's auditor reports that the budget does not represent a fair and reasonable projection of income and expenditure, the Minister may require the Authority to revise the budget to correct the deficiencies. Part IX – Miscellaneous provisions (s 50)"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part IX",
+      "section": "50",
+      "title": "Existing licences, permits and contracts",
+      "content": "(1) Licences and permits granted prior to the enactment of this Act in relation to the production, distribution or supply of regulated goods or services shall remain in force notwithstanding the provisions of this Act. (2) This Act will not operate so as to affect in a prejudicial way the rights of any person under a licence or permit granted prior to the commencement of this Act or any contract entered into prior to the commencement of this Act. Part X – Consequential amendments to sector legislation (s 51)"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part X",
+      "section": "51",
+      "title": "Consequential amendments to sector legislation",
+      "content": "(1) [Amends the Fair Trade Practices Act 9 .] 9 Cap. 285; now the Fair Cmpetition Act (2) The property, rights and liabilities to which the Commissioner of Trade Practices was entitled or subject immediately before and after the commencement of this Act shall vest in the Commission and the provisions of Third Schedule relating to vesting and transition shall apply with such changes as may be necessary. (3) [Amends the Fair Trade Practices Act 10 .] 10 Cap. 285; now the Fair Cmpetition Act (4) Part V of the Fair Trade Practices Act 11 , as amended, shall not apply to regulated goods or services. 11 Cap. 285; now the Fair Cmpetition Act First Schedule (Section 8(4)) The Board of Directors of the Authority 1. Composition of the Board (1) The Board of Directors of the Authority shall consist of— (a) a Chairman who shall be non-executive; (b) five non-executive members; and (c) the Director-General appointed under section 14 . (2) In proposing names of persons for appointment as Chairman and members of the Board, the Nomination Committee, the President and the Minister shall each have regard to the need to appoint persons who— (a) are graduates of a recognised University; (b) have at least ten years' experience in one or more of management, law, economics, finance or engineering; (c) have knowledge of industry; (d) have satisfied the Committee that they are unlikely to have a conflict of interest under section 12 ; (e) are willing to serve as members; and (f) are, in the opinion of the Committee, otherwise suitable to perform the functions and duties of a member competently and honestly. (3) The Board shall elect one of their member to be the Deputy Chairman for a term of one year from the date of his election and shall be eligible for re-appointment. 2. Tenure of appointment (1) The First Chairman and members of the Board shall be appointed for the following fixed terms— (a) Chairman - four years; (b) Director-General - four years; (c) One member - three years; (d) Two members - five years. (2) Members, including the Chairman and the Director-General, shall each be eligible for re-appointment for one further successive term but shall not otherwise be eligible for re-appointment. (3) Any member, may at any time resign by giving notice in writing to the appointment authority and from the date specified in the notice or if no date is so specified, from the date of the receipt of the notice by the appointing authority, he shall cease to be a member. 3. Secretary (1) The Board shall appoint a lawyer of not less than ten years experience to be the Authority's principal legal officer and the Secretary of the Board. (2) The Secretary of the Board may take part in all proceedings of the Board but shall have no vote. 4. Meetings of the Board (1) The Board shall meet as often as there is sufficient business to transact. (2) An ordinary meeting of the Board shall be convened by the Chairman and the notice specifying the place, date and time of the meeting shall be sent to each member at his usual place of business or residence not less than ten days before the date of the meeting and where the Chairman is unable to act by reason of illness or other cause or is absent from the United Republic, the Deputy Chairman may convene the meeting. (3) The Chairman or, in his absence, the Deputy Chairman, may on his own motion, and shall, if requested in writing in that behalf by at least half the members, convene a special meeting of the Board. (4) The Chairman, the Deputy Chairman or other person presiding at any meeting of the Board may invite any person who is not a member to participate in the deliberations of the Board, but any person so invited shall have no vote at the meeting. (5) The Board may act notwithstanding any vacancy in its membership. 5. Minutes of meetings Minutes in proper form of each meeting of the Board shall be kept and shall be confirmed by the Board at its next meeting. 6. Official seal of the Authority (1) The official seal of the Authority shall be of such shape, size and form as the Board may determine. (2) The official seal of the Authority shall not be affixed to any instrument or document except in the presence of the Secretary or such other employee of the Authority as the Board may appoint in that behalf. 7. Execution of document All regulations, appointments, rulings, declarations or other documents made, issued or executed by or on behalf of the Authority or the Board shall be sealed with the official seal of the Authority and shall be signed by— (a) The Chairman of the Board; or (b) the Director-General, or (c) the Secretary; or (d) any other member of the Board or employee of the Authority authorised in writing in that behalf by the Board. 8. Proceedings not invalidated by irregularity No act or proceeding of the Board shall be invalid by reason of any defect or irregularity in the appointment of any member or by reason that any person who purported bona fide to act as a member at the time of the act or proceeding was in fact disqualified or not entitled to act as a member. 9. Absence from three consecutive meetings Where any member absents himself from three consecutive meetings of the Board without sufficient cause, the Board shall advise the appointment authority of the fact and the appointment authority may terminate the appointment of the member and appoint another member in his place. 10. Board may regulate its own proceedings Subject to this Act, the Board shall have power to regulate its procedure in relation to its meetings and the transaction of its business. Second Schedule (Section 10(2)) The Nomination Committee 1. Composition of Committee (1) The Nomination Committee shall consist of three members, namely— (a) the Permanent Secretary of the Ministry responsible for the Authority, who shall be the Chairman of the Committee; (b) two other persons appointed by the Minister, representing the private sector, nominated one by a body recognised as being representative of private sector members and the other by the Council. (2) In proposing names of persons for appointment to the Nomination Committee, the Council and the body representing private sector members shall strive to have appointed persons with a provable knowledge of the relevant sectors, a sound integrity and probity and who are not involved in conflicts of interest. 2. Function The function of the Nomination Committee shall be to nominate persons for appointment as members of the Board of Directors and Director-General of the Authority. 3. Meetings of Committee (1) The Nomination Committee shall meet as often as there arises the need for exercise of the function of the committee. (2) Meetings of the Committee shall be convened by the Chairman and at such places and times as the Chairman may specify in the notice of the meeting. 4. Application of First Schedule Subject to the Act and preceding provisions of this Schedule, the provisions of the First Schedule shall apply mutatis mutandis to the proceedings and other matters in relation to the Nomination Committee. Third Schedule [Omitted.] Fourth Schedule [Amends the Fair Trade Practices Act 12 .] 12 Cap. 285 History of this document 31 December 2023 Chapter 414 Revised Laws 2023 Consolidation 01 July 2022 amendment not yet applied Amended by Finance Act, 2022 20 September 2019 amendment not yet applied Amended by Written Laws (Miscellaneous Amendments) (No. 6) Act, 2019 01 July 2013 amendment not yet applied Amended by Finance Act, 2013 01 July 2008 amendment not yet applied Amended by Finance Act, 2008 01 July 2007 amendment not yet applied Amended by Finance Act, 2007 01 October 2005 Commenced by Energy and Water Utilities Regulatory Authority Act 2001 (Date of Commencement) Notice, 2006 01 February 2005 Commenced by Energy and Water Utilities Regulatory Authority (Commencement Date) Notice, 2005 12 May 2004 amendment not yet applied Amended by Fair Competition Act 31 July 2002 this version Chapter 414 Revised Laws 2002 Consolidation 20 June 2001 Assented to Related documents Is amended by Fair Competition Act Finance Act, 2007 Finance Act, 2008 Finance Act, 2013 Finance Act, 2022 Written Laws (Miscellaneous Amendments) (No. 6) Act, 2019 Is commenced by Energy and Water Utilities Regulatory Authority (Commencement Date) Notice, 2005 Energy and Water Utilities Regulatory Authority Act 2001 (Date of Commencement) Notice, 2006 More documents like this one Subsidiary legislation Title Energy and Water Utilities Regulatory Authority (Petroleum Products Price Setting) Rules, 2022 Government Notice 57 of 2022 Energy and Water Utilities Regulatory Authority (Fees and Levies Collection Procedure) Rules, 2021 Government Notice 420 of 2021 Energy and Water Utilities Regulatory Authority (Electricity and Natural Gas) (Tariff Application and Rate Setting) Rules, 2021 Government Notice 396 of 2021 Energy and Water Utilities Regulatory Authority (Water Tariff Application and Rate Setting) Rules, 2020 Government Notice 490 of 2020 Energy and Water Utilities Regulatory Authority (Consumer Complaints Settlement Procedure) Rules, 2020 Government Notice 428 of 2020 Energy and Water Utilities Regulatory Authority (Compounding of Offences) Regulations, 2020 Government Notice 397 of 2020 Energy and Water Utilities Regulatory Authority (Inquiry on the Proposed Standardized Power Purchase Tariff for Small Power Projects for the Year 2013) Notice, 2013 Government Notice 259 of 2013 Energy and Water Utilities Regulatory Authority (Appointment and Tenure of Members of the Consumer Consultative Council) Regulations, 2013 Government Notice 256 of 2013 Energy and Water Utilities Regulatory Authority (Appointment and Qualifications of Board Members) Regulations, 2013 Government Notice 255 of 2013 Energy and Water Utilities Regulatory Authority (Government Consultative Council) Regulations, 2013 Government Notice 254 of 2013 Petroleum (Licensing Fees) Rules, 2013 Revoked Government Notice 13 of 2013 Energy and Water Utilities Regulatory Authority (Consumer Complaints Settlement Procedure) Rules, 2012 Revoked Government Notice 10 of 2013 Energy and Water Utilities Regulatory Authority (Delegation of Powers) Order, 2012 Government Notice 247 of 2012 Energy and Water Utilities Regulatory Authority (Fees and Levies Collection Procedure) Rules, 2010 Government Notice 193 of 2010 Energy and Water Utilities Regulatory Authority (Petroleum Products Prices Setting) Rules, 2009 Government Notice 5 of 2009 Energy and Water Utilities Regulatory Authority (Petroleum Products Sampling and Testing) Rules, 2008 Repealed Government Notice 31 of 2008 Energy and Water Utilities Regulatory Authority (Consumer Complaints Settlement Procedure) Rules, 2008 Government Notice 30 of 2008 Energy and Water Utilities Regulatory Authority (Rulemaking) Rules, 2006 Government Notice 70 of 2007 Energy and Water Utilities Regulatory Authority (Rules of Procedure) Rules, 2007 Government Notice 69 of 2007 EWURA (Payment of Annual Levy) (Commencement of Application in Petroleum Sector) Rules, 2007 Government Notice 36 of 2007 EWURA (Payment of Annual Levy) (Commencement) Rules, 2006 Revoked Government Notice 157 of 2006 Shauri la Maombi ya Mamlaka ya Majisafi na Majitaka Dar es Salaam ( Dar es Salaam Water & Sewerage Authority- DAWASA) la Kurekebisha Gharama za Huduma za Majisafi na Majitaka, 2006 Government Notice 121 of 2006 Energy and Water Utilities Regulatory Authority (Appointment of Members) Notice, 2005 Government Notice 91 of 2005 [] [] [] [{\"provision_eid\": \"part_III__sec_19\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_4\", \"citations\": 3}, {\"provision_eid\": \"part_II__sec_4/~part_II__sec_4\", \"citations\": 2}, {\"provision_eid\": \"part_I__sec_2__subsec_2\", \"citations\": 2}, {\"provision_eid\": \"part_IV__sec_27\", \"citations\": 2}, {\"provision_eid\": \"part_IV__sec_27/~part_II__sec_5__subsec_3\", \"citations\": 2}, {\"provision_eid\": \"part_IV__sec_27/~part_IV__sec_27__subsec_10\", \"citations\": 1}, {\"provision_"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "annual report",
+      "definition": "the annual report of the Authority referred to in section 32",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Authority",
+      "definition": "Energy and Water Utilities Regulatory Authority established by section 4 or as known by its acronym EWURA",
+      "source_provision": "s3"
+    },
+    {
+      "term": "award",
+      "definition": "an award of the Authority referred to in section 36",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of Directors of the authority referred to in section 8",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Chairman",
+      "definition": "the person appointed as Chairman of the Authority under section 8 and includes the Deputy Chairman and any other person performing the functions of the Chairman",
+      "source_provision": "s3"
+    },
+    {
+      "term": "class licence",
+      "definition": "a licence that may be granted to two or more suppliers under sector legislation on standard terms and conditions or substantially standard terms and conditions",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Commission",
+      "definition": "the Fair Competition Commission",
+      "source_provision": "s3"
+    },
+    {
+      "term": "confidential material",
+      "definition": "and includes the material which the Authority is satisfied that it is of confidential nature and— (a) its disclosure could adversely affect the competitive position of any person",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Council",
+      "definition": "the EWURA Consumer Consultative Council established under section 30",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Director-General",
+      "definition": "the Director-General of the Authority appointed under section 14 of the Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Division",
+      "definition": "a division of the Authority constituted under section 15",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Division Director",
+      "definition": "a Division Director appointed under section 15",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Gazette",
+      "definition": "the Government Gazette of the United Republic of Tanzania",
+      "source_provision": "s3"
+    },
+    {
+      "term": "inquiry",
+      "definition": "the inquiry instituted by the Authority pursuant to section 19",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Internal Review Committee",
+      "definition": "the committee appointed by the Authority pursuant to section 29",
+      "source_provision": "s3"
+    },
+    {
+      "term": "member",
+      "definition": "any member of the Board of the Authority including the Chairman and Director-General",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister for the time being responsible for the Authority",
+      "source_provision": "s3"
+    },
+    {
+      "term": "officer",
+      "definition": "any member or employee of the EWURA",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Permanent Secretary",
+      "definition": "the Permanent Secretary for the time being responsible for the Authority",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Public Register",
+      "definition": "the Public Register of the Authority , kept by the Authority pursuant to section 24",
+      "source_provision": "s3"
+    },
+    {
+      "term": "regulated goods",
+      "definition": "any goods produced, supplied or offered for supply or for use in a regulated sector and includes any goods the Authority declares under section 40",
+      "source_provision": "s3"
+    },
+    {
+      "term": "regulated goods and services",
+      "definition": "any regulated goods and any regulated services",
+      "source_provision": "s3"
+    },
+    {
+      "term": "regulated sector",
+      "definition": "any one or more of the following— (a) electricity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "regulated services",
+      "definition": "any services supplied or offered for supply in a regulated sector and includes services which the Authority declares to be such services under section 40",
+      "source_provision": "s3"
+    },
+    {
+      "term": "regulated supplier",
+      "definition": "any person engaging in activities in or in connection with a regulated sector and includes any person whom the Authority declares under section 40 to be such supplier",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Review Panel",
+      "definition": "the review panel established under section 26",
+      "source_provision": "s3"
+    },
+    {
+      "term": "sector Act",
+      "definition": "any of the statutes referred to in the Third and Fourth Schedules and any statutes amending or replacing those statutes",
+      "source_provision": "s3"
+    },
+    {
+      "term": "sector legislation",
+      "definition": "the legislation referred to in the Third Schedule",
+      "source_provision": "s3"
+    },
+    {
+      "term": "sector Minister",
+      "definition": "the Minister for the time being responsible for a regulated sector",
+      "source_provision": "s3"
+    },
+    {
+      "term": "spectrum",
+      "definition": "the electromagnetic spectrum",
+      "source_provision": "s3"
+    },
+    {
+      "term": "standards",
+      "definition": "standards relating to the content applied in the electricity supply, water and sewerage, petroleum and natural gas distribution",
+      "source_provision": "s3"
+    },
+    {
+      "term": "sub-office",
+      "definition": "in relation to the Authority any office of the Authority other than its head office",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Tribunal",
+      "definition": "the Fair Competition Tribunal established under section 4 of the Fair Competition Act 1 . 1 Cap. 285 Part II – The Authority (ss 4-15)",
+      "source_provision": "s3"
+    }
+  ]
+}

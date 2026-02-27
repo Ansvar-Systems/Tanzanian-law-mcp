@@ -1,0 +1,341 @@
+{
+  "id": "tz-act-ord-1957-32",
+  "type": "statute",
+  "title": "Land Survey Act",
+  "title_en": "Land Survey Act",
+  "short_name": "Land Survey Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/ord/1957/32/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Land Survey Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act unless the context otherwise requires— \" Board \" means the Board of Control of Licensed Surveyors established under the provisions of section 19 ; \" boundary beacon \" means any survey mark affixed, erected or placed for the purpose of denoting the boundaries of any land; \" cadastral survey \" means any survey the purpose of which is to obtain information for recording the position of the boundaries of lands in separate ownership or intended to be the subject of any disposition or partition, or re-establishing such boundaries on the ground or setting out new boundaries on the ground; \" Chief Surveyor \" means the Chief Surveyor of the Department of Lands and Surveys; \" Director \" means the Director of Lands and Surveys; \" general cadastral survey \" means a cadastral survey made under the provisions of section 7 ; \" Government surveyor \" means an officer of the Department of Lands and Surveys or of the Directorate of Overseas (Geodetic and Topographic) Surveys, authorised by the Director to execute surveys under this Act; \" land surveyor \" includes both a Government surveyor and a licensed surveyor ; \" licence \" means a licence issued or deemed to have been issued under the provisions of this Act; \" licensed surveyor \" means a surveyor licensed or deemed to have been licensed under the provisions of this Act; \" Minister \" means the Minister responsible for lands; \" owner \" includes every lessee, sub-lessee, holder of a right of occupancy and licensee of land and any successor in title; \" prescribed \" means prescribed by regulation made under the provision of this Act; \" survey \" means a cadastral, topographical or triangulation survey of land; \" survey mark \" means any trigonometrical station, bench mark, boundary beacon , peg, picket, mark or pole, whether above or below the surface of the ground, which is fixed, placed or set up by, or under the direction of, a land surveyor for the purpose of any survey ; \" surveyed land \" means land the boundaries of which have been surveyed by a land surveyor ; \" topographical survey \" means a survey the purpose of which is to obtain information for recording the position of the physical features and the configuration of the ground; \" triangulation survey \" means a survey the purpose of which is to obtain information for recording the position and height of any survey mark placed for the purpose of any other survey ; \" unlicensed assistant \" means any person not being a land surveyor who is employed in assisting a land surveyor in the survey of land."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Director may delegate powers",
+      "content": "Any power conferred or duty imposed upon the Director by this Act or any regulation made under this Act may, notwithstanding anything contained in any Act, be exercised or performed by any officer of the Department of Lands and Surveys authorised in that behalf by the Director in writing under his hand. Part II – Surveys of land (ss. 4-10)"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Prohibition of certain surveys by persons other than land surveyors",
+      "content": "(1) No person other than a land surveyor shall— (a) survey any land for the purpose of preparing an approved plan within the meaning of the Land Registration Act 1 or any Act amending or replacing the same; 1 Cap. 334 (b) survey any land within an area to which this paragraph applies, for the purpose of preparing a plan to identify the land referred to or to be referred to in any document compulsorily registrable under the provisions of the Registration of Documents Act 2 or any Act amending or replacing the same; 2 Cap. 117 (c) replace or cause to be replaced any missing or displaced boundary beacon or move, destroy or place, or cause to be moved, destroyed or placed, any boundary beacon purporting to denote the boundaries of surveyed land , or make any survey for the purpose of placing any boundary beacon purporting to denote the boundaries of surveyed land ; (d) hold himself out to the public in any manner whatsoever as a land surveyor : Provided that any person carrying out a trial survey under the provisions of paragraph (ii) of the proviso to section 22 shall, for the purposes of paragraphs (a) , (b) and (c) of this subsection, be deemed to be a land surveyor. (2) The Director may, by notice in the Gazette , apply the provisions of paragraph (b) of subsection (1) of this section to any area of Tanzania described in such notice, with effect from such date, being a date at least two months after the date of publication of such notice, as shall be specified in such notice. (3) Any person who contravenes any provision of this section commits an offence against this Act and on conviction is liable to a fine not exceeding fifty thousand shillings or to imprisonment for a term not exceeding twelve months or to both."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Surveys to be carried out in accordance with regulations",
+      "content": "Every survey by a land surveyor shall be carried out in accordance with any regulations for the time being in force made under this Act: Provided that the Director may, notwithstanding any such regulations, specify the methods to be adopted with regard to any particular survey ."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Aerial photography",
+      "content": "(1) Before any aerial photographs for the purposes of any survey of land in Tanzania are taken, the person responsible for the making of such survey shall, at least one month before such aerial photography is carried out, or within such lesser period as the Director may allow, notify the Director in writing of his intention to cause such photographs to be taken. (2) Any person who fails to comply with the provisions of subsection (1) of this section commits an offence and on conviction is liable to a fine not exceeding two thousand shillings."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "General cadastral survey",
+      "content": "(1) Where the Director considers it to be in the public interest he may, by notice in the Gazette , direct that a general cadastral survey be made of such area or areas as shall be specified in such notice. (2) Every owner of land within any such area shall, upon reasonable notice given by or on behalf of the Director , to the best of his knowledge and belief show, or cause to be shown by some other person to the best of that person's knowledge and belief, the boundaries of such land to any land surveyor authorised to make a cadastral survey of such land, and any owner who refuses after reasonable notice so to do commits an offence against this Act and on conviction is liable to a fine not exceeding five hundred shillings."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Power of land surveyor to enter land",
+      "content": "The Director , or any land surveyor or any person authorised by the Director either generally or specially, may enter upon any land with such unlicensed assistants as may be necessary, for the purpose of— (a) making any survey ; (b) affixing or setting up thereon or therein any survey mark ; (c) inspecting any survey or survey mark ; (d) altering, repairing, moving or removing any survey mark ; (e) doing anything necessary for carrying out any of the aforesaid purposes: Provided that— (i) before so entering upon any land the Director or land surveyor or the authorised person shall, wherever practicable, give reasonable notice to the owner or occupier of the land of his intention to enter thereon; (ii) nothing contained in this reaction shall exempt the Director or land surveyor or person authorised as aforesaid from liability for any damage caused in the exercise of any power conferred by this section."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Penalty for obstructing surveyors",
+      "content": "Any person who wilfully obstructs or hinders the Director or any land surveyor or any assistant of the Director or such land surveyor or any person authorised by the Director in the exercise of his powers under this Act commits an offence against this Act and on conviction is liable to a fine not exceeding fifty thousand shillings or to imprisonment for a term not exceeding two years or to both."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Fees for survey",
+      "content": "(1) Where any land is surveyed under the provisions of section 7 , no charges shall be payable by the owner in respect of such survey. (2) Where any land is surveyed by a Government surveyor at the request of the owner there shall be payable by such owner such charges as may be prescribed . Part III – Survey marks (ss. 11-12)"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Interference with survey marks",
+      "content": "(1) Any person who wilfully and without lawful excuse (the burden of proof shall be on him) removes, destroys or displaces or causes to be removed, destroyed or displaced, or alters the position of, or defaces, mutilates, obliterates or breaks or causes to be defaced, mutilated, obliterated or broken any survey mark , commits an offence against this Act, and on conviction is liable to a fine not exceeding fifty thousand shillings or to imprisonment for a period not exceeding two years or to both and may further be ordered by the court to pay the cost of replacing the survey mark and any survey necessary to such replacement. (2) Nothing contained in this section shall be construed as exempting any person from being charged or punished under the Penal Code 3 or any other Act in respect of any such act or omission as is described in this section. 3 Cap. 16"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Prohibition of certain work near trigonometrical station or benchmark",
+      "content": "(1) No person shall do any work likely to cause damage to a trigonometrical station or fundamental benchmark so close to any trigonometrical station or fundamental benchmark as to endanger the same. (2) Any person who contravenes the provisions of this section commits an offence against this Act and on conviction is liable to a fine not exceeding two hundred thousand shillings or to imprisonment for a term not exceeding two years or to both. Part IV – Survey plans and records (ss. 13-18)"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "Original cadastral survey plans and records to be deposited with the Director and become the property of Government",
+      "content": "(1) Every land surveyor who makes a cadastral survey shall as soon as is practicable send to the Director all original plans, original field notes and original computations and all such documents shall be deposited in the Survey Division of the Department of Lands and Surveys and shall become the property of the Government. (2) Any person shall, on payment of the prescribed fee, have access to such documents at all reasonable times. (3) Any person shall be entitled on payment of the prescribed fee to a copy of such documents certified by the Chief Surveyor to be a true copy."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Duty of surveyor to make corrections and adjustments",
+      "content": "Every land surveyor shall, when required by the Director , as soon as practicable— (a) correct any inaccuracy or error in any document required to be deposited under the provisions of subsection (1) of section 13 where such error or inaccuracy exceeds the limit of error prescribed under the provisions of this Act to be allowed in the execution of surveys and the preparation of plans, survey data and other records; (b) adjust the position of any survey mark which has been fixed, placed or set up in accordance with any incorrect cadastral survey ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Diagram and prints of aerial photographs",
+      "content": "(1) At the conclusion of any aerial photography undertaken in connection with a survey of any land in Tanzania the person responsible for the making of such survey shall— (a) as soon as practicable, supply the Director with a diagram showing the numbers and positions of the aerial photographs on a map previously approved by the Director ; and (b) on demand by the Director and on payment by him of the cost of printing, supply the Director with prints of such aerial photographs as the Director may specify. (2) Any person who fails to comply with the provisions of subsection (1) of this section commits an offence and on conviction is liable to a fine not exceeding fifty thousand shillings or to imprisonment for a term not exceeding twelve months."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "No plan to be amended without the Chief Surveyor 's permission",
+      "content": "(1) No document deposited in accordance with the provisions of section 13 and no copy of such document shall be altered or amended in any way without the permission of the Chief Surveyor. (2) Any person who contravenes subsection (1) commits an offence and on conviction is liable to a fine not exceeding fifty thousand shillings or imprisonment for a term not exceeding twelve months."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Approval of plans",
+      "content": "(1) No plan made as the result of any survey to which paragraphs (a) or (b) of subsection (1) of section 4 applies shall be admissible in evidence unless such plan has been approved by the Chief Surveyor. (2) Where in this or any other Act it is provided that any plan shall be approved by the Chief Surveyor , the approval of the Chief Surveyor shall be in writing duly signed by the Chief Surveyor and such signature shall be evidence of such approval. (3) No such plan shall be approved by the Chief Surveyor — (a) until such plan has been compared with the field notes and computations deposited with the Director by the land surveyor making such plan, and found to be free from error; and (b) unless the survey has been conducted in such manner as may have been specified under the proviso to section 5 or in accordance with any regulations made under this Act."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Plan based on general cadastral survey",
+      "content": "Without prejudice to the provisions of the law relating to evidence, a plan based on a general cadastral survey and approved as such by the Chief Surveyor shall be prima facie evidence of the correctness of the position of the boundaries shown. Part V – Board of Control and Licensing of Surveyors (ss. 19-28)"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Establishment of Board",
+      "content": "(1) There shall be established a Board to be known as the Board of Control of Licensed Surveyors which shall consist of— (a) the Director , who shall be Chairman of the Board ; and (b) the Chief Surveyor , who shall be Deputy Chairman of the Board ; and (c) not less than two licensed surveyors appointed in writing by the Minister for such period as he may direct. (2) The Minister may, in his discretion, revoke the appointment of any person appointed by him to be a member of the Board . (3) The Minister may appoint a land surveyor temporarily to fill the place of any member of the Board who may, for any reason, be unable to attend any meeting of the Board . (4) Notice of appointment and of revocation of an appointment of a member of the Board (excepting a temporary appointment made under subsection (3) of this section) shall be published in the Gazette . (5) The Board shall regulate its meetings and shall conduct its business in such manner as may be prescribed . (6) The quorum at any meeting of the Board shall be three members of whom the Chairman or Deputy Chairman shall be one."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Appointment of Secretary and other officers",
+      "content": "The Board shall appoint a person to be the Secretary and Registrar and may, appoint such examiners and other officers as may be necessary for carrying out the duties of the Board and all such persons shall hold office during the pleasure of the Board ."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Duties of the Board",
+      "content": "The duties of the Board shall be— (a) to conduct the examination of candidates for admission as licensed surveyors in accordance with the provisions of this Act; (b) to keep a register of all licensed surveyors (hereinafter referred to as the register) in the prescribed manner, to publish in the Gazette in the month of January in each year a list of the names, addresses and qualifications of all persons so registered, and to publish similarly any additions to or alterations in the register; (c) to issue, suspend or cancel a licence in accordance with the provisions of this Act; (d) to take such disciplinary action as may be necessary against licensed surveyors in accordance with the provisions of this Act; and (e) to make recommendations to the Minister for the making of regulations under the provisions of section 31 ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Conditions for the issue of licences",
+      "content": "No person shall receive a licence unless he shall have attained the age of twenty-one years and unless either— (a) he shall have passed to the satisfaction of the Board an examination conducted by the Board in such subjects and in such manner and subject to such conditions as may be prescribed ; or (b) he is the holder of a licence or equivalent authority to practise as a licensed surveyor in any country as the Minister may by notice in the Gazette approve; or (c) he is the holder of the qualification of Fellow or Professional Associate of the Royal Institution of Chartered Surveyors in Land Surveying; or (d) he has served as a surveyor on the permanent establishment of Her Majesty's Overseas Civil Service for a period of not less than ten years: Provided that any such person may also be required— (i) to satisfy the Board that he has field experience of such types of survey as may be prescribed ; (ii) to carry out a trial survey to the satisfaction of the Board ; and (iii) to satisfy the Board that he is otherwise capable of conducting land surveys in accordance with the provisions of this Act and of any regulations made under the Act."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Conditions for admission to examination",
+      "content": "No person shall be entitled to be examined for a licence to practise as a land surveyor unless— (a) he has satisfactorily served for such period as the Board may require either in the Survey Division of the Department of Lands and Surveys, or with a licensed surveyor in Tanzania or in such other country as the Minister may, by notice in the Gazette , approve; or (b) he has graduated from a University recognised by the Board and obtained a degree in any subject approved by the Board ; or (c) he has passed the Intermediate Examination of the Royal Institution of Chartered Surveyors in Land Surveying; or (d) he holds a diploma or distinction which the Board recognises as the equivalent of a degree specified in paragraph (b) of this section."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Exemptions",
+      "content": "Any person who has pursued recognised courses of study in land surveying or any kindred technical subject may be granted exemption from examination in any subject, at the discretion of the Board ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Examination fee",
+      "content": "Every candidate for examination under paragraph (a) of section 22 shall be required to pay such fee as may be prescribed."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Examining candidate on oath",
+      "content": "The Board may require the attendance of any person who has applied for a licence and may examine or question such person upon oath, affirmation or otherwise, as to his actual practice in the field and other relevant matters, and for such purpose any member of the Board may administer an oath or affirmation."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Form of licence and fees",
+      "content": "Every licence shall be in the prescribed form or to the like effect, and shall be issued on payment of such fee as may be prescribed ."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Power to require licensed surveyor to undergo survey trial after period of absence from practice",
+      "content": "(1) Where a licensed surveyor has not, during a continuous period of five years or more, made a survey within Tanzania which has been approved in accordance with the provisions of this Act or any regulations made the Act, the Board may in its discretion require him to carry out a trial survey within such period as the Board shall specify and if he fails within such specified period or any further period allowed by the Board to carry out such trial survey to the satisfaction of the Board , the Board may cancel his licence . (2) For the avoidance of doubt it is hereby expressly declared that nothing in this section shall prejudice the right of any licensed surveyor whose licence has been cancelled under the provisions of this section to apply again for the issue of a licence , in which case the preceding provisions of this Part shall apply as if he were applying for a licence for the first time. Part VI – Disciplinary provisions (ss. 29-30)"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VI",
+      "section": "29",
+      "title": "Complaint against licensed surveyor and how dealt with",
+      "content": "(1) Every complaint against a licensed surveyor shall be submitted in writing to the Board and shall be signed by the person making the complaint and if it appears to the Board that such complaint justified an inquiry, the Board shall fix a time and place for the purpose of hearing and determining the complaint. (2) At least thirty days prior to the date fixed for such inquiry, notice in writing shall be sent by the Secretary by registered post to the last known address of the licensed surveyor against whom the complaint is made, informing him of the time and place fixed for the inquiry and supplying him with a copy of the complaint. (3) At such inquiry the licensed surveyor against whom the complaint is made shall be entitled to be heard in his defence either personally or by an advocate. (4) The Board shall have full power to summon witnesses and to examine them upon oath or affirmation and to carry out any investigations concerning the complaint and may hold the inquiry whether or not such licensed surveyor appears before it or is represented by an advocate or has filed any reply to the notice prescribed in subsection (2) of this section. (5) For the purposes of the last foregoing subsection any member of the Board may administer an oath or affirmation. (6) The findings and decision of the Board on such inquiry shall be made in writing and shall be signed by the Chairman."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VI",
+      "section": "30",
+      "title": "Power of Board to deal with offences",
+      "content": "(1) If in any inquiry under section 29 it is shown that any licensed surveyor— (a) has signed any plan, survey data or other record of any survey relating to any land in respect of which he has not carried out or personally supervised the whole of such survey and examined and satisfied himself of the correctness of the entries in any field book, and of the calculations, working plans and other records in connection therewith which may have been made by any other person: Provided that a surveyor shall not be required to carry out or personally to supervise the taking or processing of any aerial photograph; or (b) has signed a plan which he knows or ought, by the exercise of reasonable care, to have known, is incorrect; or (c) has performed through negligence or incompetence an incorrect survey ; or (d) has made any entry in a field book or other document which purports to have been made as a result of actual observation or measurement in the field when it was not so made; or (e) has supplied erroneous information to the Director in connection with any survey mark or boundary which he knows, or ought, by the exercise of reasonable care, to have known, was erroneous; or (f) has failed to comply with the requirements of subsection (1) of section 13 , or section 14 ; or (g) has been convicted of any criminal offence and such criminal offence is, in the opinion of the Board , such as to render him unfit to practise as a licensed surveyor ; or (h) has been guilty of infamous conduct in any professional respect; or (i) has obtained his licence by misrepresentation, or that his licence or equivalent authority to practise has been suspended or cancelled in any country or Tanzania for such conduct as would, had it occurred in Tanzania have, in the opinion of the Board , rendered him unfit to practise as a licensed surveyor , the Board may— (i) admonish such licensed surveyor ; or (ii) suspend his licence for a period not exceeding three years, in which case the Registrar shall enter the reason for and the period of such suspension in the register; or (iii) cancel his licence , in which case the Registrar shall remove his name from the register; and (iv) in addition to admonishment or suspension or cancellation of his licence , order such licensed surveyor to pay the cost of any correction to any plan which his conduct may necessitate. (2) Any person whose licence has been cancelled or suspended under the provisions of this section shall be entitled to appeal to the High Court, whose decision shall be final. (3) (a) In any appeal made thereto under the provisions of this section, the High Court may make any such order as could have been made by the Board and may confirm, cancel or vary any order appealed against and may make such order with regard to costs as it may consider fit. (b) The Chief Justice may make rules of court providing for the manner in which appeals to the High Court under this section shall be made, and the procedure which shall be followed on the hearing of such appeals. (4) Notice of any intention to appeal under the provisions of this section shall be given in writing to the Registrar within thirty days of any decision which it is intended to appeal against, and unless such notice is received within such period the Registrar shall cause to be published in the next issue of the Gazette a notification of the removal of the name of the licensed surveyor from the register or of his suspension from practice as the case may be and the reasons therefor: Provided that where such notice of intention to appeal has been received, no such notification shall be made in the Gazette until such time as an order of the court confirming such removal or suspension has been made. (5) The Board may in its discretion and subject to such conditions as it may deem fit— (a) reinstate any licensed surveyor whose name has been removed from the register; or (b) cancel the suspension of a licensed surveyor whose licence has been suspended under the provisions of this section. (6) The reinstatement of any licensed surveyor whose name has been removed from the register or the cancellation of any suspension of a licensed surveyor from practice shall be published in the Gazette . Part VII – Regulations (s. 31)"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VII",
+      "section": "31",
+      "title": "Regulations",
+      "content": "(1) The Minister may make regulations for giving better effect to the purposes and provisions of this Act and without prejudice to the generality of the foregoing, may make regulations with regard to the following matters— (a) the methods and instruments to be employed by land surveyors in executing surveys and incidental matters; (b) the number and method of supervision of unlicensed assistants who may be employed by a licensed surveyor , the work which such unlicensed assistants may undertake, and any incidental matter; (c) the charges to be levied for any survey undertaken by the Director or a Government surveyor ; (d) the charges to be paid to Government for checking and examining any survey undertaken by a licensed surveyor ; (e) the fees to be paid for any plan or document; (f) the fees upon payment of which persons may have access to any plans or documents in the possession of the Survey Division of the Department of Lands and Surveys; (g) the fees to be paid for admission to any examination for a licence ; (h) the fees to be paid for the issue of a licence ; (i) determining the evidence to be produced and the conditions to be fulfilled by any person applying for registration as a licensed surveyor under this Act; (j) the degree of accuracy to be attained and the limit of error to be allowed in the execution of surveys and the preparation of plans, survey data and other records; (k) the method of correcting any inaccuracy or error in any plan, survey data or any record of any survey ; (l) the form and dimensions of survey marks, the manner of marking survey marks for identification and the manner of their construction, erection, replacement, protection, inspection, maintenance and repair; (m) the siting of survey marks, the material from which survey marks are to be constructed and the method of fixing, placing and setting up of survey marks; (n) the units of measure to be used; (o) regulating the manner of keeping the register and prescribing the particulars which shall be recorded; (p) prescribing anything which this Act requires or enables to be prescribed . (2) Regulations made under the provisions of subsection (1) of this section may require acts or things to be performed or done to the satisfaction of a prescribed person and may empower a prescribed person to issue orders to any other person requiring acts or things to be performed or done, imposing conditions and prescribing periods and dates upon, within or before which, such acts or things shall be performed or done or such conditions shall be fulfilled. (3) Regulations made under the provisions of this section may provide as a penalty for any breach of or failure to comply with the provisions of any regulation a fine not exceeding fifty thousand shillings or imprisonment for a period not exceeding one year or both. Part VIII – Repeal (ss. 32-33)"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VIII",
+      "section": "32",
+      "title": "Repeal of R.L. Caps. 121 and 122",
+      "content": "[Repeals the Land Survey Ordinance and the Land Surveyors Ordinance.]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VIII",
+      "section": "33",
+      "title": "Amendment of Cap. 16",
+      "content": "[Repeals section 330 of the Penal Code.] History of this document 31 December 2023 Chapter 324 Revised Laws 2023 Consolidation 01 December 2017 amendment not yet applied Amended by Written Laws (Miscellaneous Amendments) (No. 4) Act, 2017 31 July 2002 this version Chapter 324 Revised Laws 2002 Consolidation 05 June 1959 Commenced Related documents Is amended by Written Laws (Miscellaneous Amendments) (No. 4) Act, 2017 More documents like this one Subsidiary legislation Title Land Survey and Surveyors (Amendment) Regulations, 2020 Government Notice 201 of 2020 Land Survey (General) (Amendment) Regulations, 2010 Government Notice 489 of 2010 Land Survey (Appeals) Rules of Court, 1960 Government Notice 349 of 1960 General Cadastral Survey, 1960 Government Notice 62 of 1960 General Cadastral Survey, Tabora, 1959 Government Notice 186 of 1959 Land Survey and Surveyors&#x27; Regulations, 1959 Government Notice 174 of 1959 Land Survey (General) Regulations, 1959 Government Notice 173 of 1959 [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "the Board of Control of Licensed Surveyors established under the provisions of section 19",
+      "source_provision": "s2"
+    },
+    {
+      "term": "boundary beacon",
+      "definition": "any survey mark affixed, erected or placed for the purpose of denoting the boundaries of any land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cadastral survey",
+      "definition": "any survey the purpose of which is to obtain information for recording the position of the boundaries of lands in separate ownership or intended to be the subject of any disposition or partition, or re-establishing such boundaries on the ground or setting out new boundaries on the ground",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Surveyor",
+      "definition": "the Chief Surveyor of the Department of Lands and Surveys",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "the Director of Lands and Surveys",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general cadastral survey",
+      "definition": "a cadastral survey made under the provisions of section 7",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Government surveyor",
+      "definition": "an officer of the Department of Lands and Surveys or of the Directorate of Overseas (Geodetic and Topographic) Surveys, authorised by the Director to execute surveys under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "land surveyor",
+      "definition": "both a Government surveyor and a licensed surveyor",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "a licence issued or deemed to have been issued under the provisions of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensed surveyor",
+      "definition": "a surveyor licensed or deemed to have been licensed under the provisions of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for lands",
+      "source_provision": "s2"
+    },
+    {
+      "term": "owner",
+      "definition": "every lessee, sub-lessee, holder of a right of occupancy and licensee of land and any successor in title",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prescribed",
+      "definition": "prescribed by regulation made under the provision of this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "survey",
+      "definition": "a cadastral, topographical or triangulation survey of land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "survey mark",
+      "definition": "any trigonometrical station, bench mark, boundary beacon , peg, picket, mark or pole, whether above or below the surface of the ground, which is fixed, placed or set up by, or under the direction of, a land surveyor for the purpose of any survey",
+      "source_provision": "s2"
+    },
+    {
+      "term": "surveyed land",
+      "definition": "land the boundaries of which have been surveyed by a land surveyor",
+      "source_provision": "s2"
+    },
+    {
+      "term": "topographical survey",
+      "definition": "a survey the purpose of which is to obtain information for recording the position of the physical features and the configuration of the ground",
+      "source_provision": "s2"
+    },
+    {
+      "term": "triangulation survey",
+      "definition": "a survey the purpose of which is to obtain information for recording the position and height of any survey mark placed for the purpose of any other survey",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unlicensed assistant",
+      "definition": "any person not being a land surveyor who is employed in assisting a land surveyor in the survey of land.",
+      "source_provision": "s2"
+    }
+  ]
+}

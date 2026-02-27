@@ -1,0 +1,1286 @@
+{
+  "id": "tz-act-1963-9",
+  "type": "statute",
+  "title": "Probate and Administration of Estates Act",
+  "title_en": "Probate and Administration of Estates Act",
+  "short_name": "Probate and Administration ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/1963/9/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title and application",
+      "content": "(1) This Act may be cited as the Probate and Administration of Estates Act. (2) Subject to the provisions of section 87 and Part IX , this Act shall apply to the administration of the estates of all persons dying domiciled, or leaving property, in Tanzania whether before, on or after the date upon which it comes into operation."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "(1) In this Part, unless the context otherwise requires— “ administrator ” means a person appointed by the court to administer the estate of a deceased person when there is no executor or no executor is able and willing to act, and includes, when Part VIII applies and subject to the provisions thereof, a person appointed an administrator under that Part; “ codicil ” means an instrument made in relation to a will , and explaining, altering or adding to its dispositions; “ contention ” in relation to a grant of probate or letters of administration means the appearance of any person to oppose the application for the grant, and “contentious” has a like meaning; “ court ” means the High Court and includes, in any case in which a District Delegate has jurisdiction, a District Delegate , but does not include a district court ; “ demonstrative legacy ” means a legacy directed to be paid out of specified property; “ district court ” has the meaning ascribed thereto in the Magistrates Courts Act; [Cap. 11] “ District Delegate ” means a resident magistrate appointed as a District Delegate under section 5 ; “ executor ” means a person to whom the execution of the last will of a deceased person is, by the testator's appointment, confided; “ general legacy ” means a legacy other than a specific or demonstrative legacy ; “ Minister ” means the Minister responsible for legal affairs; “ probate ” means the copy of a will , or, in the case of an oral will , a statement of the contents thereof, certified under the seal of the court , with a grant of administration to the estate of the testator; “ Probate Rules ” means rules made under section 9 ; “ rules of Court ” include rules of court made by the High Court under the Judicature and Application of Laws Act and the rules contained in or made under the Civil Procedure Code; [Cap. 358; Cap. 33] “ small estate ” means an estate the gross value of which a court , district court or other authority having jurisdiction in probate or administration is satisfied, does not exceed one hundred million shillings; “ specific legacy ” means a legacy of specified property; “ trust corporation ” means— (a) the Public Trustee; (b) the Administrator General; (c) any incorporated-banking or insurance or guarantee or trust company which has a capital, in stock or shares for the time being issued of not less than two hundred and fifty thousand pounds, of which not less than one hundred thousand pounds shall have been paid up in cash; or (d) any body corporate which has a capital, in stock or shares, for the time being issued of not less than two hundred and fifty thousand pounds, of which not less than one hundred thousand pounds shall have been paid up in cash, and which is for the time being empowered, by Act of Parliament of the United Republic charter, memorandum of association, deed of settlement or other instrument constituting it or defining its powers, to undertake trusts, but for so long a time only as such body corporate shall not, by any prospectus, circular, advertisement or other document issued by it or on its behalf, state or hold out that any liability attaches to the Public Trustee or to the general revenue of the United Republic in respect of any act or omission of such body corporate when acting as an executor or administrator ; and “ will ” means the legal declaration of the intentions of a testator with respect to his property, which he desires to be carried into effect after his death. (2) Notwithstanding anything contained in the definition of “ trust corporation ” in subsection (1) , a company or body corporate which would be a trust corporation but for the fact that it does not for the time being fulfil the requirements as to capital in paragraphs (c) or (d) of the said definition may act as executor or administrator in any case with the leave of the High Court and on giving such security as the High Court may determine, and thereupon for the purposes of so acting as executor or administrator shall be deemed to be and to have the powers, rights and duties of a trust corporation under this Act. [Acts Nos. 9 of 1963 s. 5; 4 of 2016 s. 55] Part II – Jurisdiction in probate and administration of estates"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Jurisdiction of High Court in probate and administration",
+      "content": "The High Court shall have jurisdiction in all matters relating to probate and the administration of deceased's estates, with power to grant probates of wills and letters of administration to the estates of deceased persons and to alter or revoke such grants."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Jurisdiction of High Court to re-seal certain grants",
+      "content": "The High Court shall have jurisdiction to re-seal grants of probate and letters of administration made by a court of probate in any part of the Commonwealth in accordance with the provisions of Part X of this Act."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Jurisdiction of District Delegates",
+      "content": "(1) The Chief Justice may appoint such resident magistrates as he thinks fit to be District Delegates. (2) A District Delegate shall have jurisdiction in all matters relating to probate and administration of estates with power to grant probate and letters of administration of estates if the deceased, at the time of his death, had his fixed place of abode within the area for which the Delegate is appointed— (a) in non-contentious cases; (b) in contentious cases, if the Delegate is satisfied that the gross value of the estate does not exceed fifteen thousand shillings, or the High Court authorises the Delegate to exercise jurisdiction in such circumstances as are specified in subsection (3) . (3) An act of a District Delegate exercising jurisdiction in probate or administration of estates shall not be invalid by reason only that it is afterwards discovered that the gross value of the estate exceeded fifteen thousand shillings, but where the District Delegate becomes aware of such circumstances in any contentious case, he shall report the matter to the High Court which shall either direct the transfer of the proceedings to itself or authorise the Delegate to exercise jurisdiction therein. (4) A District Delegate shall not have jurisdiction to exercise any of the powers herein expressly conferred on the High Court."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Jurisdiction of district courts",
+      "content": "(1) A district court presided over by a district magistrate shall have jurisdiction in the administration of small estates, with power to appoint administrators of small estates using the form specified in the Fourth Schedule to this Act, where the deceased died within the jurisdiction of the court . (2) The jurisdiction of a district court shall be exercised in accordance with the provisions of Parts VIII and IX ."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Consular officers",
+      "content": "(1) Where any person who is a national of a State to which this section applies is named as executor in the will of a deceased person disposing of property in Tanzania, or is otherwise a person to whom a grant of representation to the estate in Tanzania of a deceased person may be made, then if the court is satisfied, on the application of a consular officer of the said State, that the said national is not resident in Tanzania, and if no application for a grant of such representation is made by a person duly authorised by power of attorney to act for him in that behalf, the court shall make to that officer any such grant of representation to the estate of the deceased as would be made to him if he were so authorised as aforesaid. (2) Letters of administration granted to a consular officer shall be granted to him in his official style and title and not in his personal name, but the person officiating as such consular officer shall personally take the administrators oath. Such letters of administration and the estate of the deceased shall pass from such consular officer to his successors in office, and shall vest in each such consular officer for the time being during his continuance in office without any order of the court or any conveyance, assignment or other instrument whatsoever. (3) Sureties shall not be required to an administration bond given by a consular officer upon the grant of any letters of administration by virtue of this section. (4) Where any person who is a national of a State to which this section applies— (a) is entitled to any money or other property in Tanzania forming part of the estate of a deceased person, or to receive payment in Tanzania of any money becoming due on the death of a deceased person; or (b) is among the persons to whom any money or other property of a deceased person may, under any Act whether passed before or after the commencement of this Act, be paid or delivered without grant of probate or other proof of title, then if the said national is not resident in Tanzania, a consular officer of that State shall have the right and power to receive and give a valid discharge for any such money or property as if he were duly authorised by power of attorney to act for him in that behalf: Provided that, a person shall not be authorised or required by this subsection to pay or deliver any money or property to a consular officer if it is within his knowledge that any other person in Tanzania has been expressly authorised to receive that money or property on behalf of the said national. (5) Notwithstanding any rule of law conferring immunity or privilege in respect of the official acts and documents of consular officers, a consular officer shall not be entitled to any immunity or privilege in respect of any act done by virtue of powers conferred on him by or under this section, or in respect of any document for the time being in his possession relating thereto. (6) This section applies to the States specified in the First Schedule, and the Minister may, by order in the Gazette , add to or delete from the First Schedule, any foreign State."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Powers under this Act may be exercised in chambers",
+      "content": "Subject to any Probate Rules in that behalf, the jurisdiction of the court or a district court under this Act may be exercised in chambers— (a) in non-contentious cases; and (b) in contentious cases to the same extent as jurisdiction may be exercised in chambers in a suit conducted in accordance with the Civil Procedure Code or any enactment replacing the same or any rules of court . [Cap. 33]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Probate Rules",
+      "content": "The Chief Justice may make Probate Rules for regulating proceedings for the grant of probate and letters of administration or the appointment of an administrator , for such purposes as, in this Act it is provided that Probate Rules may be made, for the preservation, and copying and inspection of wills, grants of probate and administration of estates and appointments of administrators, for fees including fees payable to administrators appointed under section 75(1) and forms, and generally for the better carrying out of the provisions of this Act. [Act No. 9 of 1963 s. 6] Part III – Protection of estates pending grant and executors of their own wrong"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Receiver pending grant",
+      "content": "Where any person dies leaving property within Tanzania, the court may, if it appears on the application of the Administrator-General or of any person claiming to be interested in such property, or having the custody or control thereof at the time of the death of the deceased, or being at such time an attorney of the deceased, that there is danger that such property may be wasted, appoint the Administrator-General or such other person as the court thinks fit, to be a receiver of such property pending a grant of probate or letters of administration."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Sale by order of court",
+      "content": "The court may, on application by a receiver appointed under section 10 , or any person interested in the estate, order the sale of the whole or any part of such property, if it appears that such sale will be beneficial to the estate."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Application of rules relating to receivers",
+      "content": "A receiver appointed under section 10 shall be subject to all rules of court relating to receivers generally: Provided that neither the Administrator-General nor the Public Trustee shall be required to furnish security."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Penalty for contempt",
+      "content": "A person who, without lawful authority, removes or attempts to remove from Tanzania any portion of the property of which a receiver has been appointed under section 10 , or destroys, conceals, or refuses to yield up the same to the receiver, commits an offence and on conviction, shall be liable to a fine not exceeding five thousand shillings or to imprisonment for a term not exceeding six months or to both."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "No suit against receiver",
+      "content": "A suit shall not be brought against a receiver appointed under section 10 in relation to anything done or intended to be done by him in respect of the property of the deceased in exercise or intended exercise of the powers vested in him; but any person aggrieved by anything so done, or intended to be done, may apply to the court for directions in the matter, and the court may make such order as is just."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Receiver's lien",
+      "content": "A receiver appointed under section 10 shall have a lien upon the property entrusted to him for all costs and expenses properly incurred by him in the exercise of his duties as such receiver."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Executors of their own wrong",
+      "content": "A person who intermeddles with the estate of the deceased or does any other act which belongs to the office of executor , while there is no rightful executor or administrator in existence, thereby makes himself an executor of his own wrong: Provided that— (a) intermeddling with the goods of the deceased for the purpose of preserving them or providing for his funeral or for the immediate necessities of his family or property; (b) dealing in the ordinary course of business with goods of the deceased received from another; (c) action by an administrative officer under section 15 of the Administrator-General (Powers and Functions) Act; or [Cap. 27] (d) action by a receiver appointed under section 10 , does not make an executor of his own wrong."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Liability of executor of his own wrong",
+      "content": "Where a person has so acted as to become an executor of his own wrong, he is answerable to the rightful executor or administrator , or to any legatee or creditor of the deceased, to the extent of the assets which have come into his hands, after deducting payments made to the rightful executor or administrator , and payments made in due course of administration. Part IV – Renunciation by executors"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Express renunciation of right to probate",
+      "content": "A person who is entitled to probate may expressly renounce his right to such grant orally on the hearing of any application or in writing signed by the person so renouncing and attested by any person before whom an affidavit may be sworn."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Citation and constructive renunciation",
+      "content": "(1) A person having or claiming any interest in the estate of a deceased person or any creditor of a deceased person may cause to be issued a citation directed to the executor or executors appointed by the deceased's will calling upon him or them to accept or renounce his or their executorship. (2) A person so cited may enter an appearance to the citation, but if he makes a default in appearance thereto, he shall be deemed to have renounced his executorship; and if, having appeared, he does not proceed to apply for probate , the person so citing may apply for an order that the person cited, unless he applies for and obtains probate within a time limited by the order, shall be deemed to have renounced his right thereto, and an order may be made accordingly."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Effect of renunciation",
+      "content": "The renunciation, whether made expressly or constructively, shall preclude the person so renouncing from applying thereafter for probate : Provided that, the court may at any time allow the person so renouncing to withdraw his renunciation for the purpose of taking a grant, if it is shown that such withdrawal is for the benefit of the estate or persons interested therein. Part V – Grant of probate and letters of administration by the court A. General provisions"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Trust corporations",
+      "content": "(1) A trust corporation — (a) may be granted probate of the will of any person, if it is named as executor therein; or (b) may be granted letters of administration. (2) A trust corporation may be granted probate or letters of administration either solely or jointly with another person. (3) Probate or letters of administration shall not be granted to a syndicate or nominee on behalf of a trust corporation ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Number of executors and administrators",
+      "content": "(1) Probate or letters of administration shall not be granted to more than four persons in respect of the same property, and letters of administration shall, if there is a minority or if a life interest arises under the will or on an intestacy, be granted either to a trust corporation , solely or jointly with an individual or to not less than two individuals: Provided that, in granting letters of administration the court may act on such prima facie evidence, furnished by the applicant or any other person, as to whether or not there is a minority or life interest, as maybe prescribed by Probate Rules . (2) Where there is only one personal representative, not being a trust corporation then, during the minority of a beneficiary or the subsistence of a life interest and until the estate is fully administered, the court may, on the application of any person interested or of the guardian, committee or receiver of any such person appoint one or more personal representative in addition to the existing personal representatives, in accordance with Probate Rules ."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Minors and persons of unsound mind",
+      "content": "Probate or letters of administration shall not be granted to any person who is a minor or of unsound mind. B. Probate"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Grant of probate",
+      "content": "(1) Probate may be granted only to an executor appointed by the will . (2) The appointment may be express or by necessary implication. (3) Where several executors are appointed, probate may be granted to them all simultaneously or at different times. (4) Where an executor is appointed by the will for a limited purpose only, probate shall not be granted to him except limited to that purpose."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Probate of copy, draft or contents of written wills and of contents of oral wills",
+      "content": "(1) Where a written will has been lost or misplaced after the death of the testator, or has been destroyed by wrong or accident and not by any act of the testator— (a) if a copy or draff of the will has been preserved, probate may be granted of such copy of draft, until the original or a wills properly authenticated copy of it is admitted to probate ; (b) if no such copy or draft has been preserved, probate may be granted of the contents of the will , if they can be established by evidence, limited as aforesaid. (2) Where a written will is in the possession of a person outside Tanzania, who has refused or neglected to deliver it up, but a copy has been transmitted to the executor , and it is necessary for the interests of the estate that probate should be granted without waiting for the arrival of the original, probate may be granted of the copy so transmitted, limited as aforesaid. (3) Probate may be granted of the contents of an oral will , if they can be established by evidence."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Codicil propounded after probate",
+      "content": "Where, after probate has been granted, a codicil of the will is propounded, probate may be granted of the codicil : Provided that, where the codicil expressly or impliedly revokes the appointment of any executors to whom probate has been granted, such probate shall be revoked, and a new probate granted of the will and codicil together."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Authenticated copy of will proved abroad",
+      "content": "Where a will has been proved and deposited in a court of competent jurisdiction situated outside Tanzania, and a properly authenticated copy of the will is produced, probate may be granted of such copy or letters of administration granted with a copy of such copy attached."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Effect of probate",
+      "content": "Probate of a will when granted establishes the will and evidences the title of the executor from the death of the testator. C. Letters of Administration with the will annexed"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Failure of executors",
+      "content": "Where— (a) no executor is appointed by a will ; (b) the executor or all the executors appointed by a will have renounced, or are persons to whom probate may not be granted; (c) no executor survives the testator; (d) all the executors die before obtaining probate or before having administered all the estate of the deceased; or (e) the executors appointed by any will do not appear and take out probate , letters of administration with the will annexed may be granted of the whole estate or so much thereof as may be unadministered to such person or persons as the court deems the fittest to administer the estate: Provided that, a prior right to such grant shall belong to the following persons in the following order: (i) a universal or residuary legatee; (ii) a personal representative of a deceased universal or residuary legatee; (iii) such person or persons, being beneficiaries under the will , as would have been entitled to a grant of letters of administration if the deceased had died intestate; (iv) a legatee having a beneficial interest; (v) a creditor of the deceased: and provided further that, a court shall not grant letters of administration with the will annexed in respect of a will by which an executor is appointed, if the executor — (i) is living and his whereabouts are known; (ii) is a person to whom probate may be granted; and (iii) has not renounced his office, unless and until a citation has been issued calling upon the executor to accept or renounce his office and the executor has renounced or has been deemed to have renounced his office in accordance with the provisions of sections 18 and 19 ."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Attorney of absent executor",
+      "content": "Where any executor is absent from Tanzania, and there is no other executor within Tanzania willing to act, letters of administration with the will annexed may be granted to a lawfully constituted attorney, ordinarily resident within Tanzania, of the absent executor , limited until the absent executor obtains probate for himself, and in the meantime to any purpose to which the attorney's authority is limited."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Attorney of person entitled to letters of administration",
+      "content": "Where any person, to whom letters of administration might be granted under section 29 , is absent from Tanzania, letters of administration with the will annexed may be granted to his lawfully constituted attorney ordinarily resident in Tanzania, limited in the manner provided in section 30 ."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Codicil propounded after letters of administration granted",
+      "content": "The provisions of section 26 shall apply in the case of a grant of letters of administration with the will annexed in like manner as they apply in the case of a grant of probate. D. Letters of administration on intestacy"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Letters of administration on intestacy",
+      "content": "(1) Where the deceased has died intestate, letters of administration of his estate may be granted to any person who, according to the rules for the distribution of the estate of an intestate applicable in the case of such deceased, would be entitled to the whole or any part of such deceased's estate. (2) Where more than one person applies for letters of administration, it shall be in the discretion of the court to make a grant to any one or more of them, and in the exercise of its discretion the court shall take into account greater and immediate interests in the deceased's estate in priority to lesser or more remote interests. (3) Where no such person applies, letters of administration may be granted to a creditor of the deceased. (4) Where it appears to the court to be necessary or convenient to appoint some person to administer the estate or any part thereof other than the person who under ordinary circumstances would be entitled to a grant of administration, the court may, in its discretion, having regard to consanguinity, amount of interest, the safety of the estate and probability that it will be properly administered, appoint such person as it thinks fit to be administrator ; and in every such case letters of administration may be limited or not as the court thinks fit."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Attorney of person entitled to administration",
+      "content": "Where a person entitled to letters of administration in the case of an intestacy is absent from Tanzania and no person equally entitled is willing to act, letters of administration may be granted to a lawfully constituted attorney, ordinary resident in Tanzania, of such person, limited until such person obtains letters of administration himself and in the meantime to any purpose to which the attorney's authority is limited. E. Letters of administration for special purposes"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Until will produced",
+      "content": "When no will of the deceased is forthcoming, but there is reason to believe that there is a will in existence, letters of administration may be granted, limited until the will or an authenticated copy thereof is produced."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "During minority",
+      "content": "(1) Where a minor would, but for his minority, be entitled to probate or letters of administration, letters administration with or without the will annexed may, subject to the provision of section 22(1) , be granted to the guardian of the person and property of the minor, or to such person as the court thinks fit, limited until the minor comes of age and obtains a grant to himself. (2) Where there are two or more minor executors or persons so entitled, any grant made under subsection (1) of this section shall be limited until one or other of them shall obtain a grant."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "During unsoundness of mind",
+      "content": "Where a person of unsound mind would, but for his unsoundness of mind, be entitled to probate or letters of administration, with or without the will annexed may be granted to the person to whom the care of his estate has been committed by a competent authority, or to such person as to the court seems fit, for the use and benefit of the person of unsound mind, limited until he becomes of sound mind and obtains a grant to himself."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part V",
+      "section": "38",
+      "title": "Pendente lite",
+      "content": "Pending the determination of any proceedings touching the validity of the will of a deceased person or for obtaining or revoking any probate or any grant of letters of administration, the court may appoint an administrator of the estate of such deceased person, who shall have all the rights and powers of a general administrator other than the right of distributing such estate, and every such administrator shall be subject to the immediate control of the court and shall act under its direction."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part V",
+      "section": "39",
+      "title": "Collection and preservation of property",
+      "content": "In any case in which it appears necessary for preserving the property of a deceased person, the court may grant, to any person whom it thinks fit, letters of administration limited to the collection and preservation of the property of the deceased, and giving discharges for debts due to his estate and to such other acts (other than the distribution of estates as the court shall think fit) subject to the directions of the court . [Act No. 9 of 1963 s. 7]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part V",
+      "section": "40",
+      "title": "Suits",
+      "content": "(1) When it is necessary that the representative of a deceased person be made a party to a pending suit, and the executor or person entitled to letters of administration is unable or unwilling to act, letters of administration may be granted to the nominee of a party in such suit, limited for the purpose of representing the deceased in the said suit, or in any other suit which may be commenced in the same or in any other court between the parties, or any other parties, touching the matters at issue in the said suit, and until a final decree shall be made therein and carried into complete execution. (2) Where, at the expiration of twelve months from the date of any probate or letters of administration, the executor or administrator to whom the same has or have been granted is absent from Tanzania, the court may grant to any person whom it thinks fit letters of administration limited to the purpose of becoming and being made a party to a suit to be brought against the executor or administrator , and carrying the decree which may be made therein into effect."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part V",
+      "section": "41",
+      "title": "Trust property",
+      "content": "Where a person dies, leaving property of which he was the sole or surviving trustee , or in which he had no beneficial interest on his own account, and leaves no general representative, or one who is unable or unwilling to act as such, letters of administration, limited to such property, may be granted to the beneficiary, or to some other person on his behalf. F. Grants with exception"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part V",
+      "section": "42",
+      "title": "Grants with exception",
+      "content": "Whenever the nature of the case requires that an exception be made, probate or letters of administration with or without the will annexed shall be granted subject to such exception."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part V",
+      "section": "43",
+      "title": "Grants of excepted part",
+      "content": "Whenever a grant with exception of probate or letters of administration with or without the will annexed has been made, further grant may be made of the part of the estate so excepted. G. Effect of grant of letters of administration"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part V",
+      "section": "44",
+      "title": "Effect of grant of letters of administration",
+      "content": "Subject to all such limitation and exceptions contained therein and, where the grant is made for a special purpose, for that purpose only, letters of administration entitle the administrator to all rights belonging to the deceased as if the administration had been granted at the moment after his death: Provided that, letters of administration shall not render valid any intermediate acts of the administrator tending to the diminution or damage of an intestate’s estate. H. Death of executors and administrators and effluxion of time of limited grants"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part V",
+      "section": "45",
+      "title": "Death of one of several personal representatives",
+      "content": "Where probate or letters of administration have been granted to more than one executor or administrator and one of them dies, the representation of the estate administered shall, in the absence of any direction in the will or grant accrue to the surviving executor or executors or administrator or administrators."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part V",
+      "section": "46",
+      "title": "Death of sole or surviving personal representative",
+      "content": "On the death of a sole or sole surviving executor who has proved the will or of a sole or sole surviving administrator , letters of administration may be granted in respect of that part of the estate not fully administered, and in granting such letters of administration the court shall apply the same provisions as apply to original grants: Provided that, where one or more executors have proved the will or letters of administration with the will annexed have been issued, the court may grant letters of administration under this section without citing an executor who has not proved the will ."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part V",
+      "section": "47",
+      "title": "Effluxion of time of limited grants",
+      "content": "When a limited grant has expired by effluxion of time, or the happening of the limited event or contingency on which it was and there is still some part of the deceased’s estate unadministered, letters of administration shall be granted to those persons to whom original grants might have been made. Part VI – Revocation and alteration of grants and removal of executors and administrators"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VI",
+      "section": "48",
+      "title": "Rectification of errors",
+      "content": "Errors in names and descriptions, or in setting forth the time and place of the deceased's death, or the purpose in a limited grant, may be rectified by the court , and the grant of probate or letters of administration may be altered and amended accordingly."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VI",
+      "section": "49",
+      "title": "Revocation of grants and removal of executors",
+      "content": "(1) The grant of probate and letters of administration may be revoked or annulled for any of the following reasons: (a) that the proceedings to obtain the grant were defective in substance; (b) that the grant was obtained fraudulently by making a false suggestion, or by concealing from the court something material to the case; (c) that the grant was obtained by means of an untrue allegation of a fact essential in point of law to justify the grant, though such allegation was made in ignorance or inadvertently; (d) that the grant has become useless and inoperative; (e) that the person to whom the grant was made has wilfully and without reasonable cause omitted to exhibit an inventory or account in accordance with the provisions of Part XI or has exhibited under that Part an inventory or account which is untrue in a material respect. (2) Where it is satisfied that the due and proper administration of the estate and the interests of the persons beneficially entitled thereto so require, the High Court may suspend or remove an executor or administrator other than the Administrator-General or the Public Trustee and provide for the succession of another person to the office of such executor or administrator who may cease to hold office, and for the vesting in such person of any property belonging to the estate. (3) The executor or administrator of estates removed or suspended by the court under subsection (2) shall, within one month from the date of his removal or suspension, file an inventory or as the case may be, accounts of the assets which have come into his hands and the manner in which they have been applied or disposed of. [ Act No. 11 of 2023 s. 76]"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VI",
+      "section": "50",
+      "title": "Payments by or to representatives whose grants are revoked",
+      "content": "(1) Where any probate is, or letters of administration, revoked, all payments bona fide made to any executor or administrator under such probate or are administration before the revocation thereof shall, notwithstanding such revocation, be a legal discharge to the person making the same. (2) The executor or administrator who shall have acted under any such revoked probate or administration may retain and reimburse himself out of the assets of the deceased in respect of any payments made by him which the person to whom probate or letters of administration shall be afterwards granted might have lawfully made."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VI",
+      "section": "51",
+      "title": "Surrender of revoked grants",
+      "content": "(1) When a grant of probate or letters of administration is revoked under this Act, the person to whom the grant was made shall forthwith deliver up the probate or letters to the court which made the grant. (2) Where such person wilfully and without sufficient cause omits so to deliver up the probate or letters, he commits an offence and on conviction shall be liable to a fine not exceeding two thousand shillings or to imprisonment for a term not exceeding three months, or to both. Part VII – Practice and procedure in gaining probate and letters of Administration other than of small estates"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VII",
+      "section": "52",
+      "title": "Procedure in Court",
+      "content": "Except as hereinafter provided, and subject to any Probate Rules made in that behalf— (a) the proceedings of the court relating to the grant of probate and letters of administration shall be regulated, so far as the circumstances of the case admit, by the Civil Procedure Code, or any enactment replacing the same; and [Cap. 33] (b) in any case in which there is contention , the proceedings shall take, as nearly as may be the form of a suit in which the petitioner for the grant shall be plaintiff and any person who appears to oppose the proceedings shall be defendant."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VII",
+      "section": "53",
+      "title": "Application to High Court or District Delegate",
+      "content": "(1) An application for probate or letters of administration may be made to the High Court or to the District Delegate appointed for the area in which the deceased at the time of his death had his fixed place of abode. (2) An application for probate or letters of administration to a District Delegate , if made and verified in the manner hereinafter provided, shall be conclusive for the purpose of authorising the grant of probate or letters of administration, and such grant shall not be impeached by reason that the deceased had no fixed place of abode within the area for which the Delegate is appointed unless by a proceeding to revoke the grant if obtained by a fraud upon the court ."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VII",
+      "section": "54",
+      "title": "District Delegate to stay proceedings and report to High Court in certain cases",
+      "content": "(1) Where an application for probate or letters of administration is made to a District Delegate and either— (a) the application is made in respect of an estate the gross value of which exceeds fifteen thousand shillings, and is opposed; or (b) it otherwise appears to the District Delegate that probate or letters of administration ought not to be granted by him, the District Delegate shall stay the proceedings and report the matter to the High Court. (2) Upon the receipt of any such report, the High Court may authorise the District Delegate to proceed in the matter of the application according to such instructions as to the High Court may seem necessary, or may forbid any further proceeding by the District Delegate in relation to the matter of such application, leaving the party applying for the grant in question to make application to the High Court. (3) Where the High Court forbids any further proceeding by the District Delegate , the application, with any documents that may have been filed, shall be returned to the person by whom the application was made, in order that the same may be presented to the High Court, unless the District Delegate thinks it necessary for the purposes of justice to impound the same, which he is hereby authorised to do; and in that case the same shall be sent by him to the High Court."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VII",
+      "section": "55",
+      "title": "Petition for probate and letters of administration annexed with will",
+      "content": "(1) An application for probate or for letters of administration shall be made by a petition with the will , or, in the cases mentioned in section 25 , a copy, draft or statement of the contents thereof annexed with the will stating— (a) the date and place of the will testators death; (b) that the writing annexed is his last will and testament, or as the case may be; (c) the amount and nature of assets which are likely to come to the petitioner’s hands; (d) the names and addresses, so far as they are known, of all the executors named in the will , and, where the application is for probate , that the petitioner is an executor so named; and (e) whether any proceedings for the grant of probate or letters of administration, or otherwise for the administration of the estate have been commenced before any other court of authority, whether inside Tanzania or outside it. (2) In addition to these particulars, the petition shall further state, when the application is to a District Delegate , that the deceased at the time of his death had a fixed place of abode within the jurisdiction of such Delegate. (3) In cases where the will , copy, draft or statement of the contents thereof, is written in any language other than English, a translation thereof, shall be annexed to the petition by a person competent to translate the same, and such translation shall be verified by that person."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VII",
+      "section": "56",
+      "title": "Petition for letters of administration",
+      "content": "(1) An application for letters of administration shall be made by petition, stating— (a) the date and place of the deceased's death; (b) the family or other relatives of the deceased, and their respective residences; (c) the right in which the petitioner claims; (d) the amount and nature of assets which are likely to come to the petitioner's hands; (e) that diligent search has been made, and no valid will has been discovered; and (f) whether any proceedings for the grant of letters of administration, or otherwise for the administration of the estate, have been commenced before any other court or authority, whether within Tanzania or outside it. (2) In addition to these particulars, the petition shall further state, when the application is to a District Delegate , that the deceased at the time of his death had a fixed place of abode within the jurisdiction of such Delegate."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VII",
+      "section": "57",
+      "title": "Verification of petition",
+      "content": "(1) The petition for probate or letters of administration shall in all cases be signed by the petitioner and his advocate, if any, and shall be verified by the petitioner. (2) Where the application is for probate , or for letters of administration with the will annexed, the petition shall also be verified by at least one of the witnesses to the will : Provided that, the court may dispense with verification by a witness when it is satisfied that it cannot be obtained or that it cannot be obtained without undue delay or expense. (3) Where any petition or declaration which is hereby required to be verified contains any averment which the person making the verification knows or believes to be false or does not believe to be true, such person commits an offence and on conviction, shall be liable to imprisonment for a term not exceeding seven years."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part VII",
+      "section": "58",
+      "title": "Caveats against grant of probate or administration",
+      "content": "(1) A person having or asserting an interest in the estate of the deceased may enter a caveat against the probate grant or letters of administration. (2) A caveat may be entered with the High Court or, where the deceased at the time of his death had his fixed place of abode within an area for which a District Delegate has been appointed or application for probate or letters of administration has been made to a District Delegate , with that District Delegate . (3) Immediately on a caveat being entered with a District Delegate he shall send a copy thereof to the High Court. (4) Where a caveat lodged with the High Court discloses that the deceased at the time of his death, has his fixed place of abode within an area for which a District Delegate is appointed, the Registrar shall send a copy thereof to that District Delegate . (5) A caveat shall remain in force for four months after the date upon which it was lodged, unless sooner withdrawn but, subject to the provisions of section 59 , may be renewed."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part VII",
+      "section": "59",
+      "title": "Proceedings subsequent to caveat",
+      "content": "(1) Save as provided in this section, no proceedings shall be taken on a petition for probate or letters of administration after a caveat against grant or a copy thereof has been entered with a court to whom application has been made so long as the caveat remains in force. (2) Where a caveat has been entered, any person who petitions for a grant of probate or letters of administration shall apply for the issue of a citation to the caveat or calling upon him to state, within such time as may be specified therein, whether he supports the grant of probate or letters of administration to the petitioner and, if he does not, requiring him to enter an appearance to the petition. (3) Where a caveator enters an appearance, the court shall proceed with the petition in accordance with section 52(b) . (4) Where a caveator gives notice that he supports the petition, or where he fails to give notice to that effect and fails to enter an appearance to the petition within the time limited therefor, the caveat shall be deemed to have been withdrawn and no further caveat may be entered by or on behalf of the caveator."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VII",
+      "section": "60",
+      "title": "Order to produce testamentary papers",
+      "content": "(1) The court may order any person to produce and bring into court any paper or writing being or purporting to be testamentary, which may be shown to be in the possession or under the control of such person. (2) Where it be not shown that any such paper or writing is in the possession or under the control of such person, but there is reason to believe that he has other knowledge of any such paper or writing or of an oral will , the court may direct him to attend for the purpose of being examined respecting the same, and such person shall be bound to answer such questions as may be put to him by the court and, if so ordered, to bring in any such paper or writing in his possession or under his control."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VII",
+      "section": "61",
+      "title": "Court may examine petitioner, require further evidence and issue citations",
+      "content": "(1) In all cases it shall be lawful for the court , if it thinks fit— (a) to examine the petitioner in person upon oath; (b) to require further evidence of the death of the deceased and of the due execution of the will , or the right of the petitioner to the letters of administration, as the case may be; and (c) to issue citations calling upon all or any persons claiming to have any interest in the estate of the deceased to come and see the proceedings before the grant of probate or letters of administration. (2) The citation shall be exhibited in some conspicuous part of the court -house, and otherwise published or made known in such manner as Probate Rules may require or as the court issuing the same may direct."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part VII",
+      "section": "62",
+      "title": "Time before which grant not to be made",
+      "content": "Probate of a will shall not be granted until after the expiration of seven clear days, and no letters of administration shall be granted until after the expiration of fourteen clear days, from the day of the testators or intestates death."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part VII",
+      "section": "63",
+      "title": "Grant of probate and administration",
+      "content": "Whenever it appears to the court that probate of a will or letters of administration should be granted, such probate or administration shall be granted under the seal of the court ."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part VII",
+      "section": "64",
+      "title": "Refusal of letters of administration",
+      "content": "Notwithstanding anything in the preceding sections, it shall be in the discretion of the court to make an order refusing, for reasons to be recorded by it in writing, to grant any application for letters of administration made under this Act."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part VII",
+      "section": "65",
+      "title": "Directions to executor or administrator",
+      "content": "The court may give to an executor or administrator any general or special directions in regard to the estate or in regard to the administration thereof."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part VII",
+      "section": "66",
+      "title": "Oath",
+      "content": "Upon the grant of any probate or letters of administration the grantee shall take an oath faithfully to administer the estate and to account for the same: Provided that, this section shall not apply where the grantee is the Public Trustee or the Administrator-General."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part VII",
+      "section": "67",
+      "title": "Administration bond",
+      "content": "Every person to whom letters of administration are granted and, if the court so directs, any person to whom probate is granted shall give a bond with one or more surety or sureties, engaging for the due collection, getting in, and administering the estate of the deceased: Provided that, the court may, for good reasons, dispense with a bond or sureties, or both, in any particular case."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part VII",
+      "section": "68",
+      "title": "Assignment of administration bond",
+      "content": "The court may, on application made by petition and on being satisfied that the engagement of any such bond has not been kept, and upon such terms as to security, or providing that the money received be paid into court , or otherwise as the court may think fit, assign the same to some proper person, who shall thereupon be entitled to sue on the said bond in his own name as if the same had been originally given to him instead of to the court , and shall be entitled to recover thereon, as trustee for all persons interested, the full amount recoverable in respect of any breach thereof."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part VII",
+      "section": "69",
+      "title": "Deposit of original wills",
+      "content": "All original wills of which probate and letters of administration with the will annexed have been granted by a court shall be deposited and preserved in the Registry of the High Court, and any wills so deposited and copies of all grants of probate and letters of administration shall, subject to the control of the High Court and the provisions of Probate Rules , be open to inspection."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part VII",
+      "section": "70",
+      "title": "Conclusiveness of probate and letters of administration",
+      "content": "Probate and letters of administration shall— (a) have effect over all the property, movable and immovable, of the deceased throughout Tanzania; (b) be conclusive as to the representative title against all debtors of the deceased, and all persons holding property which belongs to him; and (c) afford full indemnity to all debtors paying their debts, and all persons delivering up such property to the person to whom such probate or letters of administration shall have been granted."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part VII",
+      "section": "71",
+      "title": "Grantee alone to act as representative",
+      "content": "After any grant of probate or letters of administration, no person other than the person to whom the same shall have been granted shall have power to sue or prosecute any suit, or otherwise act as representative of the deceased, until such probate or letters of administration shall have been revoked or annulled."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part VII",
+      "section": "72",
+      "title": "Appeals and revision",
+      "content": "(1) An appeal shall lie from an order granting or refusing probate or letters of administration made in contentious cases as if such order were a decree, and from any other order made in such cases if an appeal would lie there from in a suit according to the provisions of the Civil Procedure Code or any enactment replacing the same. [Cap. 33] (2) The provisions the of the Civil Procedure Code, shall apply, mutatis mutandis , in respect of proceedings before a District Delegate under this Act. [Cap. 33] Part VIII A – Practice and procedure in appointing, and revoking the appointment of, administration of small estates"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part VIII",
+      "section": "73",
+      "title": "Application of Part VIII",
+      "content": "(1) This Part shall apply when application is made to a district court presided over by a District Magistrate for the appointment of an administrator of a small estate , or when a direction is given, under Part IX , that this Part shall apply to any particular small estate. (2) Except as may be provided in this Part, where this Part applies, the provisions of Parts IV , V , VI and VII , other than the provisions of sections 52(b) , 60 , 61 , 62 , 65 , 70 and 71 shall not apply. (3) Where this Part applies a district court may exercise the powers conferred on a court under those provisions of Part VII which apply."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part VIII",
+      "section": "74",
+      "title": "Selection of administrator",
+      "content": "A district court may appoint as administrator one or more persons interested in the estate or in the due administration thereof and, in selecting an administrator , shall, unless for any reason it considers inexpedient so to do, have regard to any wishes which may have been expressed by the deceased."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part VIII",
+      "section": "75",
+      "title": "Administrator General's administration and appointment of officer of court or impartial person",
+      "content": "(1) Where a district court is of the opinion that, having regard to the safety of the estate and the proper administration thereof, it is desirable that the estate should be administered by the Administrator-General or an officer of the district court or some reputable and impartial person able and willing to administer the estate it may adjourn an application for an appointment in order that it may be ascertained whether the Administrator-General will undertake the administration of the estate under section 52 of the Administrator-General (Powers and Functions) Act or may appoint an officer of the district court or some such person aforesaid as administrator . [Cap. 27] (2) An appointment of an administrator under this Part shall not be made if there has been a previous grant of probate of the will of the deceased or letters of administration of his estate, or if the Administrator-General has himself lawfully undertaken the Administration of the estate. [Act No 9 of 1963 s. 8 ]"
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part VIII",
+      "section": "76",
+      "title": "Appointments to be under seal",
+      "content": "(1) An appointment of an administrator of a small estate shall be made under the seal of the district court . (2) Every administrator shall sign an undertaking to administer the estate faithfully."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part VIII",
+      "section": "77",
+      "title": "Security for due administration",
+      "content": "A district court may, if it thinks fit, require an administrator of a small estate to give security for the due administration of the estate."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part VIII",
+      "section": "78",
+      "title": "Wills",
+      "content": "(1) A district court may allow a will to be proved either by oral evidence or by affidavit, and may accept as proof of a will information which appears to the court to be credible though it is not legal evidence. (2) A copy of any written will or, in the case of an oral will , as statement of the contents thereof of the deceased shall be annexed to the appointment of the administrator . (3) The original will shall be deposited and preserved in the Registry of the High Court, and the provisions of section 69 shall apply, mutatis mutandis , to such wills and to copies of appointments made under this Part."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part VIII",
+      "section": "79",
+      "title": "Appointment may be for whole estate or specified assets",
+      "content": "An appointment of an administrator under this Part may authorise the administration of either the whole estate or of the assets specified in the appointment, and shall be effective throughout Tanzania."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part VIII",
+      "section": "80",
+      "title": "Effect of appointment",
+      "content": "(1) The appointment of an administrator under this Part shall operate to vest the assets to which the appointment relates in the administrator as such, who shall, as respects those assets, have the same powers and be subject to the same liabilities as if appropriate letters of administration of the estate had been granted to him. (2) An administrator appointed under this Part shall not, unless the district court which appointed him otherwise orders, be liable to file any inventory or accounts or to give security. (3) Where an administrator is required to file an inventory or account, the provisions of section 103 shall apply as if the district court had granted letters of administration to the administrator."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part VIII",
+      "section": "81",
+      "title": "Unclaimed assets",
+      "content": "An administrator appointed under this Part who has in his hands any assets to which no person substantiates a lawful claim within one year from the death of the deceased shall forthwith inform the Administrator-General and, if so required by the Administrator-General, shall transfer those assets to the Administrator-General, and those assets shall then be subject to the provisions of sections 48 and 49 of the Administrator-General (Powers and Functions) Act. [Cap. 27]"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part VIII",
+      "section": "82",
+      "title": "Revocation of appointment",
+      "content": "The appointment of any administrator may be revoked by the district court which made the appointment for any reason which would justify the revocation of probate or letters of administration or the removal of an executor , and with like consequences."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part VIII",
+      "section": "83",
+      "title": "Appeals to High Court",
+      "content": "(1) Subject to the Probate Rules , every appointment, direction, or decision of a district court under this Part shall be subject to appeal to the High Court. (2) Probate Rules may restrict and regulate such right of appeal to any extent and in any manner."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part VIII",
+      "section": "84",
+      "title": "District courts to make returns to High Court",
+      "content": "Every district court shall make such returns to the High Court as may be prescribed by Probate Rules of all its proceedings under this Part."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part VIII",
+      "section": "85",
+      "title": "Restriction on grant of probate or letters of administration of small estates",
+      "content": "(1) Where an administrator of a small estate has been appointed under this Part, a grant of probate of the will of the deceased or of letters of administration of his estate shall not be made— (a) by a District Delegate , unless and until the appointment of an administrator is revoked by the district court which made the appointment; or (b) by the High Court unless it considers the grant is necessary in the interests of justice or for the protection of any beneficiary or creditor. (2) A grant by the High Court of probate of the will of the deceased or of letters of administration of his estate shall operate to revoke any appointment of an administrator under this Part and such revocation shall have the same effect as does the revocation of letters of administration. (3) Except as provided in this section and in section 86 , nothing in this Part shall affect any jurisdiction to grant or revoke probate of the will of the deceased or letters of administration of his estate."
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part VIII",
+      "section": "86",
+      "title": "Validity of appointments in respect of estates exceeding ten thousand shillings",
+      "content": "(1) An appointment of an administrator under this Part shall not be invalid by reason only that it is afterwards discovered that the value of the gross estate of the deceased exceeded ten thousand shillings, but, where it becomes aware of such case, the district court shall report the matter to the High Court which may, if it thinks fit, grant probate or letters of administration. (2) Where the High Court grants probate or letters of administration under this section, the provisions of section 85(2) shall apply."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part VIII",
+      "section": "87",
+      "title": "Administration of estates under one thousand shillings",
+      "content": "(1) Where the gross value of an estate is less than one thousand shillings it shall not be necessary for an administrator to be appointed and such an estate may be administered by the surviving spouse of the deceased or, if there is no surviving spouse, the nearest relative of the deceased who is available to act, who shall for that purpose be deemed to have been appointed administrator of the estate: Provided that, where this Act is applied under the provisions of Part IX , the person who may administer such an estate shall be the nearest male relative of such deceased: Provided further that, the Minister may if he thinks fit, by order in the Gazette , increase the amount which may be administered under the provisions of this section. (2) A district court presided over by a District magistrate may as respects any such estate within its jurisdiction, prohibit, restrict or regulate the exercise of the power conferred by this section and may substitute any other person for the surviving spouse or nearest relative, as the case may be, as the person who is to administer the estate where, in the opinion of the court , such substitution is necessary to conform with the practice or custom recognised as applicable to the case by the parties concerned or is desirable on other grounds. B – Administration of small estate"
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part VIII",
+      "section": "88",
+      "title": "Law applicable to member of specific tribe estates",
+      "content": "(1) The estate of every deceased person by virtue of which an order or direction under Part IX applies shall be administered according to the following provisions— (a) the estate of a member of a tribe shall be administered according to the law of that tribe unless the deceased at any time professed Islam religion and the court exercising jurisdiction over his estate is satisfied from the written or oral declarations of the deceased or his acts or manner of life that the deceased intended his estate to be administered, either wholly or in part, according to Islamic law, in which case the estate shall be administered, either wholly or in part as the case may be, according to that law; [R.L. Cap. 30 Ords. Nos. 33 of 1947 s. 5; 35 of 1961 Second s.; Cap. 77s. 3] [R.L. Cap. 30 ss. 19, 20, 21] (b) the estate of a Swahili shall be administered according to Islamic law unless the court exercising jurisdiction over his estate is satisfied from the written or oral declarations of the deceased or his acts or manner of life that he intended his estate to be administered, either wholly or in part, according to any customary law, in which case the estate shall be administered, either wholly or in part, as the case may be according to that customary law. (2) Where at any time any person to whose estate this Act applies by virtue of an order, or direction under Part IX thereof professed the Christian religion, and the court exercising jurisdiction over his estate is satisfied in the manner aforesaid that the deceased intended his estate to be administered, either wholly or in part, according to the law applicable in Tanzania to the administration of the estates of persons professing the Christian religion then his estate shall be administered, either wholly or in part, as the case may be, according to that law. (3) The President may, if he thinks fit, by Order published in the Gazette , declare what is, for the purpose of this Act, the law of any tribe, either generally or on any particular point. (4) Notwithstanding any customary or Islamic law to the contrary— (a) every creditor shall have the same rights and remedies against a deceased estate, including the right to follow assets; and (b) a person shall not be deprived of a right to succession to property by reason of that person having renounced or having been excluded from the communion of any religion."
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part VIII",
+      "section": "89",
+      "title": "Wills of members of tribe",
+      "content": "(1) In the administration of the estate of a deceased person by virtue of an order or direction under Part IX of this Act, any testamentary disposition purporting to dispose of any part of that estate shall be recognised as a valid will, if it complies with the following requirements— (a) where the estates is to be administered according to customary law if either— (i) the disposition is recognised as valid by such customary law; or (ii) the disposition is valid in accordance with the provisions of an order of the Minister , whereby it is declared any testamentary disposition, made by the deceased or by any member of a class of persons which includes the deceased and made in accordance with the provisions of the Indian Succession Act, 1865, relating to wills, and shall to the extent and subject to the limitations specified in the order be recognised as valid; (b) where the estate is to be administered according to the law applicable to the estates of persons professing the Christian religion, if the disposition is made in accordance with the provisions of the Indian Succession Act, 1865, relating to wills; and (c) where the estate is to be administered according to Islamic law, if the disposition is recognised as valid by that law. (2) A testamentary disposition to which this section applies shall not be acted on until it has been declared to be a valid will by the court exercising jurisdiction over the estate. (3) The original of any testamentary disposition declared to be a valid will under the provisions of this section shall, if in writing, be preserved by the court ; in such manner as may be prescribed by rules of court , and a copy of the will shall be given to the administrator of the estate. (4) Where any oral testamentary disposition is declared to be a valid will under the provisions of this section, such disposition shall be reduced to writing by the court , and one copy thereof shall be preserved in the manner aforesaid, and another copy shall be given to the administrator of the estate."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part VIII",
+      "section": "90",
+      "title": "Omitted",
+      "content": "[Law applicable to estate of Somalis.] [Cap. 277s. 5; Ord No. 35 of 1961 Second Sch]"
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part VIII",
+      "section": "91",
+      "title": "Omitted",
+      "content": "[Ords. Nos 33 of 1947 s. 5; 35 - of 1961 Second Sch] [References to Cap. 16 of the Revised Edition, 1928, in other Ordinances.] Part IX – Estates administered in accordance with customary law, custom and Islamic law"
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part IX",
+      "section": "92",
+      "title": "Cases in which Act applies to estates administered in accordance with customary law and custom",
+      "content": "(1) The provisions of this Act shall not apply to the administration of any estates for the administration of which a primary court has jurisdiction unless— (a) the Minister , by order published in the Gazette , directs that they shall apply to any specified class of such estates, or to such estates in any particular area, or to a specified class of such estates in a particular area; [Acts Nos. 55 of 1963 s. ; 9 of 1965 s. 2] [R.L. Cap. 29] (b) the High Court, either of its own motion, or upon the application of a district court , or where the estate is not a small estate , of an interested party, directs that they shall apply in any particular case; or (c) a district court presided over by a district magistrate of its own motion or upon the application of an interested party, directs that Part VIII shall apply to any particular small estate, and in any such case the provisions of this Act shall apply to the extent and in the manner in this Part specified: Provided that, a district court shall not give any direction under paragraph (c) of this subsection where an order for the administration of an estate has been made by, or proceedings in respect of inheritance have been commenced in primary court, unless the proceedings have been transferred to such district court under section 47 of the Magistrate's Courts Act. [Cap. 11] (2) Where the High Court directs that this Act shall apply, it may itself exercise its original jurisdiction in respect of that estate, or order that a District Delegate shall exercise jurisdiction, and in either of such cases the provisions of this Act other than Part VIII , shall apply, or may, where the estate is a small estate, direct that a district court presided over by a district magistrate shall exercise jurisdiction, in which case the provisions of this Act other than Parts IV , V and VI and sections 51(1) , 53 to 59 (inclusive), 63 , 64 , 66 to 69 (inclusive) and 72 , shall apply. (3) [Repealed by Act No. 55 of 1963 : R.L. Cap. 537.]"
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part IX",
+      "section": "93",
+      "title": "Effect of directions of High Court on orders made by primary courts",
+      "content": "(1) Where an order for the administration of an estate has been made by, or proceedings in respect of inheritance have been commenced in a primary court , the High Court shall not give any directions under section 88(1)(b) unless it considers that it is necessary in the interests of justice or for the protection of a beneficiary or creditor that the estate should be administered under this Act. (2) Where the High Court gives any directions in any such circumstances as aforesaid, it shall forthwith communicate them to the primary court by which the order for administration was made or in which the proceedings have been commenced, as the case may be, and the primary court shall revoke the order for administration, or stay the proceedings until a grant has been appointed under this Act. (3) Where an order for administration has been revoked by a primary court under this section, all payments bona fide made to a person lawfully acting under any such order shall, notwithstanding the revocation thereof, be a legal discharge to the person making the same, and a person lawfully acting under such order shall be entitled to exercise such powers of retention and re-imbursement as if he were an administrator whose letters of administration are revoked under Part VI . Part X – Re-sealing of probates and letters of administration"
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part X",
+      "section": "94",
+      "title": "Interpretation",
+      "content": "In this Part and in section 4 — “ court of probate ” means any court or authority, by whatever name designated, having jurisdiction in matters of probate ; “ probate ” and “letters of administration” include confirmation and any instrument having in any other part of the Commonwealth the same effect which under this Act is given to probate and letters of administration respectively."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part X",
+      "section": "95",
+      "title": "Sealing of probates and letters of administration granted outside Tanzania",
+      "content": "Where a court of probate in any part of the Commonwealth, has, either before or after the passing of this Act, granted probate or letters of administration in respect of the estate of a deceased person, the probate or letters so granted may, on being produced to, and a copy thereof deposited with the High Court, be sealed with the seal of that court , and thereupon shall be of the like force and effect, and have the same operation in Tanzania as if granted by that court ."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part X",
+      "section": "96",
+      "title": "Conditions to be fulfilled before sealing",
+      "content": "The High Court shall, before sealing a probate or letters of administration under this Part, be satisfied in the case of letters of administration, that security has been given in a sum sufficient in amount to cover the property, if any, in Tanzania to which the letters of administration relate, and may, in any case, require such evidence as it thinks fit, as to the domicile of the deceased person."
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part X",
+      "section": "97",
+      "title": "Security",
+      "content": "The High Court may, if it thinks fit, on the application of any creditor, require, before sealing, that adequate security be given for the payment of debts due from the estate to creditor residing in Tanzania."
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part X",
+      "section": "98",
+      "title": "Duplicates and copies",
+      "content": "For the purposes of this Act, a duplicate of any probate or letters of administration sealed with the seal of the court granting the same, or a copy thereof certified as correct by or under the authority of the court granting the same, shall have the same effect as the original. Part XI – Powers and duties of executors and administrators"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part XI",
+      "section": "99",
+      "title": "Character and property of executor or administrator as such",
+      "content": "The executor or administrator , as the case may be, of a deceased person is his legal representative for all purposes, and all the property of the deceased person vests in him as such: Provided that nothing in this section contained shall operate so as to vest in an executor or administrator any property— (a) of a deceased person which would otherwise pass by survivorship to some other person; or (b) vested in a corporation sole as such."
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part XI",
+      "section": "100",
+      "title": "Powers in respect of causes of action and debts",
+      "content": "An executor or administrator has the same power to sue in respect of all causes of action that survive the deceased, and may exercise the same powers for the recovery of debts due to him at the time of his death, as the deceased had when living."
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part XI",
+      "section": "101",
+      "title": "Power to dispose of property, etc",
+      "content": "An executor or administrator has, in respect of the property vested in him under section 99 , power to dispose of movable property, as he thinks fit, and the powers of sale, mortgage, leasing of and otherwise in relation to immovable property conferred by written law upon trustees of a trust for sale."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Part XI",
+      "section": "102",
+      "title": "Expenditure on care and management",
+      "content": "An executor or administrator may, in addition to any other powers of expenditure lawfully exercisable by him, incur expenditure— (a) on such acts as may be necessary for the proper care and management of any property belonging to the estate; and (b) with the sanction of the court , or of a district court having jurisdiction in the case, on such religious, charitable and other objects, and on such improvements, as may be reasonable and proper in the case of such property."
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Part XI",
+      "section": "103",
+      "title": "Executor or administrator not to derive benefit from office",
+      "content": "(1) Unless there is express provision to that effect in the will , an executor or administrator shall not derive any pecuniary benefit from his office. [Act No. 9 of 1963 s. 9] (2) where an executor or administrator purchases, either directly or indirectly, any part of the property of the deceased, the sale is voidable at the instance of any other person interested in the property sold or in the proceeds. (3) This section shall not apply to any fee prescribed by or under the law."
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Part XI",
+      "section": "104",
+      "title": "Powers of several executors or administrators exercisable by one",
+      "content": "When there are or administrators, the powers of all may, in executors the absence of any direction to the contrary in the will or grant of letters of administration, be exercised by any one of them who has proved the will or taken out administration."
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Part XI",
+      "section": "105",
+      "title": "Powers of special personal representatives",
+      "content": "For the avoidance of doubt it is hereby declared that— (a) the administrator of effects unadministered has, with respect to such effects, the same powers as the original executor or administrator ; and (b) an administrator to whom a grant has been made under section 36 during minority has all the powers of an ordinary executor or administrator."
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Part XI",
+      "section": "106",
+      "title": "Provision for funeral",
+      "content": "It is the duty of an executor to provide funds for the performance of the necessary funeral ceremonies of the deceased in a manner suitable to his condition, if he has left property sufficient for the purpose."
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Part XI",
+      "section": "107",
+      "title": "Inventory and accounts",
+      "content": "(1) An executor or administrator shall, within six months from the grant of probate or letters of administration, or within such further time as the court which granted the probate or letters may from time to time appoint or require, exhibit in that court an inventory containing a full and true estimate of all the property in possession, and all the credits, and also all the debts owing by any person to which the executor or administrator is entitled in that character, and shall in like manner, within one year from the grant or within such further time as the court may from time to time appoint, exhibit an account of the estate, showing the assets which have come to his hands and in the manner in which they have been applied or disposed of. [Acts Nos. 9 of 1963 s. 10; 1 of 2020 s. 44] (2) Where the administration is not completed within one year from the grant of probate or letters of administration, the executor or administrator shall at intervals of not more than six months, or within such further time as the court which granted the probate or letters of administration may from time to time appoint or require, and on the completion of the administration, exhibit in the like manner an account showing the assets which have come into his hands and the manner in which they have been applied or disposed of since the last account was exhibited. (3) Where an executor or administrator , on being required by the court to exhibit an inventory or account under this section, omits to comply with the requisition within the time limited in the requisition for compliance therewith, he commits an offence and on conviction, shall be liable to a fine not exceeding two million shillings or to imprisonment for a term not exceeding two years. (4) Where an executor or administrator exhibits an intentionally false inventory or account under this section he commits an offence and on conviction, shall be liable to imprisonment for a term not exceeding seven years. (5) A beneficiary under a will , person entitled to a share under an intestacy or unsatisfied creditor shall be entitled to inspect the inventory and accounts of an executor or administrator . (6) This section shall not apply to the Administrator-General unless the Court otherwise directs."
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Part XI",
+      "section": "108",
+      "title": "General duties of administration",
+      "content": "(1) The executor or administrator shall, with reasonable diligence, collect the property of the deceased and the debts that were due to him, pay the debts of the deceased and the debts and costs of administration, and distribute the estate to the persons or for the purposes entitled to the same or to trustees for such persons or for the purposes entitled to the same or to trustees for such persons or purposes or in accordance with the provisions of this Act. (2) Subject to the provisions of this Act, an executor or administrator is not bound to distribute the estate of the deceased before the expiration of one year from the death of the deceased."
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Part XI",
+      "section": "109",
+      "title": "Order of payment of debts",
+      "content": "(1) There shall be paid, in the following order, before all other debts— (a) first, funeral expenses to a reasonable amount, according to the degree and condition of the deceased, and death bed charges, including fees for medical attendance and board and lodging for one month previous to his death; (b) secondly, the expenses of obtaining probate or letters of administration, including the costs incurred for or in respect of any judicial proceedings that may be necessary for administering the estate; and (c) thirdly, wages due for services rendered to the deceased of any workman, labourer or domestic servant within four months next preceding his death. (2) After payment of the debts specified in subsection (1) , then there shall be paid any other debts of the deceased according to their respective priorities. (3) Subject to the foregoing provisions of this section, an executor or administrator shall pay all such debts as he knows of, equally and rateably, as far as the assets of the deceased extend."
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Part XI",
+      "section": "110",
+      "title": "Debts to be paid before legacies",
+      "content": "(1) Debts of every description must be paid before any legacy. (2) Where the estate of the deceased is subject to any contingent liabilities, an executor or administrator is not bound to pay any legacy without a sufficient indemnity to meet the liabilities whenever they may become due."
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Part XI",
+      "section": "111",
+      "title": "Abatement of general legacies and equality of legacies",
+      "content": "(1) Where the assets, after payment of debts, necessary expenses and specific legacies, are not sufficient to pay all the general legacies in full, the latter shall abate or be diminished in equal proportions. (2) In the absence of any direction to the contrary in the will , the executor has no right to pay one legatee in preference to another, nor to retain any money on account of a legacy to himself or to any person for whom he is a trustee . (3) For the purpose of abatement, a legacy for life, a sum appropriated by the will to produce an annuity; and the value of an annuity when no sum has been appropriate to produce it, shall be treated as general legacies."
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "Part XI",
+      "section": "112",
+      "title": "Abatement of specific legacies",
+      "content": "(1) Where there is a specific legacy , and the assets are sufficient for the payment of debts and necessary expenses, the thing specified must be delivered to the legatee without any abatement. (2) Where the assets are not sufficient to answer the debts and expenses and the specific legacies, an abatement shall be made from the specific legacies rateably in proportion to their respective amounts."
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "Part XI",
+      "section": "113",
+      "title": "Right to demonstrative legacy",
+      "content": "Where there is a demonstrative legacy , and the assets are sufficient for the payment of debts and necessary expenses, the legatee has a preferential claim for payment of his legacy out of the fund from which the legacy is directed to be paid until such fund is exhausted, and if, after the fund is exhausted, part of the legacy still remains unpaid, he is entitled to rank for the remainder against the general assets as for a legacy of the amount of such unpaid remainder. Part XII – Legacies and annuities"
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "Part XII",
+      "section": "114",
+      "title": "Assent necessary to complete legatee's title",
+      "content": "(1) The assent of the executor is necessary to complete legatee’s title to his legacy. (2) The assent of an executor to a legacy may be conditional, and if the condition be one which he has a right to enforce, and it is not performed, there is no assent."
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "Part XII",
+      "section": "115",
+      "title": "Assent to specific legacy",
+      "content": "(1) The assent of the executor to a specific bequest shall be sufficient to divest his interest as executor therein, and to transfer the subject of the bequest to the legatee, unless the nature or the circumstances of the property require that it shall be transferred in a particular way. (2) The assent may be verbal, and it may be either express or implied from the conduct of the executor ."
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "Part XII",
+      "section": "116",
+      "title": "Assent of executor to own legacy",
+      "content": "(1) When the executor is a legatee, his assent to his own legacy is necessary to complete his title to it, in the same way as it is required when the bequest is to another person, and his assent may in like manner be express or implied. (2) Assent shall be implied if in his manner of administering the property the executor does any act which is referable to his character of legatee and is not referable to his character of executor ."
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "Part XII",
+      "section": "117",
+      "title": "Effect of executor 's assent",
+      "content": "The assent of the executor to a legacy gives effect to it from the death of the testator."
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "Part XII",
+      "section": "118",
+      "title": "Commencement of annuities when no time fixed by will",
+      "content": "Where an annuity is given by the will , and no time is fixed for its commencement, it shall commence from the testator’s death, and the first payment shall be made at the expiration of a year next after that event: Provided that, an executor may make advances prior to the expiration of such year up to the amount which has accrued due at the date of any such advance."
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "Part XII",
+      "section": "119",
+      "title": "Payment of annuities when time fixed",
+      "content": "Where there is a direction that an annuity shall be paid quarterly or monthly, the first payment shall be due at the end of the first quarter or first month, as the case may be, after the testators death, and shall, if the executor thinks fit, be paid when due; but the executor shall not be bound to pay it until the end of the year."
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "Part XII",
+      "section": "120",
+      "title": "General provisions as to annuities",
+      "content": "(1) An annuity shall, in the absence of any provisions to the contrary in the will , accrue from day to day, and, if the annuitant dies in the interval between times of payment, an apportioned share of the annuity shall be paid to his representative. (2) Where there is a direction that the first payment of an annuity shall be made within one month or any other division of time from the death of the testator, or on a day certain, the successive payments are to be made on the anniversary of the earliest day on which the will authorises the first payment to be made."
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "Part XII",
+      "section": "121",
+      "title": "Investment in securities authorised by Probate Rules",
+      "content": "(1) Where a legacy, not being a specific legacy , is given for life, the sum bequeathed shall at the end of a year from the testators death be invested in such securities as Probate Rules may authorise or direct, and the proceeds thereof shall be paid to the legatee as the same shall accrue due. (2) Where a general legacy is given to be paid at a future time, the executor shall invest a sum sufficient to meet it in such securities as Probate Rules may authorise or direct, and the intermediate interest shall form part of the residue of the testators estate. (3) Where an annuity is given and no fund is charged with its payment or appropriated by the will to answer it, a sum sufficient to produce the annuity shall be invested for that purpose in such securities as Probate Rules may authorise or direct."
+    },
+    {
+      "provision_ref": "s122",
+      "chapter": "Part XII",
+      "section": "122",
+      "title": "Contingent bequests",
+      "content": "Where a bequest is contingent, the executor is not bound to invest the amount of the legacy, but may transfer the whole residue of the estate to the residuary legatee (if any) on his giving sufficient security for the payment of the legacy if it shall become due."
+    },
+    {
+      "provision_ref": "s123",
+      "chapter": "Part XII",
+      "section": "123",
+      "title": "Directions of testator as to investment",
+      "content": "(1) Where the testator has bequeathed the residue of his estate to a person for life with a direction that it shall be invested in certain specified securities, so much of the estate as is not at the time of his death invested in securities of the specified kind shall be converted into money and invested in such securities. (2) Such conversion and investment shall be made at such times and in such manner as the executor in his discretion thinks fit; and, until such conversion and investment shall be completed, the person who would be for the time being entitled to the income of the fund when so invested shall receive interest at the rate of four per centum per annum upon the market value (to be computed as of the date of the testators death) of such part of the fund as shall not yet have been so invested."
+    },
+    {
+      "provision_ref": "s124",
+      "chapter": "Part XII",
+      "section": "124",
+      "title": "Minors entitled to immediate payment or possession",
+      "content": "(1) Where, by the terms of a bequest, the legatee is entitled to the immediate payment or possession of the money or thing bequeathed, but is a minor and there is no direction in the will to pay it to any person on his behalf, the executor or administrator shall, unless the same is paid or transferred to the Public Trustee in accordance with the provisions of the Public Trustee (Powers and Functions) Act, pay or deliver the same into the court by which the probate was, or letters of administration with the will annexed were, granted, to the account of the legatee. [Cap. 31] (2) Such payment into the court shall be a sufficient discharge for the money so paid. (3) Such money, when paid into the court , shall be invested in the purchase of such securities as Probate Rules may authorise or direct, which, with the interest thereon, shall be transferred or paid to the person entitled thereto, or otherwise applied for his benefit, as the court may direct. (4) Where the legatee is an award of the High Court, payment shall be made to the High Court notwithstanding that the grant of probate or letters of administration was made by a District Delegate and notwithstanding the provisions of the Public Trustees (Powers and Functions) Act. [Cap. 31] (5) Where the estate is administered by an administrator appointed under Part VIII of this Act and the legacy is not paid or transferred to the Public Trustee, the administrator shall pay or transfer the same in accordance with the provisions of Probate Rules."
+    },
+    {
+      "provision_ref": "s125",
+      "chapter": "Part XII",
+      "section": "125",
+      "title": "Produce of legacies",
+      "content": "(1) The legatee of a specific legacy is entitled to the clear produce thereof, if any, from the testator's death: Provided that, a specific bequest contingent in its terms does not comprise the produce of the legacy between the death of the testator and the vesting of the legacy, the clear produce in such a case forms part of the residue of the testator's estate. (2) The legatee under a general residuary bequest is entitled to the produce of the residuary fund from the testator's death: Provided that, a general residuary bequest contingent in its terms does not comprise the income which may accrue upon the fund bequeathed between the death of the testator and the vesting of the legacy; such income goes as undisposed of."
+    },
+    {
+      "provision_ref": "s126",
+      "chapter": "Part XII",
+      "section": "126",
+      "title": "Interest on general legacies",
+      "content": "(1) Where no time has been fixed for the payment of a general legacy , interest begins to run from the expiration of one year from the testator’s death: Provided that, where— (a) the legacy is bequeathed in satisfaction of a debt, interest runs from the death of the testator; or (b) a sum is bequeathed to a minor with a direction to pay for his maintenance out of it, interest is payable from the death of the testator. (2) Where a time has been fixed for the payment of a general legacy , interest begins to run from the time so fixed. The interest up to such time forms part of the residue of the testator's estate. (3) The rate of interest shall be four per centum per annum."
+    },
+    {
+      "provision_ref": "s127",
+      "chapter": "Part XII",
+      "section": "127",
+      "title": "Interest on annuities",
+      "content": "(1) Interest is not payable on the arrears of an annuity within the first year from the death of the testator, although a period earlier than the expiration of that year may have been fixed by the will for making the first payment of the annuity. (2) Where a sum of money is directed to be invested to produce an annuity, interest at four per centum per annum is payable on it from the death of the testator."
+    },
+    {
+      "provision_ref": "s128",
+      "chapter": "Part XII",
+      "section": "128",
+      "title": "Residue to be paid to residuary legatee",
+      "content": "The surplus or residue of the deceased's property, after payment of debts and legacies, shall be paid to the residuary legatee when any has been appointed by the will ."
+    },
+    {
+      "provision_ref": "s129",
+      "chapter": "Part XII",
+      "section": "129",
+      "title": "Transfer of assets from Tanzania to executor or administrator in country of domicile",
+      "content": "Where a person not having his domicile in Tanzania has died leaving assets both in Tanzania and in the country in which he had his domicile at the time of his death, and there has been a grant of probate or letters of administration in Tanzania with respect to the assets there and a grant of administration in the country of domicile with respect to the assets in that country, the executor or administrator , as the case may be, in Tanzania, after having given such notices as are referred to in section 134 and after having discharged, at the expiration of the time therein named, such lawful claims as he knows of, may, instead of himself distributing any surplus or residue of the deceaseds property to persons residing out of Tanzania who are entitled thereto, transfer, with the consent of the executor or administrator, as the case may be, in the country of domicile, the surplus or residue to him for distribution to those persons. Part XIII – Refunding of legacies"
+    },
+    {
+      "provision_ref": "s130",
+      "chapter": "Part XIII",
+      "section": "130",
+      "title": "Refund of legacy paid under court order",
+      "content": "An executor who has paid a legacy under the order of a court is entitled to call upon the legatee to refund in the event of the assets proving insufficient to pay all the legacies."
+    },
+    {
+      "provision_ref": "s131",
+      "chapter": "Part XIII",
+      "section": "131",
+      "title": "No refund if paid voluntarily",
+      "content": "When an executor has voluntarily paid a legacy, he cannot call upon a legatee to refund in the event of the assets proving insufficient to pay all the legacies."
+    },
+    {
+      "provision_ref": "s132",
+      "chapter": "Part XIII",
+      "section": "132",
+      "title": "Refund when legacy becomes due on performance with further time allowed",
+      "content": "(1) When the time prescribed by the will for the performance of a condition has elapsed, without the condition having been performed, and the executor has thereupon, without fraud, distributed the condition assets, in such case, if further time has, under subsection (2) of this section, been allowed for the performance accordingly, the legacy cannot be claimed from the executor, but those to whom he has paid it are liable to refund the amount. (2) Where the will requires an act to be performed by the legatee within a specified time, either as a condition to be fulfilled before the legacy is enjoyed or as a condition upon the non-fulfilment of which before the subject-matter of the bequest is to go over to another person, or the bequest is to cease to have effect, the act must be performed within the time specified, unless the performance of it be prevented by fraud, in which case such further time shall be allowed as is requisite to make up for the delay caused by such fraud."
+    },
+    {
+      "provision_ref": "s133",
+      "chapter": "Part XIII",
+      "section": "133",
+      "title": "When legatees compellable to refund in proportion",
+      "content": "When the executor has paid away the assets in legacies, and he is afterwards obliged to discharge a debt of which he had no previous notice, he is entitled to call upon each legatee to refund in proportion."
+    },
+    {
+      "provision_ref": "s134",
+      "chapter": "Part XIII",
+      "section": "134",
+      "title": "Distribution of assets",
+      "content": "(1) Where an executor or administrator has given such notices as may be prescribed by Probate Rules , for creditors and others to send in to him their claims against the estate of the deceased, he shall, at the expiration of the time therein named for sending in claims, be at liberty to distribute the assets, or any part thereof, in discharge of such lawful claims as he knows of, and shall not be liable for the assets so distributed to any person of whose claim he has not had notice at the time of such distribution. (2) This section shall not prejudice the right of any creditor or claimant to follow the assets, or any part thereof, in the hands of the persons who may have received the same respectively."
+    },
+    {
+      "provision_ref": "s135",
+      "chapter": "Part XIII",
+      "section": "135",
+      "title": "When creditor may call upon legatee to refund",
+      "content": "A creditor who has not received payment of his debt may call upon a legatee who has received payment of his legacy to refund, whether the assets of the testators estate were or were not sufficient at the time of his death to pay both debts and legacies, and whether the payment of the legacy by the executor was voluntary or not."
+    },
+    {
+      "provision_ref": "s136",
+      "chapter": "Part XIII",
+      "section": "136",
+      "title": "Legatee's rights to require other legatees to refund",
+      "content": "(1) Where the assets were sufficient to satisfy all the legacies at the time of the testator's death a legatee who has not received payment of his legacy, or who has been compelled to refund, under section 135 , cannot oblige one who has received payment in full or refund, whether the legacy was paid to him with or without suit, although the assets have subsequently become deficient by the wasting of the executor. (2) Where the assets were not sufficient to satisfy all the legacies at the time of the testator's death, a legatee who has not received payment of his legacy must, before he can call on a satisfied legatee to refund, first proceed against the executor if he is solvent; but, if the executor is insolvent or not liable to pay, the unsatisfied legatee can oblige each satisfied legatee to refund in proportion. (3) The refunding by one legatee to another shall not exceed the sum by which the satisfied legacy ought to have been reduced if the estate had been properly administered."
+    },
+    {
+      "provision_ref": "s137",
+      "chapter": "Part XIII",
+      "section": "137",
+      "title": "Refunding to be without interest",
+      "content": "The refunding shall, in all cases, be without interest. Part XIV – Devastation"
+    },
+    {
+      "provision_ref": "s138",
+      "chapter": "Part XIV",
+      "section": "138",
+      "title": "Liability for misapplication",
+      "content": "When an executor or administrator misapplies the estate of the deceased, or subjects it to loss or damage, he is liable to make good the loss or damage so occasioned."
+    },
+    {
+      "provision_ref": "s139",
+      "chapter": "Part XIV",
+      "section": "139",
+      "title": "Liability for neglect",
+      "content": "When an executor or administrator occasions a loss to the estate by neglecting to get in any part of the property of the deceased, he is liable to make good the amount. Part XV – Administration of Wakf property"
+    },
+    {
+      "provision_ref": "s140",
+      "chapter": "Part XV",
+      "section": "140",
+      "title": "Interpretation",
+      "content": "In this part, unless the context otherwise requires-“Commissioner” means a member of the Wakf Commission appointed under section 142 of this Act; “ trustee ” includes any person, whether alone or jointly with another, in control of any property the subject of a wakf or in receipt of any rents or profits thereof; \" wakf \" means an endowment or dedication in accordance with Islamic law of any property within Tanzania for religious, charitable or benevolent purposes or for the maintenance and support of any member of the family of the person endowing or dedicating such property; \" Wakf Commission\" means the \" Wakf Commission\" of Tanzania constituted under section 142 of this Act. [R.L. Cap. 326]"
+    },
+    {
+      "provision_ref": "s141",
+      "chapter": "Part XV",
+      "section": "141",
+      "title": "Wakfs to be valid and effective",
+      "content": "Notwithstanding the provisions of the Land Act and any law thereby applied to the Tanzania, the making by any person, after the date of the coming into operation of this Act, of a wakf which, but for the provisions of the said Act and applied law, would be effective and valid, shall not be unlawful, ineffective or invalid and any provision of the said Act or applied law which would operate to render ineffective or invalid any of the terms or provisions of any wakf so made, shall have no effect. [Cap. 113]"
+    },
+    {
+      "provision_ref": "s142",
+      "chapter": "Part XV",
+      "section": "142",
+      "title": "Constitution of Wakf Commission",
+      "content": "(1) There is hereby constituted a body to be known as the Wakf Commission of Tanzania. (2) The Wakf Commission shall consist of not less than eight persons to be appointed by the President of whom not less than five shall be Muslim. (3) The President shall appoint a Chairman and a Secretary from among the members of the Wakf Commission. (4) Members of the Wakf Commission shall hold office during the pleasure of the President. (5) Proceedings or act whatsoever of the Wakf Commission shall not be invalidated in consequence only of there being any vacancy in the number of members at the time of such proceedings or act."
+    },
+    {
+      "provision_ref": "s143",
+      "chapter": "Part XV",
+      "section": "143",
+      "title": "Wakf Commission to be body corporate with common seal",
+      "content": "(1) The Wakf Commission shall be a body corporate having perpetual succession and a common seal with power to acquire, hold or alienate property whether movable, or immovable, and shall have all the powers, functions and duties conferred and imposed by this Act. (2) The Wakf Commission may sue and be sued in its corporate name and may for all purposes be described by that name. (3) The seal of the Wakf Commission, which shall be of such design as the President may approve, shall be authenticated by the signature of the Chairman, or a Commissioner other than the Secretary authorised to act in that behalf, and the Secretary, and such seal shall be officially and judicially noticed. (4) All documents (other than those relating to dealings in land which shall be sealed with the seal of the Wakf Commission) made by, and all decisions of, the Wakf Commission may be signified under the hand of the Chairman, and a Commissioner authorised in that behalf, or the Secretary."
+    },
+    {
+      "provision_ref": "s144",
+      "chapter": "Part XV",
+      "section": "144",
+      "title": "Meetings and quorum",
+      "content": "(1) The Wakf Commission shall hold a meeting at least once every three months. (2) The Chairman shall preside over all meetings of the Wakf Commission at which he is present and in his absence from any meeting the commissioners present shall elect a Commissioner to preside over the meeting. (3) A quorum of the Wakf Commission shall be four of whom one shall be either the Chairman or the Secretary."
+    },
+    {
+      "provision_ref": "s145",
+      "chapter": "Part XV",
+      "section": "145",
+      "title": "Register of wakf property and trustees",
+      "content": "(1) The Minister may by notice in the Gazette direct that this section shall apply to any area of Tanzania specified in the direction and thereupon this section shall apply as herein provided. (2) Where a direction has been made, as provided in subsection (1) of this section, this section shall apply to the following wakfs (herein referred to as registrable wakfs), that is to say— (a) any wakf in respect of which the whole or any part of the property comprised therein consists of immovable property, the whole or any part of which is situated wholly or partly in an area to which this section has been applied; and (b) any wakf in respect of which any one of the trustees normally resides in any area to which this section has been applied. (3) Whenever a wakf becomes a registrable wakf it shall continue as a registrable wakf notwithstanding any change in the nature of the property comprised therein, or the situation thereof, or any change of ordinary residence of any of the trustees thereof. (4) The Wakf Commission shall keep, in such form and containing such particulars as may be prescribed, a Register of all property the subject of a registerable wakf and of all trustees of such property. (5) Every trustee of property the subject of a registrable wakf shall, within three months of the date on which it becomes a registrable wakf , whichever is the later, apply to the Wakf Commission to register the same, and such application shall be in such form and contain such particulars and accompanied by such fee as may be prescribed. (6) Every trustee of property the subject of a registrable wakf shall, within three months of the date on which it becomes a registrable wakf , or within three months from the date on which he becomes such a trustee , whichever is the later, apply to the Wakf Commission to be registered as such, and such application shall be in such form and contain such particulars and accompanied by such fee as may be prescribed. (7) Where a person has ceased to be a trustee of property the subject of a registrable wakf such person shall, within one month of the date on which he has so ceased to be trustee , notify the Wakf Commission of the fact that he has so ceased to be a trustee , and he shall be deemed to be a trustee until the Wakf Commission has been so notified: Provided that— (a) where such person has ceased to be a trustee by reason of his death the notification required to be made under this subsection shall be made by the person who has succeeded him as trustee ; or (b) where there is more than one trustee of the property the subject of a registrable wakf the notification required to be made under this subsection may be made by the remaining trustee or trustees. (8) The Secretary to the Wakf Commission shall, by certificate issued under his hand notify every change of trustees of property the subject of a registrable wakf — (a) in the case of property relating to land registered under the provisions of the Land Registration Act, or of any Act amending or replacing the same to the Registrar of Titles; or [Cap. 334] (b) in the case of property relating to land not so registered, to the Registrar of Documents, and every such certificate shall specify the land to which it relates. (9) All fees specified in the Fifth Schedule to this Act, which are for the registration or property, the subject of a registrable wakf and for the registration of trustees shall be credited by the Wakf Commission to a fund to be known as the General Administration Fund. (10) Any trustee who, without reasonable cause the proof of which lies on him, fails to comply with the provisions of subsection (2) or (3) of this section commits an offence against this Act. [Ord. No. 9 of 1956]"
+    },
+    {
+      "provision_ref": "s146",
+      "chapter": "Part XV",
+      "section": "146",
+      "title": "Wakf Commission may hold inquiry and take over administration of wakfs",
+      "content": "(1) In any case in which it appears to the Wakf Commission that— (a) there is no properly constituted trustee of a wakf ; (b) any trustee who has acted or is acting in an improper, unauthorised, or unlawful manner; or (c) a change of administration of a wakf would be beneficial to such wakf , the Wakf Commission may, of their own motion, or on the motion of any person interested in such wakf , hold an inquiry: Provided that, notice of such an inquiry shall be given, in such manner as may be prescribed, to all persons having any interest in the wakf and such persons shall by such notice be invited to appear and give evidence before the Wakf Commission. (2) Where after holding such an inquiry the Wakf Commission finds that there is no properly constituted trustee of the wakf , or that any trustee has acted or is acting in an improper, unauthorised or unlawful manner, or that a change of administration would be beneficial to the wakf , the Wakf Commission may make an order either declaring that the property the subject of the wakf shall in future be administered by the Wakf Commission or appointing some other person or persons to be a trustee or trustees and such order shall specify the property to which it relates. (3) Upon the making of an order under the provisions of subsection (2) of this section— (a) declaring that the property the subject of the Wakf shall be administered by the Wakf Commission, such property shall, subject to any law relating to the registration of land for the time being in force, thereupon vest in the Wakf Commission; (b) appointing a new trustee or trustees of the wakf , the property the subject of such wakf shall, subject to any law relating to the registration of land for the time being in force, thereupon vest in such new trustee or trustees: Provided that, the provisions of this subsection shall not apply in any case where the order made by the Wakf Commission has been reversed on appeal under the provisions of subsection (5) of this section. (4) The Secretary to the Wakf Commission shall send a copy certified under his hand of any order made under subsection (2) of this section to the Registrar of Titles where the order relates to any land registered under the provisions of the Land Registration Act or any Act amending or replacing the same and to the Registrar of Documents where the order relates to any land not so registered. [Cap. 334] (5) A person aggrieved by an order of the Wakf Commission made under this section may appeal to an Appeals Tribunal, to be appointed by the President for that purpose, to have the matter reconsidered by the Appeals Tribunal, and the decision of the Appeals Tribunal thereon shall be final and conclusive. (6) A person appealing to the Appeal Tribunal under the provisions of subsection (5) of this section shall have the right to appear or to be represented by an advocate before the Appeals Tribunal on the hearing of such appeal."
+    },
+    {
+      "provision_ref": "s147",
+      "chapter": "Part XV",
+      "section": "147",
+      "title": "Trustees of wakfs may be called upon to produce evidence of proper administration of their trusts",
+      "content": "(1) The Wakf Commission may at any time call upon any trustee of wakf property to satisfy it that such property is being properly administered and may require such trustee to produce any documents or books, whether of account or otherwise, in his possession or control relating to such property. (2) Any trustee who fails to comply with any requirement to produce any documents or books in his possession or control made by the Wakf Commission under subsection (1) of this section commits an offence against this Act."
+    },
+    {
+      "provision_ref": "s148",
+      "chapter": "Part XV",
+      "section": "148",
+      "title": "Certain contracts or agreements relating to wakf property must be sanctioned by Wakf Commission",
+      "content": "A contract or agreement of any description whatsoever purporting to sell or otherwise alienate any property the subject of a wakf or purporting to mortgage such property or purporting to lease the same for any period exceeding one year shall not be valid unless the sanction in writing of the Wakf Commission has first been obtained."
+    },
+    {
+      "provision_ref": "s149",
+      "chapter": "Part XV",
+      "section": "149",
+      "title": "Titles to wakf property shall not be acquired by prescription or adverse possession after commencement of this part",
+      "content": "Notwithstanding anything to the contrary in any Act or law for the time being in force, no title to any property the subject of a wakf shall, after the commencement of this Part be acquired by any person by reason of such person having been in adverse possession thereof or by reason of any law of prescription."
+    },
+    {
+      "provision_ref": "s150",
+      "chapter": "Part XV",
+      "section": "150",
+      "title": "How wakf property to be administered",
+      "content": "(1) Subject to the provisions in subsection (2) of this section all property the subject of any wakf which is administered by the Wakf Commission shall be administered in accordance with the intentions of the maker of the wakf if such intentions are lawful according to Islamic law and are capable of being carried into effect, and whether such intentions are ascertainable by reference to tradition or by reference to any other evidence lawfully obtainable. (2) In any case where in the opinion of the Wakf Commission the intentions of the maker of a wakf are unlawful or unascertainable or are incapable of being carried out or where any surplus revenue remains after fulfilling the intentions of the maker of the wakf , the Wakf Commission shall apply the property the subject of the wakf , or any surplus property or revenue therefrom, as the case may be, for such religious, benevolent or charitable purposes on behalf of Muslims as appear to the Wakf Commission to be proper: Provided that, it shall not be lawful for the Wakf Commissioners to apply any property, surplus property or revenue therefrom under the provisions of this subsection for any purpose connected with another wakf so long as there still exists any property the subject of such latter wakf ."
+    },
+    {
+      "provision_ref": "s151",
+      "chapter": "Part XV",
+      "section": "151",
+      "title": "Wakf Commission may dispose of wakf property in certain circumstances",
+      "content": "Where it appears to the Wakf Commission that in respect of any of the intentions of the maker cannot reasonably be carried into effect and that it is accordingly expedient that the property the subject of the wakf or any part thereof should be leased, exchanged or sold, the Wakf Commission may cause such property or part thereof to be leased, exchanged or sold and shall apply the proceeds of such lease, exchange or sale in the manner provided under section 150(2) of this Act."
+    },
+    {
+      "provision_ref": "s152",
+      "chapter": "Part XV",
+      "section": "152",
+      "title": "Permission requisite to build Mosques or to establish cemeteries",
+      "content": "(1) A person who is the dedicator of property as wakf or a trustee of such property shall not build or cause to be built a mosque or establish or cause to be established a cemetery unless, prior thereto, he shall first have obtained the consent in writing of the Wakf Commission in that behalf and have satisfied the Wakf Commission that the proposed mosque or cemetery is or is about to be so well and sufficiently endowed as to provide for its due maintenance and good order. (2) A person who fails to comply with the provisions of subsection (1) of this section commits an offence against this Act."
+    },
+    {
+      "provision_ref": "s153",
+      "chapter": "Part XV",
+      "section": "153",
+      "title": "Fees",
+      "content": "(1) Where any property which is the subject of a wakf is administered by the Wakf Commission there shall be charged by the Wakf Commission in respect of its duties such fee as may be prescribed. (2) The moneys derived from such fees shall be applied by the Wakf Commission towards the administrative costs of the Wakf Commission. (3) Where over any period of twelve months such fees exceed the administrative costs of the Wakf Commission over the same period the surplus may be paid into the Wakf Commission Charitable Fund by the Wakf Commission. (4) The Wakf Commission Charitable Fund shall be used for such charitable purposes as the Wakf Commission may consider proper."
+    },
+    {
+      "provision_ref": "s154",
+      "chapter": "Part XV",
+      "section": "154",
+      "title": "Accounts and audit",
+      "content": "The Wakf Commission shall keep proper accounts of all property and money which comes into their hands and such accounts shall be audited by an auditor approved by the President at such times as the Minister may direct."
+    },
+    {
+      "provision_ref": "s155",
+      "chapter": "Part XV",
+      "section": "155",
+      "title": "Banking accounts",
+      "content": "(1) The Wakf Commission shall open a banking account or banking accounts into which all moneys received by the Wakf Commission shall be paid and out of which all payments authorised by the Wakf Commission shall be made. (2) Banking account referred to under subsection (1) shall be operated by the Chairman, or a Commissioner duly authorised in that behalf by the Wakf Commission, and the Secretary."
+    },
+    {
+      "provision_ref": "s156",
+      "chapter": "Part XV",
+      "section": "156",
+      "title": "Rent Restriction Act not to apply to wakf properties",
+      "content": "The provisions of the Rent Restriction Act, or of any Act amending or replacing the same, shall not apply to any wakf properties which are administered by the Wakf Commission under the provisions of this Act. [ Act No. 42 of 1962 ]"
+    },
+    {
+      "provision_ref": "s157",
+      "chapter": "Part XV",
+      "section": "157",
+      "title": "Penalties",
+      "content": "A person who commits an offence against this Act on conviction shall be liable to a fine not exceeding two thousand shillings or to imprisonment for a period not exceeding six months, or to both."
+    },
+    {
+      "provision_ref": "s158",
+      "chapter": "Part XV",
+      "section": "158",
+      "title": "Regulations",
+      "content": "(1) The Minister may make regulations for all Regulations or any of the following purposes: (a) prescribing the procedure to be followed by the Wakf Commission in the exercise of its powers, duties and functions under the provisions of this Act, including the delegation of the said powers, duties and functions, or any of them, other than those under section 146 , to any person or body of persons; (b) prescribing the time within which and the manner in which appeals to the Appeals Tribunal shall be made, the fees to be paid, and generally the procedure to be followed in any such appeal; (c) prescribing anything required to be prescribed under the provisions of this Act; and (d) generally for the better carrying out of the provisions of this Act. (2) Regulations made under this section may provide in respect of a breach of the provisions thereof a penalty not in excess of the penalties specified in section 157 . Part XVI – Islamic estates benevolent payments"
+    },
+    {
+      "provision_ref": "s159",
+      "chapter": "Part XVI",
+      "section": "159",
+      "title": "Discretion of district officer to make payments",
+      "content": "In any case in which, according to the Islamic Law, the whole or any part of an estate is payable to the Treasury (Bert­el-Mal), a district officer may, in his discretion, order that the whole or a part of the amount so payable but not exceeding a sum of one thousand shillings be distributed, in such proportions as he may think fit, among the husband, wife or wives, or other dependants of the deceased: Provided that, where the estate is one to which this Act applies, a district officer shall not make an order under this section without the prior consent of the court which has jurisdiction in the administration of such estate or, if the estate is administered by the Administrator-General, of the Administrator-General. Part XVII – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s160",
+      "chapter": "Part XVII",
+      "section": "160",
+      "title": "Provisions applied to administrator with will annexed",
+      "content": "In Parts XII and XIII the provisions as to an executor shall apply also to an administrator with the will annexed."
+    },
+    {
+      "provision_ref": "s161",
+      "chapter": "Part XVII",
+      "section": "161",
+      "title": "Depository of wills of living persons",
+      "content": "Subject to the provisions of Probate Rules , the wills of living persons may be deposited in the Registry of the High Court, and every such will so deposited shall be preserved in the Registry under the control and direction of the High Court."
+    },
+    {
+      "provision_ref": "s162",
+      "chapter": "Part XVII",
+      "section": "162",
+      "title": "Affidavits in case of trust corporations",
+      "content": "An officer authorised for the purpose by a trust corporation or a director or member of the governing body thereof may, on behalf of the corporation, take an oath, swear affidavits, give security or do any other act or thing which a court may require with a view to the grant to the corporation of probate or administration, and the acts of an officer so authorised, director or member, shall be binding on the corporation."
+    },
+    {
+      "provision_ref": "s163",
+      "chapter": "Part XVII",
+      "section": "163",
+      "title": "Validity of testamentary dispositions and rights to maintenance preserved",
+      "content": "Nothing herein contained shall— (a) validate any testamentary disposition which would otherwise have been invalid; (b) invalidate any such disposition which would otherwise have been valid; or (c) deprive any person of any right of maintenance to which he would otherwise have been entitled."
+    },
+    {
+      "provision_ref": "s164",
+      "chapter": "Part XVII",
+      "section": "164",
+      "title": "Omitted",
+      "content": "[Amends certain Ordinances.]"
+    },
+    {
+      "provision_ref": "s165",
+      "chapter": "Part XVII",
+      "section": "165",
+      "title": "Certain Acts disapplied",
+      "content": "(1) The Acts specified in the First Part of the Third Schedule are disapplied to Tanzania to the extent specified in the fourth column of that Schedule. (2) [Repeals various Ordinances.]"
+    },
+    {
+      "provision_ref": "s166",
+      "chapter": "Part XVII",
+      "section": "166",
+      "title": "Savings",
+      "content": "(1) The continuity of the law relating to the grant of probate and letters of administration, the appointment of administrators and the administration of estates shall not be affected by the repeal or disapplication of any of the enactments or any of the provisions specified in the Second and Third Schedules, and where any application has been made for any grant or appointment under any such enactments or provisions or the administration of any estate has been commenced thereunder, it shall continue under the provisions of this Act. (2) All grants of probate and letters of administration made in Tanzania under the Indian Succession Act, 1865, or the Indian Probate and Administration Act, 1881, every appointment of an administrator under the Administration (Small Estates) Ordinance, every sealing of probate or letters of administration under the Probates (Re-sealing) Ordinance and all orders and directions given by a court of competent jurisdiction in Tanzania under any of the said enactments shall have effect as if they were made, appointed, sealed or given as the case may be, under the appropriate provisions of this Act, and in particular, but without prejudice to the generality of the foregoing, the appointment of an administrator of the estate of a deceased African under the Administration (Small Estates) Ordinance shall have effect notwithstanding that the value of the estate exceeds the value of a small estate . [R.L. Cap. 28 R.L. Cap. 30] (3) Notwithstanding the repeal or disapplication of any enactment or any of the provisions specified in the Second and Third Schedules— (a) the appointment of any District Delegate ; (b) the Probates (Re-sealing) Rules; (c) the Administration (Small Estates) Rules; (d) any order made or direction given under section 17 of the Administration (Small Estates) Ordinance; (e) leave granted under section 2 of the Administration of Estates by Corporations Ordinance, shall be deemed to have been made, issued or given, as the case may be, under the appropriate provision of this Act. [Supp. 58 R.L. Cap. 28 p. 6; Supp. 57 R.L. Cap. 30 p. 10; R.L. Cap. 315]"
+    },
+    {
+      "provision_ref": "s167",
+      "chapter": "Part XVII",
+      "section": "167",
+      "title": "Transitional provisions",
+      "content": "(1) Where securities are registered or inscribed in the name of a syndicate on behalf of a trust corporation or land or any charge is registered in the name of such a syndicate, such securities, land or charge shall be transferred by the syndicate to the corporation, or as the corporation directs: Provided that no such transfer shall operate as a breach of covenant or condition against alienation or give rise to a forfeiture. (2) Where an application is made to the High Court for the sealing of probate or letters of administration under Part X in respect of the estate of any person who died before the twentieth day of October, 1959, the High Court shall before sealing the same, be satisfied that estate duty has been paid or that security for the payment thereof has been given to the satisfaction of the Estate Duty Commissioners in respect of so much, if any, of the estate as is liable to estate duty in Tanzania: Provided that this subsection shall not apply where the application is made by or on behalf of the Administrator-General. (3) Where a testator died before the date upon which this Act came into operation bequeathing legacies which, immediately prior to that date, bore interest under the provisions of exception to section 130 or the exception to section 312 of the Indian Succession Act, 1865, then, notwithstanding section 126 of this Act, those provisions of these Acts shall continue to apply to such legacies. (4) Where a person, whose estate is being administered under or in accordance with the provisions of this Act, died before the date on which this Act came into operation, the provisions of section 109 (l)(c) of this Act shall be read as if the words “three months” were substituted for the words “four months” therein. (5) Where a person, whose estate is being administered under or in accordance with the provisions of this Act, died before the date on which this Act came into operation and any interest is payable under sections 123 , 126 or 127 of this Act in respect of a period after that date, such interest shall be paid at the rate prescribed in this Act in respect of the period after that date."
+    },
+    {
+      "provision_ref": "s168",
+      "chapter": "Part XVII",
+      "section": "168",
+      "title": "Saving of powers of Administrator General and Public Trustee",
+      "content": "Subject to the provisions of section 124(4) this Act shall not be construed as derogating from the provisions of the Administrator-General (Powers and Functions) Act or the Public Trustee (Powers and Functions) Act or affect the rights, duties or privileges of the Administrator-General or the Public Trustee or an Assistant Administrator-General. [Cap. 27; Cap. 31] First Schedule (Made under section 7(6)) States to which section 7 applies The United States of America The Italian Republic. The French Republic. The United States of Mexico. The Federal Republic of Germany. The Kingdom of Norway. The Kingdom of Greece. The Kingdom of Sweden Second Schedule (Made under section 16(6)) [Omitted.] Third Schedule (Made under section 165) Enactments disapplied [R.L. Cap. 445 s. 141] Part I Year. No Title Extent of repeal of application 1865 X The Indian Succession Act Parts XXIX to XL (inclusive) and section 333. 1881 V The Indian Probate and Administration Act The Whole Act. Part II [Omitted.] Fourth Schedule (Made under section 6(1)) Appointment of an Administrator of a small estate the Probate and Administration Estates Act (cap. 352) Fifth Schedule (Made under section 145 (9)) Rates of estate duty Value of Property Rate of Duty (a) Not exceeding Shs. 2,000,000/= - (b) Exceeding Shs. 2,000,000/= but not exceeding Shs. 2,100,000/= Shs. 11,970/= plus 9% of the amount in excess of 2,000,000 (c) Exceeding Shs. 2,100,000/= but not exceeding Shs. 2,300,000/= Shs. 11,970/= plus 18% of the amount in excess of Shs. 2,100,000/= (d) Exceeding Shs. 2,300,000/= but not exceeding Shs. 2,700,000/= Shs. 47,975/= plus 27% of the amount in excess of Shs. 2,300,000/= (e) Exceeding Shs. 2,700,000/= but not exceeding Shs. 3,100,000/= Shs. 155,970/= plus 36% of the amount in excess of Shs. 2,700,000/= (f) Exceeding Shs. 3,100,000/= but not exceeding Shs. 3,500,000/= Shs. 299,970/= plus 54% of the amount in excess of Shs. 3,100,000/= History of this document 31 December 2023 this version Chapter 352 Revised Laws 2023 Consolidation 01 December 2023 Amended by Legal Sector Laws (Miscellaneous Amendments) Act, 2023 21 February 2020 Amended by Written Laws (Miscellaneous Amendments) Act, 2020 30 November 2019 Chapter 352 Revised Laws 2019 08 July 2016 Amended by Written Laws (Miscellaneous Amendments) (No. 2) Act, 2016 31 July 2002 Chapter 352 Revised Laws 2002 Consolidation Read this version 01 March 1963 Commenced Related documents Is amended by Legal Sector Laws (Miscellaneous Amendments) Act, 2023 Written Laws (Miscellaneous Amendments) (No. 2) Act, 2016 Written Laws (Miscellaneous Amendments) Act, 2020 More documents like this one Subsidiary legislation Title Probate (Amendment) Rules, 2025 Government Notice 429 of 2025 Probate Rules, 1963 Government Notice 10 of 1963 Estate Duty (Exchange of Information) (Kenya) Declaration Order, 1965 Government Notice 4 of 1965 [] [] [] [{\"provision_eid\": \"part_III__sec_10\", \"citations\": 8}, {\"provision_eid\": \"part_III__sec_11\", \"citations\": 3}, {\"provision_eid\": \"part_III__sec_16\", \"citations\": 3}, {\"provision_eid\": \"part_III__sec_16__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_III__sec_17\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_3\", \"citations\": 2}, {\"provision_eid\": \"part_II__sec_4\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_5\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_5__subsec_3\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_8__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_8__para_b\", \"citations\": 1}, {\"provision_eid\": \"part_I__sec_1__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_I__sec_2\", \"citations\": 5}, {\"provision_eid\": \"part_I__sec_2__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_IV__sec_19\", \"citations\": 1}, {\"provision_eid\": \"part_IV__sec_19__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_IX__sec_92__subsec_1__para_b\", \"citations\": 1}, {\"provision_eid\": \"part_IX__sec_92__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_IX__sec_93\", \"citations\": 1}, {\"provision_eid\": \"part_VII\", \"citations\": 3}, {\"provision_eid\": \"part_VIII\", \"citations\": 9}, {\"provision_eid\": \"part_VIII__subpart_A__sec_74\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__subpart_A__sec_78__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__subpart_A__sec_82\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__subpart_A__sec_83\", \"citations\": 2}, {\"provision_eid\": \"part_VIII__subpart_A__sec_83__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__subpart_A__sec_84\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__subpart_A__sec_86__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__subpart_B__sec_88\", \"citations\": 3}, {\"provision_eid\": \"part_VIII__subpart_B__sec_88__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_VIII__subpart_B__sec_88__subsec_1__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__subpart_B__sec_88__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__subpart_B__sec_89\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__subpart_B__sec_89__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_52\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_52__para_b\", \"citations\": 8}, {\"provision_eid\": \"part_VII__sec_55\", \"citations\": 5}, {\"provision_eid\": \"part_VII__sec_55__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_55__subsec_1__para_c\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_55__subsec_3\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_56\", \"citations\": 27}, {\"provision_eid\": \"part_VII__sec_56/~part_VII__sec_56\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_56__subsec_1\", \"citations\": 5}, {\"provision_eid\": \"part_VII__sec_56__subsec_1__para_a\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_56__subsec_1__para_b\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_56__subsec_1__para_c\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_56__subsec_1__para_d\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_56__subsec_1__para_e\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_56__subsec_1__para_f\", \"citations\": 3}, {\"provision_eid\": \"part_VII__sec_57__subsec_2\", \"citations\": 3}, {\"provision_eid\": \"part_VII__sec_58\", \"citations\": 11}, {\"provision_eid\": \"part_VII__sec_58__subsec_1\", \"citations\": 3}, {\"provision_eid\": \"part_VII__sec_58__subsec_5\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_59\", \"citations\": 8}, {\"provision_eid\": \"part_VII__sec_59__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_59__subsec_2\", \"citations\": 4}, {\"provision_eid\": \"part_VII__sec_59__subsec_3\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_60__subsec_1\", \"citations\": 3}, {\"provision_eid\": \"part_VII__sec_60__subsec_2\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_61\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_63\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_64\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_65\", \"citations\": 4}, {\"provision_eid\": \"part_VII__sec_66\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_67\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_68\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_70\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_70__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_71\", \"citations\": 39}, {\"provision_eid\": \"part_VII__sec_72\", \"citations\": 4}, {\"provision_eid\": \"part_VII__sec_72__subsec_1\", \"citations\": 6}, {\"provision_eid\": \"part_VII__sec_72__subsec_1/~part_V__subpart_A__sec_22__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VII__sec_72__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_48\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_49\", \"citations\": 33}, {\"provision_eid\": \"part_VI__sec_49__subsec_1\", \"citations\": 27}, {\"provision_eid\": \"part_VI__sec_49__subsec_1__para_a\", \"citations\": 18}, {\"provision_eid\": \"part_VI__sec_49__subsec_1__para_b\", \"citations\": 18}, {\"provision_eid\": \"part_VI__sec_49__subsec_1__para_c\", \"citations\": 17}, {\"provision_eid\": \"part_VI__sec_49__subsec_1__para_d\", \"citations\": 13}, {\"provision_eid\": \"part_VI__sec_49__subsec_1__para_e\", \"citations\": 21}, {\"provision_eid\": \"part_VI__sec_49__subsec_1/~part_III__sec_16__para_d\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_49__subsec_1/~part_V__subpart_C__sec_29__para_e\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_49__subsec_2\", \"citations\": 26}, {\"provision_eid\": \"part_VI__sec_51\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_A__sec_21\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_A__sec_22\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_A__sec_22__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_A__sec_23\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_B__sec_24\", \"citations\": 5}, {\"provision_eid\": \"part_V__subpart_B__sec_24__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_B__sec_24__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_B__sec_25\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_B__sec_25__subsec_3\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_B__sec_28\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_C__sec_30\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_C__sec_31\", \"citations\": 4}, {\"provision_eid\": \"part_V__subpart_D__sec_33\", \"citations\": 17}, {\"provision_eid\": \"part_V__subpart_D__sec_33__subsec_1\", \"citations\": 14}, {\"provision_eid\": \"part_V__subpart_D__sec_33__subsec_2\", \"citations\": 6}, {\"provision_eid\": \"part_V__subpart_D__sec_33__subsec_3\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_E__sec_36__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_E__sec_38\", \"citations\": 12}, {\"provision_eid\": \"part_V__subpart_E__sec_39\", \"citations\": 4}, {\"provision_eid\": \"part_V__subpart_E__sec_40\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_F__sec_42\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_G__sec_44\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_H__sec_45\", \"citations\": 2}, {\"provision_eid\": \"part_V__subpart_H__sec_46\", \"citations\": 12}, {\"provision_eid\": \"part_XII__sec_121\", \"citations\": 2}, {\"provision_eid\": \"part_XII__sec_124\", \"citations\": 2}, {\"provision_eid\": \"part_XII__sec_124__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_XI__sec_100\", \"citations\": 33}, {\"provision_eid\": \"part_XI__sec_101\", \"citations\": 14}, {\"provision_eid\": \"part_XI__sec_104\", \"citations\": 6}, {\"provision_eid\": \"part_XI__sec_105__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_XI__sec_106\", \"citations\": 1}, {\"provision_eid\": \"part_XI__sec_107\", \"citations\": 26}, {\"provision_eid\": \"part_XI__sec_107__subsec_1\", \"citations\": 29}, {\"provision_eid\": \"part_XI__sec_107__subsec_2\", \"citations\": 9}, {\"provision_eid\": \"part_XI__sec_107__subsec_3\", \"citations\": 3}, {\"provision_eid\": \"part_XI__sec_107__subsec_4\", \"citations\": 1}, {\"provision_eid\": \"part_XI__sec_107__subsec_5\", \"citations\": 3}, {\"provision_eid\": \"part_XI__sec_108\", \"citations\": 11}, {\"provision_eid\": \"part_XI__sec_108__subsec_1\", \"citations\": 6}, {\"provision_eid\": \"part_XI__sec_109__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_XI__sec_109__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_XI__sec_99\", \"citations\": 35}, {\"provision_eid\": \"part_XI__sec_99__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_XI__sec_99__para_b\", \"citations\": 1}, {\"provision_eid\": \"part_XIV__sec_138\", \"citations\": 4}, {\"provision_eid\": \"part_XIV__sec_139\", \"citations\": 2}, {\"provision_eid\": \"part_X__sec_95\", \"citations\": 7}, {\"provision_eid\": \"part_X__sec_96\", \"citations\": 1}, {\"provision_eid\": \"part_XV__sec_140\", \"citations\": 1}] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Af"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "administrator",
+      "definition": "a person appointed by the court to administer the estate of a deceased person when there is no executor or no executor is able and willing to act, and includes, when Part VIII applies and subject to the provisions thereof, a person appointed an administrator under that Part",
+      "source_provision": "s2"
+    },
+    {
+      "term": "codicil",
+      "definition": "an instrument made in relation to a will , and explaining, altering or adding to its dispositions",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "the High Court and includes, in any case in which a District Delegate has jurisdiction, a District Delegate , but does not include a district court",
+      "source_provision": "s2"
+    },
+    {
+      "term": "demonstrative legacy",
+      "definition": "a legacy directed to be paid out of specified property",
+      "source_provision": "s2"
+    },
+    {
+      "term": "district court",
+      "definition": "ascribed thereto in the Magistrates Courts Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "District Delegate",
+      "definition": "a resident magistrate appointed as a District Delegate under section 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "executor",
+      "definition": "a person to whom the execution of the last will of a deceased person is, by the testator's appointment, confided",
+      "source_provision": "s2"
+    },
+    {
+      "term": "general legacy",
+      "definition": "a legacy other than a specific or demonstrative legacy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for legal affairs",
+      "source_provision": "s2"
+    },
+    {
+      "term": "probate",
+      "definition": "the copy of a will , or, in the case of an oral will , a statement of the contents thereof, certified under the seal of the court , with a grant of administration to the estate of the testator",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Probate Rules",
+      "definition": "rules made under section 9",
+      "source_provision": "s2"
+    },
+    {
+      "term": "small estate",
+      "definition": "an estate the gross value of which a court , district court or other authority having jurisdiction in probate or administration is satisfied, does not exceed one hundred million shillings",
+      "source_provision": "s2"
+    },
+    {
+      "term": "specific legacy",
+      "definition": "a legacy of specified property",
+      "source_provision": "s2"
+    },
+    {
+      "term": "will",
+      "definition": "the legal declaration of the intentions of a testator with respect to his property, which he desires to be carried into effect after his death. (2) Notwithstanding anything contained in the definition of “ trust corporation ” in subsection (1) , a company or body corporate which would be a trust corporation but for the fact that it does not for the time being fulfil the requirements as to capital in paragraphs (c) or (d) of the said definition may act as executor or administrator in any case with the leave of the High Court and on giving such security as the High Court may determine, and thereupon for the purposes of so acting as executor or administrator shall be deemed to be and to have the powers, rights and duties of a trust corporation under this Act. [Acts Nos. 9 of 1963 s. 5",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court of probate",
+      "definition": "any court or authority, by whatever name designated, having jurisdiction in matters of probate",
+      "source_provision": "s94"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "a member of the Wakf Commission appointed under section 142 of this Act",
+      "source_provision": "s140"
+    },
+    {
+      "term": "trustee",
+      "definition": "any person, whether alone or jointly with another, in control of any property the subject of a wakf or in receipt of any rents or profits thereof",
+      "source_provision": "s140"
+    },
+    {
+      "term": "wakf",
+      "definition": "an endowment or dedication in accordance with Islamic law of any property within Tanzania for religious, charitable or benevolent purposes or for the maintenance and support of any member of the family of the person endowing or dedicating such property",
+      "source_provision": "s140"
+    },
+    {
+      "term": "Wakf Commission",
+      "definition": "the \" Wakf Commission\" of Tanzania constituted under section 142 of this Act. [R.L. Cap. 326]",
+      "source_provision": "s140"
+    }
+  ]
+}

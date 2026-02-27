@@ -1,30 +1,33 @@
 #!/usr/bin/env tsx
 /**
- * Tanzania Law MCP -- Census-Driven Ingestion Pipeline (Laws.Africa API)
+ * Tanzania Law MCP -- Census-Driven Ingestion Pipeline (AfricanLII Scraping)
  *
- * Reads data/census.json (produced by census.ts via Laws.Africa API)
- * and fetches + parses every ingestable Act using the Laws.Africa
- * Content API's Akoma Ntoso HTML endpoint.
+ * Reads data/census.json (produced by census.ts via AfricanLII scraping)
+ * and fetches + parses every ingestable Act directly from tanzlii.org.
+ *
+ * The detail pages serve Akoma Ntoso HTML inline, which the parser
+ * handles identically to the Laws.Africa API HTML.
  *
  * Features:
  *   - Resume support: skips Acts that already have a seed JSON file
  *   - Census update: writes provision counts + ingestion dates back to census.json
- *   - Rate limiting: 500ms minimum between requests (via laws-africa-api.ts)
+ *   - Rate limiting: 500ms minimum between requests (via fetcher.ts)
  *
  * Usage:
- *   LAWS_AFRICA_TOKEN=xxx npm run ingest                 # Full ingestion
- *   LAWS_AFRICA_TOKEN=xxx npm run ingest -- --limit 5    # Test with 5 acts
- *   npm run ingest -- --skip-fetch                       # Reuse cached HTML
- *   LAWS_AFRICA_TOKEN=xxx npm run ingest -- --force      # Re-ingest all
+ *   npm run ingest                 # Full ingestion
+ *   npm run ingest -- --limit 5    # Test with 5 acts
+ *   npm run ingest -- --skip-fetch # Reuse cached HTML
+ *   npm run ingest -- --force      # Re-ingest all
+ *   npm run ingest -- --resume     # Same as default (skip existing)
  *
- * Data source: Laws.Africa Content API (https://api.laws.africa/v3)
- * Format: AKN (Akoma Ntoso) structured HTML
+ * Data source: tanzlii.org (AfricanLII / Laws.Africa Peachjam platform)
+ * Format: AKN (Akoma Ntoso) structured HTML embedded in detail pages
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchActHtml } from './lib/laws-africa-api.js';
+import { fetchWithRateLimit } from './lib/fetcher.js';
 import { parseActHtml, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
@@ -36,7 +39,7 @@ const CENSUS_PATH = path.resolve(__dirname, '../data/census.json');
 
 /* ----- Jurisdiction constants (change per country) ----- */
 const JURISDICTION_NAME = 'Tanzania';
-const SOURCE_LABEL = 'Laws.Africa Content API (Akoma Ntoso HTML)';
+const SOURCE_LABEL = 'tanzlii.org (AfricanLII direct scraping)';
 
 /* ---------- Types ---------- */
 
@@ -89,6 +92,8 @@ function parseArgs(): { limit: number | null; skipFetch: boolean; force: boolean
       skipFetch = true;
     } else if (args[i] === '--force') {
       force = true;
+    } else if (args[i] === '--resume') {
+      // Default behavior -- explicit flag accepted but no-op
     }
   }
 
@@ -116,7 +121,7 @@ function censusToActEntry(law: CensusLawEntry): ActIndexEntry {
 async function main(): Promise<void> {
   const { limit, skipFetch, force } = parseArgs();
 
-  console.log(`${JURISDICTION_NAME} Law MCP -- Ingestion Pipeline (Laws.Africa API)`);
+  console.log(`${JURISDICTION_NAME} Law MCP -- Ingestion Pipeline (AfricanLII Scraping)`);
   console.log('='.repeat(62) + '\n');
   console.log(`  Source: ${SOURCE_LABEL}`);
 
@@ -198,7 +203,14 @@ async function main(): Promise<void> {
         process.stdout.write(`  [${processed + 1}/${acts.length}] Fetching ${act.id}...`);
 
         try {
-          html = await fetchActHtml(law.frbr_uri);
+          // Fetch the full detail page directly from the LII site
+          const result = await fetchWithRateLimit(law.url);
+
+          if (result.status !== 200) {
+            throw new Error(`HTTP ${result.status} from ${law.url}`);
+          }
+
+          html = result.body;
         } catch (fetchError) {
           const msg = fetchError instanceof Error ? fetchError.message : String(fetchError);
           console.log(` FETCH ERROR: ${msg}`);

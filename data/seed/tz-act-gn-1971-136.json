@@ -1,0 +1,371 @@
+{
+  "id": "tz-act-gn-1971-136",
+  "type": "statute",
+  "title": "Law of Marriage (Matrimonial Proceedings) Rules, 1971",
+  "title_en": "Law of Marriage (Matrimonial Proceedings) Rules, 1971",
+  "short_name": "Law of Marriage (Matrimonia...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/1971/136/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Rules may be cited as the Law of Marriage (Matrimonial Proceedings) Rules."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In these Rules, unless the context otherwise requires— \" Act \" means the Law of Marriage Act 1 ; 1 Cap. 29 \" matrimonial proceedings \" means proceedings— (a) on an objection under section 20 of the Act ; (b) for divorce, separation or annulment; (c) for maintenance of a spouse; (d) for custody or maintenance of children of the marriage; (e) for a declaratory decree under section 94 of the Act ; \" pleading \" means a petition, an answer or a reply; \" prescribed \" means, in relation to forms, means the forms prescribed in the First schedule to these Rules and in relation to fees, means the fees prescribed in the Second Schedule to these Rules; \" Registrar \" means— (a) where matrimonial proceedings are instituted in the High Court, the Registrar of the High Court, and includes a District Registrar of the High Court; (b) where matrimonial proceedings are instituted in a subordinate court , the magistrate having jurisdiction over that court; \" subordinate court \" means a court of a Resident Magistrate or a District Magistrate but does not include a primary court. Part II – General provisions (rules 3-14)"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Use of forms in First Schedule",
+      "content": "The forms in the First Schedule to these Rules (or the Kiswahili versions thereof) where applicable, and where they are not applicable, forms of like character, with such variations as circumstances may require, shall be used."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Title of proceedings",
+      "content": "(1) All pleadings and other documents filed in a court for the purpose of or in connection with any Form 1 matrimonial proceeding shall be entitled \"Matrimonial Cause\" with the name of the court and the matter to which it relates. Numbers and dates may be denoted by figures. (2) The first pleading or document in any matrimonial proceeding shall have a distinctive number assigned to it by the Registrar and all subsequent pleadings and documents in the same proceeding shall bear the same number."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Notices to be in writing",
+      "content": "All notices required by the Act or these Rules shall be in writing unless otherwise provided in the Act or these Rules or the court in any particular case orders otherwise."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Process to be sealed",
+      "content": "All summons, petitions, notices, orders, warrants and other process issued by the court shall be sealed."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Service",
+      "content": "Service of any summons, petition, notice, warrant or other process issued by a court and required to be served on any party, shall be by personal service: Provided that the court may in any case grant leave for substituted service in such manner as it may direct."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Chamber applications and summons",
+      "content": "Where any matrimonial proceeding is required by the Act or these Rules to be commenced by a chamber application or where any application is required by these Rules to be made by a chamber summons, the chamber summons shall be in the prescribed form."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Notice of chamber summons",
+      "content": "(1) Where an application made by a chamber summons is of such a nature that it affects, or any decision made by the court on such summons is likely to affect, any person other than the person making the application, a notice of the application and a copy of the affidavit filed in support thereof shall be served upon the person so affected or likely to be affected. (2) Every notice under paragraph (1) shall be in the prescribed form. (3) Where under these Rules or by order of the court, a notice of application made by a chamber summons is required to be served on any person then, unless the court otherwise directs, such copy together with a copy of any affidavit filed in support of the application, shall be served on such person not later than eight days before the date fixed for the hearing of the application, and such person shall have the right to file a counter-affidavit and appear and be heard at the hearing of the application. (4) Where a respondent intends to use affidavits in opposition to an application made by a chamber summons, he shall deliver a copy of every such affidavit to the applicant not less than two days before the day appointed for the hearing of the chamber summons."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Filing of affidavits",
+      "content": "Every application to be used in support or opposition of any affidavit made by a chamber summons shall, unless the court otherwise directs, be filed with the Registrar not later than the day before the day appointed for the hearing of the application."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Hearing of chamber summons",
+      "content": "Every chamber summons shall, unless the court otherwise directs, be heard in chambers."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Record of court",
+      "content": "All pleadings, affidavits and other documents relating to any matrimonial proceeding, together with the record of evidence taken in such proceeding and the decision of the court, shall remain on record in the court so as to form a complete record of such matrimonial proceeding, and they shall not be removed for any purpose except by an officer of the court or on a special direction of the court."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Office copies",
+      "content": "Office copies of pleadings, affidavits, records of evidence, judgements and other decisions in a matrimonial proceeding, shall be supplied by a Registrar to any person applying therefor and paying the prescribed fee."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Search",
+      "content": "A search of any record shall be granted to any person applying for same and paying the prescribed fee: Provided that a search shall be granted only between the hours of 8.30 a.m. and 11.30 a.m on weekdays and between the hours of 9.00 a.m and 11.00 a.m. on Saturdays. Part III – Proceedings on a notice of objection (rules 15-16)"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Court to issue summons",
+      "content": "(1) Where a notice of objection has been transmitted to a court in accordance with the provisions subsection (1) as section 21 of the Act , the Registrar shall open a matrimonial cause file in relation to such notice and shall place the notice in such file. (2) Where the court is satisfied that the grounds of objection stated in the notice of objection are not such as to confer jurisdiction upon the court, the court may, after giving the person making the objection opportunity of being heard, dismiss the objection or refer it to the Board. (3) Where the court is satisfied that the grounds of objection stated in the notice of objection are such as to confer jurisdiction upon the court to determine the objection, the court shall direct the Registrar to issue a summons for appearance in the prescribed form to the person making the objection as well as to the intended husband of such person. (4) Where the court is of the opinion that the person with whom the man intends to contract a marriage should be given an opportunity of being heard, a summons for the appearance of such person shall be issued by the Registrar ."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Determination of objection",
+      "content": "On the date appointed for the hearing of an objection under this Part, the court shall proceed to hear and determine the objection and shall in that respect have all the powers which the court has in relation to any matrimonial proceeding commenced by a petition, and the provisions of these Rules which relate to the hearing and determination of a matrimonial proceeding commenced by a petition shall, in so far as they may be applicable, apply to proceedings on an objection under this Part as if the person making the objection were a petitioner, the husband were a respondent and the person with whom the husband intends to contract a marriage, were a co-respondent. Part IV – Divorce and separation (rules 17-29)"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Application for leave to present a petition for divorce within two years",
+      "content": "(1) An application for leave to present a petition for divorce before two years have passed since the date of the marriage shall be by chamber summons. (2) There shall be filed in support of the application an affidavit by the applicant stating the grounds for application, the grounds on which the applicant will rely to prove that the marriage has irreparably broken down, whether the matter has been referred to a Board, and if so, the decision of the Board, whether there are any children of the marriage, and if so, the names, age and sex of the children and where and with whom the children are residing. (3) A copy of the application shall, unless the court otherwise directs, be served upon the other spouse. (4) When all the affidavits have been filed or where the other spouse has not entered appearance, the Registrar shall give the parties a notice of the date and time of the hearing of the application. (5) The court shall proceed to dispose of an application under this rule in the same manner and shall have, in that respect the same powers as it has in relation to an application made under the Civil Procedure Code 2 . 2 Cap. 33"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Petitions",
+      "content": "(1) Every petition shall state in addition to the facts required to be stated therein by section 106 of the Act — (a) the full names of the petitioner and his address for service; (b) the full names and address of the respondent and of every co-respondent. (2) Every petition shall be signed by the petitioner and shall contain a statement by the petitioner verifying the facts of which he has personal cognizance and of the facts which he believes to be true by reason of any information in his possession or otherwise."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Petition for divorce or separation",
+      "content": "(1) Where a petition for divorce or separation is presented the court shall, if it is satisfied that the petition does not comply with the provisions of section 106 of the Act or of the provisions of rule 18, reject the petition. (2) Where the court is satisfied that the petition complies with the provisions of section 106 of the Act and of rule 18, the court shall admit the petition and direct that a notice of the petition together with a copy of the petition be served upon the respondent and the co-respondent, if any."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Notice of petition",
+      "content": "Every notice of petition required to be served on a respondent or a co-respondent, shall be in the prescribed form."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Service of notice",
+      "content": "(1) The petition shall not proceed to hearing unless the respondent and every co-respondent (if any) has entered an appearance or unless the court is satisfied by an affidavit or otherwise that the respondent and every co-respondent (if any) has been served with a notice of petition. (2) After service of the petition has been effected, a certificate of service in the prescribed form shall be filed."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Appearance",
+      "content": "An appearance shall be entered by a respondent or co-respondent by appearing in person or through an advocate before the Registrar , on the dates specified in the notice of petition."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Other pleadings",
+      "content": "(1) Where a respondent enters an appearance and advises the Registrar that he intends to resist the petition, the Registrar shall allow the respondent or, as the case may be, the co-respondent, such time, not being less than two weeks or more than six weeks, in which the respondent or, as the case may be, the co-respondent, may file an answer. (2) Where the Registrar allows time to the respondent or the co-respondent to file an answer he may, on application made by the petitioner, allow the petitioner reasonable time to file a reply to the answer. (3) Every answer shall contain a concise statement of facts upon which the respondent, or as the case may be, the co-respondent, will rely for his defence. (4) It shall not be sufficient for a respondent or a co-respondent in his answer to admit generally the grounds alleged by the petitioner, but the respondent or, as the case may be, the co-respondent, must deal specifically with each allegation of fact of which he does not admit the truth. (5) Every reply must contain a concise statement of facts upon which the petitioner will rely to counter the allegations made in the answer. (6) Every answer and every reply must be signed by the person on whose behalf it is lodged and must contain a statement by such person verifying the facts alleged in the answer or, as the case may be, the reply, of which he has personal cognizance and the facts which he believes to be true by reason of any information in his possession or otherwise. (7) A copy of every answer and of every reply filed in any matrimonial proceeding shall be served on each of the other parties to the proceeding."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IV",
+      "section": "24",
+      "title": "Amendment of pleadings",
+      "content": "The court may, if sufficient cause is shown, allow any party at any time before the conclusion of the trial of a petition to amend his pleading , subject to such order as to costs as the court may think fit to make."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IV",
+      "section": "25",
+      "title": "Pleadings out of time",
+      "content": "Where a party has failed to file any pleading within the time allowed therefor by the Registrar , the court may on application made by such party grant leave for the pleading to be filed out of time."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IV",
+      "section": "26",
+      "title": "Particulars",
+      "content": "(1) Any party may by letter require any other party to furnish particulars of any allegation or other matter pleaded, and if such other party fails to furnish such particulars within a reasonable time, the party requiring the particulars may apply to the court for an order that particulars be given. (2) All particulars, whether given in pursuance of an order or otherwise, shall be filed together with an affidavit in support thereof within eight days of being furnished to the party requiring them."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IV",
+      "section": "27",
+      "title": "Discovery",
+      "content": "(1) A party to a matrimonial proceeding may by leave of the court, deliver interrogatories in writing for the examination of any opposite party. (2) Interrogatories shall, unless the court otherwise directs, be answered by affidavit. (3) A party to a matrimonial proceeding may apply for an order for discovery of documents by an opposite party and such opposite party may be ordered to make such general or limited discovery on oath as the court may think fit."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IV",
+      "section": "28",
+      "title": "Non-appearance of parties",
+      "content": "(1) The provisions of Order IX of the Civil Procedure Code 3 , which relate to the consequences of non-appearance of parties to a suit shall apply mutatis mutandis to the non-appearance of any party to a matrimonial proceeding on the day fixed for the entering of an appearance or on any day on which the petition is called on for hearing: 3 Cap. 33 Provided that in no case shall a court pass a decree in favour of the petitioner for the reliefs suggested by him by reason only of the non-appearance of the respondent or co-respondent, and in every such case the court shall proceed to hear the petition ex parte and determine the issue involved on the basis of the evidence adduced by the petitioner. (2) In any case in which a decree is passed ex parte against a respondent or a co-respondent, he may, at any time before the expiry of forty-five days from the date of the decree, apply to the court by which the decree was passed for an order to set it aside; and if he satisfies the court that notice of petition was not duly served upon him or that he was prevented by any sufficient cause from entering an appearance or from appearing on any subsequent date when the petition was called on for hearing, the court shall make an order setting aside the decree against him upon such terms as to costs or otherwise as it thinks fit and shall appoint a day for proceeding with the hearing of the petition: Provided that where a decree was passed ex parte both against the respondent and the co-respondent, and the application is made by the co-respondent only for the setting aside of the decree, the court may, if it is of the opinion that the decree is of such a nature that it cannot be set aside as against the co-respondent only, order that the decree be set aside as against the respondent as well. (3) No decree shall be set aside on any application made under paragraph (2) unless notice thereof has been served on the petitioner. (4) Notwithstanding the provisions of this rule, where a co-respondent fails to enter an appearance or to appear on the day on which the petition is called on for hearing, the court shall not pass any decree ex parte against the co-respondent until after the hearing of the petition as against the respondent."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IV",
+      "section": "29",
+      "title": "Hearing",
+      "content": "(1) When all the pleadings in a matrimonial proceeding have been filed, the Registrar shall fix a date for the trial of the petition. (2) The court shall proceed to try a petition in the same manner as if it were a suit under the Civil Procedure Code 4 , and the provisions of that Code which relate to examination of parties, production, impounding and return of documents, settlement of issues, summoning an attendance of witnesses, adjournments, hearing of the suits and examination of witnesses, affidavits, judgments and decrees shall apply mutatis mutandis to a trial of a petition. 4 Cap. 33 Part V – Annulment (rules 30-31)"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Petition for annulment",
+      "content": "Every petition for annulment shall comply with the provisions section 96 of the Act and shall contain— (a) the names and address of the party making the petition; (b) the names and address of the respondent; (c) particulars and the date of the marriage sought to be annulled; (d) the names, ages and sex of the children (if any) of the marriage; (e) particulars of the facts giving the court jurisdiction; (f) a statement of the principal allegations on which the petition is founded; (g) where the petitioner has been guilty of any marital misconduct, an admission of such misconduct; (h) the terms of any agreement regarding maintenance or division of any assets acquired through the joint efforts of the parties or, where no such agreement has been reached, the petitioner's proposals; and (i) particulars of the reliefs sought."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Procedure on petition for annulment",
+      "content": "The provisions of Part IV which regulate the procedure on and determination of a petition for divorce or separation shall, so far as they may be applicable, apply to a petition for annulment. Part VI – Application for maintenance, custody, etc. (rules 32-33)"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Application for maintenance etc., to be by chamber summons",
+      "content": "(1) Every application for maintenance (whether for maintenance of a party to a marriage or the children of the marriage) or for the custody of the children of the marriage shall be by a chamber summons supported by affidavit. (2) Where any matrimonial proceeding is not by the Act or these Rules required to be instituted by a petition, the proceeding shall be instituted by a chamber summons supported by an affidavit."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Procedure on application",
+      "content": "(1) Where a matrimonial proceeding has been on application instituted by a chamber summons supported by an affidavit and all affidavits and counter-affidavits have been filed, the Registrar shall fix a date for the hearing of the application. (2) On the date appointed for the hearing of an application, the court shall proceed to hear and determine the application and shall, in that respect, have all the powers which the court has in relation to any matrimonial proceeding commenced by a petition, and the provisions of these Rules which relate to the hearing and determination of a matrimonial proceeding commenced by a petition, shall in so far as they may be applicable, apply to proceedings on an application under this Part as if the person making the application were a petitioner, the person against whom any relief is sought were a respondent, and any other person likely to be affected by any decision of the court made on such application, were a co-respondent. Part VII – Execution of decrees (rules 34-35)"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VII",
+      "section": "34",
+      "title": "Decrees for payment of money or for delivery",
+      "content": "Where in any matrimonial proceeding, the court has passed a decree for the payment of any money, whether periodically or otherwise, or for the delivery of any property, such decree may be executed in the same manner as a similar decree passed in any civil suit under the Civil Procedure Code 5 , and the provisions of the Civil Procedure Code, relating to the execution of such decrees shall apply mutatis mutandis to a decree for payment of money or delivery of property passed in any matrimonial proceedings . 5 Cap. 33"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VII",
+      "section": "35",
+      "title": "Custody of children",
+      "content": "(1) Where by a decree passed in any matrimonial proceeding, the court has awarded the custody of any child of the marriage to any party, the court may on application of such party, issue an injunction against any other party to such proceeding or against any other person, ordering such person to refrain from interfering in any way with the exercise of lawful rights by the person to whom the custody of a child was granted and may enforce compliance with such order by imprisonment and detention in a civil prison of the person against whom the order is made and who fails to comply with the order. (2) The provisions of the Civil Procedure Code 6 which relate to arrest and detention in a civil prison of any judgement debtor shall apply mutatis mutandis to arrest and detention in a civil prison under this rule. 6 Cap. 33 Part VIII – Appeals (rules 36-38)"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VIII",
+      "section": "36",
+      "title": "Interpretation",
+      "content": "In this Part \" subordinate court \" includes a primary court."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VIII",
+      "section": "37",
+      "title": "Memorandum of appeal",
+      "content": "(1) An appeal to the High Court under section 80 of the Act shall be commenced by a memorandum of appeal filed in the subordinate court which made or passed the decision, order or decree appealed against. (2) Every memorandum of appeal shall be either in Kiswahili or in English and shall state briefly the grounds of objection to the decision, order or decree appealed against. (3) Upon the receipt of the memorandum of appeal, the subordinate court shall transmit to the High Court, the memorandum of appeal together with the complete record of the matrimonial proceeding to which the appeal relates. (4) The High Court shall not reject or refuse to entertain any memorandum of appeal by reason only of any defect in the form of the momorandum but shall admit every memorandum of appeal."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VIII",
+      "section": "38",
+      "title": "Procedure after admission of appeal",
+      "content": "The provisions of rules 9 to 37 (inclusive) of Order XXXIX of the Civil Procedure Code 7 , shall apply mutatis mutandis to an appeal to which this Part applies: 7 Cap. 33 Provided that— (a) where a respondent wishes to take any cross-objection to the decree, he may do so without being required to file a memorandum of such cross-objection; (b) in determining any appeal, the court shall not be confined to the grounds of objection raised in the memorandum of appeal but may, after giving the parties an opportunity of being heard thereupon, decide the appeal on any ground not raised in the memorandum of appeal; and (c) the High Court shall decide every appeal according to substantial justice without undue regard to technicalities of procedure and without undue delay. Part IX – Reference to high court (rules 39-44)"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part IX",
+      "section": "39",
+      "title": "Construction",
+      "content": "In this Part a Magistrate includes a Primary Court Magistrate."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part IX",
+      "section": "40",
+      "title": "Procedure on case stated",
+      "content": "Where, before or on the hearing of a matrimonial proceeding by a magistrate, any question of law or usage having the force of law arises on which the magistrate entertains a reasonable doubt the court may, either on its own motion or on the application of any of the parties, draw up a statement of the facts of the case and the point on which doubt is entertained and refer such statement with its own opinion on the point for the decision of the High Court."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part IX",
+      "section": "41",
+      "title": "Stay of proceedings pending reference to High Court",
+      "content": "The magistrate may either stay the proceeding or proceed with the case notwithstanding a reference to the High Court under rule 40 and may pass a decree or make an order contingent upon a decision of the High Court on the point referred: Provided that no decree or order passed or made by the magistrate shall be executed until the receipt of a copy of the judgement of the High Court on the point referred to the High Court."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part IX",
+      "section": "42",
+      "title": "Judgment of High Court",
+      "content": "The High Court, after hearing the parties, if they appear and desire to be heard, shall decide the point referred to it under rule 40 and shall transmit a copy of its judgment under the signature of the Registrar to the court by which the reference was made; and such court shall on receipt thereof proceed to dispose of the case in conformity with the decision of the High Court."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part IX",
+      "section": "43",
+      "title": "Costs where case stated",
+      "content": "The costs, if any, consequent on a reference for the decision of the High Court under rule 40 shall be costs in the cause."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part IX",
+      "section": "44",
+      "title": "Power to alter, etc., decree of court making reference",
+      "content": "Where a case is stated to the High Court under rule 40, the High Court may return the case for decree of amendment, and may alter, cancel or set aside any Court or order which the court stating the case has making passed or made in the case and may make such orders reference as it thinks fit. Part X – Miscellaneous provisions (rules 45-48)"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part X",
+      "section": "45",
+      "title": "Costs",
+      "content": "In any matrimonial proceedings , the court shall have the same power to award costs as it has in any other civil proceedings to which the Civil Procedure Code 8 applies. 8 Cap. 33"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part X",
+      "section": "46",
+      "title": "Court may award reduced costs",
+      "content": "Where in any matrimonial proceeding commenced award in the High Court, the court is of the opinion that reduced such proceeding could have been more expeditiously costs dealt with by a subordinate court , the court may direct that the costs payable to any party shall be assessed as if the proceeding had been commenced and determined by a subordinate court , and where such order is made, the party entitled to recover any court fees paid by him shall be entitled to recover only such amount of the court fees as would have been paid by him had he commenced the proceeding in a subordinate court ."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part X",
+      "section": "47",
+      "title": "Fees",
+      "content": "The fees specified in the Second Schedule hereto shall be levied in respect of the several matters and proceedings mentioned therein."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part X",
+      "section": "48",
+      "title": "Remission of fees",
+      "content": "(1) The court may for reasons of poverty or other good cause remit in whole or in part the fees or any of the fees payable under these Rules. (2) Application for remission of fees under this Rule may be either orally to the court or by an ex parte chamber summons supported by an affidavit. (3) No fee shall be payable on an application under this rule. First Schedule Forms [Editorial note: The forms have not been reproduced.] Second Schedule Fees [Fees omitted: Subject to variation. Items for which fees may be levied are listed below.] Item no Item 1. On the hearing of an objection under section 21 of the Law of Marriage Act— (a) where the objection is heard by the High Court (b) where the objection is heard by the Magistrate other than a Primary Court Magistrate (c) where the objection is heard by a Primary Court Magistrate. 2. Presentation of petition for any Matrimonial relief— (a) where the petition is presented to the High Court (b) where the petition is presented to a Magistrate's Court other than a Primary Court (c) where the petition is presented to a Primary Court. 3. On the institution of any Matrimonial Proceedings instituted by an application— (a) where the petition is presented to the High Court (b) where the proceedings are instituted in a Magistrate's Court other than a Primary Court (c) where the proceedings are instituted in a Primary Court 4. In presentation of a Memorandum of Appeal— (a) where the memorandum is presented to the High Court (b) where the memorandum is presented to a Magistrate's Court other than a Primary Court (c) where the memorandum is presented to a Primary Court. 5. For any other matter of proceedings. History of this document 31 July 2002 this version Consolidation Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Act",
+      "definition": "the Law of Marriage Act 1",
+      "source_provision": "s2"
+    },
+    {
+      "term": "matrimonial proceedings",
+      "definition": "proceedings— (a) on an objection under section 20 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pleading",
+      "definition": "a petition, an answer or a reply",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subordinate court",
+      "definition": "a court of a Resident Magistrate or a District Magistrate but does not include a primary court. Part II – General provisions (rules 3-14)",
+      "source_provision": "s2"
+    }
+  ]
+}

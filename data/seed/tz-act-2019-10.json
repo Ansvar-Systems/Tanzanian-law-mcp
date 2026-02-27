@@ -1,0 +1,627 @@
+{
+  "id": "tz-act-2019-10",
+  "type": "statute",
+  "title": "E-Government Act, 2019",
+  "title_en": "E-Government Act, 2019",
+  "short_name": "E-Government Act, 2019",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/2019/10/eng@2019-09-20",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "This Act may be cited as the e-Government Act, 2019 and shall come into operation on such date as the Minister may, by notice published in the Gazette , appoint."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Application",
+      "content": "This Act shall apply to all public institutions of the Government of the United Republic."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ asset ” means any property owned by the Authority whether tangible or intangible, including physical property, land, shares or proprietary rights; “ Authority ” means the e-Government Authority established under section 4 ; “ availability ” means ensuring timely and reliable access to and use of information; “ Board ” means the Board of Directors of the e-Government Authority established under section 7 ; “ confidentiality ” means preserving authorized restrictions on access and disclosure, including means for protecting personal privacy and proprietary information; “ critical application software ” means application software which is used to deliver or perform core institutions or Government business processes; “ critical system ” means a system which is used to deliver or perform core institutions or Government business processes; “ data ” means any information presented in an electronic form; “ Director General ” means the Director General of the Authority appointed under section 11 ; “ e-Government ” means the use of information and communication technologies (ICT) by the Government to deliver public services; “ e-Government initiative ” means any intervention taken by public institution for the purpose of implementing e-government; “ e-Government security ” means ICT security in the public sector; “ e-Government services ” means all services which are delivered by public institutions by electronic means; “ e-Government Technical Committee ” means the e-Government Technical Committee established under section 17 ; “ electronic communication ” means any transfer of sign, signal or computer data of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic, photo optical or in any other similar form; \" electronic record \" means a record that is created, generated, sent, communicated, received, stored or accessed by electronic means; “ ICT disposal ” means ICT equipment and software disposal; “ ICT infrastructure ” means composite hardware, software, network resources and services required for the existence, operation and management of an enterprise ICT environment; “ ICT project ” means a project for acquiring, sourcing or improving ICT infrastructure or systems for undertaking e-Government initiatives; “ ICT Security ” means protecting information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality , integrity and availability ; “ ICT system ” means an ICT set-up consisting of hardware, software, data , communication technology and people who use them; “ Institutional ICT Steering Committee ” means the Institutional ICT Steering Committee established under section 18 ; “ integrity ” means guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity; “ interoperability ” means the ability of different information technology systems and software applications to communicate, exchange data and use of information that has been exchanged; “ metadata ” means a set of data that describes and provides information about other data ; “ Minister ” means the Minister responsible for e-Government ; “ National e-Government Steering Committee ” means the National e-Government Steering Committee established under section 16 ; “ public institution ” Means ministries, independent departments, regional secretariats, local government authorities, executive agencies, parastatal organizations, public corporations or any other Government autonomous or semi-autonomous institutions; “ record ” has the meaning ascribed to it under the Records and Archives Management Act; [ Cap 309 ] “ service provider ” means an organization, business or individual which offers electronic service to a public institution . Part II – Establishment of the Authority"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Establishment of Authority",
+      "content": "(1) There is established an Authority to be known as \" e-Government Authority \", also known in its acronym as “e-GA”. (2) The Authority established under subsection (1) shall be a body corporate with perpetual succession and a common seal and shall, in its corporate name, be capable of: (a) suing and being sued; (b) acquiring, holding and disposing of movable and immovable property; (c) exercising the powers and performing the functions conferred upon it by or under this Act; and (d) entering into any contract or other transaction, and doing or suffering to do all such other acts and things which a body corporate may lawfully perform, do or suffer to be done. (3) Notwithstanding the preceding provisions of this section, the Attorney General shall have the right, through the Solicitor General, to intervene in any suit or matter instituted by or against the Authority . (4) Where the Attorney General intervenes in any matter in pursuance of subsection (3) , the provisions of the Government Proceedings Act , shall apply in relation to the proceedings of that suit or matter as if it had been instituted by or against the Government: Provided that, the requirement of ninety days notice of intention to sue the Government as stipulated under the Government Proceedings Act shall not apply where the Attorney General intervenes under this section. [ Cap. 5 ] (5) Notwithstanding the provisions of subsection (2) , the Authority shall have a duty to notify the Attorney General of any impending suit or intention to institute a suit or matter against the Authority ."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Functions of Authority",
+      "content": "(1) The Authority shall coordinate, oversee and promote e-Government initiatives and enforce e-Government related policies, laws, regulations, standards and guidelines in public institutions. (2) Without prejudice to subsection (1) , the functions of the Authority shall be to: (a) promote and provide quality e-Government services to public institutions; (b) enforce compliance by public institutions to the National ICT Policy, e-Government related policies, laws, regulations, standards and guidelines during planning, acquisition, implementation, delivery, support and maintenance of ICT infrastructure and systems; (c) provide guidance and assistance on e-Government initiatives to public institutions; (d) approve software and hardware to be used by public institutions; (e) promote cooperation and coordination among users and providers of ICT services in public institutions; (f) ensure end to end visibility of Government ICT systems and other systems offering services to the Government including undertaking periodic audits of them; (g) ensure integration and interoperability of Government ICT systems and other systems offering services to the Government; (h) enhance capacity of public institutions to implement e-Government initiatives; (i) set technical standards and procedures for information and communication technology planning, acquisition, implementation, acceptance, support, sustainance, disposal, risk management, data protection, security and contingency management for public institutions; (j) in collaboration with other relevant authorities, undertake ICT systems audits and ICT security assessments on Government ICT systems and other private ICT systems offering services to the Government; (k) facilitate public institutions to access shared ICT infrastructure and systems; (l) monitor and evaluate e-Government implementation in the Public institutions; (m) facilitate and support implementation of all sector specific ICT systems and services; (n) advise the Government on implementation of e-Government ; (o) facilitate public access to e-Government services ; (p) provide technical advice on ICT human resources recruitment and development in public institutions; (q) promote e-Government research, development and innovation in public institutions; (r) establish and maintain secure shared Government ICT infrastructure and systems; (s) develop mechanisms for enforcement of ICT security standards and guidelines, provision of support on ICT security operations, and implementation of Government-wide cyber security strategies; (t) provide technical advice on Government business process re-engineering and integration; and (u) perform such other functions as may be conferred on the Authority by this Act or any other written law."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Powers of Authority",
+      "content": "The Authority shall, in the performance of its functions under this Act have powers to: (a) demand any information, document, record or report in respect of any ICT related system, infrastructure, project or initiative from any public institution ; (b) commission or undertake investigations or performance audits on any ICT project , systems and infrastructure in the public institutions; (c) inspect any ICT project , systems and infrastructure to ensure compliance with e-Government standards and guidelines by any public institution ; (d) manage complaints related to e-Government services from public, service providers or any other person; (e) commission or undertake any study relevant to the determination of any decision made in executing ICT projects in the public institutions; (f) stop any implementation of ICT project by public institution which is not in compliance with e-Government standards and guidelines; (g) demand physical or logical access to any public institution ICT systems, infrastructure, or networks for the purposes of conducting ICT audits or ICT security assessments. (h) require any public institution to— (i) furnish any information or produce any record or any document relating to ICT projects, systems or infrastructure; or (ii) answer all relevant questions relating to e-Government initiatives; (i) examine records or other documents and take copies or extracts therefrom; and (j) request any professional or technical assistance from any appropriate body within or outside the United Republic. Part III – Administration of the Authority"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Establishment of Board",
+      "content": "(1) There shall be a Board of Directors of the Authority to be known as e-Government Authority Board which shall be the governing body of the Authority . (2) The Board shall be composed of the Chairman who shall be appointed by the President and eight other members to be appointed by the Minister as follows: (a) a member from the Ministry responsible for e-Government ; (b) a member from the institution responsible for revenue collection; (c) a member from public higher learning institution; (d) a member from the Ministry responsible for communication; (e) a law officer from the Office of the Attorney General; (f) a member from the Ministry responsible for local government Authorities; and (g) two members as the Minister may consider necessary. (3) The Minister shall, in appointing members under subsection (2) — (a) ensure that at least three members are experts in ICT, finance and tax management or telecommunication engineering; and (b) have due regard to gender. (4) The Director-General shall be the Secretary to the Board . (5) The provisions of the Schedule shall have effect as to the tenure of office of the members, proceedings of the Board and other matters relating to the Board ."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Functions of Board",
+      "content": "Functions of the Board shall include to— (a) advise the Minister on matters relating to e-Government initiatives; (b) approve and monitor the implementation of policies pertaining to the Authority ; (c) approve career development plans, staffing levels and terms and conditions of service for the staff of the Authority ; (d) appoint and confirm managerial staff of the Authority ; (e) conduct managerial oversight and review the activities and performance of management of the Authority ; (f) evaluate the performance of the entire management team and take necessary measures; (g) exercise disciplinary power over managerial staff of the Authority ; (h) ensure effective and efficient use of resources of the Authority ; (i) approve the Authority ’s corporate strategic plan, annual work programme and annual budget; (j) approve financial and performance reports of the Authority ; (k) report to the Minister the progress of the business of the Authority on quarterly basis; and (l) perform any other functions as may, subject to the provisions of this Act, be directed by the Minister ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Committees of Board",
+      "content": "(1) The Board shall, for the purpose of facilitation of performance of its functions under this Act, establish such number of committees to perform specific functions as the Board may determine. (2) The committee established under subsection (1) shall perform the functions of the Board upon such terms and conditions as the Board may determine."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Delegation of functions and powers of Board",
+      "content": "(1) The Board may, subject to such terms and conditions as it deems necessary, delegate to any committee of the Board or to the Director General any functions or powers vested in it by this Act or any other written law: Provided that, the Board shall not delegate its powers to— (a) prescribe fees, charges and commissions; (b) borrow or lend money; and (c) appointment of management staff of the Authority . (2) Any power or function so delegated shall be exercised or performed by the committee of the Board or Director General in the name and on behalf of the Board . (3) Notwithstanding the delegation made under subsection (1) , the Board may exercise any power or perform any function so delegated under this Act."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part III",
+      "section": "11",
+      "title": "Director General",
+      "content": "(1) There shall be a Director General to be appointed by the President who shall be the chief executive officer and accounting officer accountable to the Board for the proper administration and management of the functions and affairs of the Authority . (2) A person shall not qualify for appointment as a Director General unless that person— (a) is a holder of at least a post graduate degree in the field of computer science, information technology, data communication or electronic engineering and telecommunication or its equivalent from a recognized university; and (b) has at least five years working experience in managerial position in the field stipulated in paragraph (a) . (3) The Director General shall, subject to his satisfactory performance, hold office for a period of five years and shall be eligible for re-appointment for one more term."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part III",
+      "section": "12",
+      "title": "Functions of Director General",
+      "content": "(1) Without prejudice to the generality of section 11 , the Director General shall be responsible for the— (a) management and operations of the Authority ; (b) management of the funds, property and business of the Authority ; (c) appointment, confirmation, promotion and discipline of staff of the Authority other than managerial staff; (d) promotion of training and career development of all staff of the Authority ; and (e) management of other human resources and administration related issues of all staff of the Authority . (2) In fulfilling the responsibilities stated under subsection (1) , the Director General shall comply with the provisions of the Public Service Act and such other relevant laws as may be required. [ Cap. 298 ]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part III",
+      "section": "13",
+      "title": "Directors and other staff of Authority",
+      "content": "(1) There shall be such number of directors and other staff of the Authority in such number and categories as may be required to manage and perform the functions of the Authority under this Act. (2) In the performance of their functions under this Act, the directors and other staff of the Authority shall be accountable and report to the Director General ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Appeal",
+      "content": "A person who is aggrieved with the decision of the Board or of the Director General may seek remedy in accordance with the Public Service Act. Part IV – Management and operations of e-Government"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "e-Government governance structure and processes",
+      "content": "(1) There shall be established e-Government governance structure and processes in the Public Service to govern and control the implementation and proper use of ICT in public institutions. (2) The e-Government governance structure under subsection (1) shall include National e-Government Steering Committee, e-Government Technical Committee and Institutional e-Government Steering Committee."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "National e-Government Steering Committee",
+      "content": "(1) There is established a National e-Government Steering Committee for overseeing national e-Government matters. (2) The National e-Government Steering Committee shall be composed of the following members: (a) the Chief Secretary who shall be the Chairman; (b) the Permanent Secretary of the Ministry responsible for e-Government ; (c) the Permanent Secretary of the Ministry responsible for ICT; (d) the Permanent Secretary of the Ministry responsible for finance; (e) the Permanent Secretary of the Ministry responsible for Local Government; (f) the Deputy Attorney General; and (g) the Director General . (3) The National e-Government Steering Committee shall perform the following functions: (a) provide strategic and policy direction required to drive the transformation of the public service delivery and administration in the digital age; (b) approve cross cutting ICT policies, strategies, master plan and directives in the Government; (c) advise on key ICT projects and programmes to ensure synergistic and cost-effective adoption of ICT in the Government; (d) advise the Minister on all matters relating to e-Government ; and (e) perform such other functions as may be directed by the Minister . (4) The Ministry responsible for e-Government shall serve as secretariat to the National e-Government Steering Committee . (5) The e-Government Steering Committee shall prepare semi annual report of its deliberations and submit the report to the Minister ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "e-Government Technical Committee",
+      "content": "(1) The Minister shall establish e-Government Technical Committee for providing technical guidance to public institutions on implementation of ICT initiatives. (2) The e-Government Technical Committee shall be appointed among heads of ICT of ministries and ICT technical directors of public institutions. (3) The Chairman of e-Government Technical Committee shall be appointed by the Minister and the Secretary shall be appointed by the Authority . (4) The e-Government Technical Committee shall perform the following functions: (a) to review and recommend on e-Government policies for adoption by all public institutions; (b) to review and recommend on e-Government master plan and strategies for adoption by all public institutions; (c) to approve e-Government standards and practices to facilitate data sharing across public institutions; (d) to review and recommend on key national e-Government Projects and programmes; (e) to provide technical guidance on resolving conflicts on implementation of key ICT projects and initiatives in public institutions; (f) advise the National e-Government Steering Committee on all matters relating to e-Government ; and (g) perform such other functions as may be directed by the Authority or the National e-Government Steering Committee . (5) The e-Government Technical Committee shall, in the performance of its functions under this Act, be accountable and report to the National e-Government Steering Committee . (6) The e-Government Technical Committee shall prepare reports of its deliberations on quarterly basis and submit to the e-Government Steering Committee. (7) The e-Government Technical Committee may, for efficient operation of its functions under subsection (4) , form such number of subcommittees to perform technical functions as it may determine."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Institutional ICT Steering Committee",
+      "content": "(1) The accounting officer of each public institution shall establish an Institutional ICT Steering Committee for providing technical guidance on implementation of ICT initiatives. (2) The Institutional ICT Steering Committee shall be composed of a minimum of six and maximum of seven members as follows: a) accounting officer who shall be the Chairman; b) head of ICT who shall provide secretariat to the Committee; c) head of planning; d) head of procurement; e) Chief Internal Auditor; f) Chief Accountant; and g) at least one head of key business unit. (3) The Institutional ICT Steering Committee shall perform the following functions: (a) to review and approve ICT policy and strategy of the institution; (b) to review and provide advice on ICT investment portfolio and priorities; (c) to ensure alignment of ICT with the organization’s business needs; (d) to ensure e-Government guidelines and standards are implemented by the institution; (e) to ensure continuous monitoring and evaluation of institutional ICT projects; (f) to review and approve institutional disaster recovery plan and ensure its effective implementation; (g) to approve any other institutional e-Government sub-committee as may, from time to time, be constituted and address specific ICT related matters; (h) to prepare and submit quarterly Ministerial e-Government progress report to the Authority ; and (i) to perform such other functions as may be directed by the accounting officer or the Authority . (4) Institutional ICT Steering Committee for public institution other than Ministry, Region or Local Government Authority shall be composed of members from the Ministry under which the public institution belongs. (5) Institutional ICT Steering Committee for Local Government Authorities shall be composed of members from the Region in which the Local Government Authority belongs. (6) For effective data , security and service governance, public institutions may establish such other potential management sub-committees. (7) The Institutional ICT Technical Committee shall prepare quarterly report of its deliberations and submit to the e-Government Technical Committee ."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Meetings of Committees",
+      "content": "(1) The Committees established under sections 16 , 17 and 18 shall, for the purpose of performing their respective functions, hold such number of meetings or deliberations of matters under this Act. (2) The Committees may, during the meeting, co-opt any person whose presence is in its opinion desirable in the deliberation of meeting of the committees."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Operations, accountability and working relationship of committees",
+      "content": "The Minister may make regulations prescribing matters relating to the operations, accountability, working relationship of the committees and other relevant matters."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Establishment ICT Management Unit",
+      "content": "(1) For the better carrying out the provisions of this Act, there shall be established in every public institution an ICT Management Unit with such number of staff as may be required for efficient performance of functions in the respective public institution . (2) The ICT Management Unit shall consist of ICT specialists with appropriate qualifications. (3) The ICT Management Unit shall be headed by a person with appropriate academic and professional qualification and experience in ICT. (4) The head of ICT Management Unit shall report directly to the accounting officer of the public institution . (5) For the purpose of this section, “ICT management unit” includes directorate, department or unit responsible for ICT matters in the public institution ."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "e-Government management",
+      "content": "(1) A public institution shall ensure that e-Government initiatives are managed in compliance with guidelines issued by the Minister and technical standards and guidelines issued by the Authority . (2) For the purpose of subsection (1) , a public institution shall, on annual basis, conduct self-assessment on the implementation of e-Government initiatives and submit a copy of the report to the Authority. (3) The Authority shall ensure that e-Government initiatives within public institutions are managed in compliance with guidelines issued by the Authority . Part V – e-Government infrastructure and systems"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "e-Government infrastructure",
+      "content": "(1) For the purpose of ensuring that the Government has maximum optimization of infrastructure, public institutions shall use Government approved communication infrastructure for any communication. (2) For the purpose of ensuring cost effectiveness and ICT readiness, construction of any Government owned infrastructure such as roads, railways, buildings and such other infrastructure shall, subject to the guidelines issued by the Authority — (a) include ICT Infrastructure as part of the project design in accordance with the standards, conditions or guidelines issued by the Authority ; (b) share all the necessary ICT design with the Authority ; and (c) provide necessary environment for installation of communication infrastructure. (3) Notwithstanding any other law to the contrary, the installation of Government ICT infrastructure in road, railway or any reserve shall not be subject to any charges."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "ICT projects",
+      "content": "(1) Each public institution shall implement ICT projects in compliance with technical standards and guidelines as may be prescribed by the Authority . (2) For the purpose of ensuring compliance with technical standards and guidelines and avoiding duplication of efforts, any institution that intends to implement ICT project shall submit to the Authority for advice and— (a) provide details of the projects during the planning stage and receive clearance from the Authority before solicitation of the funds; (b) formulate a competent project team; (c) Maintain all necessary project documents; and (d) submit final project report to the Authority in a format provided by the Authority ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "e-Government systems",
+      "content": "Public institutions shall, for the purpose of e-Government system sustainability, reliability, continuity and availability — (a) in the case of development of new system— (i) prepare all the necessary requirements and initial documentation based on the set of standards and guidelines as provided by the Government and share with the Authority ; (ii) involve relevant stakeholders and avoid duplication; (iii) where applicable, use Government centralized systems instead of developing new system; (iv) formulate government competent team to participate in the system development; and (v) submit all system development reports to the Authority . (b) in the case of system deployment and hosting— (i) assess the system and produce assessment report before deployment in the production environment; and (ii) host the system to the Government approved hosting environment. (c) in the case of system operations and maintenance— (i) ensure availability of competent staff to support the system operations; (ii) establish user support mechanism of the system; and (iii) undertake regular maintenance of the system when required."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Government ICT resources",
+      "content": "(1) For the purpose of proper utilization and management of Government owned ICT resources, public institutions shall— (a) observe value for money, flexibility in customization, scalability, integration and interoperability in sourcing or using application software; (b) develop or apply licensed and approved software to conduct their business processes; (c) ensure Government ICT resources are used only for the benefits of the Government and its service delivery; (d) maintain a register of all Government ICT resources owned by the public institution through central system managed by the Authority ; and (e) acquire Government ICT resources specifications guide from the Authority . (2) For the purpose of this section, “Government ICT resources” includes ICT equipment, software, bandwidth, documents and other ICT related resources. Part VI – e-Government services"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VI",
+      "section": "27",
+      "title": "Recognition of e-Government services",
+      "content": "(1) Without prejudice to any other written law, where a public institution has power to deal with data or information or a document or to provide services, it may deal with that information or document or provide such services in electronic form in accordance with this Act. (2) For the purpose of subsection (1) , the Minister may, by notice published in the Gazette , issue guidelines specifying— (a) the manner and format in which the electronic transaction shall be made; (b) the type of electronic signature required, in cases where an electronic transaction has to be signed; (c) the manner and format in which the electronic signature may be attached or associated with an electronic transaction; (d) the identity or criteria to be met by an authentication service provider for e-Government services ; (e) the appropriate control process and procedure to ensure adequate integrity , security and confidentiality of information, an electronic transaction or an electronic payments; and (f) any other requirements that relate to electronic transaction. (3) For the purpose of this section, “electronic transaction” includes transmission of data , information, document or providing services electronically."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VI",
+      "section": "28",
+      "title": "Delivery of e-Government services",
+      "content": "A public institution shall, for proper delivery of e-Government services — (a) use ICT to deliver government services to achieve objectives of the institution; (b) ensure business processes subject for re-engineered to enhance e-Government service provision; (c) ensure availability of e-Government services that are reliable and citizen-centric; (d) use appropriate channels and languages that enable citizens to access Government services based on available technologies; (e) consider impact on persons with limited access to e-services and persons with disabilities; (f) ensure e-Government services delivered have adequate support systems to end users; (g) maintain and promote integrated and interoperable systems to be used in service provision; and (h) ensure any business process that facilitates revenue generation is automated and integrated with approved Government payment systems."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VI",
+      "section": "29",
+      "title": "Reduction of paper documents",
+      "content": "(1) Public institutions shall reduce paper documents acquired, prepared, circulated, and preserved by it by innovating and digitalizing work processes and sharing administrative information amongst public institutions. (2) The Minister may make regulations prescribing matters related for implementation of this section."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VI",
+      "section": "30",
+      "title": "Electronic records",
+      "content": "(1) Where any law provides that records shall be retained for any specific period, that requirement shall be deemed to have been satisfied if such records are retained in the electronic form if— (a) the information contained in that record remains accessible so as to be usable for a subsequent reference; (b) the electronic record is retained in the format which represent accurately the information originally generated, sent or received; and (c) the details which will facilitate the identification of the origin, destination, date and time of dispatch or receipt of such electronic record are available in the electronic record . (2) Management and use of public electronic records shall be in accordance with the Records and Archives Management Act. [ Cap 309 ]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VI",
+      "section": "31",
+      "title": "Payment of money and issuance of receipt in electronic form",
+      "content": "Where the law requires payment to be made or issuance of any receipt of payment, that requirement shall be met if payment is made or receipt is issued by an electronic means in accordance with the Electronic Transactions Act. [Cap. 442]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VI",
+      "section": "32",
+      "title": "Publication of documents in electronic Gazette",
+      "content": "Where any law provides that any document shall be published in the Gazette , such requirement shall be deemed to have been satisfied if such document is published in the Gazette or electronic Gazette ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VI",
+      "section": "33",
+      "title": "Electronic communication of Government",
+      "content": "(1) Where any law provides for— (a) the sending of any letter, request, report, internal memo or any other document within Government office, authority, body or agency in a particular manner; and (b) the issue of short messaging, calling, video or any other form of multimedia communication within the Government offices or officials, such communication shall be deemed to have been met if effected by means of electronic form. (2) The Minister may, for the purposes of subsection (1) , by rules, prescribe— (a) the standards of the approved systems and devices to be used for official Government Communication; and (b) the category, type, classification of information and data that shall not be transmitted through electronic communication ."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VI",
+      "section": "34",
+      "title": "Audit of documents in electronic form",
+      "content": "Where any law provides for audit of documents, records or information, that law shall also be applicable for audit of documents, records or information processed and maintained in electronic form."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VI",
+      "section": "35",
+      "title": "Delivery of services by service provider",
+      "content": "(1) The Minister may, with the advice of the Authority , for the purposes of efficient Government authorize any service provider to integrate with the government systems, maintain and upgrade the computerized facilities and perform such services as it may be specified, by order published in the Gazette . (2) A service provider authorized under subsection (1) may collect, and retain appropriate service charges, as may be prescribed by the Minister in consultation with the Minister responsible for finance, for the purposes of providing such services. Part VII – e-Government Security"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VII",
+      "section": "36",
+      "title": "Establishment of e-Government Security Operations Center",
+      "content": "(1) Without prejudice to any other written law, there shall be established e-Government Security Operations Center. (2) The Minister may make regulations with respect to the composition and duties of e-Government Security Operations Center."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VII",
+      "section": "37",
+      "title": "ICT security governance and management",
+      "content": "A public institution shall, for the purpose of ICT security governance and management— (a) develop and implement institutional ICT security policy and ICT security strategy that provide directives for managing ICT security; (b) set and review objectives for ICT security strategy and make budgetary provisions to achieve those objectives; (c) establish ICT security governance structure that provides strategic direction and oversight of ICT security issues; (d) comply with the technical standards and guidelines prescribed by the Minister on ICT security matters; (e) perform regular ICT security risk assessment at such intervals as may be prescribed by the Authority ; and (f) prepare regular ICT security reports and submit them to the Authority ."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "ICT security operations",
+      "content": "(1) A public institution shall, for the purpose of ICT security operations— (a) monitor ICT systems against ICT security requirements for performance and compliance with the ICT security policy; (b) record and retain key information relating to information system activities as per security requirements; (c) perform vulnerability assessment and penetration testing on networks and systems as may be prescribed by the Authority ; (d) secure networks by segmentation, putting adequate intrusion, detection and prevention mechanisms, deploying firewalls and other security measures; (e) protect systems from potential vulnerabilities by patching and updating applications and operating systems; (f) perform ICT security testing before deployment of critical application software ; (g) secure data from unauthorized interception, alteration and destruction in storage, in transit or while being processed; and (h) implement complete security for endpoint ICT equipment as may be prescribed by the Authority . (2) For the purpose of this section “endpoint ICT equipment” means the ICT equipment that allows entry to a network system."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Security of ICT assets",
+      "content": "A public institution shall, for the purpose of security of ICT assets identify, classify, manage and report to the Authority ICT assets such as network appliances, systems, applications, storage devices and data ."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VII",
+      "section": "40",
+      "title": "Identity and access management",
+      "content": "All public institutions shall, for the purpose of identity and access management— (a) authenticate users of ICT systems appropriately by granting identity, access and privileges on the basis of a verified business need; (b) monitor access for appropriate usage and revoke access when no longer required; (c) implement focused auditing on the use of administrative privileged functions and monitor for anomalous behavior; and (d) inform users of ICT systems on their obligations and responsibilities for ICT security."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VII",
+      "section": "41",
+      "title": "ICT security incident management",
+      "content": "A public institution shall, for the purpose of ICT security incident management identify, manage and recover from ICT security-related incidents in a timely and effective manner by— (a) anticipating potential ICT security incidents and plan resource mobilization to ensure appropriate incident response when required; and (b) reporting significant incidents to the Authority for appropriate support and facilitation of cross-governmental information sharing."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VII",
+      "section": "42",
+      "title": "Information system continuity management",
+      "content": "A public institution shall, for the purpose of information system continuity management— (a) develop and implement proper backup and restoration mechanisms for ICT systems continuity; (b) develop and implement disaster recovery plan (DRP); and (c) test the disaster recovery plan at such intervals as may be prescribed and submit the report to Authority ."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VII",
+      "section": "43",
+      "title": "Information systems acquisition, development and maintenance",
+      "content": "A public institution shall, for the purpose of ensuring security during information systems acquisition, development and maintenance— (a) specify ICT security control requirements in business requirements for new systems or enhancements; and (b) design, develop, implement and test ICT security controls against ICT security requirements."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VII",
+      "section": "44",
+      "title": "Human resource security",
+      "content": "For the purpose of human resource security, public institutions shall— (a) make a careful and critical examination of personnel before assigned responsibilities for handling critical ICT systems; (b) make provision for an appropriate segregation of duties taking into consideration ICT security risk assessment results; and (c) provide ICT security awareness to all staff and trainings to ICT technical staff as may be prescribed and submit report to the Authority ."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VII",
+      "section": "45",
+      "title": "Physical and environment security",
+      "content": "A public institution shall, for the purpose of physical and environment security— (a) protect critical Government ICT processing and hosting facilities from unauthorized access, damage, interference and environmental threats; (b) use the available Government ICT processing and hosting facilities or use Government approved supplier environment only; and (c) record and retain ICT processing and hosting facilities visitation and maintenance information."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VII",
+      "section": "46",
+      "title": "ICT security compliance and audit",
+      "content": "A public institution shall, for the purpose of ICT security compliance and audit— (a) perform regular independent ICT security assessments and audits as part of internal operations in a manner prescribed by the Authority ; and (b) comply with legal, regulatory and ICT security requirements in ICT operations and management. Part VIII – Electronic Government data management"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VIII",
+      "section": "47",
+      "title": "Electronic data management",
+      "content": "(1) Public institutions shall have the duty to establish and comply with electronic data management mechanism as may be prescribed by the Minister to ensure effective decision making and improved performance. (2) Without prejudice to other laws, public institutions shall ensure confidentiality , integrity and availability of the electronic data owned by the public institution ."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VIII",
+      "section": "48",
+      "title": "Data sharing and exchange",
+      "content": "(1) Without prejudice to any written law and for the purpose of enhancing efficiency and decision making, public institutions shall share data electronically in the manner prescribed by the Minister . (2) For the purposes of facilitating data sharing across the Public Service, the Authority shall establish and manage a data sharing and exchange platform."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VIII",
+      "section": "49",
+      "title": "Data standards",
+      "content": "In case of capturing, storing, processing, and sharing of electronic data , public institutions shall comply with technical standards and guidelines issued by the Authority . Part IX – Financial provisions"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part IX",
+      "section": "50",
+      "title": "Funds of Authority",
+      "content": "(1) The funds and resources of the Authority shall consist of— (a) moneys appropriated by the Parliament; (b) all other payment or property due to the Authority in respect of any matter incidental to its functions; (c) any grants, donations, bequests or other contributions made to the Authority ; (d) any other monies legally acquired or received by the Authority for the execution of its functions; (e) such sums of money or property which may become payable to or vested in the Authority under this Act or any other written laws; and (f) any monies derived from loans or other payments or property due to the Authority in respect of any matter incidental to its functions. (2) In the performance of its functions under the Act, the Authority may collect fees, charges or commissions in a manner prescribed in the regulations."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part IX",
+      "section": "51",
+      "title": "Financial management",
+      "content": "The funds of the Authority shall be managed and administered by the Board in accordance with the financial laws and regulations and shall be utilized to defray expenses in connection with performance of functions of the Authority under this Act."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part IX",
+      "section": "52",
+      "title": "Estimates of income and expenditure and financial control",
+      "content": "(1) The Director General shall, not less than three months before the end of each financial year, prepare and submit to the Board for approval the budget that includes the estimates of income and expenditure for the next financial year. (2) Subject to the subsection (1) , the Authority shall submit a copy of the Budget to the Minister for approval."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part IX",
+      "section": "53",
+      "title": "Expenditure of fund",
+      "content": "(1) An expenditure shall not be incurred from the funds of Authority unless that expenditure is part of the expenditure approved by the Board in respect of the financial year to which the expenditure relates. (2) The Director General shall ensure that all payments out of the Authority ’s funds are correctly made and properly authorized and adequate control is maintained over its property and over the incurring of liabilities by the Authority ."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part IX",
+      "section": "54",
+      "title": "Financial year",
+      "content": "The financial year of the Authority shall be the period of one year ending on 30 th June."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part IX",
+      "section": "55",
+      "title": "Accounts and audit",
+      "content": "(1) The Authority shall keep proper books of accounts and maintain proper records of its operations in accordance with the public sector accounting standards and other standards approved by the national accounting standards setting board. (2) The accounts of the Authority may at any time and shall, at the end of each financial year, be audited by the Controller and Auditor General or any other person appointed by him. (3) The Authority shall keep proper books and audited records of accounts of the income, expenditure, assets and liabilities of the Authority . (4) The Authority shall, after the end of each financial year, submit to the Controller and Auditor General the accounts of the Authority together with— (a) a statement of financial performance during the year; (b) a statement of the financial position of the Authority on the last day of that year; (c) a statement of change in equity during the year; (d) statement of comparison of budget and actual amounts; and (e) notes, comprising of a summary of significant accounting policies and other explanatory notes."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part IX",
+      "section": "56",
+      "title": "Annual report",
+      "content": "(1) The Authority shall Within three months after 30 th September each year, prepare an annual report in respect of that year up to the 30 th June and submit it to the Minister . (2) The annual report shall provide a detailed information regarding the exercise of the functions and powers of the Authority during the year to which it relates and shall include— (a) a copy of the audited accounts of the Authority ; (b) a copy of any other report of the Controller and Auditor General carried out during the year to which the annual report relates; and (c) such information and other material as the Authority may be required by this Act or the regulations to include in the annual report. Part X – General provisions"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part X",
+      "section": "57",
+      "title": "Offences and penalties",
+      "content": "(1) A person who— (a) illegally discloses or shares any data or electronic record accessed in the course of employment; (b) downloads unauthorized materials by the use of Government ICT equipment or infrastructure; (c) disseminate or transmit official information or data through unauthorized channel; (d) access information or programs through government ICT equipment without authorization; (e) unlawfully removes, destroys, alters or damages any data or electronic record or ICT infrastructure or ICT equipment; (f) knowingly or negligently fails to comply with prescribed technical guides and standards on ICT security matters; or (g) fails to comply with section 24 of this Act regarding implementation of ICT project, commits an offence and upon conviction shall— (i) in the case of offences under paragraphs (a) , (c) , (d) and (f) , be liable to a fine of not less than five million shillings but not exceeding ten million shillings or to imprisonment for a term of not less than six months but not exceeding twelve months or to both; and (ii) in the case of offences under paragraphs (b) , (e) and (g) , be liable to a fine of not less than three million shillings but not exceeding five million shillings or to imprisonment for a term of not less than six months but not exceeding twelve months or to both. (2) A public servant who contravenes the provisions of this Act shall be liable for disciplinary or criminal proceedings as provided for under the Public Service Act or other relevant laws. [ Cap. 298 ]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part X",
+      "section": "58",
+      "title": "General penalty",
+      "content": "(1) Where a person contravenes any of the provisions of this Act for which no specific penalty is provided, commits an offence and on conviction, shall be liable to a fine of not less than two million shillings but not exceeding twenty million shillings or to imprisonment for a term of not less than six months but not exceeding five years or to both. (2) Where a person is convicted of an offence under this Act, the court may in addition, order the person convicted to pay to the Authority a sum equal to the cost of repairing any damage so caused."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part X",
+      "section": "59",
+      "title": "Restriction on execution against property of Authority",
+      "content": "Notwithstanding any provision to the contrary in any written law, where a judgment or order has been obtained against the Authority , no execution or attachment or process in the nature thereof shall be issued against the Authority or against the property or assets of the Authority but the Authority shall cause to be paid out of the revenue of the Authority such amounts as may, by the judgment or order, be awarded against the Authority to the person entitled thereto."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part X",
+      "section": "60",
+      "title": "Regulations",
+      "content": "(1) The Minister may, in consultation with the Authority , make regulations for the better carrying out or giving effect to the provisions of this Act. (2) Without prejudice to the generality of subsection (1) , the Minister may make regulations prescribing— (a) the conditions and terms upon which any specified facilities or services within the scope of the functions of the Authority shall be provided to the public; (b) the criteria for integrated systems; (c) the manner in which electronic record shall be maintained, stored and accessed; (d) manner of conducting assessment of system deployment and hosting; (e) procedure for approval of new systems developed by public institutions; (f) procedures for conducting inspection and investigation on any ICT project , systems and performance audits; (g) procedures for reduction of paper work in public institutions; (h) manner of sharing information amongst public institutions; (i) procedure for management of complaints; (j) disciplinary procedures for managerial staff; and (k) providing for any matter which, in the opinion of the Authority , is necessary for the efficient performance of its functions. (l) The Minister shall, in consultation with the Minister responsible for procurement, make detailed specifications and standards of computers and other related equipment and tools for use by public institutions."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part X",
+      "section": "61",
+      "title": "Rules, guidelines, code of ethics and conducts",
+      "content": "The Authority may prepare rules, guidelines, code of ethics and conduct for regulating its staff activities, for compliance purposes, monitoring and evaluation. Part XI – Consequential amendments Amendment of the Electronic Transactions Act"
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part XI",
+      "section": "62",
+      "title": "Construction",
+      "content": "This Part shall be read as one with the Electronic Transactions Act hereinafter referred to as the “principal Act”. [Cap 442]"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part XI",
+      "section": "63",
+      "title": "Amendment of long title",
+      "content": "The principal Act is amended in the long title by deleting the words “ e-Government services ”."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part XI",
+      "section": "64",
+      "title": "Addition of section 12A",
+      "content": "The principal Act is amended by adding immediately after section 12 the following: “"
+    },
+    {
+      "provision_ref": "s12A",
+      "chapter": "Part XI",
+      "section": "12A",
+      "title": "Payment of money and issuance of receipt in electronic form",
+      "content": "Where the law requires— (a) payment to be made, the requirement shall be met if payment is made by an electronic means and complies with any conditions imposed by other relevant laws; and (b) the issuance of any receipt of payment, the requirement shall be met if the receipt is in the form of an electronic message and the electronic message is accessible and intelligible so as to be usable for subsequent reference.”"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part XI",
+      "section": "65",
+      "title": "Repeal of Part III",
+      "content": "The principal Act is amended by repealing Part III . [Cap.442] Schedule (Made under section 7(5)) Proceedings of the Board 1. Election of Vice Chairman The Board shall elect one of its members to be Vice Chairman for a term of four years and shall be eligible for re-election. 2. Tenure of appointment (1) The Chairman, the Vice Chairman and members of the Board shall be appointed for the following fixed terms: (a) a Chairman four years; (b) Vice Chairman four years; (c) other seven members three years; (2) Members of the Board shall be eligible for re-appointment for only one term. (3) Any member may at any time resign by giving notice in writing to the appointing authority and from the date specified in the notice or if no date is specified, from the date of the receipt of the notice by the appointing authority, he shall cease to be a member. 3. Co option of members The Board may co-opt any person whose presence is in its opinion desirable to attend and to participate in the deliberations of meeting of the Board and such person shall have no right to vote. 4. Meetings of Board (1) The Board shall meet once every three months. (2) An ordinary meeting of the Board shall be convened by the Chairman, and the notice specifying the place, date and time of the meeting shall be sent to each member at his usual place of business or residence. (3) Where the Chairman is unable to act by any reason, the Vice Chairman shall convene the meeting. (4) The Chairman or, in his absence, the Vice Chairman, may, if requested in writing by at least half the members, convene a special meeting of the Board. (5) The Board may review its own decision made under this Act. 5. Cessation of membership A member of the Board may cease to be a member where he— (a) is declared bankrupt; (b) is convicted of a criminal offence; (c) fails to declare conflict of interest; (d) fails to perform his duties because of ill health or physical or mental impairment; (e) has breached a code of ethics and conduct; (f) fails to attend at least two thirds of all meetings of the Authority for twelve months consecutively without reasonable excuse. 6. Appointment of temporary member Where any member is by reason of illness, infirmity or absence from the United Republic unable to attend any meeting of the Board, the Minister may appoint a temporary member in his place and any such temporary member shall cease to hold office on the resumption of office of the substantive member. 7. Quorum The quorum at any meeting of the Board shall be more than half of the members of the Board. 8. Conflict of interest (1) Where at any time a member of the Board has a conflict of interest in relation to— (a) any matter before the Board for consideration or determination; or (b) any matter the Board could reasonably expect might come before it for consideration or determination, the member shall immediately disclose the conflict of interest to the other members of the Board and refrain from taking part, or taking any further part, in the consideration or determination of the matter. (2) Where the Board becomes aware that a member has a conflict of interest in relation to any matter which is before it, the Board shall direct the member to refrain from taking part, or taking any further part, in the consideration or determination of the matter. (3) A member of the Board shall be considered to have breached the provision of sub paragraph (1) if he— (a) fails without reasonable cause to make declarations of his interests as required; or (b) knowingly makes a false declaration or misleading statement in material particular thereby affecting the decision of the Board. 9. Decision of Board Decision of the Board shall be made by majority of votes of the members present and in the event of the equality of votes, the Chairman shall have a casting vote. 10. Minutes of meetings Minutes in proper form of each meeting of the Board shall be kept and shall be confirmed by the Board at its next meeting. 11. Official seal (1) The official seal of the Authority shall be of such shape, size and form as the Board may determine. (2) The official seal of the Authority shall be duly affixed if witnessed under hand by the Chairman, the Director General or the Secretary of the Authority and any other person duly authorized in that behalf. 12. Proceedings not invalidated by irregularity Proceedings of the Board shall not be invalid by reason of any defect or irregularity in the appointment of any member or by reason that any person who bona fide acted as a member at the time of the proceeding was in fact disqualified or not entitled to act as a member. 13. Absence from three consecutive meetings Where any member absents himself from three consecutive meetings of the Board without sufficient cause, the Board shall advise the appointing authority of the fact and the appointing authority may terminate the appointment of the member and appoint another member in his place. 14. Board may regulate its own proceedings Subject to this Act, the Board shall have power to regulate its procedure in relation to its meetings and the transaction of its meetings. History of this document 11 October 2024 amendment not yet applied Amended by Written Laws (Miscellaneous Amendments) (No. 2) Act, 2024 31 December 2023 Chapter 273 Revised Laws 2023 Consolidation 15 December 2019 Commenced by e-Government (Date of Commencement) Notice, 2019 20 September 2019 this version Published in Tanzania Government Gazette 39 19 September 2019 Assented to Related documents Amends Electronic Transactions Act Is amended by Written Laws (Miscellaneous Amendments) (No. 2) Act, 2024 Is commenced by e-Government (Date of Commencement) Notice, 2019 More documents like this one Subsidiary legislation Title e-Government General Regulations, 2020 Government Notice 75 of 2020 [] [] [] [{\"provision_eid\": \"part_VI__sec_27\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_28__para_d\", \"citations\": 1}] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "asset",
+      "definition": "any property owned by the Authority whether tangible or intangible, including physical property, land, shares or proprietary rights",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Authority",
+      "definition": "the e-Government Authority established under section 4",
+      "source_provision": "s3"
+    },
+    {
+      "term": "availability",
+      "definition": "ensuring timely and reliable access to and use of information",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of Directors of the e-Government Authority established under section 7",
+      "source_provision": "s3"
+    },
+    {
+      "term": "confidentiality",
+      "definition": "preserving authorized restrictions on access and disclosure, including means for protecting personal privacy and proprietary information",
+      "source_provision": "s3"
+    },
+    {
+      "term": "critical application software",
+      "definition": "application software which is used to deliver or perform core institutions or Government business processes",
+      "source_provision": "s3"
+    },
+    {
+      "term": "critical system",
+      "definition": "a system which is used to deliver or perform core institutions or Government business processes",
+      "source_provision": "s3"
+    },
+    {
+      "term": "data",
+      "definition": "any information presented in an electronic form",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Director General",
+      "definition": "the Director General of the Authority appointed under section 11",
+      "source_provision": "s3"
+    },
+    {
+      "term": "e-Government",
+      "definition": "the use of information and communication technologies (ICT) by the Government to deliver public services",
+      "source_provision": "s3"
+    },
+    {
+      "term": "e-Government initiative",
+      "definition": "any intervention taken by public institution for the purpose of implementing e-government",
+      "source_provision": "s3"
+    },
+    {
+      "term": "e-Government security",
+      "definition": "ICT security in the public sector",
+      "source_provision": "s3"
+    },
+    {
+      "term": "e-Government services",
+      "definition": "all services which are delivered by public institutions by electronic means",
+      "source_provision": "s3"
+    },
+    {
+      "term": "e-Government Technical Committee",
+      "definition": "the e-Government Technical Committee established under section 17",
+      "source_provision": "s3"
+    },
+    {
+      "term": "electronic communication",
+      "definition": "any transfer of sign, signal or computer data of any nature transmitted in whole or in part by a wire, radio, electromagnetic, photoelectronic, photo optical or in any other similar form",
+      "source_provision": "s3"
+    },
+    {
+      "term": "electronic record",
+      "definition": "a record that is created, generated, sent, communicated, received, stored or accessed by electronic means",
+      "source_provision": "s3"
+    },
+    {
+      "term": "ICT disposal",
+      "definition": "ICT equipment and software disposal",
+      "source_provision": "s3"
+    },
+    {
+      "term": "ICT infrastructure",
+      "definition": "composite hardware, software, network resources and services required for the existence, operation and management of an enterprise ICT environment",
+      "source_provision": "s3"
+    },
+    {
+      "term": "ICT project",
+      "definition": "a project for acquiring, sourcing or improving ICT infrastructure or systems for undertaking e-Government initiatives",
+      "source_provision": "s3"
+    },
+    {
+      "term": "ICT Security",
+      "definition": "protecting information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality , integrity and availability",
+      "source_provision": "s3"
+    },
+    {
+      "term": "ICT system",
+      "definition": "an ICT set-up consisting of hardware, software, data , communication technology and people who use them",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Institutional ICT Steering Committee",
+      "definition": "the Institutional ICT Steering Committee established under section 18",
+      "source_provision": "s3"
+    },
+    {
+      "term": "integrity",
+      "definition": "guarding against improper information modification or destruction, and includes ensuring information non-repudiation and authenticity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "interoperability",
+      "definition": "the ability of different information technology systems and software applications to communicate, exchange data and use of information that has been exchanged",
+      "source_provision": "s3"
+    },
+    {
+      "term": "metadata",
+      "definition": "a set of data that describes and provides information about other data",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for e-Government",
+      "source_provision": "s3"
+    },
+    {
+      "term": "National e-Government Steering Committee",
+      "definition": "the National e-Government Steering Committee established under section 16",
+      "source_provision": "s3"
+    },
+    {
+      "term": "public institution",
+      "definition": "ministries, independent departments, regional secretariats, local government authorities, executive agencies, parastatal organizations, public corporations or any other Government autonomous or semi-autonomous institutions",
+      "source_provision": "s3"
+    },
+    {
+      "term": "record",
+      "definition": "ascribed to it under the Records and Archives Management Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "service provider",
+      "definition": "an organization, business or individual which offers electronic service to a public institution . Part II – Establishment of the Authority",
+      "source_provision": "s3"
+    }
+  ]
+}

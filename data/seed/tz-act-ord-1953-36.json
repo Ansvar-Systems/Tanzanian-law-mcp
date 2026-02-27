@@ -1,0 +1,943 @@
+{
+  "id": "tz-act-ord-1953-36",
+  "type": "statute",
+  "title": "Land Registration Act",
+  "title_en": "Land Registration Act",
+  "short_name": "Land Registration Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/ord/1953/36/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Land Registration Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "(1) In this Act, unless the context otherwise requires— “ approved plan ” means a plan approved for the purposes of this Act by the Director of Surveys and Mapping of Department of Surveys and Mapping; “ borrower ” means the owner of an estate which is subject to mortgage ; “ certificate of occupancy ” means a certificate of occupancy issued under the provisions of the Land Act ; [Cap. 113] “ co-owner ” means the owner of an undivided share in any estate ; “ deed ” means an instrument in writing whereby a disposition is or is intended to be effected; “ disposition ” means any act performed inter vivos whereby the owner of a registered estate or interest transfers or mortgages that estate or interest or any part thereof or creates any lesser estate or interest thereout or whereby any such estate or interest is varied or extinguished, other than— (a) a lease expressed to be for a term of five years or less or any estate or interest derived from such a lease , unless such lease contains an option whereby the tenant can require the landlord to grant him a further term or terms which, together with the original term, exceed five years; or (b) a lease from year to year or for periods of less than a year, whether or not the lease includes an initial fixed term or any estate or interest derived from such lease , unless such initial fixed term exceeds four years; “ enter ” means to inscribe in the land register a memorial recording any notice, caveat, injunction or prohibitory order, and “entry” and “entered” shall be construed accordingly; “ estate ” means a freehold estate, a lease or any estate which under the provisions of this Act is deemed to be freehold or leasehold or a right of occupancy in respect of, which a certificate of occupancy has been issued, but does not include the title to any building, tree or other thing erected on or growing out of or affixed to land and owned separately from the land; “ index map ” means the land register to be maintained by the Registrar under the provisions of section 86 ; “ land register ” means the land register to be maintained by the Registrar under the provisions of subsection (2) of section 3 ; \" lease \" includes a sub-lease and a term created out of a right of occupancy in respect of which a certificate of occupancy has been issued, but does not include— (a) a right of occupancy whether a certificate of occupancy has been issued in respect thereof or not; or (b) a lease of, or any rights in or over, mines, minerals or mineral oils and “leasehold” shall be construed accordingly; “ legal personal representative ” means the executor, original or by representation or administration for the time being of a deceased person; “ lender ” means the owner of a mortgage ; “ memorial ” means any inscription in the land register and without prejudice to the generality of the foregoing, includes the description of any registered land , the record of the ownership thereof and the record of any incumbrance affecting the same; “ Minister ” means the Minister responsible for land; “ mortgage ” includes a sub-mortgage; “ mutation ” means the combination of two or more parcels into one or the division of a parcel into two or more parcels or a reparcellation; “ office copy ” means a copy of a proceeding filed in the proper office of a court and sealed with the seal of such office; “ owner ” means, in relation to any estate or interest, the person in whose name that estate or interest is registered; “ parcel ” means an area of registered land separately shown on the index map ; “ partition ” means the division and appropriation among co-owners of any parcel or the appropriation among co­owners of two or more parcels; “ public land ” means all land other than land— (a) registrable under Part II ; (b) required to be registered under Part II ; “ register ” means to inscribe in the land register a memorial recording the title to any estate in land or any disposition or transmission of any registered estate or interest, and “registration” and “registered” shall be construed accordingly; “ registered land ” means land in respect of which an estate has been registered; “ Registrar ” means the Registrar of Titles appointed under the provisions of section 4 and includes a Deputy Registrar and an Assistant Registrar; “ reparcelation ” means the alteration of the boundaries of two or more contiguous parcels to form new parcels differing in area or layout; and “ unregistered land ” means land other than registered land . (2) In this Act and in every deed made under this Act, reference to a landlord, tenant, lender , borrower , transferor or transferee shall be deemed to include his legal personal representative and successors in title. (3) Unless the context otherwise requires, nothing contained in this Act shall be construed as permitting any disposition , mutation or other act which is forbidden under the express provisions of any other law in force or as overriding any provision of any such law requiring the consent or approval of any person to any disposition , mutation or other act. [Ord. No. 22 of 1960 s. 6; G.N. No. 322 of 1962]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Maintenance of land registry",
+      "content": "(1) There shall be maintained at Dar es Salaam or such other place as the Minister may, by order, declare a land registry. (2) The Registrar shall maintain in the land registry a land register for the registration of the title to land in Tanzania and the recording of dispositions, transmissions and incumbrance of and over registered land . [GN. No. 478 of 1962]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Administration",
+      "content": "The Minister shall appoint a Registrar of Titles to perform the duties and exercise the powers imposed and conferred by this Act and may appoint a Deputy Registrar and any number of Assistant Registrars, who shall be subject to the directions of the Registrar of Titles. [GN. No. 478 of 1962]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part I",
+      "section": "5",
+      "title": "Signature of Registrar to be judicially noticed",
+      "content": "All courts, judges and persons acting judicially shall take judicial notice of the signature of the Registrar ."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part I",
+      "section": "6",
+      "title": "Seal of office",
+      "content": "There shall be a seal of the land registry and any document purporting to be sealed with that seal shall be admissible in evidence."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part I",
+      "section": "7",
+      "title": "Indemnity of officers",
+      "content": "The Registrar shall not, nor shall any person acting under the authority of the Registrar or under any rule made in pursuance of this Act, be personally liable for or in respect of any act or matter done or omitted to be done in good faith in the exercise or supposed exercise of the powers conferred by this Act or by any rule made in pursuance of this Act. Part II – First registration of existing titles"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Registrable estates",
+      "content": "(1) For the purposes of this Part, the expression— “registrable estate ” means a freehold estate or a lease or any estate which is by the provisions of the Act deemed to be freehold or leasehold, but does not include— (a) a lease for an unexpired term of five years or less unless such lease contains an option whereby the tenant can require the landlord to grant him a further term or terms which, together with the original unexpired term, exceed five years; (b) a lease from year to year or for periods of less than a year whether or not the lease includes an initial fixed term, unless such initial fixed term exceeds four years; or (c) a right of occupancy whether a certificate of occupancy has been issued in respect thereof or not. (2) An estate of absolute ownership acquired before the 26 th day of January, 1923, shall be deemed to be a freehold estate . (3) An Erbbaurecht or hereditary right of construction granted under German law during the period of German administration of Tanganyika shall be deemed to have created a lease of the land thereby affected. (4) Any land previously held in absolute ownership which has been validly endowed or dedicated as wakf ’ under Muslim law shall be deemed to be freehold, notwithstanding such endowment or dedication. [Ord. No. 22 of 1960 s. 6]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Power to make orders rendering registration compulsory in certain areas",
+      "content": "(1) The Registrar may, by order published in the Gazette , require every person who claims to be entitled, whether beneficially or as a trustee, to a registrable estate in any unregistered land to apply for registration of his title to such estate within such period as shall be specified in such order. (2) An order under this section may be made in respect of registrable estates within an area defined in the order or in respect of a particular registrable estate , in which case the order shall also be served on the person whom the Registrar believes to have the greatest estate therein and shall be affixed in a prominent place on the land. [ Act No. 24 of 1963 4 th Sch.]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Application for registration",
+      "content": "(1) Any person who claims to be entitled to a registrable estate in any unregistered land , whether beneficially or as a trustee, may apply to the Registrar in the prescribed manner for registration, hereinafter referred to as “first registration”, of his estate . Provided that, no person who has failed to comply with an order made under section 9 , shall, without the leave of the Registrar be entitled to apply for first registration. (2) Every application for first registration shall be accompanied by all documents of title to such land in the possession or under the control of the applicant. [Ord. No. 26 of 1958 s. 2; GN. No. 478 of 1962]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Applications not to abate",
+      "content": "An application for first registration shall not abate by reason of the death, bankruptcy or disability of the applicant or of any disposition made by him, but may be adopted and continued by his legal personal representative , trustee, committee or successor in title, as the case may be, and any reference in this Act to an applicant shall include any such legal personal representative , trustee, committee or successor in title so adopting and continuing an application."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Advertisement",
+      "content": "(1) Every application for first registration shall be advertised by the Registrar at the expense of the applicant in the Gazette and in such one or more newspapers, if any, as the Registrar may decide. (2) The Registrar may give notice of any application to such persons as he may think fit and shall, whenever practicable, give such notice to the reputed owners of all land adjoining that comprised in the application, except where such adjoining land is in an area defined in an order made under section 9 or is already registered or where the reputed owner or such adjoining land acknowledges in writing that he has no objection to the application."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Objections",
+      "content": "Any person who claims to have any estate or interest in the land comprised in an application for first registration may, at any time prior to the determination of the application by the Registrar , give the Registrar notice in writing objecting to the first registration of the land in the name of the applicant and setting out the grounds of his objection."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Investigation of title",
+      "content": "(1) The Registrar shall investigate the title to the registrable estate claimed and in the course of his investigation he may, in his absolute discretion, admit evidence which would not be admissible in a court of law and may use evidence adduced in any other application or contained in any official records and may call evidence of his own motion. (2) The Registrar may make such registration on title as may seem to him proper and may withdraw any such requisitions where he is satisfied that they cannot be complied with or can only be complied with at undue expense or after undue delay. (3) The Registrar may, at any time, and by notice in writing, require an applicant for first registration to comply with any requisition he may have made within such period as may be specified in the notice, not being less than one month and in default of compliance with such notice within that period, the Registrar may dismiss the application: Provided that, the Registrar may in his absolute discretion extend the period mentioned in such notice either before or after the expiration of such period."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Certain roots or title acceptable",
+      "content": "(1) An entry made in any Grundbuch , Land register , Kata, sterbuch or in the Grundstruecksbuch for Tabora or a finding made by a Land Commission or a certificate of ownership issued by a public authority, during the period of German administration of Tanganyika, maybe accepted by the Registrar as a good root of title. (2) A grant by the Landsfiskus, the Deutsch-Ostafrikanische Gesellschaft ; the Ostafrikanische Eisebahn Gesellschaft , the Osta-frikanische Landgesellschaft , or by any Communalverband or Stadtgemeinde , made during the period of German administration of Tanganyika, shall be deemed to be a grant made by the former German Government and to constitute a good root of title. (3) A conveyance or assignment made by the Custodian of Enemy Property appointed under the provisions of the Enemy Property (Vesting) Proclamation, shall be deemed to constitute a good root of title: Provided that, where the Custodian of Enemy Property purported to conveyance or assignment subject to conditions or restrictions imposed by the former German Government, the Registrar shall look behind such conveyance or assignment to discover the nature and extent of such conditions or restrictions. [ Proclamation No. 5 of 1917 ] (4) Where the Registrar is satisfied that an Administrative Officer or the Commissioner for Lands, after due investigation, has in any document issued before the third day of September, 1939, recognised the title of any applicant to any estate , the Registrar shall accept that document as a good root of title. (5) The Registrar may, in his absolute discretion, assume the root of title shown in an application for first registration to be good in any case where he has received no notice of objection to the application denying the root of title."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part II",
+      "section": "16",
+      "title": "Adverse possession",
+      "content": "For the avoidance of doubt, it is hereby declared that an application for first registration may be made by a person claiming to have acquired a title to a registrable estate by adverse possession or by reason of any law of prescription."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part II",
+      "section": "17",
+      "title": "Registrar ’s discretion to suspend compromise",
+      "content": "(1) The Registrar may, at any time prior to determining an application for the first registration of any registrable estate , in respect of which the Commissioner for Lands on behalf of the President has given notice of objection denying the root of title, suspend the proceedings for such period or periods as he may determine if it appears to him that the matter might be compromised by the withdrawal of the application and the grant of right of occupancy. (2) Where the applicant and the Commissioner for Lands fail to reach land agreement, the proceedings shall be resumed and neither party shall be prejudiced by any offer or admission or statement made during the period of suspension. (3) The provisions of subsection (1) shall be construed as in addition to and not in derogation of the discretion of the Registrar to adjourn proceedings."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part II",
+      "section": "18",
+      "title": "Decision allowing application",
+      "content": "(1) Where the Registrar is satisfied that a good title has been shown, he shall allow the application: Provided that, the Registrar shall not allow any application until after the expiration of two months from the date of publication of the advertisement in the Gazette relating thereto: And provided, further that the Registrar shall not allow any application to which he has received a notice of objection without giving the objector an opportunity of being heard unless the notice of objection is first withdrawn or the application is amended to comply with the notice of objection. (2) Where the Registrar is satisfied that the applicant has a registrable estate other than that claimed he may, with the consent of the applicant, allow the application for first registration in respect of such other estate . (3) In any class of case which maybe prescribed and subject to any rules made under this Act, the Registrar may allow an application notwithstanding any defect in the title deduced, not being a defect in the root of title, where it appears to him equitable or necessary in order to achieve substantial justice."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part II",
+      "section": "19",
+      "title": "Dismissal of application",
+      "content": "Where the Registrar is not satisfied that a good title has been shown, he shall dismiss the application."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part II",
+      "section": "20",
+      "title": "Decision of Registrar to be evidence in other proceedings",
+      "content": "Subject to the provisions of section 102 , the decision of the Registrar allowing or dismissing any application shall, in any subsequent civil suit, cause or matter between the applicant and any person who gave notice of objection to the application, be conclusive evidence of the matters therein contained and shall, in any subsequent civil suit, cause or matter between the applicant and any person who did not give such notice of objection, be prima facie evidence of the matters therein contained."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part II",
+      "section": "21",
+      "title": "Applications not to be repeated",
+      "content": "(1) Where an application for first registration of a registrable estate has been dismissed by the Registrar under this Act, no subsequent application shall be made by the same person or any person claiming through or under him for the same estate in the land therein comprised or any part thereof. (2) Notwithstanding the provisions of subsection (1) , the Registrar may in his absolute discretion allow any such subsequent application, subject to such conditions as he may think fit to impose— (a) where he is satisfied that further evidence can be adduced which was not available when the original application was determined; or (b) where the original application was made before the first day of June, 1954, and the title was deduced from a document which is prima facie acceptable as a good root of title under subsection (4) of section 15 , and in making any such subsequent application, an applicant shall not be stopped on account of his having accepted a right of occupancy nor shall his claim be defeated by reason of his having yielded up possession of the land to the President on or after the dismissal of his application. [Ord. No. 26 of 1958]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part II",
+      "section": "22",
+      "title": "Registrar to record reasons for his decision",
+      "content": "In every case where a notice of objection has been given under the provisions of section 13 and has not been withdrawn and in every case where the Registrar dismisses an application, he shall, when allowing or dismissing the application, record his reasons therefor."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part II",
+      "section": "23",
+      "title": "Registration to be deferred in certain cases",
+      "content": "Where the Registrar allows an application he shall register the estate in the name of the applicant: Provided that, where the application is one in respect of which a notice of objection has been given under the provisions of section 13 , he shall defer first registration for the period of one month and if within that period a notice of intention to appeal against his decision is delivered to him under the provisions of section 102 , he shall defer registration until such appeal has been determined."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part II",
+      "section": "24",
+      "title": "Conditions imposed by former German Government to run with land",
+      "content": "Any subsisting covenants or conditions contained in any grant of land made by German Government or imposed by that Government at the time of any disposition of land under any law formerly in force shall, on first registration, be recorded in the land register and when so recorded shall be deemed to run with the land so registered."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part II",
+      "section": "25",
+      "title": "Incumbrances subsisting at first registration",
+      "content": "(1) Where any registrable estate comprised in an application for first registration is subject to any estate or interest which, had such registrable estate been registered, would have required or been capable of registration or entry, such estate or interest shall be registered or entered in the land register at the time of first registration. (2) A legal mortgage made before first registration and registered under subsection (1) shall be deemed to be a mortgage within the meaning of section 57 notwithstanding that it may have been expressed to be a conveyance or assignment or sub-lease subject to redemption. (3) Where documents of title have, prior to first registration, been deposited with any person with the intention of creating an equitable mortgage and such equitable mortgage is subsisting at the time of first registration, the certificate of title issued shall be deemed to be deposited with that person under the provisions of section 64 at the time of issue, and notice under subsection (2) of that section shall be deemed to have been given by that person. (4) Where on first registration the Registrar is satisfied that any building, tree or other thing erected on or growing out of or affixed to the registered land is owned by a person other than the applicant for first registration he may inscribe a memorial to that effect in the land register"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part II",
+      "section": "26",
+      "title": "Disposal of documents of title",
+      "content": "The Registrar shall retain all documents of title produced to him in support of any application for first registration: Provided that, where any such documents relate also to unregistered land not comprised in the application, the Registrar shall endorse them with a note of the application and return them to the person who produced them. Part III – Grants of public land"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part III",
+      "section": "27",
+      "title": "Grants of public land and certificates of occupancy to be registered",
+      "content": "Every grant of public land for a Government lease and every certificate of occupancy made or issued after the coming into force of this Act shall be delivered to the Registrar who shall thereupon register the estate therein comprised in the name of the grantee or occupier: Provided that, the Registrar shall not register a certificate of occupancy in respect of a right of occupancy— (a) for a term of five years or less, unless such right of occupancy contains an option whereby the occupier may require the President to grant him a further term or terms which together with the original term exceed five years; or (b) from year to year or for periods of less than a year, whether or not such right of occupancy includes an initial fixed terms unless such initial fixed term exceeds four years. [Ord. No. 22 of 1960 s. 6; Act No. 24 of 1963 4 th Sch.]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part III",
+      "section": "28",
+      "title": "Covenants and conditions in grants and certificates of occupancy",
+      "content": "All covenants and conditions contained in any grant of public land or certificate of occupancy shall, on the registration of the grant or of the certificate of occupancy , be recorded in the land register in such manner as the Registrar may determine and when so recorded shall be deemed to run with the land."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part III",
+      "section": "29",
+      "title": "Agreements of mortgages for rights of occupancy",
+      "content": "Where any person to whom the President has agreed to grant a right of occupancy over any land has mortgaged or charged his interest under such agreement and such mortgage or charge is subsisting at the time when a certificate of occupancy relating to that land is delivered for registration, the Registrar shall register the mortgage or charge as an incumbrance against the title and when so registered it shall be deemed to be a mortgage within the meaning of section 57 . Part IV – Manner and effect of registration"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IV",
+      "section": "30",
+      "title": "Form and contents of land register",
+      "content": "(1) The land register shall be comprised of folios for every estate in every parcel , every such folio being divided into three parts containing respectively a brief description of the land together with its appurtenances, particulars of ownership and particulars of incumbrances. (2) Public land when registered shall be registered in the name of the President under the description “His Excellency the President”. (3) The Registrar may, from time to time, prepare a new folio in substitution for any folio of the land register , showing all subsisting entries and omitting any matter which he consider obsolete."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IV",
+      "section": "31",
+      "title": "Manner of registration",
+      "content": "(1) The first registration of any estate shall be effected by the preparation of a folio of the land register in accordance with section 30 and the signing or initialing by the Registrar of the particulars of ownership and the particulars of incumbrance, if any, appearing thereon. (2) Every subsequent registration or entry shall be effected by the inscription in the land register of appropriate memorials which shall be in such form as the Registrar may determine and shall be signed or initialed by the Registrar ."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part IV",
+      "section": "32",
+      "title": "Time of registration",
+      "content": "(1) A document presented for registration or entry in the land register which satisfies the requirements of this Act and of any other relevant law shall be deemed to be registered or entered, as the case may be, at the moment when it is presented, notwithstanding that the actual inscription in the land register may be delayed. (2) Documents sent by post or under cover and received during the hours of business shall be deemed to be received simultaneously immediately before the closing of the office for that day and those received between the time of closing and the next opening of the office for business shall be deemed to be received simultaneously immediately after such opening. (3) Where two or more documents relating to the same estate or interest in any registered land are presented simultaneously for registration or entry in the land register and one of such documents is accompanied by the certificate of title, that document shall be deemed to have been received immediately before the other or others."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part IV",
+      "section": "33",
+      "title": "Estate of registered owner paramount",
+      "content": "(1) The owner of any estate shall, except in case of fraud, hold the same free from all estates and interests whatsoever, other than— (a) any incumbrance registered or entered in the land register ; (b) the interest of any person in possession of the land whose interest is not registrable under the provisions of this Act; (c) any rights subsisting under any adverse possession or by reason of any law of prescription; (d) any public rights of way; (e) any charge on or over land created by the express provisions of any other law, without reference to registration under this Act, to secure any unpaid rates or other moneys; (f) any rights conferred on any person under the provisions of the Mining Act , the Petroleum Act , the Forests Act or the Water Resource Management Act, other than easements created or saved under the provisions of the last mentioned Act; and [Cap. 123; Cap. 392; Cap. 323; Cap. 331] (g) any security over crops registered under the provisions of the Chattels Transfer Act. [Cap. 210] (2) For the avoidance of doubt it is hereby declared that an owner of an estate shall not take the same free of any easement registered in the Water Grants Records maintained under the Water Ordinance between the first day of October, 1954, and the date upon which the Water Ordinance came into operation, by reason only that such easement was not registered in the land register . [Ord. No. 23 of 1948] [Ord. No. 3 of 1959 s. 40]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part IV",
+      "section": "34",
+      "title": "Memorials to give actual notice",
+      "content": "Every person acquiring any estate or interest in any registered land shall be deemed to have actual notice of every subsisting memorial relating to such land in the land register at the moment when he acquires such estate or interest and, in the case of subsisting memorials inscribed in those parts of the land register which contain the description of the land and the particulars of incumbrance, of any filed documents to which those memorials refer. Part V – Certificates of title"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Owner entitled to receive certificate",
+      "content": "The owner of an estate in any parcel shall be entitled to receive a certificate of title under the seal of the certificate land registry in respect thereof, showing the subsisting memorials in the land register relating thereto and co-owners may, if they so desire, receive separate certificates of title in respect of their respective shares: Provided that, it shall not be necessary to issue a certificate of title in respect of any public land registered in the name of the President."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "Endorsement of certificates of title",
+      "content": "(1) No registration shall be effected, nor shall a notice of deposit under section be entered, unless the certificate of title to the estate is produced and the Registrar , when effecting any such registration or entry shall either— (a) endorse on the certificate of title a memorial similar to that inscribed in the land register ; or (b) cancel the certificate of title and issue a new certificate of title or new certificates of title in its place, (c) whichever may in the opinion of the Registrar be appropriate. (2) As soon as practicable after the entry in the land register of any prohibitory order, injunction, caveat or notice, other than a notice of deposit, the Registrar shall endorse on the certificate of title a memorial similar to that inscribed in the land register ."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "Registrar may require production of certificates of title",
+      "content": "(1) The Registrar may, at any time, give notice in writing to any person whom he believes to be in possession of a certificate of title requiring such person to produce the same for endorsement of or cancellation within the period named in such notice, not being less than fourteen days from the date thereof, and any such notice shall state the reason why the production of such certificate of title is required. (2) Where any person refuses or neglects to comply with any such notice as aforesaid, the Registrar or any interested person may apply to the High Court, for an order summoning such person to show cause why the certificate of title should not be produced to the Registrar and upon the appearance before the High Court of any person so summoned, the High Court may make such order as it thinks fit. (3) Where a summons has been issued under the provisions of subsection (2) , the Registrar or other applicant shall not be required to prove that the certificate of title is in the possession of the person so summoned."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part V",
+      "section": "38",
+      "title": "Lost certificates",
+      "content": "(1) Where it is proved to the satisfaction of the Registrar that a certificate of title has been lost or destroyed or that there is other sufficient cause therefor, he may, after taking such indemnities as he may consider necessary, and giving, at the expense of the applicant, such public notice in the Gazette and in such local or other newspapers and in such other manner as shall appear to him sufficient in each case, issue a new certificate of title. (2) A new certificate of title issued under the provisions of subsection (1) shall be deemed to replace for all purposes the certificate of title previously issued, and any person discovering the certificate previously issued shall surrender it to the Registrar for cancellation by him."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part V",
+      "section": "39",
+      "title": "Mutilated certificates to be replaced",
+      "content": "Where any certificate of title has been mutilated or is soiled or damaged or otherwise rendered illegible, the Registrar may in his absolute discretion and at the expense of the owner , issue a new certificate of title in lieu thereof and may destroy the certificate of title so replaced."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part V",
+      "section": "40",
+      "title": "Certificate of title to be evidence",
+      "content": "A certificate of title shall be admissible as evidence of the several matter therein contained. Part VI – Dispositions (a) – General provisions"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Disposition of land",
+      "content": "(1) The disposition of land shall be registered by the Registrar . (2) An applicant for disposition of land shall submit to the Registrar all relevant documents accompanied by a prescribed fee. (3) When so registered, a disposition shall be effectual to create, transfer, vary or extinguish any estate or interest in any register . (4) Upon registration, the Registrar shall submit notice accompanied by the relevant documents to the Commissioner for Lands who shall enter in the register particulars relating to such change of ownership. [Acts Nos. 12 of 1981 s. 23; 31 of 1997 Sch.; 17 of 2008 s. 21]"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Power of Registrar to reject deeds",
+      "content": "Where it appears to the Registrar that any deed presented for registration is improper in form or in substance or is not clearly expressed, or does not indicate with sufficient precision the particular estate which it is intended to affect, or contains material provisions which are not the proper subject of registration under this Act or covenants or conditions which do not in law run with the land or are not capable of being annexed thereto, or is otherwise expressed in a manner inconsistent with the principles on which the land register is to be kept, he may refuse registration, either absolutely or subject only to such modifications therein as he shall approve."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VI",
+      "section": "43",
+      "title": "Implied covenant may be varied",
+      "content": "Every provision, covenant and power implied in any deed by virtue of this Act may be negatived or modified by express declaration in the deed or in any deed made supplemental thereto."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VI",
+      "section": "44",
+      "title": "Covenants to be joint and several",
+      "content": "Where in any deed a covenant is made or implied by or on the part of two or more persons, such covenant shall, unless the deed otherwise provides, be construed to bind such persons jointly and severally."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VI",
+      "section": "45",
+      "title": "Joint tenant and tenancy in common",
+      "content": "A deed drawn in favour of two or more persons shall not be registered unless it expresses whether such persons are joint tenants or tenants in common, and, in the case of a tenancy in common, the share of each co-owner ."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VI",
+      "section": "46",
+      "title": "Implied receipt",
+      "content": "Where any deed is expressed to be made in consideration of a sum of money, there shall be implied in the deed a receipt for such sum."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VI",
+      "section": "47",
+      "title": "Deeds not include unregistered land",
+      "content": "A deed may relate to two or more parcels but no deed shall be registered which relates to unregistered as well as registered land ."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VI",
+      "section": "48",
+      "title": "Original deeds to be retained",
+      "content": "(1) The Registrar shall retain all deeds registered by him. (2) Where a lease or mortgage submitted for registration in duplicate or triplicate is registered, the Registrar shall endorse the duplicate and the triplicate, with particulars of the registration and return them to the person who submitted them. (b) – Special provisions relating to transfers"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VI",
+      "section": "49",
+      "title": "Transfer of lease",
+      "content": "(1) In every transfer of a registered lease , there shall be implied a covenant by the transferee with the transferor to pay, perform and observe the rent, covenants and conditions by and in the lease reserved contained and implied and on the part of the tenant to be paid, performed and observed, and to keep the transferor indemnified against all suits, expenses and claims on account of the non-payment of the said rent or any part thereof, or the breach of the said covenants and conditions, or any of them. (2) On a transfer of part of the land held under a registered lease , the covenant implied on the part of the transferee under subsection (1) shall be limited to the payment of the apportioned rent, if any, and the performance and observance of the covenants by the tenant and conditions in the registered lease so far only as they affect the part transferred."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VI",
+      "section": "50",
+      "title": "Transfers subject to mortgages",
+      "content": "In every transfer of a registered estate subject to mortgage , there shall be implied a covenant by the transferee with the transferor, to pay the interest secured by the mortgage at the rate and at the times and in the manner therein specified and to keep the transferor indemnified against the principal sum secured by the mortgage and from and against all liability in respect of any of the covenants therein contained or implied on the part of the transferor."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VI",
+      "section": "51",
+      "title": "Transfers in exercise of power of sale",
+      "content": "(1) A bona fide purchaser for value of a registered estate from a lender selling in professed exercise of his power of sale shall not be bound, nor shall the Registrar when a transfer is presented for registration be bound, to inquire whether default has occurred, or whether any notice has been duly served or otherwise into the propriety or regularity of any such sale, but the Registrar shall serve notice of such transfer on the owner of the estate and shall suspend registration of such transfer for one month from the date of such notice, and at the expiration of such period the Registrar shall register the transfer as at the date of presentation, unless in the meanwhile the High Court shall otherwise order, and thereafter the transfer shall not be defeasible by reason that default had not occurred, or that any notice was not duly served or on account of any impropriety or irregularity in the sale. (2) Every such transfer, when registered shall vest the mortgaged estate in the purchaser freed and discharged from all liability on account of such mortgage or of any other incumbrance registered or entered subsequent thereto, except a lease to which the lender has consented in writing, or to which the consent of the lender is not required."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VI",
+      "section": "52",
+      "title": "Owner may transfer to himself",
+      "content": "For the avoidance of doubt, it is hereby declared that any person may make a transfer to himself and another person or, together with any other person, to himself alone."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VI",
+      "section": "53",
+      "title": "Division on transfers be vertical",
+      "content": "A transfer of the freehold estate in, or of a right of occupancy in respect of which a certificate of occupancy has been issued over part of a parcel shall not be registered unless the division thereof is made vertically. (c) – Special provisions relating to leases"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VI",
+      "section": "54",
+      "title": "Certain leases not registrable",
+      "content": "(1) A lease shall not be registered unless it is expressed to be for a term exceeding five years or contains an option whereby the tenant can require the landlord to grant him a further term or terms which, together with the original term, exceed five years. (2) Where any registered estate is subject to a mortgage , no lease of the land by the owner of that estate shall be registered until the consent in writing of the lender is produced to the Registrar , unless the mortgage otherwise provides. (3) A lease of land by a co-owner shall not be registered unless the tenant is the owner of all the remaining shares in the estate ."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VI",
+      "section": "55",
+      "title": "Reversionary leases",
+      "content": "A lease of registered land may be made for a term to begin on a future date, not being later than twenty one years from the date on which the lease is executed."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VI",
+      "section": "56",
+      "title": "Implied covenants and powers",
+      "content": "(1) There shall be implied in every registered lease covenants by the tenant with the landlord, binding the tenant— (a) to pay the rent reserved by the lease at the times therein mentioned and all rates and taxes which may be payable in respect of the land leased during the continuance of the lease unless the same are or, shall be payable exclusively by the landlord under any law; (b) not to cut down, injure or destroy any living tree being upon the land leased and to keep and yield up the land leased, in the case of agricultural land, in good heart, and in the case of buildings, in good and substantial repair and condition; and (c) to permit the landlord or his agent at all convenient times and after reasonable notice to enter on the land leased and examine the state and condition thereof, and to repair or otherwise make good any defect or breach of covenant of which notice shall, if practicable, be given within three months after the giving of such notice. (2) There shall be implied in every registered lease a covenant by the landlord with the tenant that the tenant, paying the rent reserved by the lease and observing and performing the covenants and conditions contained or implied in the lease and on the part of the tenant to be observed and performed, shall and may peaceably and quietly possess and enjoy the land leased during the term of the lease without any lawful interruption from or by the landlord or any person rightfully claiming from or under him. (3) There shall be an implied provision in every registered lease that the landlord may re- enter upon and take possession of the land leased if, at any time, the rent or any part thereof is in arrear for one month, whether or not any legal or formal demand has been made for payment thereof, or in case of any breach or non-observance of any of the covenants and conditions contained or implied in the lease and on the part of the tenant to be observed and performed, if such breach or non-observance has continued for one month. (d) – Special provisions relating to mortgages"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VI",
+      "section": "57",
+      "title": "Effect of registered mortgage",
+      "content": "A mortgage shall, when registered, have effect as a security and shall not operate as a transfer of the estate thereby mortgaged, but the lender shall have all the powers and remedies in case of default and be subject to all the obligations that would be conferred or implied in a transfer of the estate subject to redemption: Provided that, in the case of a mortgage of a registered lease , the lender shall not be liable to the landlord for rent or in respect of the covenants and conditions contained or implied in the lease to any greater extent than he would have been had the mortgage been by way of sub- lease ; and the court may grant the lender the like protection against the forfeiture of the lease as it may grant to a sub-lessee. [ Act No. 24 of 1963 4 th Sch.]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part VI",
+      "section": "58",
+      "title": "Mortgages may secure future debts",
+      "content": "For the avoidance of doubt, it is hereby declared that a mortgage of a registered estate may be made to secure the payment of an existing or a future or a contingent debt or obligation."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part VI",
+      "section": "59",
+      "title": "Mortgages by companies and cooperative societies",
+      "content": "(1) Where a mortgage is created by a company registered in Tanzania or by a company incorporated outside Tanzania which has established a place of business within Tanzania, such mortgage shall not be registered under the provisions of this Act unless and until it is proved to the satisfaction of the Registrar that it has been registered in accordance with the provisions of the Companies Act . (2) Where a mortgage is created by a co-operative society registered under the Co-operative Societies Act such mortgage shall not be registered under the provisions of this Act unless and until it is proved to the satisfaction of the Registrar that it has been registered in accordance with the provisions of the Co-operative Societies Act . [Ord. No. 13 of 1960; Acts Nos. 4 of 1963 s. 9; 38 of 1964 s. 46; Cap. 212; Cap. 211]"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VI",
+      "section": "60",
+      "title": "Priority",
+      "content": "(1) Two or more mortgages of the same estate shall rank according to the order in which they are registered and not according to the order in which they are created, save where the prior lender otherwise agrees in writing of where an obligation in a prior mortgage to make further advances creates a right to tack. (2) The Registrar shall, on the application of a lender whose mortgage creates a right to tack further advances record such right in the land register , and no such right shall be exercisable to the prejudice of any subsequent lender whose mortgage was registered prior to the inscription of such right in the land register ."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VI",
+      "section": "61",
+      "title": "Consolidation",
+      "content": "Where a lender has the right to consolidate his mortgage with any other mortgage , the Registrar shall, on the application of the lender , record such right in the land register against such of the mortgages as are registered and no such right shall be exercisable to the prejudice of any person acquiring any estate or interest in registered land prior to the inscription of such right in the land register ."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part VI",
+      "section": "62",
+      "title": "Implied covenants by borrower",
+      "content": "There shall be implied in every registered mortgage , covenants by the borrower with the lender binding the borrower — (a) to pay the principal money therein mentioned on the day therein appointed and, so long as the principal money or any part thereof remains unpaid, to pay interest thereon or on so much thereof as for the time being remains unpaid at the rate and on the days and in manner therein specified; (b) to repair and keep in repair all buildings or other improvements upon the mortgaged land and to permit the lender or his agent, at all reasonable times until such mortgage is discharged and after reasonable notice to the borrower , to enter upon the mortgaged land and examine the state and condition of such buildings and improvements; (c) to insure and keep insured all buildings upon the mortgaged land against loss or damage by fire in the joint names of the borrower and the lender with insurers approved by the lender to the full value thereof; (d) not to lease the mortgaged land or any part thereof for any period longer than one year without the previous consent in writing of the lender ; and (e) in the case of leasehold estate , to pay, perform and observe the rent, covenants and conditions by and in the registered lease reserved, contained and implied and on the part of the tenant to be paid, performed and observed and to keep the lender indemnified against all proceedings, expenses and claims on account of the non-payment of the said rent or any part thereof or the breach or non-observance of the said covenants and conditions or any of them."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part VI",
+      "section": "63",
+      "title": "Deposit of mortgage money",
+      "content": "(1) Where a lender is under any disability or is absent from Tanzania or his whereabouts are unknown and there is no person authorised to discharge the mortgage at or after the date appointed for payment thereof, it shall be lawful for the Registrar to receive such mortgage money with all arrears of interest due thereon in trust for the lender or other person entitled thereto; and thereupon the interest upon such mortgage shall cease to run or accrue and the Registrar may cancel the memorial in the land register relating to the mortgage . (2) The Registrar may, in his absolute discretion, invest any moneys paid to him under the provisions of subsection (1) in any trustee security and he shall account to the lender for any interest so earned. (3) The Registrar may, in his absolute discretion, employ any broker or agent in connection with the investment of any funds under the provisions of this section and may pay fees or commission to such broker or agent and other expenses out of such funds or the income thereof."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part VI",
+      "section": "64",
+      "title": "Creation of liens by deposit",
+      "content": "(1) A person with whom a certificate of title has been deposited with the intention of creating a lien thereover may give to the Registrar notice in the prescribed form of such deposit and thereupon the Registrar shall enter the same in the land register as an incumbrance. (2) A person who has given notice of deposit under subsection (1) may, at any time, withdraw the same by a notice in the prescribed form executed and attested in the manner required for deeds by sections 92 and 93 . (3) Where a memorial of a notice of deposit has been entered under subsection (1) — (a) a transfer of the estate to which the certificate of title relates shall not be registered until such notice has been withdrawn; and (b) subject to the provisions of section 103 , no other disposition of that estate shall be registered unless the consent in writing of the person who gave the notice is produced to the Registrar: Provided that, a transfer of part of the land therein comprised free from such lien may be registered with the consent in writing of the person who gave the notice. [ Act No. 64 of 1963 s. 2] (e) – Special provisions relating to partitions"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part VI",
+      "section": "65",
+      "title": "Partition subject to mortgage",
+      "content": "(1) Where any undivided share in a registered estate is subject to a mortgage , no partition of that estate shall be registered unless the consent in writing of the lender is produced to the Registrar . (2) Upon the registration of a partition with the consent of a lender , the land appropriated to the borrower shall be deemed to be subject to the mortgage for all purposes as if it had originally been comprised therein and the land appropriated to his co-owners shall be released therefrom."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part VI",
+      "section": "66",
+      "title": "Parcels to be divided vertically",
+      "content": "A partition shall not be registered which entails the division of a parcel , unless such division is made vertically. Part VII – Transmissions (a) – Transmissions on death"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "Part VII",
+      "section": "67",
+      "title": "Registration of legal personal representatives",
+      "content": "On the death of the owner of any estate or interest, his legal personal representative , on application to the Registrar in the prescribed form and on delivering to him an office copy of the probate of the will or letters of administration to the estate of the owner , or of his appointment under Part VIII of the Probate and Administration of Estates Act or the Fifth Schedule to the Magistrates’ Courts Act shall be entitled to be registered as owner in the place of the deceased. [Ord. No. 35 of 1961 s. 140; Cap. 352; Cap. 11]"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "Part VII",
+      "section": "68",
+      "title": "Dispositions and assents by legal personal representative",
+      "content": "(1) An assent to the vesting of any devises of bequest of any registered estate or interest, or disposition by a legal personal representative , shall not be registered unless such estate or interest is registered in the name of such legal personal representative . (2) Every assent to the vesting of any devise or bequest of any registered estate or interest shall be in the prescribed form."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "Part VII",
+      "section": "69",
+      "title": "Registration of survivor of joint owners",
+      "content": "(1) Where one or two or more joint owners of an estate or interest dies, his name shall be deleted from the land register on the application of any interested person, accompanied by proof of death. (2) For the purposes of this section and section 70 , the death of a person shall be proved by the production of a certified copy of the relevant entry in a register of deaths, issued under the provisions of the Births and Deaths Registration Act or, in the case of a person the registration of whose death was not compulsory under that Act, or of a person dying outside Tanzania, by such evidence as the Registrar may accept as sufficient. [Cap. 108]"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "Part VII",
+      "section": "70",
+      "title": "Cancellation of lease determinable on death",
+      "content": "Where any registered lease is expressed to be determinable on the death of the tenant, the memorial in the land register relating to such lease shall be cancelled on the application of any interested person accompanied by proof of the death of the tenant. (b) – Other transmissions"
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "Part VII",
+      "section": "71",
+      "title": "Registrar to record changes by operation of law",
+      "content": "Subject to the provisions of the Law of Limitation Act , where the Registrar is satisfied that any person has become entitled to any estate or interest in any registered land by the express provision of any written law, or by any order, declaration or certificate made, granted or issued under the provisions of any written law or by operation of law not herein otherwise provided for, he may, on the application of any interested person, supported by such evidence as he may require, record the same by registration or entry. [ Act No. 10 of 1971 Sch.; Cap. 89]"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "Part VII",
+      "section": "72",
+      "title": "Titles acquired by adverse possession",
+      "content": "(1) A person who claims that he has acquired any estate in any registered land by adverse possession or by reason of any law of prescription may apply to the Registrar in the prescribed manner for registration of his estate or interest. (2) Any such application shall be advertised by the Registrar at the expense of the applicant in the Gazette and in such one or more newspapers, if any, as the Registrar may decide. (3) The Registrar shall give notice of the application to the owner of the estate thereby affected and may give notice to any other persons who may, in his opinion, be affected thereby. (4) The Registrar shall not allow any application under the provisions of this section until after the expiration of six months from the date of publication of the advertisement in the Gazette relating thereto. (5) The Registrar may, on being satisfied as to the title of the applicant, allow the application and register his estate , but such estate shall be subject to any estate or interests which have not been extinguished by such adverse possession. Part VIII – Orders of court"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "Part VIII",
+      "section": "73",
+      "title": "Entry of prohibitory orders and injunctions",
+      "content": "The Registrar shall enter in the land register as an incumbrance any order or injunction issued by a court restraining any disposition or staying any registration, where an office copy of such order or injunction is served upon him by or on behalf of any interested person, and any memorial so entered shall, while subsisting, operate to prevent the registration of any disposition incompatible with such order or injunction, and any such memorial shall be cancelled by the Registrar if an office copy of an order annulling or rescinding such order or injunction is served upon him by or on behalf of any interested person."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "Part VIII",
+      "section": "74",
+      "title": "Authorities and directions",
+      "content": "An order of a court authorising or directing any person to execute any deed or make any application or do any other thing under this Act shall not require registration or entry, but an office copy of the order shall be annexed to the deed , application or other document before the same is presented for registration or entry."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "Part VIII",
+      "section": "75",
+      "title": "Bankruptcy",
+      "content": "(1) When a receiving order is made against the owner of any estate or interest, the official receiver or any interested person may serve on the Registrar an office copy of such order, and thereupon the Registrar shall enter the same in the land register as an incumbrance against the estate or interest of the debtor; and any memorial so entered shall, while subsisting, operate to prevent the registration of any disposition or transmission of that estate or interest other than the registration as owner of the estate or interest of the official receiver or any trustee appointed in the bankruptcy; and any such memorial may be cancelled by the Registrar on proof to his satisfaction that the receiving order has been annulled or on the registration of the official receiver or any trustee appointed in the bankruptcy as owner of that estate or interest. (2) When the owner of any estate or interest is adjudged bankrupt, the official receiver may, serve on the Registrar an office copy of the adjudication order and shall thereupon be entitled to be registered as owner of that estate or interest. (3) On the appointment of a trustee, other than the official receiver, in the bankruptcy of the owner of any estate or interest, such trustee may serve on the Registrar an office copy of the certificate of his appointment and shall thereupon be entitled to be registered as owner of that estate or interest."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "Part VIII",
+      "section": "76",
+      "title": "Winding up",
+      "content": "Where a company within the meaning of the Companies Act is being wound-up by the High Court and the High Court makes an order vesting any registered estate or interest in the liquidator, the liquidator may serve on the Registrar an office copy of such order and shall thereupon be entitled to be registered by his official name as owner of that estate or interest. [Cap. 212]"
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "Part VIII",
+      "section": "77",
+      "title": "Appointment of receivers and managers generally",
+      "content": "An order of a court appointing any person as a receiver or manager of the property of any owner which does not operate to vest the property of such owner shall not be registered or entered, but any such receiver or manager may lodge a caveat under the provisions of section 78 . Part IX – Caveats and injunctions"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "Part IX",
+      "section": "78",
+      "title": "Caveats",
+      "content": "(1) A person who claims an interest in any registered land , or person who has presented a bankruptcy petition against the owner of any estate or interest, may present a caveat in the prescribed form. (2) Every such caveat shall be supported by a statutory declaration stating the facts upon which the claim is based. (3) Upon receipt of any such caveat, the Registrar shall enter the same in the land register as an incumbrance and shall notify the same to the owner of the estate or interest thereby affected. (4) The High Court, on the application of the owner of the estate or interest affected, may summon the caveator to attend and show cause why such caveat should not be removed and thereupon the High Court may make such order, either ex parte or otherwise as it thinks fit. (5) A person who has presented a caveat may, at any time, withdraw the same by a notice in the prescribed form executed and attested in the manner required for deeds by sections 92 and 93 . (6) Where a deed is presented for registration which purports or appears to affect any registered estate or interest in respect of which a caveat is entered, the Registrar shall give notice thereof to the caveator and shall suspend registration of such deed for one month from the date of such notice, and at the expiration of such period the caveat shall lapse and the deed shall be registered as at the date of presentation unless in the meanwhile the application for registration has been withdrawn or the High Court otherwise directs. (7) The interest protected by a caveat may not be made the subject of a second caveat so as to defeat the provisions of subsection (6) ."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "Part IX",
+      "section": "79",
+      "title": "Power of Registrar to enter injunctions",
+      "content": "(1) It shall be lawful for the Registrar , for the prevention of any fraud or improper dealing or for any other sufficient cause, at any time, to enter an injunction in the land register as an incumbrance and any such injunction shall operate to prevent any disposition of the estate or interest thereby affected until such conditions as may be specified therein have been satisfied or the injunction has been withdrawn by the Registrar or the High Court otherwise directs. (2) Notice of any such injunction shall be given to the owner of the estate or interest. (3) The High Court may, on the application of the owner of the estate or interest affected by such injunction or of any other interested person, summon the Registrar to attend and show cause why the injunction should not be removed and thereupon the High Court may make such order, either ex parte or otherwise, as it thinks fit. Part X – Trusts"
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "Part X",
+      "section": "80",
+      "title": "Trusts",
+      "content": "(1) A legal personal representative may be registered as the owner of an estate or interest with the addition after his name of the words “as executor of the will of________________ deceased” or “as administrator of the will of________________ deceased” as the case may be, and in any such case a bona fide purchaser for value from such legal personal representative shall not be required, nor shall the Registrar be required, to enquire into any provisions of the will, if any, of the deceased or enquire whether the consent of court, if necessary, has been obtained, or otherwise into the propriety or regularity of such disposition and no such disposition shall be defeasible by reason of the fact that such disposition amounted to a breach of trust. (2) A trustee in bankruptcy may be registered as the owner of an estate or interest with the addition after his name of the words “as trustee of the property of ________________ a bankrupt”. (3) Trustees for sale or the trustees of any settled land may be registered as the owners of an estate or interest with the addition after their names of the words “as trustees” and in any such case a bona fide purchaser for value from such trustees, not being fewer than two, shall not be required, nor shall the Registrar be required, to enquire into the terms of the trust or the appointment of the trustees or the right of the trustees to sell or as to the disposal of the proceeds of sale and no such disposition shall be defeasible by reason of the fact that such disposition amounted to a breach of trust. (4) Trustees of charities may be registered as the owners of any estate or interest with the addition after their names of the words “as trustees upon charitable trust” and in any such case the Registrar shall not register any disposition of such estate or interest, other than a transfer consequent upon an appointment of new trustees, unless there is produced to him an office copy of an order of the High Court authorising such disposition . (5) An estate which has been validly dedicated or endowed as wakf , when registered, shall be registered in the name of the trustee or mutawalli , with the addition after his name of the words “as mutawalli ” or in the name of the Wakf Commission, as the case may be. (6) Save as provided for in subsections (1) , (2) , (3) , (4) and (5) , no memorial shall be inscribed in the land register disclosing or giving notice of any trust, whether express, implied or constructive, except so far as any other law may otherwise expressly require. (7) Nothing in subsection (1) or subsection (3) contained shall operate to relieve a legal personal representative or a trustee for sale or a trustee of settled land from any liability on account of any breach of trust."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "Part X",
+      "section": "81",
+      "title": "Settled land",
+      "content": "(1) The tenant for life of settled land shall not be entitled to be registered as the owner of any estate . (2) The trustees of a settlement which includes registered land shall, when so directed by the tenant for life, effect any disposition of such registered land which the tenant for life could lawfully have effected had such land not been registered. Part XI – Mutations"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "Part XI",
+      "section": "82",
+      "title": "Combination of parcels",
+      "content": "The Registrar may, on the application in the prescribed form made with the consent of the Commissioner for Lands, of the owner of Government leases or of rights of occupancy over any contiguous parcels, combine such parcels by cancelling the folios of the land register relating thereto and preparing a new folio or new folios in respect of the parcel resulting from such combination: Provided that, parcels may only be combined— (a) if each parcel is held for a Government lease or each is held on a right of occupancy; (b) if each parcel is subject in all respects to the same rights and obligations; (c) in the case of a tenancy in common, if each co-owner has the same share in each parcel ; and (d) if, where each parcel , or the corresponding share in each parcel is subject to a mortgage , the consent in writing of the lender is produced to the Registrar . [ Act No. 24 of 1963 4 th Sch.]"
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "Part XI",
+      "section": "83",
+      "title": "Division of parcels",
+      "content": "The Registrar may, on the application in the prescribed form made with the consent of the Commissioner for Lands, of the owner of Government leases or of a right of occupancy over any parcel , divide such parcel into two or more parcels by cancelling the folio or folios of the land register relating thereto and preparing new folios in respect of the new parcels: Provided that, where the Government lease or the right of occupancy, as the case may be, is subject to a mortgage the parcel shall not be divided unless the consent in writing of the lender is first produced to the Registrar : And provided further that, no parcel shall be divided otherwise than vertically. [ Act No. 24 of 1963 4 th Sch.]"
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "Part XI",
+      "section": "84",
+      "title": "Combination or division subject to lease",
+      "content": "The Registrar may effect the combination of any parcels or the division of a parcel whether or not any such parcel is subject to a lease ."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "Part XI",
+      "section": "85",
+      "title": "Reparcellations",
+      "content": "(1) The Registrar may, on the application in the prescribed form of the owners of the Government lease in, or rights of occupancy over, any contiguous parcels who are desirous of changing the layout of such parcels, and with the consent in writing of all other persons in whose names any estate or interest in such parcels is registered or entered and of any caveator and the Commissioner for Lands, cancel the folios of the land register relating to such parcels and prepare new folios in accordance with the revised layout: Provided that, where in the opinion of the Registrar a proposed reparcellation involves substantial changes of ownership which should be effected by transfers without invoking the provisions of this section, he may, in his absolute discretion, refuse to effect such reparcellation or any part thereof. (2) Upon any such reparcellation, the new parcels shall, notwithstanding the provisions of section 41 , vest in the persons in whose names they are registered, for the estates which those persons enjoyed in the corresponding former parcels, and with, and subject to all rights and obligations which were subsisting in respect of the corresponding former parcels at the time of the reparcellation in all respects as though such rights and obligations had been created or had arisen over or for the benefit of such new parcels. [ Act No. 24 of 1964 4 th Sch.] Part XII – Maps, plans and boundaries"
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "Part XII",
+      "section": "86",
+      "title": "Index map",
+      "content": "(1) The Registrar shall keep an index map showing the boundaries of all registered land and containing such other information as the Registrar shall determine. (2) For the purposes of the index map , Tanzania shall be divided into areas to be known as “blocks” and every block shall be given a reference number; and the boundaries of blocks shall be determined by the Registrar , who shall have power from time to time to vary such boundaries or to combine or to divide blocks. (3) The parcels in each block shall be numbered consecutively and for the purposes of this Act, the numbers of the block and the parcel shall together be a sufficient reference to any parcel ."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "Part XII",
+      "section": "87",
+      "title": "Power of Registrar to rectify index map",
+      "content": "(1) The Registrar may, after giving an opportunity of being heard to all persons who may, in his opinion, be affected thereby, amend the index map upon such evidence as he may in his absolute discretion accept as sufficient. (2) The Registrar may cause to be prepared a new edition of the index map or any part thereof and may omit there from any matter which he considers obsolete."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "Part XII",
+      "section": "88",
+      "title": "Plans to support applications, dispositions and mutations",
+      "content": "(1) An estate shall not be registered under Part II or Part III of this Act and a parcel shall not be divided on a disposition, transmission or mutation except in accordance with an approved plan: Provided that, the Registrar may dispense temporarily with the production of an approved plan where he is satisfied that a plan which is not an approved plan or, in the case of a lease , the description in the deed , sufficiently identifies the land to enable it to be located by survey and that the production of an approved plan would entail unreasonable delay or expense. (2) Where any estate is registered without the production of an approved plan , the Registrar shall, as soon as practicable, cause the land to be surveyed at the expense of the owner , unless it would be unreasonable so to do having regard to the nature and term of that estate , and the cost of any such survey shall be recorded in the land register and when so recorded shall, until paid, constitute a charge upon such estate . (3) Notwithstanding anything contained in the Government Proceedings Act , the cost of any such survey may be sued for and recovered by the Registrar. [Cap. 5]"
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "Part XII",
+      "section": "89",
+      "title": "Boundaries only general",
+      "content": "(1) Subject to the provisions of subsection (2) , the description in the land register shall not, nor shall the index map or any plan filed in the land registry, be conclusive as to the boundaries or extent of any registered land but shall be deemed to indicate the general boundaries only. (2) The Registrar may, at any time at the request of the owner of any estate and after giving all persons who may, in his opinion, be affected thereby an opportunity of being heard, accept an approved plan as defining the precise position of any boundary or part of a boundary of the land therein comprised and thereupon that approved plan shall be deemed to define such boundary or part of a boundary accurately. (3) Where the Registrar exercises the power conferred by subsection (2) he shall endorse on the index map a note to that effect any parcel."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "Part XII",
+      "section": "90",
+      "title": "Foreshore",
+      "content": "A land below high water mark at ordinary spring tides of the sea or of a tidal river shall not be deemed to be included in any parcel unless the contrary is expressly stated in the land register . Part XIII – Execution of deeds"
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "Part XIII",
+      "section": "91",
+      "title": "Execution by all parties required",
+      "content": "A deed shall not be registered unless executed by all persons who are parties thereto and attested in accordance with the provisions of this Act: Provided that, a discharge of a mortgage shall not require execution by the borrower : Provided further that, the Registrar may for good cause dispense with the signature of a transferee."
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "Part XIII",
+      "section": "92",
+      "title": "Manner of execution",
+      "content": "A deed shall be deemed to have been executed— (a) if signed and delivered by a natural person; (b) if sealed with the common seal of a corporation and delivered; (c) in the case of a corporation not required by law to have a common seal, if signed and delivered by such persons as may be authorised in that behalf by any law or by the statute of the corporation or, in the absence of any express provision, by two or more persons appointed for that purpose by the corporation in the general meeting."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "Part XIII",
+      "section": "93",
+      "title": "Attestation",
+      "content": "(1) A deed shall be deemed to be attested if— (a) is signed by a natural person either as a party thereto or on behalf of a corporation not having a common seal, it is attested by an authorised witness; (b) is sealed with the common seal of a corporation, it is attested by such persons as may be required by law or by the charter or articles of association of the corporation and also, where such seal is affixed outside Tanzania, by an authorised witness, and the person witnessing the signature of the deed or the affixing of the seal thereto signs an attestation clause in the prescribed form and adds his postal address and qualification to act as witness. (2) In this section, the expression “authorised witness” means a person authorised in that behalf by rules made under this Act or expressly so authorised under the hand of the Minister . [Ord. No. 26 of 1958 s. 5]"
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "Part XIII",
+      "section": "94",
+      "title": "Presumption of due execution under corporate seal",
+      "content": "Where a seal purporting to be the seal of a corporation has been affixed to a deed and attested by persons purporting to be those whose attestation is required by the provisions of section 93 , the Registrar may accept the deed as duly executed and no disposition effected by such deed in favour of a bona fide purchaser for value shall be defeasible by reason of any irregularity in such sealing or attestation."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "Part XIII",
+      "section": "95",
+      "title": "Employment of agents",
+      "content": "An application for first registration, a deed or withdrawal of any caveat, a notice of deposit, signed by any person as agent for any other person shall not be accepted for registration or an entry unless the person signing the same was authorised in that behalf by a power of attorney executed and attested in the manner prescribed for deeds by sections 92 and 93 ."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "Part XIII",
+      "section": "96",
+      "title": "Filing of power of attorney",
+      "content": "(1) The Registrar shall, on the joint application of the donor and the donee of a power of attorney which contains any power to make applications under this Act to effect dispositions of, or otherwise to act in relation to registered land , file such power of attorney, and every such application shall be in writing in the prescribed form and shall be executed and attested in the manner required for deeds by sections 92 and 93 . (2) The grantor of a power of attorney filed in accordance with the provisions of subsection (1) may, at any time, give the Registrar notice in the prescribed form that such power has been revoked, and thereupon the Registrar shall file such notice and endorse notice of such revocation upon the power. (3) An interested person may give the Registrar notice in writing that any power of attorney which has been filed under subsection (1) has been revoked by the death, bankruptcy or disability of the grantor or the death or disability of the grantee, accompanied by such evidence as the Registrar may require, and thereupon the Registrar shall file the same and endorse notice of such revocation upon the power. (4) The provisions of subsections (2) and (3) shall not apply to a power expressed to be granted for value and expressed to be irrevocable. (5) A power of attorney which has been filled under subsection (1) and of which no notice of revocation has been filed under subsection (2) or subsection (3) shall be deemed to be subsisting and no disposition effected in exercise of the powers therein contained shall be defeasible by reason that such power has been revoked unless the person for the time being claiming under such disposition or any person through whom he claims otherwise than as a purchaser for value had actual notice of such revocation: Provided that, the Registrar may, in his absolute discretion and notwithstanding the foregoing provisions, require evidence in any particular case that a power of attorney by virtue of which an application or disposition is expressed to be made or effected has not been revoked. (6) The Registrar shall reject any document signed by an attorney purporting to act under a power of attorney of which notice of revocation has been filed under subsection (2) or subsection (3) . Part XIV – Searches and copies"
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "Part XIV",
+      "section": "97",
+      "title": "Searches",
+      "content": "(1) A person may inspect the land register , any filed documents, the index map or any plan filed in the land registry, during the hours of business. (2) A person may require an official search in respect of any parcel and shall be entitled to receive particulars of the subsisting memorials appearing in the land register relating thereto."
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "Part XIV",
+      "section": "98",
+      "title": "Copies",
+      "content": "(1) A person shall, on application to the Registrar , be entitled to receive certified or uncertified copies of the memorials appearing in the land register in respect of any parcel , filed document, the index map or any plan filed in the land registry. (2) Copies certified under the hand of the Registrar and bearing the seal of the land registry shall be admissible in evidence in all actions and matters, and between all persons and parties to the same extent as the originals would be admissible, and no advocate, trustee, legal personal representative or other person in a fiduciary position shall be answerable in respect of any loss occasioned by relying on any such certified copy. (3) No process for compelling the production of the land register , any filed document, the index map or any plan filed in the land registry shall issue from any court except with the leave of that court and any such process if issued shall bear thereon a statement that it is issued with the leave of the court. Part XV – Rectification of the land register and indemnity"
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "Part XV",
+      "section": "99",
+      "title": "Rectification of land register",
+      "content": "(1) Subject to any express provisions of this Act, the land register may be rectified pursuant to an order of the High Court or by the Registrar subject to an appeal to the High Court, in any of the following cases— (a) where the High Court has decided that any person is entitled to any estate or interest in any registered land and as a consequence of such decision the High Court is of opinion that a rectification of the land register is required, and makes an order to that effect; (b) where the High Court, on the application of any person who is aggrieved by any memorial made in, or by the omission of any memorial from the land register , or by any default being made, or unnecessary delay taking place in the inscription of any memorial in the land register , makes an order for the rectification of the land register ; (c) in any case and at any time with the consent of all persons interested; (d) where the High Court or the Registrar is satisfied that any memorial in the land register , has been obtained by fraud; (e) where any memorial has become wholly obsolete; and (f) in any other case, where by reason of any error or omission in the land register or by reason of any memorial made under a mistake, or for other sufficient cause it may be deemed just to rectify the land register . (2) The land register shall not be rectified so as to affect the title of an owner of an estate who is in possession— (a) unless such owner is a party or privy or has caused or substantially contributed to the fraud, mistake or omission in consequence of which such rectification is sought; (b) unless the immediate disposition to him was void, or the disposition to any person through whom he claims otherwise than for value was void; or (c) unless for any other reason, in any particular case, it is considered that it would be unjust not to rectify the register against him. (3) Where the land register is rectified, the Registrar shall not erase or render illegible the original memorial and shall affix the date on which such rectification is made and initial the same."
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "Part XV",
+      "section": "100",
+      "title": "Right to indemnity in certain cases",
+      "content": "(1) A person suffering loss by reason of any rectification of the land register under this Act shall, subject to the provisions of this Act, be entitled to be indemnified by the Government. (2) Where an error or omission has occurred in the land register but the land register is not rectified, any person suffering loss by reason of such error or omission shall, subject to the provisions of this Act, be entitled to be indemnified by the Government. (3) Where any person suffers loss by reason of an error in a copy of, or extract from the land register or from a document or plan filed in the land registry, certified under the provisions of this Act, he shall be entitled to be indemnified by the Government. (4) An indemnity shall not be payable under this Act to any person who has himself caused or substantially contributed to the loss by his fraud or negligence, or derives title, otherwise than under registered disposition for value, from a person who so caused or substantially contributed to the loss. (5) Where an indemnity is paid in respect of the loss of an estate or interest in any registered land , the amount so paid shall not exceed— (a) where the land register is not rectified, the value of the estate or interest at the time when the error or omission which caused the loss was made; or (b) where the land register is rectified, the value of the estate or interest immediately before the time of rectification. (6) The Registrar may, on the application of any interested party and subject to an appeal to the High Court, determine whether a right to indemnity has arisen under this section, and if so, award indemnity. (7) In granting any indemnity, the Registrar may have regard to any costs and expenses properly incurred in relation to the matter, and may add the same to the amount of the indemnity which would otherwise be payable. (8) Notwithstanding anything contained in the Government Proceedings Act , where indemnity is paid for a loss, the Registrar, on behalf of the Government, shall be entitled to recover by suit or otherwise amount so paid from any person who has caused or substantially contributed to the loss by his fraud or negligence, and enforce any express or implied covenant or other right which the person who is indemnified would have been entitled to enforce in relation to the matter in respect of which indemnity has been paid. [Cap. 5] (9) Notwithstanding the foregoing provisions of this section, no person shall be entitled to any indemnity from the Government for any loss occasioned by— (a) any alteration made in the land register in accordance with the provisions of section 61 of the Freehold Titles (Conversion) and Government Leases Act ; [Cap. 393] (b) the retention on the land register of a memorial relating to any estate or interest created before the commencement of that Act which is not amended to disclose the nature of any conversion or the extent of any diminution thereof in accordance with the provisions of that Act. [ Act No. 24 of 1963 4 th Sch.] Part XVI – Appeals from decision of the Registrar"
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "Part XVI",
+      "section": "101",
+      "title": "Decisions to be in writing",
+      "content": "Where under this Act the Registrar makes any decision or order or does any act he shall, on the application of any person affected thereby, give that decision or order in writing and state his reasons therefor or, as the case may be, give his reasons in writing for that act."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "Part XVI",
+      "section": "102",
+      "title": "Appeals to High Court",
+      "content": "(1) A person aggrieved by a decision, order or act of the Registrar may appeal to the High Court within three months from the date of such decision, order or act: Provided that— (a) no such appeal shall lie unless the appellant or his advocate shall, within one month from the date of such decision, order or act, have given to the Registrar and to the High Court notice of intention of appeal; and (b) in the case of a decision allowing or dismissing an application for first registration— (i) no such appeal shall lie except on a matter of law or on a matter of mixed law and fact; and (ii) no such appeal shall lie except at the instance of the applicant or a person who has given notice of objection to such application under the provisions of section 13 : And provided further that, the High Court may, for good cause, admit an appeal notwithstanding that the periods of limitation prescribed in this subsection have elapsed. (2) For the purposes of subparagraph (ii) of paragraph (b) of subsection (1) , the Government shall be deemed to have given notice of objection under the provisions of section 13 , whether or not any such objection was given by or on behalf of the Government. (3) An appeal shall be made in the form of a petition in writing presented to the High Court by the appellant or his advocate and every such petition shall be accompanied by a copy of the decision, order or act appealed against. (4) A copy of every such petition shall be delivered to the Registrar of the proceedings before him, if any, and the names of any persons who ought, in his opinion, to be given an opportunity of being heard on the appeal. (5) The High Court shall cause notice of the time and place at which such appeal will be heard to be given to the appellant or his advocate and to any other person who, in the opinion of the High Court, should be given an opportunity of being heard on the appeal. (6) A person who has been given notice in accordance with subsection (5) shall, on application to the High Court, be entitled to a copy of the decision, order or act appealed against, a copy of the record of proceedings, if any, and a copy of the petition. (7) On the hearing of the appeal, the appellant and a person who has been given notice in accordance with subsection (5) may appear and be heard in person or by advocate. (8) The provisions of the Civil Procedure Code relating to the production of additional evidence on an appeal shall apply, mutatis mutandis , to an appeal from the Registrar to the High Court. [Cap. 33] (9) The High Court may make such order on the appeal as the circumstances may require, including an order as to costs: Provided that, the Registrar shall not be ordered to pay any costs unless, in the opinion of the High Court, the appeal was occasioned by his willful misconduct. [Ord. No. 26 of 1958 s. 6] Part XVII – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "Part XVII",
+      "section": "103",
+      "title": "Power of Registrar to record acts in exercise of powers",
+      "content": "(1) Where the Registrar is satisfied that any estate or interest has been varied or determined by the lawful power or by effluxion of time, he may, on the application of any interested person, supported by such evidence as he may require, or of his own motion record the same by registration or entry. (2) Notwithstanding the provisions of subsection (3) of section 41 , for the purposes of this section, the lawful exercise of a power shall not be deemed ineffectual to vary or determine any estate or interest solely by reason of its not having been previously registered. [ Act No. 64 of 1963 s. 3]"
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "Part XVII",
+      "section": "104",
+      "title": "Power of Registrar to state case",
+      "content": "Whenever any question arises with regard to the performance of any duty or the exercise of any of the functions by this Act conferred or imposed on him, the Registrar may state a case for the opinion of the High Court; and thereupon the High Court shall give its opinion thereon, which shall be binding upon the Registrar ."
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "Part XVII",
+      "section": "105",
+      "title": "Power of Registrar to require attendance of witnesses",
+      "content": "Where any question arises as to whether any registration or entry should or should not be made, or whether any memorial inscribed in the land register should or should not be corrected or cancelled or where by this Act or any rule made thereunder the Registrar is expressly or impliedly authorised or required to inquire into, investigate, give any decision on or exercise any discretion as to any matter, he may order any person— (a) to attend before him at such time and place as he may appoint and be examined on oath, which he is hereby authorised to administer; and (b) to produce to and allow him to inspect and take copies of all material documents in the possession, power or control of such person."
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "Part XVII",
+      "section": "106",
+      "title": "Power of Registrar to take statutory declarations",
+      "content": "(1) The Registrar may take any statutory declaration for the purposes of this Act. (2) Every statutory declaration made for the purposes of this Act shall be exempt from stamp duty."
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "Part XVII",
+      "section": "107",
+      "title": "Power of Registrar to make order as to costs",
+      "content": "The Registrar shall have power to order that the costs, charges and expenses incurred by him or by any other person in connection with any investigation, hearing or inquiry held by him for the purposes of this Act shall be borne and paid by such person and in such proportions as he may think fit, and any such order shall be deemed to be a rule of court."
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "Part XVII",
+      "section": "108",
+      "title": "Power to register without prior payment of fees",
+      "content": "(1) The Registrar may, in his absolute discretion, register any registrable estate under the provisions of Part II notwithstanding that the prescribed fee or any part thereof may not have been paid any such fee or the balance of any such fee, remaining unpaid, whether or not formally demanded, shall be recorded in the land register, and when so recorded shall, until paid, constitute a charge upon such estate. (2) The Registrar may refuse to register a disposition of any estate which is subject to a charge for unpaid fees until such fees are paid. (3) Notwithstanding anything contained in the Government Proceedings Act , any unpaid fees maybe sued for and recovered by the Registrar. [Cap. 5]"
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "Part XVII",
+      "section": "109",
+      "title": "Power to destroy obsolete documents",
+      "content": "The Registrar may destroy any documents or plans in his possession or custody where in his opinion they have become obsolete or have ceased to have any effect."
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "Part XVII",
+      "section": "110",
+      "title": "Service of notice",
+      "content": "(1) A notice under this Act shall be deemed to have been served on or given to any person where— (a) served on him personally; (b) left for him at his last known address; or (c) sent by registered post addressed to him at his last known address. (2) A person shall not be entitled as of right to any notice which the Registrar is required to give under the provisions of this Act unless he has furnished to the Registrar a postal address for service in Tanzania"
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "Part XVII",
+      "section": "111",
+      "title": "Estate duty",
+      "content": "(1) Where in any case the Registrar is of the opinion that any estate is or may be subject to a charge for estate duty under the provisions of the Probate and Administration of Estates Act , he may enter a memorial of the same as an incumbrance in the land register: Provided that, the Registrar shall not be required to satisfy himself as to the payment of estate duty in respect of any estate administered by the Administrator-General. [Cap. 352] (2) The Registrar may cancel any such memorial on production of a certificate from the Estate Duty Commissioners that all duty charged on the estate has been paid or that no duty is payable. (3) The entry of a memorial under subsection (1) shall not operate to prevent the registration of any disposition."
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "Part XVII",
+      "section": "112",
+      "title": "Provisions of Registration of Documents Act excluded",
+      "content": "The registration of a document under the provisions of the Registration of Documents Act shall not affect, with notice thereof, any person acquiring any estate or interest in any registered land . [Cap. 117]"
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "Part XVII",
+      "section": "114",
+      "title": "Rules",
+      "content": "(1) The High Court may make rules of court for regulating proceedings before it and for applications and appeals thereto, under the provisions of this Act and for the fees to be paid in respect thereof. (2) Subject to the provisions of subsection (1) , the Minister may make rules prescribing anything which maybe prescribed under this Act and for the better carrying into effect of the provisions of this Act and, without prejudice to the generality of the foregoing, such rules may provide for the procedure in the land registry, the hours in which the land registry is to be open for business and the forms to be used and the fees to be paid in respect of any matter under this Act required, permitted or entitled to be done. [GN. No. 478 of 1962]"
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "Part XVII",
+      "section": "115",
+      "title": "Repeal of laws",
+      "content": "[Repeals the Land Registry Ordinance and the Land Registry (Amendment) Ordinance, with transitional and consequential provision s.] [Ord. Nos. 15 of 1923; 33 of 1947-1949] History of this document 31 December 2023 this version Chapter 334 Revised Laws 2023 Consolidation 30 November 2019 Chapter 334 Revised Laws 2019 Consolidation Read this version 01 May 2009 Amended by Mortgage Financing (Special Provisions) Act, 2008 31 July 2002 Chapter 334 Revised Laws 2002 Consolidation Read this version 01 June 1954 Commenced Related documents Is amended by Mortgage Financing (Special Provisions) Act, 2008 More documents like this one Subsidiary legislation Title Land Registration (Amendment) Rules, 2010 Government Notice 485 of 2010 Moshi Land Registry (Declaration) Order, 1973 Government Notice 179 of 1973 Land Registration (Appeals) Rules, 1955 Government Notice 96 of 1955 Land Registration Rules, 1954 Government Notice 117 of 1954 [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "approved plan",
+      "definition": "a plan approved for the purposes of this Act by the Director of Surveys and Mapping of Department of Surveys and Mapping",
+      "source_provision": "s2"
+    },
+    {
+      "term": "borrower",
+      "definition": "the owner of an estate which is subject to mortgage",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of occupancy",
+      "definition": "a certificate of occupancy issued under the provisions of the Land Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "co-owner",
+      "definition": "the owner of an undivided share in any estate",
+      "source_provision": "s2"
+    },
+    {
+      "term": "deed",
+      "definition": "an instrument in writing whereby a disposition is or is intended to be effected",
+      "source_provision": "s2"
+    },
+    {
+      "term": "disposition",
+      "definition": "any act performed inter vivos whereby the owner of a registered estate or interest transfers or mortgages that estate or interest or any part thereof or creates any lesser estate or interest thereout or whereby any such estate or interest is varied or extinguished, other than— (a) a lease expressed to be for a term of five years or less or any estate or interest derived from such a lease , unless such lease contains an option whereby the tenant can require the landlord to grant him a further term or terms which, together with the original term, exceed five years",
+      "source_provision": "s2"
+    },
+    {
+      "term": "enter",
+      "definition": "to inscribe in the land register a memorial recording any notice, caveat, injunction or prohibitory order, and “entry” and “entered” shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "estate",
+      "definition": "a freehold estate, a lease or any estate which under the provisions of this Act is deemed to be freehold or leasehold or a right of occupancy in respect of, which a certificate of occupancy has been issued, but does not include the title to any building, tree or other thing erected on or growing out of or affixed to land and owned separately from the land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "index map",
+      "definition": "the land register to be maintained by the Registrar under the provisions of section 86",
+      "source_provision": "s2"
+    },
+    {
+      "term": "land register",
+      "definition": "the land register to be maintained by the Registrar under the provisions of subsection (2) of section 3",
+      "source_provision": "s2"
+    },
+    {
+      "term": "lease",
+      "definition": "a sub-lease and a term created out of a right of occupancy in respect of which a certificate of occupancy has been issued, but does not include— (a) a right of occupancy whether a certificate of occupancy has been issued in respect thereof or not",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal personal representative",
+      "definition": "the executor, original or by representation or administration for the time being of a deceased person",
+      "source_provision": "s2"
+    },
+    {
+      "term": "lender",
+      "definition": "the owner of a mortgage",
+      "source_provision": "s2"
+    },
+    {
+      "term": "memorial",
+      "definition": "any inscription in the land register and without prejudice to the generality of the foregoing, includes the description of any registered land , the record of the ownership thereof and the record of any incumbrance affecting the same",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mortgage",
+      "definition": "a sub-mortgage",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mutation",
+      "definition": "the combination of two or more parcels into one or the division of a parcel into two or more parcels or a reparcellation",
+      "source_provision": "s2"
+    },
+    {
+      "term": "office copy",
+      "definition": "a copy of a proceeding filed in the proper office of a court and sealed with the seal of such office",
+      "source_provision": "s2"
+    },
+    {
+      "term": "parcel",
+      "definition": "an area of registered land separately shown on the index map",
+      "source_provision": "s2"
+    },
+    {
+      "term": "partition",
+      "definition": "the division and appropriation among co-owners of any parcel or the appropriation among co­owners of two or more parcels",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public land",
+      "definition": "all land other than land— (a) registrable under Part II",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "to inscribe in the land register a memorial recording the title to any estate in land or any disposition or transmission of any registered estate or interest, and “registration” and “registered” shall be construed accordingly",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered land",
+      "definition": "land in respect of which an estate has been registered",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar of Titles appointed under the provisions of section 4 and includes a Deputy Registrar and an Assistant Registrar",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reparcelation",
+      "definition": "the alteration of the boundaries of two or more contiguous parcels to form new parcels differing in area or layout",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unregistered land",
+      "definition": "land other than registered land . (2) In this Act and in every deed made under this Act, reference to a landlord, tenant, lender , borrower , transferor or transferee shall be deemed to include his legal personal representative and successors in title. (3) Unless the context otherwise requires, nothing contained in this Act shall be construed as permitting any disposition , mutation or other act which is forbidden under the express provisions of any other law in force or as overriding any provision of any such law requiring the consent or approval of any person to any disposition , mutation or other act. [Ord. No. 22 of 1960 s. 6",
+      "source_provision": "s2"
+    }
+  ]
+}

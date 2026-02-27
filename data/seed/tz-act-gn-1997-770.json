@@ -1,0 +1,479 @@
+{
+  "id": "tz-act-gn-1997-770",
+  "type": "statute",
+  "title": "Capital Markets and Securities (Collective Investment Schemes) Regulations, 1997",
+  "title_en": "Capital Markets and Securities (Collective Investment Schemes) Regulations, 1997",
+  "short_name": "Capital Markets and Securit...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/1997/770/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "These Regulations may be cited as the Capital Markets and Securities (Collective Investment Schemes) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In these regulations unless the context otherwise requires— \" constitutive documents \" means the principal documents governing the formation of a collective investment scheme, and includes the trust deed in the cased of a unit trust and the articles of association of an investment company and all material agreements; \" manager \" means a person authorised by the Authority in accordance with section 118 of the Act; and \" offering document \" means the document, or documents issued together, containing information on a scheme calculated to invite offers by the public to subscribe for or purchase units or shares in the scheme; \" trustee/custodian \" means a person authorised by the Authority in accordance with section 118 of the Act."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Application",
+      "content": "(1) The Authority may exempt a collective investment scheme from the application of all or some of these Regulations provided that in so doing, the Authority shall indicate the Regulations which are the subject of an exemption. Part II – Approval of collective investment schemes (reg 4)"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Application for approval",
+      "content": "(1) An application for approval to establish a collective investment scheme shall be made to the Authority by a manager , proposed manager or trustee/custodian of a scheme in the form annexed to these Regulations as the First Schedule. (2) An application for approval to establish a collective investment scheme shall be accompanied by— (a) the scheme's constitutive and offering documents; (b) the trustee's/custodian's latest audited report; (c) a letter of consent to the appointment of a trustee/custodian ; and (d) a fee of ____________________ shillings. Part III – Trustee custodian of collective investment scheme (reg 5)"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part III",
+      "section": "5",
+      "title": "General obligations of trustee/custodian",
+      "content": "The trustee/custodian shall— (a) take into his custody or under his control all the property of the collective investment scheme and hold it in trust for the holders in accordance with the provisions of the constitutive documents ; cash and registrable assets shall be registered in the name of or to the order of the trustee/custodian ; (b) be liable for any act or omission of any agent with whom any investments in bearer form are deposited as if they were the act or omission of any nominee in relation to any investment forming part of the property of the collective investment scheme; (c) take reasonable care to ensure that the sale, issue, repurchase, redemption and cancellation of units/shares effected by a collective investment scheme are carried out in accordance with the provisions of the constitutive documents ; (d) take reasonable care to ensure that the methods adopted by the manager in calculating the value of units or shares are adequate to endure that the sale, issue, repurchase, redemption and cancellation prices are calculated in accordance with the provisions of the constitutive documents ; (e) carry out the instructions of the manager in respect of investments unless they are in conflict with the provisions of the offering or constitutive documents ; (f) take reasonable care to ensure that the investment and borrowing limitations set out in the constitutive documents , and the conditions under which the collective investment scheme was authorised are complied with; (g) issue a report to the holders to be included in the annual report on whether in the trustee/custodian 's opinion, the manager has in all material respects managed the scheme in accordance with the provisions of the constitutive documents ; if the manager has not done so, the respect in which he has not done so and the steps which the trustee/custodian has taken in respect thereof; (h) take reasonable care to ensure that unit or share certificates are not issued until subscription moneys have been paid; (i) ensure that any registrable investments which are held for shareholders or unit holders in the collective investment scheme are properly registered in the names of the shareholders or unit holders or, with the consent of the shareholder or unit holder, in the name of an eligible nominee; and (j) where title to investments is recorded electronically, to ensure that entitlements are separately identified from those of the manager of the collective investment scheme in the records of the person maintaining records of entitlement. Part IV – Manager of scheme (reg 6)"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part IV",
+      "section": "6",
+      "title": "General obligations of a manager",
+      "content": "A manager shall— (a) manage a collective investment scheme in accordance with the scheme's constitutive documents in the exclusive interest of the holders and fulfil the duties imposed on it by the general law; (b) maintain or cause to be maintained the books and records of the collective investment scheme and prepare the scheme's accounts and reports, including at least two reports to be published in respect of each financial year and sent to all registered holders in accordance with Regulation 38 ; and (c) ensure that the constitutive documents are made available for inspection by the public in Tanzania, free of charge at all times during normal working hours at its place of business and make copies of such documents available upon the payment of a reasonable fee. Part V – Self-managed schemes (regs 7-11)"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part V",
+      "section": "7",
+      "title": "Self-managed collective investment schemes",
+      "content": "A collective investment scheme may be managed by its own Board of Directors who shall perform the functions of a management company."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part V",
+      "section": "8",
+      "title": "Directors of self-managed schemes",
+      "content": "Where a collective investment scheme is a self-managed scheme, references in these Regulations to directors of a manager are to be deemed to be references to the directors of a self-managed scheme."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part V",
+      "section": "9",
+      "title": "Directors of self-managed schemes not to deal as principals",
+      "content": "The directors of a self-managed scheme are prohibited from dealing with the scheme as principals."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part V",
+      "section": "10",
+      "title": "Board of Directors of a self-managed scheme",
+      "content": "A Board of Directors of a self-managed scheme shall discharge all the obligations of a manager mentioned in these Regulations."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part V",
+      "section": "11",
+      "title": "Constitutive documents of self-managed schemes",
+      "content": "In addition to other requirements of collective investment schemes, the constitutive document of a self-managed scheme shall contain the following provisions— (a) that holders may convene a meeting and, by way of an ordinary resolution, remove any of the directors considered no longer fit and proper to manage the schemes assets; and (b) that the directors' fees and remuneration shall be fixed by the holders at a general meeting. Part VI – Constitutive documents of collective investment schemes (regs 12-15)"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part VI",
+      "section": "12",
+      "title": "Requirements of constitutive documents",
+      "content": "The constitutive documents of a collective investment scheme shall contain all information which is listed in the Third Scheme annexed to these Regulations."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part VI",
+      "section": "13",
+      "title": "No exemption from liability on the part of trustee/custodian , manager or Board of Directors",
+      "content": "Nothing in the constitutive document may provide that the trustee/custodian , manager or directors of a collective investment scheme be exempted from any liability to holders, unopposed under the law of Tanzania or breaches of trust through fraud or negligence, nor may they be indemnified against such liability by holders or at holder's expense."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part VI",
+      "section": "14",
+      "title": "Alteration of constitutive documents",
+      "content": "(1) The constitutive document may be altered by the manager and trustee/custodian without consulting holders, provided that the trustee/custodian certifies in writing that in its opinion the proposed alteration— (a) is necessary to enable compliance with fiscal, statutory or other official requirements; or (b) does not materially prejudice holder's interests, does not to any material extent release the trustee/custodian , manager or any other person from any liability to holders and does not increase the costs and changes payable from the scheme's property; or (c) is necessary to correct a manifest error. (2) In all other cases, no alteration may be made except by a special or extraordinary resolution of holders."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part VI",
+      "section": "15",
+      "title": "Alterations subject to approval of the Authority",
+      "content": "(1) All proposed alterations or additions to the offering or constitutive documents shall be submitted to the Authority for prior approval. (2) The Authority shall determine whether holders should be notified and the period of notice (if any) be applied before the changes are to take effect. (3) Such notice period shall not exceed three months unless the Authority, having regard to the merits of the case, otherwise determines. Part VII – Collective investment scheme offering document (regs 16-19)"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part VII",
+      "section": "16",
+      "title": "Collective investment schemes to issue offering documents",
+      "content": "Every collective investment scheme shall issue an up-to-date offering document which shall contain all the information necessary for investors to be able to make an informed judgement of the investment proposed to them, and in particular shall contain the information listed in the Second Schedule annexed to these regulations."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part VII",
+      "section": "17",
+      "title": "Offering documents to be accompanied by audited reports",
+      "content": "An offering document shall be accompanied by the collective investment scheme's most recent audited annual report and accounts together with its semi-annual report if published after the annual report."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part VII",
+      "section": "18",
+      "title": "Application form to be supplied to holders",
+      "content": "No application form may be supplied to any person who is not a holder unless accompanied by the offering document , except that an advertisement or report containing all the information listed in the Second Schedule may be allowed to incorporate an application form."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part VII",
+      "section": "19",
+      "title": "Performance data and estimated yield",
+      "content": "(1) If performance data or estimated yield is quoted in an offering document , advertisement or any other invitation to the public to invest, the Authority may require justification of the calculation. (2) No forecast of a scheme's performance may be made. (3) The publication of a prospective yield does not constitute a forecast of performance. Part VIII – Investment plans (reg 20)"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part VIII",
+      "section": "20",
+      "title": "Conditions for investment plans",
+      "content": "If investment plans are offered— (a) before contracting for a plan, a prospective plan holder shall be given full details in writing of his rights and obligations, of all costs and charges levied on plan holders and of the consequences of terminating his plan; (b) unless he has requested to the contrary, each plan holder shall be advised at least once a year of the opening balance of units, latest transaction details and closing balance of units; (c) the plan shall include a direction to potential investors that they should refer to the offering documents of the scheme to which they are considering linking their plan; (d) an investment plan leaflet to be distributed in Tanzania shall not solicit investment in collective investment schemes which have not been authorised by the Authority; and (e) in respect of any increase of initial fee of investment plans up to the maximum permitted level, at least three months prior notice shall be given to holders concerned. Part IX – Pricing, issue and redemption of units/shares (regs 21-31)"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IX",
+      "section": "21",
+      "title": "Initial offer",
+      "content": "If initial offer is made, no investment of subscription money can be made until conclusion of the first issue of units or shares at the initial price."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IX",
+      "section": "22",
+      "title": "Valuation and pricing",
+      "content": "(1) Offer and redemption prices shall be calculated on the basis of a collective investment scheme's net assets value divided by the number of units or shares outstanding. (2) Such prices may be adjusted by fees and charges for management of the scheme, which shall first be charged against investment income, next against dealing profits from the issue and redemption of units of shares in the scheme, and lastly against the capital value of the investments of the fund. (3) The amount or method of calculating such fees and charges shall be clearly disclosed in the offering document ."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IX",
+      "section": "23",
+      "title": "Valuation of unquoted securities",
+      "content": "The value of investments not listed or quoted on a recognised market shall be determined on a regular basis by a professional person approved by the trustee/custodian as qualified to value such investments."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part IX",
+      "section": "24",
+      "title": "Dealing",
+      "content": "(1) There shall be at least one regular dealing day per month or in three months. (2) Any price offer which the manager or the distribution company quotes or publishes shall be the maximum price payable on purchase and any redemption price shall be the net price receivable on redemption."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part IX",
+      "section": "25",
+      "title": "Redemptions to be prompt",
+      "content": "The maximum interval between the receipt of a properly documented request for redemption of units or shares and the payment of the redemption money to the holder may not exceed a period of one calendar month."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part IX",
+      "section": "26",
+      "title": "Change to dealing",
+      "content": "Where a collective investment scheme deals at a known price and where, based on information available, the price exceeds or falls short of the current value of the underlying assets by more than x percent, the manager shall defer dealing and calculate a new price as soon as possible."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part IX",
+      "section": "27",
+      "title": "Notice of change in method of dealing",
+      "content": "A permanent change in the method of dealing may only be made after one month's notice to holders."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part IX",
+      "section": "28",
+      "title": "Temporary changes",
+      "content": "A temporary change may only be made in exceptional circumstances, having regard to the interest of holders."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part IX",
+      "section": "29",
+      "title": "Suspension and deferral of dealings",
+      "content": "Suspension of dealings may be provided for only in exceptional circumstances having regard to the interest of holders."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part IX",
+      "section": "30",
+      "title": "Authority to be notified of cessation or suspension",
+      "content": "(1) The manager shall immediately notify the Authority if dealing in units or shares ceases or is suspended. (2) The fact that dealing is suspended shall be published immediately following such decision and at least once a month during the period of suspension, in the newspaper in which a collective investment scheme's price are normally published."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part IX",
+      "section": "31",
+      "title": "Deferral of redemptions",
+      "content": "Where redemption requests on any one dealing day exceed ten per cent of the total number of units or shares in issue, redemption requests in excess of ten percent may be deferred to the next dealing day. Part X – Transactions with associated persons (regs 32-35)"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part X",
+      "section": "32",
+      "title": "Underwriting contracts",
+      "content": "No person shall be allowed to enter on behalf of a collective investment scheme into underwriting or sub-underwriting contracts without the prior consent of the trustee/custodian and unless the scheme or the manager provides in writing that all commissions and fees payable to the manager under such contracts and all investments acquired pursuant to such contracts shall form part of a collective investment scheme's assets."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part X",
+      "section": "33",
+      "title": "Interest on deposits",
+      "content": "If cash forming part of a collective investment scheme's assets is deposited with the trustee/custodian , the manager , or with any associated person of these companies (being an institution authorised to accept deposits), interest shall be received on the deposit at a rate not lower than the prevailing commercial rate for a deposit of that size and term."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part X",
+      "section": "34",
+      "title": "Transactions to be at arm's length",
+      "content": "(1) All transactions carried out by or on behalf of a collective investment scheme shall be at arm's length. (2) In particular, any transactions between a collective investment scheme and the manager , the directors of the scheme or any of their associated persons as principal may only be made with the prior consent of the trustee/custodian . (3) The annual report shall disclose whether one dealer accounted for fifty percent or more of the scheme's transactions in value in any one financial year."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part X",
+      "section": "35",
+      "title": "***",
+      "content": "[Omitted] Part XI – Meetings (reg 36)"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part XI",
+      "section": "36",
+      "title": "Requirements for meetings",
+      "content": "A collective investment scheme shall arrange to conduct general meetings of holders as follows— (a) holders shall be able to appoint proxies; (b) votes shall be proportionate to the number of units or shares held, or to the value of units or shares held where there are accumulated units or shares; (c) the quorum for meetings at which a special or extraordinary resolution is to be considered shall be the holders of twenty-five percent of the units or shares in issue, and ten percent if only an ordinary resolution is to be considered; (d) if within half an hour from the time appointed for the meeting a quorum is not present, the meeting shall stand adjourned for not less than fifteen days and the quorum at an adjourned meeting shall be those persons present in person or by proxy; (e) if the possibility exists of a conflict of interests between different classes of holders there shall be provisions for class meetings; (f) an extraordinary general meeting shall be convened for the following purposes— (i) to modify, alter or add to the constitutive documents except as provided in regulation fourteen; (ii) to terminate a collective investment scheme (unless the means of termination of the scheme are stipulated in the constitutive documents , in which case termination shall be effected in accordance with the provisions of the constitutive documents ); (g) where bearer units are in issue, proper provision shall be made for notification to bearer holders in Tanzania of the timing and agenda of forthcoming meetings and voting arrangements; (h) the directors of a collective investment scheme, the trustee/custodian , the manager , and their associated persons are prohibited from voting their beneficially owned shares at, or counted in the quorum for, a meeting at which they have a material interest in the business to be conducted; (i) an ordinary resolution may be passed by a simple majority of the votes of those present and entitled to vote in person or by proxy at a duly convened meeting; and (j) a special or extraordinary resolution may only be passed by seventy-five percent or more of the votes of those present and entitled to vote in person or by proxy at a duly convened meeting. Part XII – Members register (reg 37)"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part XII",
+      "section": "37",
+      "title": "Maintenance of Register",
+      "content": "(1) A collective investment scheme shall maintain a register of holders. (2) The Authority shall be notified on request of the address where the register is kept. Part XIII – Reporting requirements (regs 38-43)"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part XIII",
+      "section": "38",
+      "title": "Report to holder",
+      "content": "(1) At least two reports shall be published in respect of each financial year. (2) Annual reports shall be published and distributed to holders within four months of the end of a collective investment scheme's financial year and interim reports shall be published and distributed to holders within two months of the end of the period they cover."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part XIII",
+      "section": "39",
+      "title": "Notice of changes to document",
+      "content": "Notification to holders shall be made in respect of any changes to the offering or constitutive documents as determined by the Authority pursuant to Regulation 15 ."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part XIII",
+      "section": "40",
+      "title": "Reports on prices and assets values",
+      "content": "(1) The scheme's latest available offer and redemption prices or net asset value shall be published at least once a month in at least one of the leading Tanzania daily newspapers. (2) If dealing is suspended, notice of this fact shall be published in accordance with regulation 30 ."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part XIII",
+      "section": "41",
+      "title": "Reporting to the Authority",
+      "content": "Subsequent to the authorisation of a collective investment scheme, all financial reports produced by or for a collective investment scheme, its manager and trustee/custodian shall be filed with the Authority."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part XIII",
+      "section": "42",
+      "title": "Authority may demand further information",
+      "content": "The manager shall supply to the Authority upon request, all information relevant to the scheme's financial reports and accounts."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part XIII",
+      "section": "43",
+      "title": "Changes to data in application form",
+      "content": "The manager shall notify the Authority as soon as possible of any change to the data in the application form. Part XIV – Fees (regs 44-46)"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part XIV",
+      "section": "44",
+      "title": "Statement as to costs and charges",
+      "content": "The level/basis of calculation of all costs and charges payable from a collective investment scheme's property shall be clearly stated, with percentages expressed on a per annum basis in the offering document ."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part XIV",
+      "section": "45",
+      "title": "Sales agents' commission",
+      "content": "Commission to sales agents in respect of dealing in units or shares of a collective investment scheme shall not be payable from the scheme's property."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part XIV",
+      "section": "46",
+      "title": "Notice of increase of management fee",
+      "content": "In respect of any increase of the management fee up to the maximum level permitted under the scheme, at least three months prior notice shall be given to all holders. Part XV – Advertising and public announcements (regs 47-51)"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part XV",
+      "section": "47",
+      "title": "Authority to approve advertisements",
+      "content": "(1) Advertisement and other invitations to the public in Tanzania to invest in a collective investment scheme, including public announcements, shall be submitted to the Authority for approval prior to their issue or publication in Tanzania. (2) Any publication submitted for approval which concerns the trustee shall be accompanied by its written consent. (3) The approval so granted may be varied or withdrawn by the Authority as it deems fit. (4) Once authorised, this advertisement may be used for a maximum period of six months, provided there are no material changes in that period to a unit trust scheme or to the advertisement itself. (5) Unless the Authority disapproves submitted material within fourteen calendar days of its submission, the Authority shall be deemed to have approved it."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part XV",
+      "section": "48",
+      "title": "Statements as to approval of schemes",
+      "content": "(1) If a collective investment scheme is described as having been approved by the Authority it shall be stated that, in giving this approval, the Authority does not take responsibility for the financial soundness of the scheme or for the correctness of any statements made or opinions expressed in this regard. (2) Such a statement shall comply with the requirements of Regulation."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part XV",
+      "section": "49",
+      "title": "Mention of unapproved schemes",
+      "content": "Advertisements and other invitations to the public in Tanzania shall not refer to any collective investment scheme which has not obtained approval from the Authority."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part XV",
+      "section": "50",
+      "title": "Warning statements",
+      "content": "Advertisements shall include a warning statement that— (a) the price of units or shares, and the income from them (if the scheme pays a dividend), may go down as well as up; and (b) investors are reminded that in certain circumstances their right to redeem their units or shares may be suspended."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part XV",
+      "section": "51",
+      "title": "Format of warning statements",
+      "content": "(1) Warning statements shall be printed in type of the same size as the rest of the text in the advertisement. (2) Notwithstanding subregulation (1) , they may be in smaller text if printed in bold type or prominently outlined. (3) In all cases the warning shall be capable of being read with reasonable ease by anyone scanning the advertisement. Part XVI – Investment limits of a collective investment scheme (regs 52-60)"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part XVI",
+      "section": "52",
+      "title": "Investment limits",
+      "content": "The Authority may prescribe rules relating to the maximum and minimum limits of investments which may be made by collective investment schemes in securities issued by a single issuer, classes of securities, unquoted securities and other holdings."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part XVI",
+      "section": "53",
+      "title": "Schemes to observe investment limits",
+      "content": "Investments made by a collective investment scheme shall not exceed or fall below the limits prescribed by the Authority under regulation 52 ."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part XVI",
+      "section": "54",
+      "title": "Limitation on making loans",
+      "content": "A collective investment scheme may not lend, assume, guarantee, endorse or otherwise become directly or contingently liable for or in connection with any obligation or indebtedness of any person without the prior written consent of the trustee/custodian ."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part XVI",
+      "section": "55",
+      "title": "Unlimited liability",
+      "content": "A collective investment scheme may not acquire any asset which involves the assumption of any liability which is unlimited."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part XVI",
+      "section": "56",
+      "title": "Limitation on securities in which directors have an interest",
+      "content": "A collective investment scheme may not invest in any security of any class in any company or body if any director or officer of the manager owns more than ___________ of the total nominal amount of all issued securities of that class, or, collectively the directors and officers of the manager own more than five percent of those securities."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part XVI",
+      "section": "57",
+      "title": "Limitations on nil-paid/partly paid securities",
+      "content": "The portfolio of a collective investment scheme may not include any security where a call is to be made for any sum unpaid on that security unless that call could be met in full out of cash or near cash by the scheme's portfolio."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part XVI",
+      "section": "58",
+      "title": "Prohibition on borrowing",
+      "content": "A unit trust scheme shall not borrow."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part XVI",
+      "section": "59",
+      "title": "Breach of investment limits",
+      "content": "If the investment limits of this Part are breached, the manager shall take as a priority objective all such steps as are necessary within a reasonable period of time to remedy the situation, taking due account of the interests of the holders."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part XVI",
+      "section": "60",
+      "title": "Investment objective",
+      "content": "If the name of a collective investment scheme indicates a particular objective, geographic region or market, the scheme shall invest at least seventy percent of its non-cash assets in securities and other investments to reflect the particular objective or geographic region or market the scheme represents. Part XVI – Audit and financial reports (regs 61-64)"
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "Appointment of auditor",
+      "content": "The manager shall, at the outset and upon any vacancy, appoint an auditor for a collective investment scheme."
+    },
+    {
+      "provision_ref": "s62",
+      "section": "62",
+      "title": "Qualifications of auditor",
+      "content": "A person shall not be qualified for appointment as auditor unless he is a member and holds a valid practising certificate issued by the National Board of Accounts and Auditors."
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "Independence of auditor",
+      "content": "The auditor shall be independent of the manager and of the trustee/custodian ."
+    },
+    {
+      "provision_ref": "s64",
+      "section": "64",
+      "title": "Auditor of annual report",
+      "content": "The manager shall cause the scheme's annual report to be audited by the auditor, and such report shall contain the information provided for in clause seventeen of the Fourth Schedule annexed to these Regulations. First Schedule Forms [Editorial note: The forms have not been reproduced.] Second Schedule Information to be disclosed in the offering document [NOTE: This list is not intended to be exhaustive. The directors of the scheme or the manager are obliged to disclose any information which may be necessary for investors to make an informed judgement.] 1. Constitution of the scheme: Name, registered address and place and date of creation of the scheme, with an indication of its duration if limited. 2. Investment objectives and restrictions: Details of investment objectives and policy, including summary of the investment and borrowing restrictions. 3. Operators and principals: The names and registered addresses of the following parties (where applicable)— (a) the directors of the scheme/manager and its board of directors; (b) the trustee/custodian; (c) the investment adviser; (d) the Tanzania representative; (e) the Tanzania distribution company, if different from (d) above; (f) the auditors; (g) the registrar; and (h) the lawyers to the scheme. Characteristics of unit or shares: 4. Minimum investment (if any). 5. A description of the different types of units or shares, including their currency or denomination. 6. Form of certification. 7. Frequency of valuation and dealing, including dealing days. Application and redemption procedures: 8. The name(s) of the newspaper(s) in which prices will be published. 9. Procedure for subscribing/redeeming units or shares. 10. The maximum interval between the request for redemption and the despatch of the redemption proceeds. 11. A summary of the circumstances in which dealing in units or shares may be deferred or suspended. 12. It shall be stated that no money should be paid to any intermediary who is not a licensed dealer or investment adviser. 13. Distribution policy: The distribution policy and the approximate dates on which dividends (if any) will be paid (if applicable). Fees and charges: 14. (a) The level of the fees and charges payable by an investor, including all charges levied on subscription and redemption, and conversion (in the case of umbrella funds); and (b) The level of all fees and charges payable by the scheme, including management fees, custodian fees and start-up expenses. 15. Disclosure of entitlement to brokerage or other transactions benefits of any associated persons to the scheme. 16. Taxation: Details of principal taxes levied on the scheme's income and capital, including tax if any, deducted on distribution to holders. Reports and accounts: 17. The date of the scheme's financial year. 18. Particulars of what reports will be sent to registered holders and when, if there are bearer units in issue, information shall be given on where reports can be obtained. Warnings: 19. The following statements/warnings shall be prominently displayed in the offering document— (a) \"Import - if you are in any doubt about the contents of this offering document, you should consult your stockbroker, bank manager, lawyer, accountant or other financial adviser\"; (b) a warning that the price of units or shares and the income from them (where income is distributed) may go down as well as up. 20. A list of constitutive documents and an address where they can be inspected free of charge or purchase. 21. The date of publication of the offering document. 22. A statement that the directors of the scheme or the manager accept responsibility for the information contained in the offering document as being accurate as at the date of publication. 23. Details of schemes not authorised shall be shown in the offering document 24. Termination of scheme: A summary of the circumstances in which the scheme can be terminated. Third Schedule Required contents of the constitutive documents 1. Name of scheme. 2. Participating parties A statement to specify the participating parties including the manager trustee/custodian, and investment adviser (if appointed). 3. (1) A statement that the constitutive document in binding on each holder as if he had been a part to it and so to be bound by its provisions and authorises and requires the trustee/custodian and the manager to do as required of them by the terms of the constitutive documents. (2) A provision that a holder is not liable to make any further payment after he has paid the purchase price of his units and that no further liability can be imposed on him in respect of the units which he holds. (3) A declaration that the property of the scheme is held by the trustee/custodian in trust for the holders of the units pari passu according to the number of units held by each holder. (This may be modified as appropriate for schemes offering income and accumulations units). 4. Role of manager There shall be— (a) a statement to list the obligations of the manager as set out in regulation 6 of these regulations; (b) a statement that the manager should retire in the manner as stipulated in section 122 of the Act. 5. Investment and borrowing restrictions A statement to list the restrictions on the investment of the deposited property and the maximum borrowing limit of the scheme. 6. Valuation of property and pricing The following requirements on valuation of property and pricing shall be stipulated— (a) the method of determining the value of the assets and liabilities of the property of the scheme and the net asset value accordingly; (b) the relationship between the privies at which the manager bids or offers units or shares and the most recent net asset value per unit or share; (c) the permitted spread between bid and offer prices; (d) the circumstances under which the relationship to asset value or the spread may change; and (e) the front-end load management charge to purchase units or shares and, if different, the charge to investors tore-invest the proceeds of realising a holding in the scheme. 7. Dealing, suspension and deferral of dealing The following shall be stated— (a) the circumstances under which the dealing of units or shares can be deferred or suspended; and (b) the maximum interval between the receipt of a properly documented request for redemption funds of shares and the payment of the redemption money to the holder should not exceed one calendar month. 8. Fees and charges The following shall be stated— (a) the maximum percentage of the initial charge payable to the manager out of the issue price of a unit or share; (b) the maximum fee payable to the manager out of the property of the scheme expressed as an annual percentage; (c) fee payable to trustee/custodian; (d) preliminary expenses to be amortised against the property for the scheme; and (c) all other material fees and charges payable out of the property of the scheme [Please note: numbering as in original.] 9. Meetings Provisions shall be made as to the manner in which holder's meeting are to be conducted in accordance with regulation 36 of these regulations. 10. Transactions with associated persons The following shall be stated— (a) cash forming part of the property of the scheme may be placed as deposits with the trustee/custodian, manager, the investment adviser or with any connected persons of these companies (being as institution authorised to accept deposits) so long as that institution pays interest thereon at no lower rate that is, in accordance with normal banking practice, the commercial rate for deposits of the size of the deposit question negotiated at arm's length; (b) money can be borrowed from the trustee/custodian, manager, the investment adviser or any of their connected persons (being a bank) so long as that bank charges interest at no higher rate, and any fee from arranging or terminating the loan is of no greater amount than is in accordance with normal banking practice, the commercial rate for a loan of the size and nature of the loan in question negotiated at arm's length; (c) any transactions between the scheme and the manager, the investment adviser, directors of the scheme or any of their connected persons as principal may only be made with the prior written consent of the trustee/custodian. 11. Distribution policy and date The approximate date(s) in the calendar year on which annual income, if any, will be distributed. 12. Annual accounting period The date in the calendar year on which the annual accounting period ends. In the case of an umbrella fund, this accounting period shall be the same for all constituted funds. 13. Base currency A statement of the base currency of the scheme. 14. Modification of the constitutive documents A statement of the means by which modification to the constitutive documents can be effected. 15. Termination of scheme A statement of the circumstances in which the scheme can be terminated. Fourth Schedule Contents of financial reports General: 1. Annual report shall contain all the information required in the Schedule. Interim reports shall at least contain the Statement of Assets and Liabilities and the Investment Portfolio. Where the scheme has paid or proposes to pay an interim dividend, the amount of dividend shall be disclosed. 2. All reports shall contain comparative figures for the previous period except for the Investment Portfolio. 3. No unauthorised scheme shall be mentioned in the reports. 4. The items listed under the Statement of assets and Liabilities, Revenue Statement, Distribution Statement, Statement of Movements in Capital Account and the Notes to the Accounts, where applicable, shall be disclosed, it is however, not mandatory to adopt the format as shown or to disclose the items in the same order. 5. Statement of Assets and Liabilities: The following shall be separately disclosed— (1) total value of investments; (2) bank balances; (3) formation costs; (4) dividends and other receivable; (5) amounts receivable on subscription; (6) bank loans and overdrafts or other forms of borrowing; (7) amounts payable on redemption; (8) distribution payable; (9) total value of all assets; (10) total value of all liabilities; (11) net asset value; (12) number of units or shares in issue; (13) net asset value per unit or share. 6. Revenue Statement: The following shall be separately disclosed— (1) total investment income net of withholding tax, broken down by category; (2) total other income, broken down by category; (3) equalisation on issue and cancellation of units or shares; (4) an itemised list of various costs which have been debited to the scheme including— (i) fees paid to the manager; (ii) remuneration of the trustee/custodian; (iii) amortisation of formation costs; (iv) safe custody and bank charges; (v) auditor's remuneration; (vi) interest on borrowings; (vii) fees paid to investment adviser, if any; (viii) other amounts paid to any associated persons of the scheme; (ix) legal and other professional fees; (x) any other expenses borne by the scheme; (5) taxes; (6) amounts transferred to and from the capital account; (7) net income to be carried forward for distribution. 7. Distribution Statement: The following shall be separately disclosed— (1) amount brought forward at the beginning of the period; (2) net income for the period; (3) final distribution per unit or share and date of distribution; (4) final distribution unit or share and date of distribution; (5) undistributed income carried forward. 8. Statement of movements in capital account: The following shall be separately disclosed— (1) value of the scheme as at the beginning of the period; (2) number of units or shares issued and the amounts received upon such issuance (after equalisation if applicable); (3) number of units or shares redeemed and the amount paid on redemption (after equalisation if applicable); (4) any items resulting in an increase/decrease in value of the scheme including— surplus/loss on sale of inv"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "constitutive documents",
+      "definition": "the principal documents governing the formation of a collective investment scheme, and includes the trust deed in the cased of a unit trust and the articles of association of an investment company and all material agreements",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manager",
+      "definition": "a person authorised by the Authority in accordance with section 118 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "offering document",
+      "definition": "the document, or documents issued together, containing information on a scheme calculated to invite offers by the public to subscribe for or purchase units or shares in the scheme",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trustee/custodian",
+      "definition": "a person authorised by the Authority in accordance with section 118 of the Act.",
+      "source_provision": "s2"
+    }
+  ]
+}

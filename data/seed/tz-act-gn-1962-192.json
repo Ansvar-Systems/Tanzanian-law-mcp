@@ -1,0 +1,96 @@
+{
+  "id": "tz-act-gn-1962-192",
+  "type": "statute",
+  "title": "Penal Code (Anatomy) Rules, 1962",
+  "title_en": "Penal Code (Anatomy) Rules, 1962",
+  "short_name": "Penal Code (Anatomy) Rules,...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/1962/192/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Rules may be cited as the Penal Code (Anatomy) Rules."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In these Rules, unless the context requires otherwise— \" coroner \" has the meaning ascribed thereto in the Inquests Act 1 ; 1 Cap. 24 \" interment \" includes any method of disposal of dead bodies which is customary in any community; \" medical officer \" in relation to a hospital means the medical officer in charge of that hospital; \" Minister \" means the Minister for the time being responsible for matters relating to health."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Post mortem examination",
+      "content": "Where a person has died in a hospital, the medical officer , if he is of the opinion that it is necessary to ascertain the cause of death or that it will assist the advancement of medical science, may authorise a post mortem examination of the body of such person: Provided that no such examination shall be authorised in any case where the surviving wife or husband or any other relative of the deceased requires the body of the deceased to be interred without such examination."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Delivery of body if not claimed",
+      "content": "Where a person has died in a hospital and his body has not been claimed by a relative or a bona fide friend within twenty-four hours of his death, the medical officer may cause the body to be delivered to a medical school, but shall forthwith inform a coroner of the date of the person's death, of such particulars as are known of his identity and of the date on which the body was delivered to a named medical school."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Procedure after delivery",
+      "content": "Where a medical officer has caused a body to be delivered to a medical school under rule 4, such body shall thereupon be preserved but nothing further shall be done to it for a period of not less than fourteen days, or in the event of a claim being made by any person for the body, until such time as there has been final adjudication on the claim."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Procedure when claimed",
+      "content": "(1) If within fourteen days of the delivery of a body to a medical school it is claimed by any person who satisfies a coroner or the medical officer that he is a relative, a bona fide friend, or an authorised representative of the community to which the deceased person belonged, the coroner or medical officer shall cause the body to be delivered to the person claiming it. (2) As soon as it comes to the notice of a medical officer or of a coroner that a body which has been delivered to a medical school has been claimed by any person he shall immediately inform the medical school to which the body has been delivered."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Unclaimed body",
+      "content": "If at the expiration of the period of fourteen days no person has claimed the body of the deceased person under the provisions of rule 6, any professor or teacher of anatomy, pathology, medicine or surgery or any student working under the supervision of any such professor or teacher may dissect the body."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Retention of body parts",
+      "content": "Where a professor or teacher of anatomy, pathology, medicine or surgery considers it necessary for the instruction of students or for research at a medical school, he may authorise the retention of any part of a body removed to that school under these Rules."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Interment",
+      "content": "Subject to the provisions of rule 8, every body removed to a medical school shall, after dissection, be decently interred and a certificate of the interment of the body shall be sent to a coroner ."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Removal of tissue",
+      "content": "(1) The Medical Officer in charge of any hospital may, if satisfied the tissue is required in the treatment of any other person, remove or authorise the removal of any cadaveric tissue from a body lying in the hospital: Provided that if a spouse, a parent or a guardian of the deceased is readily available no such removal shall take place without the consent of that spouse, parent or guardian. (2) For the purpose of this Rule the expression \"readily available\" means available within such time as would enable the removal of the tissue to take place whilst it is still in a condition to be utilised for the purposes for which it is required."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Inspection of records",
+      "content": "Any person authorised in writing by the Minister may visit and inspect at any reasonable time any medical school and may require the production of full and correct records relating to the removal, dissection and interment of bodies which have been removed to the medical school in accordance with the provisions of these Rules. History of this document 31 July 2002 this version Consolidation Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "coroner",
+      "definition": "ascribed thereto in the Inquests Act 1",
+      "source_provision": "s2"
+    },
+    {
+      "term": "interment",
+      "definition": "any method of disposal of dead bodies which is customary in any community",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister for the time being responsible for matters relating to health.",
+      "source_provision": "s2"
+    }
+  ]
+}

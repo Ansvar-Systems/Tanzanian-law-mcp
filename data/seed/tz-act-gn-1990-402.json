@@ -1,0 +1,64 @@
+{
+  "id": "tz-act-gn-1990-402",
+  "type": "statute",
+  "title": "National Milling Corporation (Specification for Grading Maize Standards for the 1990/91 Season) Order, 1990",
+  "title_en": "National Milling Corporation (Specification for Grading Maize Standards for the 1990/91 Season) Order, 1990",
+  "short_name": "National Milling Corporatio...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/1990/402/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "",
+      "content": "This Order may be cited as the National Milling Corporation (Specification for Grading Maize Standards for the 1990/91 Season) Order."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definitions",
+      "content": "In this Order, unless the context requires otherwise— \" broken grain \" means broken maize and component parts which pass through a perforated plate sieve of aperture size 6.35mm diameter; \" foreign matter \" means any material that is not maize grain and includes other parts of the maize plant; \" other defective grains \" means maize grain which is immature, shrivelled or damaged by the action or effects of heat or excessive moisture, shrivelled or damaged by the action or effects of heat or excessive moisture such as discolouration, sprouting and mouldy; \" other coloured grains \" means grain with pericarp of a natural colour differing from the majority of the kernels; \" pest damaged grain \" means maize grain which has been visibly damaged externally or internally, by insects or rodents."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "",
+      "content": "Shelled maize shall be of white varieties, of close wholesome appearance and free of commercially-objectionable odours."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "",
+      "content": "The test method for the shelled maize is specified in the Second Schedule to this Order. Notwithstanding the provisions of paragraphs 3 and 4 the grades in the First Schedule shall be used for the 1990/91 season. First Schedule Shelled Maize Grade I% BY MASS Shelled Maize Grade I% BY MASS Foreign matter 2 4 Broken Grain — — Pest Damaged Grain 4 8 Other Defective Grain 3 5 Other Coloured Grain 1 2 Moisture Content 13 13 Live Infestation per 250g None None Second Schedule Test method for shelled maize 1. Obtain representative sample from the lot and mix thoroughly. Keep material in a moisture-proof container. 2. Using a moisture meter record the moisture content. 3. Take 250g sub-sample. Observe condition of maize including infestation. 4. Screen sub-sample over 6.35 mm diameter perforated plate sieve. 5. Take weight of troughs plus hand picked foreign matter from material remaining on top of sieve. Record as foreign matter. 6. From the material remaining on top of the sieve, hand pick and separate in order of priority: (1) Pest damaged grains. (2) Other defective grains. (3) Other coloured grains. 7. Take individual weights of the separate materials and record as appropriate. 8. Maize with component percentages greater than those shown in the grading specification and its comment shall be considered not to have achieved the grade. History of this document 31 July 2002 this version Consolidation Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "broken grain",
+      "definition": "broken maize and component parts which pass through a perforated plate sieve of aperture size 6.35mm diameter",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign matter",
+      "definition": "any material that is not maize grain and includes other parts of the maize plant",
+      "source_provision": "s2"
+    },
+    {
+      "term": "other defective grains",
+      "definition": "maize grain which is immature, shrivelled or damaged by the action or effects of heat or excessive moisture, shrivelled or damaged by the action or effects of heat or excessive moisture such as discolouration, sprouting and mouldy",
+      "source_provision": "s2"
+    },
+    {
+      "term": "other coloured grains",
+      "definition": "grain with pericarp of a natural colour differing from the majority of the kernels",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pest damaged grain",
+      "definition": "maize grain which has been visibly damaged externally or internally, by insects or rodents.",
+      "source_provision": "s2"
+    }
+  ]
+}

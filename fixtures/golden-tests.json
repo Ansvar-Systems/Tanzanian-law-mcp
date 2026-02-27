@@ -2,6 +2,146 @@
   "$schema": "./golden-tests.schema.json",
   "version": "1.0",
   "mcp_name": "Tanzania Law MCP",
-  "description": "Golden contract tests for the Tanzania Law MCP -- add tests after first ingestion",
-  "tests": []
+  "description": "Golden contract tests for the Tanzania Law MCP -- 12 tests covering 8 core tools with real law IDs from TanzLII corpus",
+  "tests": [
+    {
+      "id": "search-001",
+      "category": "search_legislation",
+      "description": "Search for cybercrime provisions returns Cybercrimes Act 2015",
+      "tool": "search_legislation",
+      "input": { "query": "cybercrime", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["tz-act-2015-14"]
+      }
+    },
+    {
+      "id": "search-002",
+      "category": "search_legislation",
+      "description": "Search for money laundering returns Anti-Money Laundering Act",
+      "tool": "search_legislation",
+      "input": { "query": "money laundering", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["money"]
+      }
+    },
+    {
+      "id": "get-prov-001",
+      "category": "get_provision",
+      "description": "Get Section 4 of Cybercrimes Act 2015 (Illegal access)",
+      "tool": "get_provision",
+      "input": { "document_id": "tz-act-2015-14", "provision_ref": "s4" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["intentionally", "unlawfully", "access"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "get-prov-002",
+      "category": "get_provision",
+      "description": "Get Section 1 of Companies Act 2002 (Short title)",
+      "tool": "get_provision",
+      "input": { "document_id": "tz-act-2002-12", "provision_ref": "s1" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["Companies Act"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "get-prov-003",
+      "category": "get_provision",
+      "description": "Get Section 5 of Employment and Labour Relations Act (child labour)",
+      "tool": "get_provision",
+      "input": { "document_id": "tz-act-2004-6", "provision_ref": "s5" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["child", "fourteen"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "validate-001",
+      "category": "validate_citation",
+      "description": "Validate citation to Cybercrimes Act 2015 Section 4",
+      "tool": "validate_citation",
+      "input": { "citation": "Section 4, Cybercrimes Act, 2015" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "stance-001",
+      "category": "build_legal_stance",
+      "description": "Build legal stance on data protection in Tanzania",
+      "tool": "build_legal_stance",
+      "input": { "query": "data protection personal information", "limit": 5 },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "format-001",
+      "category": "format_citation",
+      "description": "Format citation for Mining Act Section 5",
+      "tool": "format_citation",
+      "input": { "citation": "Section 5, Mining Act", "format": "full" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "currency-001",
+      "category": "check_currency",
+      "description": "Check currency of the Land Act 1999",
+      "tool": "check_currency",
+      "input": { "document_id": "tz-act-1999-4" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["in_force"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "currency-002",
+      "category": "check_currency",
+      "description": "Check currency of the Anti-Money Laundering Act 2006",
+      "tool": "check_currency",
+      "input": { "document_id": "tz-act-2006-12" },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["in_force"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "list-sources-001",
+      "category": "list_sources",
+      "description": "List sources returns Tanzania jurisdiction metadata",
+      "tool": "list_sources",
+      "input": {},
+      "assertions": {
+        "result_not_empty": true,
+        "text_not_empty": true,
+        "any_result_contains": ["Tanzania"]
+      }
+    },
+    {
+      "id": "edge-001",
+      "category": "get_provision",
+      "description": "Get provision for non-existent document handles gracefully",
+      "tool": "get_provision",
+      "input": { "document_id": "tz-act-9999-9999", "provision_ref": "s1" },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
 }

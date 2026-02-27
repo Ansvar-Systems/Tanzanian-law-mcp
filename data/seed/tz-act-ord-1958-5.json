@@ -1,0 +1,68 @@
+{
+  "id": "tz-act-ord-1958-5",
+  "type": "statute",
+  "title": "Transfer of Business (Protection of Creditors) Act",
+  "title_en": "Transfer of Business (Protection of Creditors) Act",
+  "short_name": "Transfer of Business (Prote...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/ord/1958/5/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Transfer of Businesses (Protection of Creditors) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context requires otherwise, \" debt \" includes any tax, levy, fee or penalty due to the Government under any written law."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Liability of transferees of businesses",
+      "content": "(1) Subject to the provisions of section 7 , every person who after the date of the coming into operation of this Act acquires– (a) the goodwill; or (b) the whole or substantially the whole of the property, of any trading or manufacturing business or any business of a like nature shall, notwithstanding any agreement to the contrary, be liable for all the debts and obligations for which the transferor thereof is liable in respect of that business at the date of the transfer unless notice of the intended transfer has been published in accordance with the provisions of section 4 not less than two months nor more than six months before the date when the transfer is to take effect: Provided that a person who has paid in good faith and without preference in discharge or partial discharge of debts and obligations for which he became liable under the provisions of this Act and for which he would not otherwise have been liable, an amount equal to the value at the date of the transfer of the goodwill and property acquired by him shall not be liable further or otherwise under this Act: And provided further that no action shall be instituted to recover any debt from or enforce any obligation against any person liable therefor under the provisions of this Act but not otherwise, more than twelve months after the date of the transfer upon which the liability arose. (2) The provisions of this section shall extend and apply in relation to any income tax or other tax due or which may, on assessment or reassessment, become due from the transferor in respect of his income from the business earned prior to the date of the transfer, whether or not at the date of the transfer the amount of such tax had been assessed or ascertained."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Contents of notices of intended transfers",
+      "content": "(1) The notice referred to in section 3 shall contain the following particulars— (a) the full name and the residential and postal addresses of the transferor; (b) the nature of the business and the name or style under which, and the full address at which, the business has been carried on; (c) the nature of the transaction (whether sale, exchange or otherwise) and the extent thereof; (d) the date when the transfer is intended to take effect; (e) the full name and the residential and postal addresses of the transferee; (f) the full address where, and the name or style under which, the transferee intends to carry on the business; and (g) a statement as to whether the transferee is assuming all or any of the liabilities of the transferor. (2) Every such notice shall be signed by both the transferor and the transferee and shall be published in the Gazette and in such newspaper or newspapers as may from time to time be prescribed. (3) The production of the Gazette containing any such notice shall be prima facie evidence as against both the transferor and the transferee of the statements contained in the notice."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Right of transferee to indemnity",
+      "content": "The transferee of the goodwill or the whole or substantially the whole of the property of a business shall be entitled to be indemnified by the transferor as regards all amounts for which the transferee is made liable under this Act and for which he would not otherwise be liable and the amount of any such indemnity may be recovered by civil suit."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Contractual liability not affected",
+      "content": "Nothing in this Act shall relieve or be deemed to relieve either the transferor or the transferee of the goodwill or the whole or substantially the whole of the property of a business from any liability to which he would otherwise be subject."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Registrar-General may prescribe newspapers",
+      "content": "The Registrar-General may by notice in the Gazette prescribe the newspaper or newspapers in which notices of intended transfers shall be published under section 4 ."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Saving",
+      "content": "Nothing in this Act shall affect any person acquiring the goodwill or the whole or substantially the whole of the property of any business– (a) from the Official Receiver or any trustee in bankruptcy; (b) from the liquidator of any company; (c) from an executor or administrator; (d) by operation of law. History of this document 31 December 2023 Chapter 327 Revised Laws 2023 Consolidation 31 July 2002 this version Chapter 327 Revised Laws 2002 Consolidation 28 February 1958 Commenced Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "debt",
+      "definition": "any tax, levy, fee or penalty due to the Government under any written law.",
+      "source_provision": "s2"
+    }
+  ]
+}

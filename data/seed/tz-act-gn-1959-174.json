@@ -1,0 +1,481 @@
+{
+  "id": "tz-act-gn-1959-174",
+  "type": "statute",
+  "title": "Land Survey and Surveyors' Regulations, 1959",
+  "title_en": "Land Survey and Surveyors' Regulations, 1959",
+  "short_name": "Land Survey and Surveyors' ...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/1959/174/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation, application and interpretation",
+      "content": "(1) These Regulations may be cited as the Land Survey and Surveyors' Regulations, and shall apply to all surveys carried out by licensed surveyors, other than a survey in respect of which the Director specifies a method of survey under the proviso to section 5 of the Land Survey Act 1 . 1 Cap. 324 (2) In these Regulations the expression \"the Standard Forms\" means the schedules of Standard Forms dated the 21st day of May, 1959, and deposited with the Chief Surveyor. (3) A copy of the Standard Forms shall be issued by the Chief Surveyor free of charge to every licensed surveyor upon these Regulations coming into operation or upon his receiving a licence, as the case may be. Part I – General technical instructions (regs 2-9)"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Units of measurement",
+      "content": "All linear measurements shall be in English feet and decimals of a foot; angular measurements shall be in degrees, minutes and seconds of arc. Where it is necessary to convert for any purpose from English feet to international metres, the following relationships shall be used— 1 International metre = 3.2808 4558 English feet. 1 English foot = 0.3047 9947 metres."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Systems of co-ordinates and projections",
+      "content": "(1) The figure of the earth to be used is the Clark (1880) figure having the following elements— Semi-diameter major = 20,926,202 English feet. Ellipticity = 1/293.465. (2) Rectangular co-ordinates used for ruling triangulation and for all surveys connected thereto shall be derived from 50 belts of the Transverse Mercator Projection having as central meridians, the meridians 321/2º E. and 371/2º E. with a false origin at a point 10,000,000 feet south of the Equator on the central meridians, and a scale correction of 0.05 percent applied to the Y co-ordinates (eastings). In the absence of suitable control points with rectangular co-ordinates on this projection, rectangular co-ordinates shall be derived from 60 belts of the Universal Transverse Mercator Projection having as central meridians, meridians 330 E. and 390 E. with a false origin at a point 10,000,000 metres south of the Equator on the central meridians and 500,000 metres west of it, and a scale correction of 0.04 percent applied to the Y co-ordinates (eastings). Farm and estate surveys shall, wherever possible, be connected to the territorial system of triangulation. (3) Standard traverses in townships and local systems of rectangular co-ordinates generally shall be computed on the plane and free from spheroidal complications. (4) Wherever possible the datum for every survey shall be the territorial triangulation, but in districts to which the triangulation has not been extended the datum shall be derived from astronomical observations which will be used to determine longitude, latitude and azimuth; in special cases, a magnetic bearing may be adopted. No isolated survey shall be carried out without the Director's written approval, and such approval shall also be obtained before a magnetic bearing is adopted."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part I",
+      "section": "4",
+      "title": "Measuring instruments",
+      "content": "(1) Every licensed surveyor shall be responsible for maintaining his theodolite, measuring bands, and all other measuring equipment in good order and the Director may refuse to approve any survey which has been made with defective equipment. (2) Every measuring band, tape, thermometer, and spring balance shall be submitted to a suitably equipped Government Survey office before use and thereafter not less than once every year for verification. (3) The Director shall assign a unique number to every measuring band submitted to him for verification and shall keep a record of all particulars of every measuring band so submitted. (4) When any measuring band is broken the breakage shall be recorded in the field notes. (5) The Director may require any licensed surveyor to submit any measuring instrument for his inspection or for verification, and may refuse to approve any survey which has been made with a measuring instrument which is proved to be defective."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part I",
+      "section": "5",
+      "title": "Presentation of surveys",
+      "content": "(1) Every licensed surveyor shall present his plan, computations, and connected documents for each survey in accordance with the specimens shown in the appropriate schedules of the Standard Forms. If any licensed surveyor shall forward to the Director any plan, computation, or connected document which does not conform substantially with the appropriate specimen in the said schedules, the Director may, at his discretion, return the plan, computation or connected document until it has been made to conform to the appropriate specimen. (2) Every licensed surveyor shall be personally responsible for the accuracy, fidelity, and completeness of every survey presented by him for the approval of the Director and it shall be the duty of every licensed surveyor making any survey under these Regulations, to record all relevant information that may aid in securing the accuracy and completeness of every such survey."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part I",
+      "section": "6",
+      "title": "Permissible errors of measurement",
+      "content": "Permissible errors of measurement for every class of work shall be those prescribed in Part III of these Regulations, and the Director may refuse to approve any survey which contains errors in excess of those prescribed."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part I",
+      "section": "7",
+      "title": "Information previous to survey",
+      "content": "Before carrying out any survey, every licensed surveyor shall provide himself with all available information in respect of any previous survey of the property or of adjoining properties. Written applications to the Director for information and data shall state whether the land is freehold or leasehold and shall, wherever applicable, make reference to the approval for subdivision. The Director shall furnish all technical information and data in his possession. No charge will be made for data but the Director may charge for every print made by him in this connection, in accordance with the scale of charges specified in the Third Schedule to the Land Survey (General) Regulations."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part I",
+      "section": "8",
+      "title": "Right of entry upon land",
+      "content": "It shall be the duty of every licensed surveyor to whom the Director has given an official letter of authority evidencing his right to enter upon land, to present that letter of authority to any owner or occupier of land who demands proof that such surveyor is duly authorised to enter upon such land."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part I",
+      "section": "9",
+      "title": "Employment of unqualified assistants",
+      "content": "(1) No unlicensed assistant shall make any measurements in connection with any survey unless authorised by the Director in that behalf. (2) Such authorisation shall be given for a period of two years only in the first instance, but may thereafter be renewed for further periods at the discretion of the Director. (3) Notwithstanding any such authorisation, every licensed surveyor shall for the purposes of these Regulations be fully responsible for all work performed by his unlicensed assistant. (4) Every unlicensed assistant shall clearly indicate which field notes and computations have been made by him and these field notes and computations shall be signed by him and countersigned by the licensed surveyor by whom he is employed. (5) All work performed by an unlicensed assistant shall be carried out under the personal direction of a licensed surveyor. (6) If the Director discovers that an unlicensed assistant has performed any work which has not been supervised and checked by a licensed surveyor, any written authorisation relating to the unlicensed assistant may be revoked. Part II – Survey marks and boundary beacons (regs 10-22)"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Design and specification of survey marks",
+      "content": "(1) Every trigonometrical station, fundamental benchmark and boundary point shall be beaconed with a permanent mark constructed and erected to the designs specified for each type of station illustrated in the First Schedule of the Standard Forms. (2) At least two boundary points of an estate survey shall be double beacons. These two boundary points should be intervisible if possible."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Direction trenches",
+      "content": "(1) In all surveys, excepting township surveys and surveys of smallholdings of less than twenty acres, a trench six feet in length and one foot in both width and depth shall be dug at each beacon in the true direction of each boundary. (2) On stony ground, a wall of stone of the same dimensions as such a trench shall be built instead of a trench."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Water beacons",
+      "content": "Boundary lines running to an irregular feature such a river or swamp or to a lake or seashore shall be beaconed at a suitable point above flood level or high water mark. No property shall share a water beacon with any property on the opposite site of a river, but shall be independently beaconed on its own bank."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Pointer beacons",
+      "content": "(1) Pointer beacons shall be placed at all estate corners on lines where the adjoining beacon is too far away to be seen or where intervisibility is obstructed by an obstacle. (2) Such beacons shall be made of a concrete block in the design shown for a Township Line Beacon in the First Schedule of the Standard Forms and shall be placed at a distance of not less than 300 feet from the corner beacon (if the terrain permits) and accurately in line with the adjoining beacon. (3) The actual bearing of such beacons shall be observed by theodolite observations taken after the pointer beacon has been placed in position. Such observations shall consist of two fact rights and two face lefts on different zeros."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part II",
+      "section": "14",
+      "title": "Permanent traverse marks",
+      "content": "When rigorous traverses are run in an area where boundary marks are not required, at least twenty-five per centum of all traverse stations shall be permanently marked in groups of three at suitable intervals along the traverse."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part II",
+      "section": "15",
+      "title": "Witness marks",
+      "content": "(1) Witness marks shall be placed at all primary and secondary trigonometrical stations. Witness marks shall consist of four iron pins in concrete, two of which shall be surface marks and two underground marks, and shall be in the form illustrated in the First Schedule of the Standard Forms. (2) Two rounds of vertical and horizontal angles, one face left and one face right, shall be observed at each trigonometrical station and measurements taken to each witness mark from the trigonometrical station."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part II",
+      "section": "16",
+      "title": "Referencing of boundary beacons",
+      "content": "Corner beacons placed on a boundary between a property and a railway reserve shall be referenced by measurement of a bearing and distance to the nearest telegraph pole or kilometre stone."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part II",
+      "section": "17",
+      "title": "When a beacon is not required",
+      "content": "Where any corner point in a property boundary coincides with a permanent and easily recognisable feature, such as the corner of a building or a concrete fence post, or is so close to it that a boundary beacon cannot be placed, such corner point need not be beaconed; it must however be co-ordinated and in the latter case referenced to the permanent feature."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part II",
+      "section": "18",
+      "title": "Beacons placed on line",
+      "content": "Whenever a beacon is to be placed on line between any two beacons, proof shall be provided that such beacon has been correctly placed on line."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part II",
+      "section": "19",
+      "title": "Placing a beacon from computed data",
+      "content": "Where a beacon is placed from computed data, its position shall be proved by an independent field check and computation."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part II",
+      "section": "20",
+      "title": "Repairs to damaged beacons",
+      "content": "Whenever the survey of a property is undertaken and an old beacon which is a boundary point of that property is found to be damaged or missing, the surveyor shall take such action as is necessary to re-establish the beacon in its original position and shall make a record of the re-establishment in the field notes."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part II",
+      "section": "21",
+      "title": "Missing survey marks",
+      "content": "If a surveyor is required to re-establish a missing survey mark, he shall after re-establishing the same submit fully detailed field notes and computations relating thereto, accompanied by a written report to the Director."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part II",
+      "section": "22",
+      "title": "Rail and road reserve beacons",
+      "content": "(1) Where a road or railway passes through property, the centre line of the reserve shall be surveyed and the reserve, plotted at the correct width, shall be shown on the plan. (2) Where a road or railway forms the boundary of property and the reserve contains a permanently formed road or permanent railway, the common boundary shall not be beaconed save at its intersection with the adjacent boundaries of the property but the centre line of the reserve shall be surveyed and the reserve, plotted at the correct width, shall be shown on the plan. (3) Where a road or railway forms the boundary of property and the reserve does not contain a permanently formed road or permanent railway, the common boundary shall be beaconed so that all existing road works are contained in appropriate positions within the reserve, temporary diversions being ignored. (4) In townships, a railway reserve shall be beaconed in such a manner that the distance of any point on a straight line joining two adjacent beacons from the centre line of the track shall not differ from half the specified width of the reserve by more than one foot. Part III – Execution of cadastral surveys (regs 23-38) Cadastral surveys by triangulation methods (regs 23-26)"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part III",
+      "section": "23",
+      "title": "Permissible angular misclosure",
+      "content": "When the position of a point is fixed by triangulation, the difference between the observed and calculated value of any of the directions used in fixing the point shall not exceed— 100,000 seconds of arc, s being the distance s + 1,000 in feet."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part III",
+      "section": "24",
+      "title": "Adjustment of cadastral triangulation",
+      "content": "All triangulation for cadastral surveys shall wherever practicable be connected with existing triangulation."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part III",
+      "section": "25",
+      "title": "Fixation of corner beacons",
+      "content": "Beacons shall be fixed— (a) by fully observed and well conditioned triangles, in which case computations will conform with the computations in the Second Schedule of the Standard Forms; or (b) by intersection, provided that at least three suitable rays are observed on to the points to be fixed; or (c) by resection, provided that at least four points in favourable positions for fixing are observed; or (d) by any other method which is capable of fixing a point with no less accuracy than that of the methods (b) and (c) above."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part III",
+      "section": "26",
+      "title": "Measurement of a base in isolated surveys",
+      "content": "Base lines for estates surveys which are executed by triangulation shall conform to the following requirements— (a) the length of the base line shall generally be not less than one-fourth of the greatest distance across the area to be surveyed but need never exceed 5,000 feet; (b) such base line shall be measured at least once in each direction using a different set of bays, in each measurement; (c) the difference between any two reduced measurements of the base must not exceed one part in fifteen thousand. Cadastral Surveys by Traverse Methods (regs 27-38)"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part III",
+      "section": "27",
+      "title": "Permissible linear misclosure",
+      "content": "(1) The standard of accuracy of traverses shall be as follows— rigorous traverses in townships and areas of dense development 1/6,000 rigorous traverses for estates and other properties in rural areas 1/5,000 detail traverses 1/1,000 (2) The Director may, at his discretion, allow a relaxation of the above standards of accuracy in special cases."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part III",
+      "section": "28",
+      "title": "Classification of traverses",
+      "content": "When the traverse method is employed for cadastral survey, boundary beacons shall be fixed by rigorous traverses. Detail traverses may be used for the purpose of surveying irregular boundaries or natural features."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part III",
+      "section": "29",
+      "title": "Looped traverses to be avoided",
+      "content": "A surveyor shall, wherever possible, connect his traverses to previously fixed points in such a way as to ensure an even distribution of error. Looped traverses with a single point of contact and traverses on a short base shall be avoided."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part III",
+      "section": "30",
+      "title": "Linear measurements of rigorous traverses",
+      "content": "Where a steel band is used for linear measurements of rigorous traverses the correct tension shall be applied, and the band temperature recorded for each measurement. Slopes up to 3 degrees may be determined by abney level, but all greater slopes shall be determined by theodolite. Slopes in excess of 10 degrees shall be read on both faces of the theodolite. All measurements of length shall be recorded to the second decimal place of a foot."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part III",
+      "section": "31",
+      "title": "Angular measurement of rigorous traverses",
+      "content": "In rigorous traverses at least one arc of observations consisting of at least one round of observations shall be used on each face."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part III",
+      "section": "32",
+      "title": "Detail traverses",
+      "content": "(1) A detail traverse shall be closed between rigorously fixed points not more than 10,000 feet apart. (2) When tacheometric methods are employed, no distance determined by staff readings shall exceed 600 feet in length. (3) When offsets in excess of 100 feet are used, right angles must be set off with either a theodolite or any optical square. (4) The detail traverse of an irregular boundary made in the course of an original survey shall be adopted for a subdivision survey save where the Director decides that the frequency and disposition of the offsets taken in the original detail traverse are insufficient to define the irregular boundary for the subdivision survey."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part III",
+      "section": "33",
+      "title": "Traverse connections in subdivisions",
+      "content": "In surveys of subdivisions, any traverse made shall include at least three suitable boundary beacons of the property which is being sub-divided."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part III",
+      "section": "34",
+      "title": "Lining-in methods",
+      "content": "In surveys of subdivisions when beacons are placed on line between two existing beacons, each segment of the line shall be measured and the total verified against the original length."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part III",
+      "section": "35",
+      "title": "Swinging traverses",
+      "content": "The employment of what are technically known as \"swinging traverses\" and \"single bearing and distance fixations\" unsupported by independent checks is prohibited."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part III",
+      "section": "36",
+      "title": "Identification of beacons",
+      "content": "(1) Where the means exist, all existing beacons used in a new survey shall be identified by measurements taken on the ground and these measurements shall be recorded in the field notes. (2) Traverse stations replaced by, or used to establish a boundary beacon shall be similarly identified and measurements recorded in the field notes."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part III",
+      "section": "37",
+      "title": "Air survey methods",
+      "content": "Air survey methods may be employed in special cases with the written approval of the Director."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part III",
+      "section": "38",
+      "title": "High density residential areas",
+      "content": "(1) In high density residential areas, numbered concrete beacons shall be placed at all block corners and turning points and shall be accurately co-ordinated; intermediate beacons shall be iron pins in concrete. (2) All plot sides should be measured unless the line is obstructed, and the measurements recorded in the field notes. Part IV – Field notes (regs 39-45)"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part IV",
+      "section": "39",
+      "title": "Use of prescribed forms",
+      "content": "Field notes shall be kept on loose leaves and shall conform as nearly as possible to the form set out in the Third Schedule of the Standard Forms."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part IV",
+      "section": "40",
+      "title": "Method of recording field notes",
+      "content": "(1) All observations and measurements made in the field shall be recorded clearly and legibly in hard pencil in accordance with the Standard Forms. (2) Original notes made in the field at the time of observation shall be submitted to the Director as part of the basic record of the survey. (3) All entries in field notes which are not made in the field shall be written in blue or blue-black ink. (4) All entries in field notes shall be clearly indexed and cross-referenced to the computations."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part IV",
+      "section": "41",
+      "title": "Triangulation observations",
+      "content": "(1) The surveyor shall enter in the field notes at each station, the date, time, weather conditions, degree of visibility and any other factor affecting the reliability of the observations. (2) Whenever it is necessary for a surveyor to divide his observations into sets, any set after the first shall incorporate at least two stations which have been observed in the preceding set."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part IV",
+      "section": "42",
+      "title": "Unorthodox methods",
+      "content": "Explanatory notes and computations shall be made in the field notes when unorthodox methods of survey are used. Diagrams to illustrate and amplify the notes shall be made where necessary."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part IV",
+      "section": "43",
+      "title": "Corrections and erasures",
+      "content": "(1) Erasures shall not be made in field notes. Corrections shall be made by drawing a thin line through the erroneous entry so as to leave the original entry still legible; a corrected entry shall be written adjacent to the erroneous one which it replaced and not across it, and shall be initialled. (2) Corrections to field notes may only be made in the field and must be a true record of actual re-measurement or re-observation."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part IV",
+      "section": "44",
+      "title": "Beacon nomenclature",
+      "content": "Beacons and boundary marks shall be distinguished by a system of lettering and numbering as authorised by the Director."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part IV",
+      "section": "45",
+      "title": "Description cards for control points",
+      "content": "Sketches showing measurements from permanent detail to permanent traverse and trigonometrical control points shall be made in the field notes. A description card for each control point shall be prepared from the field notes and submitted with the survey. Part V – Computations (regs 46-51)"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part V",
+      "section": "46",
+      "title": "Computation forms",
+      "content": "All computations shall be clearly and legibly written on one side of the paper and shall conform as closely as possible to the examples illustrated in the Second and Fourth Schedules of the Standard Forms."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part V",
+      "section": "47",
+      "title": "Preliminary computations",
+      "content": "All preliminary and rough computations made during the work and used in connection with the preparation of any plan shall be forwarded to the Director together with the final computations of the survey."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part V",
+      "section": "48",
+      "title": "Triangulation computations",
+      "content": "When a survey is based on the territorial triangulation the computations shall be made on the Traverse Mercator Projection used in Tanzania."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part V",
+      "section": "49",
+      "title": "Independent checks",
+      "content": "Before forwarding any survey to the Director for approval, the surveyor shall himself make an independent and complete check of all his calculations and such records of checks shall accompany the computations and be clearly demonstrated."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part V",
+      "section": "50",
+      "title": "Computation of areas",
+      "content": "(1) Rectilinear areas shall be computed by self-checking methods. (2) When any boundary is a curvilinear feature such as a river bank, the total area shall be divided by suitably chosen traverse lines into rectilinear segments; the areas of rectilinear segments shall be computed as in paragraph (1) above, while the curvilinear segments (which shall not exceed 10 percent of the total area) shall be computed from the plan by planimeter or any other standard method such as Simpson's rule. (3) Areas to be derived from surveys made in accordance with regulations 23 to 38 shall be computed and rounded off to the following degrees of accuracy— Township Plots Degree of Accuracy 2 acres and under. Nearest ten square feet. Over 2 acres. As for estates and other areas. Estates and Other Areas 5 acres and under. Rectilinear to three places of decimals of an acre. Curvilinear to two places of decimals of an acre. Over 5 acres and under 20 acres. Rectilinear to two places of decimals of an acre. Curvilinear to one place of decimals of an acre. Over 20 acres and under 100 acres. Rectilinear to one place of decimals of an acre. Curvilinear to nearest acre. Over 100 acres and under 1,000 acres. To nearest acre. Over 1,000 acres. To nearest 10 acres."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part V",
+      "section": "51",
+      "title": "Presentation of computations",
+      "content": "The records of every survey submitted shall comprise the following— (a) the field notes and computations; (b) a report on the survey containing the matters, and in the form, set out in the Fifth Schedule of the Standard Forms; (c) a complete index to the computations in the form set out in the Sixth Schedule of the Standard Forms; (d) a complete co-ordinate list, cross-referenced to the computation, of all points used in the survey in the form set out in the Seventh Schedule of the Standard Forms; (e) for estate surveys, a data sheet showing bearings and distances along boundaries, and co-ordinates of boundary beacons, in the form set out in the Eighth Schedule of the Standard Forms, co-ordinates being shown to one place of decimals and the bearings (to the nearest 10 seconds) and distances (to one place of decimals) deduced from these co-ordinates; (f) for township surveys, a data sheet showing co-ordinates of boundary beacons to two places of decimals; (g) a beacon certificate, if obtained; (h) description cards prepared in the course of the survey; (i) surveyor's plan. Part VI – Plans (regs 52-65)"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VI",
+      "section": "52",
+      "title": "General",
+      "content": "All plans shall be drawn in waterproof ink on holland-backed paper of not less than foolscap size."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VI",
+      "section": "53",
+      "title": "Scales to be used",
+      "content": "The following natural scales shall be used for the plotting of plans— (a) Township and suburban plots— 1/500; 1/1,000; 1/2,500; and 1/5,000. (b) Estates— 30 acres to 100 acres 1/1,500 100 acres to 1,000 acres 1/10,000 1,000 acres to 5,000 acres 1/25,000 5,000 acres to 10,000 acres 1/50,000 Over 10,000 acres 1/100,000 Insets to larger scale shall be used to clarify any detail which cannot be satisfactorily plotted."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VI",
+      "section": "54",
+      "title": "Method of plotting",
+      "content": "All plans shall be plotted by rectangular co-ordinates. Grid intersections shall be drawn in blue ink and set out at intervals not exceeding six inches and shall be in even hundreds or thousands of feet. The grid shall be constructed so as to be parallel to the sides of the drawing paper and shall be oriented so that grid north is in the direction of the top of the sheet."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VI",
+      "section": "55",
+      "title": "Conventional signs",
+      "content": "(1) The conventional signs set out in the Ninth Schedule of the Standard Forms shall be adhered to. (2) Every survey plan shall be drawn and certified in the same manner as the specimens set out in the Tenth Schedule of the Standard Forms."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VI",
+      "section": "56",
+      "title": "Information to be shown on plans",
+      "content": "All public roads and such natural features as have been accurately fixed by survey or have been sketched with reasonable precision shall be shown on plans. All improvements on any plot such as buildings, wells, boreholes, shall be surveyed and plotted on the plan, including pipelines or other improvements which may involve easements or rights of way."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VI",
+      "section": "57",
+      "title": "Adjoining boundaries",
+      "content": "Any boundary abutting on the boundaries of the property under survey shall be shown on the plan. Where the plot or plots adjoin a surveyed road, rail or other reserve and when the scale of plotting permits, the boundaries abutting on to the opposite side of the reserve shall be shown."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part VI",
+      "section": "58",
+      "title": "Triangulation charts",
+      "content": "Where surveys have been made either partly or wholly by triangulation methods, a chart shall be made, if practicable, on the survey plan showing all rays observed from each station."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part VI",
+      "section": "59",
+      "title": "Curvilinear and irregular boundaries",
+      "content": "When a boundary beacon is not placed at the junction of a straight line boundary and a curvilinear boundary, but on the straight line boundary, the distance from the beacon to the curvilinear boundary shall be given to the nearest foot."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VI",
+      "section": "60",
+      "title": "Numerical data to be shown on plans",
+      "content": "(1) In estate surveys the length and bearing of every boundary shall be inscribed when possible along the line to which they refer, and such lengths and bearings shall be deduced from the final co-ordinates. Lengths shall be shown to one decimal place and bearings to the nearest ten seconds. (2) In township surveys, reduced measured lengths only shall be shown to two places of decimals. Where no measurement of the boundary has been made, the computed length shall be shown and attention drawn to the fact that it is computed. (3) The area of each plot shall be inscribed within the figure to which it refers to the degree of accuracy prescribed in regulation 50 . Plot numbers will be allocated by the Director and sufficient space shall be allowed for this information to be added. Any provisional numbers inserted for descriptive purposes shall be in pencil only. (4) All data for connections and any other date which serves to clarify or complete any survey plan shall be shown on the plan."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VI",
+      "section": "61",
+      "title": "Traverse connections to be shown on plans",
+      "content": "All traverse connections shall be shown on the surveyor's plan in red ink."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part VI",
+      "section": "62",
+      "title": "Corrections and erasures",
+      "content": "No erasures shall be made after a plan has been drawn up in ink. Corrections shall be made by scoring through the incorrect word, letter, numeral or line, in ink and inserting the correction, which shall be initialled by the surveyor."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "Part VI",
+      "section": "63",
+      "title": "Rejection of unsatisfactory plans",
+      "content": "The Chief Surveyor may refuse to accept any plan which, in his opinion, has been carelessly or untidily drawn or is received by him in a dilapidated or damaged condition."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "Part VI",
+      "section": "64",
+      "title": "Locality",
+      "content": "The names of the administrative region and district shall be shown on the surveyor's plan. A locality sketch showing nearby townships, villages, railway stations or prominent topographical features shall be drawn. This sketch shall be an inset in the survey plan."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "Part VI",
+      "section": "65",
+      "title": "Areas to be shown on plans",
+      "content": "Where a property consists of more than one parcel of land, the area of each parcel shall be shown separately, together with the total area; the areas of any reserves shall also be shown and deducted from the total area. Part VII – Miscellaneous provisions (reg 66)"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "Part VII",
+      "section": "66",
+      "title": "Correspondence and the submission of plans, maps and documents",
+      "content": "(1) All correspondence of an official nature shall be written on one side only of sheets of paper of a size convenient for filing. A margin of at least one inch shall be left on the left-hand side of the paper. Each letter shall refer to one subject only and reference to previous correspondence on the same subject should always be made. (2) All maps and plans and connected documents which are forwarded to the Director for approval shall be accompanied by a letter in which such documents are listed in full. (3) Plans shall be rolled round a stick, cardboard tube or other suitable device to avoid damage in the post. History of this document 13 March 2020 amendment not yet applied Amended by Land Survey and Surveyors (Amendment) Regulations, 2020 31 July 2002 this version Consolidation Related documents Is amended by Land Survey and Surveyors (Amendment) Regulations, 2020 More documents like this one [] [] [] [{\"provision_eid\": \"part_II__sec_21\", \"citations\": 1}] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Standard Forms",
+      "definition": "the schedules of Standard Forms dated the 21st day of May, 1959, and deposited with the Chief Surveyor. (3) A copy of the Standard Forms shall be issued by the Chief Surveyor free of charge to every licensed surveyor upon these Regulations coming into operation or upon his receiving a licence, as the case may be. Part I – General technical instructions (regs 2-9)",
+      "source_provision": "s1"
+    }
+  ]
+}

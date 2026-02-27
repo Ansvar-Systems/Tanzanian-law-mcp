@@ -1,0 +1,394 @@
+{
+  "id": "tz-act-2010-12",
+  "type": "statute",
+  "title": "Livestock Identification, Registration and Traceability Act, 2010",
+  "title_en": "Livestock Identification, Registration and Traceability Act, 2010",
+  "short_name": "Livestock Identification, R...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/2010/12/eng@2010-05-28",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "This Act may be cited as the Livestock Identification, Registration and Traceability Act, 2010 and shall come into operation on such a date as the Minister may, by notice published in the Gazette , appoint."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Application",
+      "content": "This Act shall apply to Mainland Tanzania."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— \" animal \" means all vertebrate and invertebrate animals other than human beings; \" authorized agent \" means a public or private person authorised to perform the functions under this Act; \" abattoir \" means a slaughter house where animals are slaughtered and has facilities for registration , emergence slaughter area, detention room, condemnation room and by-products processing; \" accredited abattoir \" means an abattoir meeting international standards for slaughter export purposes and is accredited by the Director of Veterinary Services under the Animal Diseases Act. \" basic national livestock identification system \" means the livestock identification system adopted as a baseline and common for specified livestock species applicable within the geographical area of Mainland Tanzania; \" brand mark \" means any letter, character, sign or symbol or any combination thereof used or intended to be used for marking of livestock ; \" brand \" means a burn, cut, imprint or mark onto livestock ; “ competent authority ” means the Director or any person authorised by him to perform the functions of the Director ; \" compulsory livestock identification and registration \" means a mandatory identification and registration of livestock under the National Livestock Identification and Registration System; \" complimentary identification system \" means the use of other livestock identification systems other than the National Livestock Identification and Registration System specific purposes; \" compulsory livestock identification area \" means an area in which compulsory identification and registration is mandatory: \" Director \" means the Director responsible for livestock identification , registration and traceability; \" epidemiological unit \" means a group of animals, a herd , village herd with a defined epidemiological relations that share approximately the same likelihood of exposure to a pathogen; “ establishment ” means premises where livestock are reared, gathered, assembled or processed and includes a livestock farm, livestock market, show ground and abattoir ; \" food chain \" means a pathway of relationship of actors, processes and the food involved; “ flock ” means a group of poultry or sheep kept together under the control of a person; \" ghost animal \" means a non existing farm animal the particulars of which is maintained in the Livestock Registry Database; \" herd \" means a group of cattle, goats, camels, donkeys or horses kept together under the control of a person; \" livestock \" means a farm animal kept and reared for any socio-economic value; \" livestock identification application agent \" means a person from the public service or private sector approved by a local government authority to apply livestock identification devices onto livestock in designated areas of the local government authority ; \" livestock identification device \" means a device used to identify livestock ; “ livestock identification ” means the combination of the identification and registration of an animal individually with a unique identifier or collectively by its epidemiological unit or group with a unique group identifier; “ livestock identification parade ” means an act of pooling or gathering livestock with a view to ascertaining their definitive identity; \" livestock identification system \" means a system where by components such as identification of owners, a person responsible for the animal , movements and other records with animal identification are linked; “ livestock identification and traceability officer ” means an officer appointed by the local government authority to perform the functions of livestock identification , registration and traceability in the local government area; “ livestock owner or keeper ” means a person in charge of livestock and includes every person having or claiming jointly or severally any right, title or interest to or in any livestock or land, the authorized agent of the owner, including a market owner and an auctioneer and in the case of a body corporate or unincorporated, means the chief executive officer or other controlling officer of the body, the superintendent or overseer of any livestock , the occupier, superintendent or overseer of any land upon which livestock are kept and all persons in charge of travelling livestock in an aircraft, railway, vehicle or vessel; “ livestock products ” means products derived from livestock and includes the carcass or the portion of carcass of any livestock , the meat, blood, hide, skin, wool, hair, horns, feathers, antlers, feet or offal of livestock , the fat, milk, whey, cream, butter, cheese, eggs or other food or foodstuffs derived from livestock , semen, ova or embryos of livestock and or the secretions, excretions, manure and other wastes of livestock ; “ livestock recording system ” means the collection, collation and storage of data or information on livestock ; \" livestock register \" means a register for maintaining a list of premises or farm animals; \" livestock registration \" means the action by which information on animals such as identification, animal health, movement , certification, epidemiology, is collected, recorded, securely stored and made appropriately accessible and able to be utilized by the competent authority ; “ livestock traceability ” means a system of following the movement livestock or their products along the food chain ; “ local government authority ” means a local government authority established under the Local Government (District Authorities) Act and the Local Government (Urban Authorities) Act; [ Cap 287 ] [ Cap 288 ] \" Minister \" means the Minister responsible for livestock ; “ movement ” means the introduction into or departure from an establishment of a farm animal that include births, slaughter, deaths, losses of the animal and livestock products that has to be recorded and reported; “ national livestock registry ” means a register or computer based database information repository to which premises and identified livestock are recorded regardless of their elite females or males status; “ premises ” means a holding or a village where livestock are born, held, managed, marketed, processed or exhibited; “ premises identification ” means registration of premises for the purpose of this Act; \" registration \" means the action by which information on animals regarding identification, health, movement , certification, epidemiology, is collected, recorded, securely stored and made appropriately accessible and able to be utilized by the competent authority ; “ Registry ” means the National Livestock Identification, Registration and Traceability Registry established under section 15 ; “ traditional or owners livestock identification system ” means other livestock identification system used by livestock farmer or owner. “ veterinary para-professional ” has the meaning ascribed to it under the Veterinary Act. Part II – National Livestock Identification, Registration and Traceability System"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Establishment of National Livestock Identification, Registration and Traceability System",
+      "content": "(1) There is hereby established a system to be known as the National Livestock Identification, Registration and Traceability System. (2) The National Livestock Identification, Registration and Traceability System shall have the following basic components— (a) the national livestock identification ; (b) the national livestock registration ; and (c) the national livestock recording and movement control."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Declaration of compulsory livestock identification and registration areas",
+      "content": "(1) The Minister may, by order published in the Gazette , declare a compulsory national livestock identification and registration area in relation to which the Minister shall prescribe the national livestock identification technologies. (2) The livestock identification or registration of premises and livestock establishments in which livestock are kept shall be mandatory within the areas declared by the Minister . (3) The owner of the livestock shall identify his livestock in the compulsory livestock identification area with an approved national livestock identification technology. (4) The local government authority shall cause livestock species and types in its area of jurisdiction to be identified and registered by using the national livestock identification and registration system. (5) The Director shall identify or cause to be identified all livestock entering Mainland Tanzania and the record shall be retained in the register for the specified period of time. (6) The livestock or livestock products owner may opt to use complimentary identification system and devices in identifying livestock or livestock products . (7) The complimentary system or device shall not replace or compromise the adopted national livestock identification system or device. (8) The livestock identification systems and technologies declared under subsection (1) shall not compromise the quality of hides and skins as provided for under the Hides, Skin and Leather Trade Act and the minimum requirements stipulated for under the Animal Welfare Act. [ Cap. 120 ] [ Cap. 154 ] (9) Each local government authority shall, in cooperation with the private sector oversee the implementation of this Act in its respective area of jurisdiction."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Registration of livestock and premises for traceability",
+      "content": "(1) Without prejudice to any other written law regarding registration of livestock premises or establishment , a person who owns or operates the premises or establishment for keeping, rearing, processing or marketing of livestock or livestock products shall register his premises or establishment . (2) The owner of a livestock farm in a compulsory livestock identification and registration area shall register and keep records of his livestock . (3) The owner of a livestock shall register or cause to be registered such livestock by the Village Council having jurisdiction in the area in which the livestock is found or kept. (4) Any person who, by lawful means, acquires a livestock shall register or cause such livestock to be registered within thirty days from the date he acquired the livestock unless he intends to slaughter it or the livestock dies. (5) The owner of a livestock may apply to the Director for the transfer of registration of a livestock identification mark registered in the name of another person from the name of such other person to his name and the application shall be accompanied by a written consent of the owner of the livestock identification mark requested to be transferred. (6) The Director shall, where he is satisfied that the application made under subsection (5) is in order, transfer the registration of the livestock identification mark into the name of the applicant and issue a certificate of registration. (7) A person who acquires ownership of a livestock from the estate of the deceased person which identification mark has been registered in the name of the deceased person shall apply to the Director for the transfer of the registered mark, and the Director shall, after being satisfied that there is no application made in respect of such mark, transfer the registered mark to the applicant. (8) The owner of a registered livestock identification mark may, in writing, apply to the Director for cancellation of registration of the livestock identification mark and the Director shall, upon receipt of such application, cancel the registration . (9) The registration of the establishments or premises referred to under subsection (1) may be renewed at the prescribed intervals, along with information on the number of livestock of each species on the establishment or premises, premises owner, livestock owners and the livestock manager or keeper."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Specification, application and age limit for livestock",
+      "content": "(1) The Minister shall prescribe specifications and standards for the livestock identification devices and shall, in relation to such devices, prescribe proper methods of applying the livestock identification devices. (2) There shall be prescribed an age limit of the livestock for which the owner shall apply for the livestock identification devices."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part II",
+      "section": "8",
+      "title": "Livestock identification numbering system",
+      "content": "(1) The Minister may prescribe numbering system to be affixed to the livestock identification devices to ensure unique individual or group livestock identification . (2) Without prejudice to the generality of sub-section (1) , the key elements of the numbering system shall conform to the national, regional and international minimum standards."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part II",
+      "section": "9",
+      "title": "Acquisitions and application of livestock identification devices",
+      "content": "(1) The livestock owner shall acquire approved livestock identification devices from the livestock identification and traceability officer within the local government authority where he keeps his livestock . (2) The livestock owner shall, with the assistance of the livestock identification and traceability agent and under the supervision of the registered veterinary professional or enlisted or enrolled veterinary para-professional under the Veterinary Act, affix the livestock identification devices on the animal . [ Cap 319 ] (3) The owner or the livestock keeper in a compulsory livestock identification area who dispatches, offers for sale, sells, transports, slaughters or disposes off livestock or carcass of livestock that is not identified or accompanied by the prescribed documentation commits an offence and on conviction shall be liable to a fine not exceeding shillings two million or to imprisonment for a term not exceeding one year or to both."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part II",
+      "section": "10",
+      "title": "Functions of the Director",
+      "content": "(1) The Director appointed in accordance with the Ministerial organisation structure shall be responsible for the day to day administration of the National Livestock Identification. Registration and Traceability system. (2) The functions of the Director shall be to— (a) manage and guide the development of the National Livestock Identification, Registration and Traceability System; (b) develop policy, strategies, activities and implementation plan for the establishment and operationalization of the National Livestock Identification Registration and Traceability System; (c) liaise and collaborate with regional and international organizations on matters relating to livestock identification , registration and traceability; (d) link with local and international organizations on livestock recording systems; (e) provide backstopping and capacity building to local government authorities in coordinating and supervising the implementation of the provisions of the Act; (f) manage the national livestock registry , database and authorize accessibility of information; (g) issue operational guidelines and standards of operating procedures of the livestock identification and traceability agents, livestock owners and livestock products processors and traders; and (h) carry out any other functions as may be assigned by the Minister ."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part II",
+      "section": "11",
+      "title": "Powers of the Director",
+      "content": "The Director shall have powers to enter into any premises , establishment or livestock market and carry out inspection to ensure compliance with the provisions of this Act."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part II",
+      "section": "12",
+      "title": "Livestock identification and traceability officer",
+      "content": "(1) A local government authority shall, within its organisational structure, designate one of its officers to be a livestock identification , registration and traceability officer. (2) The livestock identification , registration and traceability officer shall perform the functions and exercise the powers engaged under sub-section (3) and he shall have the powers to— (a) supervise livestock identification registration and traceability in compulsory identification areas, establishment or premises ; (b) register premises where livestock are kept; (c) collect or store livestock records; (d) supervise the application or use of premises identification codes or livestock identification numbers and devices; (e) keep national identification devices in his area; (f) register and maintain a register or computerized database of premises and identified livestock and livestock products for the purpose of monitoring livestock movement , trade, slaughter or death; and (g) remit records to the central data base. (3) The livestock identification , registration and traceability officer shall have powers to enter into and inspect livestock in the premises to ensure that the provisions of this Act are complied with. (4) A local government authority shall, within its area of jurisdiction, appoint from among its employees or private livestock extension officers as livestock identification , registration and traceability agent. (5) The functions of the livestock identification , registration and traceability agent shall be to— (a) obtain and keep custody of livestock identification devices in the area; (b) apply livestock identification devices on the livestock with the National Livestock Identification System in cooperation with the livestock owner; (c) register and take records of identified livestock and owners contact particulars; (d) remit records of identification and registration to the livestock identification and traceability agent; (e) collect and remit recyclable livestock identification devices to the livestock identification and traceability agent; and (f) recover operational costs from the livestock owners at rates as shall be determined and announced by the local government authority and the Director ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part II",
+      "section": "13",
+      "title": "Delegation of powers",
+      "content": "The Minister may, by notice published in the Gazette , delegate his powers to the local government authorities and any other body established by, or incorporated under any written law for the purpose of implementing the provisions of this Act. Part III – Livestock registration and recording system"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part III",
+      "section": "14",
+      "title": "Retention of livestock records",
+      "content": "(1) A person who deals in the declared livestock species as a livestock producer, processor, trader, tag manufacturer, auctioneer, market operator, abattoir , processing plant, transporter, hatchery, artificial breeding centre or veterinarian, shall take, keep and maintain the record of livestock or livestock products for purposes of livestock traceability . (2) Subject to the provisions of subsection (1) , the records taken shall include the livestock— (a) species; (b) identification number; (c) sex; (d) colour; (e) brand ; (f) breed; (g) age; (h) marking; (i) tag number; (j) sire and dam identification particulars; and (k) any other information as deemed necessary for livestock identification . (3) The records referred to under subsection (2) shall be taken when the animal— (a) is born; (b) is inseminated; (c) is tagged or retagged; (d) loses tag; (e) dies; (f) is dispatched; (g) is introduced; and (h) product is dispatched or arrives in the dispatching or receiving centre. (4) A person responsible for the dispatch or receiving livestock shall— (a) retain the records; (b) give a copy to the person dispatching or taking possession of the livestock ; (c) provide a copy either electronically or in paper form to the Registry within a period to be specified in the Regulations. (5) A person who tests samples of an animal shall record the identification particulars found on the sampled animal and make reference to such identifiers in the proceeding events or reports."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part III",
+      "section": "15",
+      "title": "Establishment of National Livestock Identification, Registration and Traceability Registry",
+      "content": "(1) There shall be a Registry to be known as the National Livestock Identification, Registration and Traceability Registry . (2) The Registry shall be a central repository of livestock identification and registration data. (3) The Registry shall, for the purposes of removing ghost animals in the data base, be managed by the Director or any other person authorised by him and may be computerized and web-based for online accessibility to authorized persons or institutions. (4) The movements of the prescribed livestock and livestock product shall, on departure and arrival be recorded. (5) Any person operating a livestock market, abattoir or a livestock establishment shall notify the Director managing the Registry regarding the sold or slaughtered livestock within the time limit in a manner prescribed in the Regulations."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part III",
+      "section": "16",
+      "title": "Records for traceability",
+      "content": "(1) A person who owns or operates an abattoir , meat processing plant, livestock market and quarantine facility or holding ground shall take and keep records of animal identification particulars and establish the source from which the animals were dispatched and submit such records to the Director or the local government authority in his area of jurisdiction within seventy two hours. (2) A person operating a designated abattoir or meat processing plant shall, put in place and operate an internal livestock traceability system to ensure that livestock identifiers are collected and disposed off or handle reusable identifiers to an official identification agent of the area in accordance with the procedures prescribed in the regulations. (3) Any person who contravenes the provisions of this section commits an offence and on conviction shall be liable to a fine not exceeding shillings one million or to imprisonment for a term not exceeding twelve months or to both."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part III",
+      "section": "17",
+      "title": "Veterinary laboratory traceability",
+      "content": "A person operating a veterinary laboratory shall be required to take and keep records of ascribed national livestock identification particulars on the livestock or the sample collected for diagnosis and analysis for a period of not less than five years."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part III",
+      "section": "18",
+      "title": "Confidentiality and accessibility",
+      "content": "(1) Any information or data in the Registry shall only be accessible by the authorized persons for the purposes intended for under this Act. (2) The Director or a person authorised by him shall put in place proper safeguards to ensure confidentiality, management and control of accessibility to the Registry through allocation of user identities, up-loading own passwords and prescribing user rights in a scalable manner. Part IV – Livestock traceability"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Livestock traceability enforcement",
+      "content": "(1) The Minister shall, collaborate with the Ministers responsible for trade, home affairs and health for the purposes of controlling livestock diseases, livestock products traceability, and prevention of livestock theft. (2) For the purposes of livestock traceability , the Director shall coordinate public and private institutions or authorities for the enforcement of this Part."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Livestock for market or slaughter",
+      "content": "A person shall not cause livestock to be marketed or slaughtered in an accredited abattoir for trade or export unless the livestock is accompanied by the prescribed documentation."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Traceability of imports and exports of livestock",
+      "content": "(1) Livestock brought into or exported outside Mainland Tanzania shall be registered and its particulars be submitted to the Director . (2) For the purpose of import or export of livestock the provisions of the Animal Disease Act shall apply. [ Cap 156 ]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part IV",
+      "section": "22",
+      "title": "Livestock identification parades",
+      "content": "(1) The Director , an authorized agent or a police officer may order any person who is in possession of a livestock whose ownership is in dispute to present such livestock to the identification parade. (2) Any person who is in possession of the livestock ordered to attend a livestock identification parade shall present the livestock to the Director , authorized agent or a police officer at a time, place and in a manner specified in the order. (3) Any person who contravenes the provisions of this section commits an offence and on conviction shall be liable to a fine not exceeding shillings two million or to imprisonment for a term not exceeding one year or to both."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part IV",
+      "section": "23",
+      "title": "Obliterations, tampering or removal of official livestock identification devices",
+      "content": "(1) A person other than the owner shall not, without lawful cause, or excuse present the livestock for identification and registration under the National Identification and Registration System. (2) Any person who removes or obliterates livestock identification devices or mutilates any part of the body of a livestock prescribed for application of livestock identification devices commits an offence and on conviction shall be liable to a fine not exceeding shillings two million or to imprisonment for a term not exceeding one year or to both. Part V – General provisions"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Development, establishment and operational costs",
+      "content": "(1) The costs of system development and establishment of the National Livestock Identification, Registration and Traceability System shall be borne by the Government. (2) Notwithstanding the provisions of subsection (1) , the operational costs for the implementation of the National Livestock Identification, Registration and Traceability System may be borne by the Government, stakeholders and beneficiaries under direct or indirect shared arrangement during identification or registration of a livestock as the Minister may prescribe."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Transitional provisions",
+      "content": "For purpose of giving room for preparation for the implementation of the requirement for registration of livestock , the provisions relating to registration of livestock shall not be enforced during the initial three years of the coming into operation of this Act."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Offences and penalties",
+      "content": "A person who commits an offence under this Act to which no specific penalty is provided for shall be liable to a fine not exceeding shillings two million or to imprisonment for a period not exceeding one year or to both."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Regulations",
+      "content": "The Minister may make regulations prescribing— (a) the National Livestock Identification, Registration and Traceability System; (b) types of livestock identification devices; (c) the compulsory livestock identification and registration areas; (d) species, breeds, sex and age of animals to be identified and registered with the prescribed system; (e) method and site of applying livestock identification devices; (f) brand and branding system as to the size, design, application sites, pattern of the brand and branding equipment; (g) record keeping systems; (h) procedures for the importation or manufacture of livestock identification devices; (i) conditions and procedures for conducting traceability on demand; (j) procedures for conducting livestock identification parade ; (k) basic livestock identification ; (l) unique livestock identification ; (m) traceability depth and breadth; (n) the use of traditional or owners livestock identification ; and (o) anything which in this Act is required or authorised to be prescribed. History of this document 31 December 2023 Chapter 184 Revised Laws 2023 Consolidation 01 December 2010 Commenced by Livestock Identification, Registration and Traceability Act, (Commencement Date) Notice, 2010 28 May 2010 this version Published in Tanzania Government Gazette 22 20 May 2010 Assented to Related documents Is commenced by Livestock Identification, Registration and Traceability Act, (Commencement Date) Notice, 2010 More documents like this one Subsidiary legislation Title Livestock Identification, Registration and Traceability Regulations, 2011 Government Notice 362 of 2011 [] [] [] [{\"provision_eid\": \"part_II__sec_6__subsec_3\", \"citations\": 1}] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "animal",
+      "definition": "all vertebrate and invertebrate animals other than human beings",
+      "source_provision": "s3"
+    },
+    {
+      "term": "authorized agent",
+      "definition": "a public or private person authorised to perform the functions under this Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "abattoir",
+      "definition": "a slaughter house where animals are slaughtered and has facilities for registration , emergence slaughter area, detention room, condemnation room and by-products processing",
+      "source_provision": "s3"
+    },
+    {
+      "term": "accredited abattoir",
+      "definition": "an abattoir meeting international standards for slaughter export purposes and is accredited by the Director of Veterinary Services under the Animal Diseases Act. \" basic national livestock identification system \" means the livestock identification system adopted as a baseline and common for specified livestock species applicable within the geographical area of Mainland Tanzania",
+      "source_provision": "s3"
+    },
+    {
+      "term": "brand mark",
+      "definition": "any letter, character, sign or symbol or any combination thereof used or intended to be used for marking of livestock",
+      "source_provision": "s3"
+    },
+    {
+      "term": "brand",
+      "definition": "a burn, cut, imprint or mark onto livestock",
+      "source_provision": "s3"
+    },
+    {
+      "term": "competent authority",
+      "definition": "the Director or any person authorised by him to perform the functions of the Director",
+      "source_provision": "s3"
+    },
+    {
+      "term": "compulsory livestock identification and registration",
+      "definition": "a mandatory identification and registration of livestock under the National Livestock Identification and Registration System",
+      "source_provision": "s3"
+    },
+    {
+      "term": "complimentary identification system",
+      "definition": "the use of other livestock identification systems other than the National Livestock Identification and Registration System specific purposes",
+      "source_provision": "s3"
+    },
+    {
+      "term": "compulsory livestock identification area",
+      "definition": "an area in which compulsory identification and registration is mandatory: \" Director \" means the Director responsible for livestock identification , registration and traceability",
+      "source_provision": "s3"
+    },
+    {
+      "term": "epidemiological unit",
+      "definition": "a group of animals, a herd , village herd with a defined epidemiological relations that share approximately the same likelihood of exposure to a pathogen",
+      "source_provision": "s3"
+    },
+    {
+      "term": "establishment",
+      "definition": "premises where livestock are reared, gathered, assembled or processed and includes a livestock farm, livestock market, show ground and abattoir",
+      "source_provision": "s3"
+    },
+    {
+      "term": "food chain",
+      "definition": "a pathway of relationship of actors, processes and the food involved",
+      "source_provision": "s3"
+    },
+    {
+      "term": "flock",
+      "definition": "a group of poultry or sheep kept together under the control of a person",
+      "source_provision": "s3"
+    },
+    {
+      "term": "ghost animal",
+      "definition": "a non existing farm animal the particulars of which is maintained in the Livestock Registry Database",
+      "source_provision": "s3"
+    },
+    {
+      "term": "herd",
+      "definition": "a group of cattle, goats, camels, donkeys or horses kept together under the control of a person",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock",
+      "definition": "a farm animal kept and reared for any socio-economic value",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock identification application agent",
+      "definition": "a person from the public service or private sector approved by a local government authority to apply livestock identification devices onto livestock in designated areas of the local government authority",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock identification device",
+      "definition": "a device used to identify livestock",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock identification",
+      "definition": "the combination of the identification and registration of an animal individually with a unique identifier or collectively by its epidemiological unit or group with a unique group identifier",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock identification parade",
+      "definition": "an act of pooling or gathering livestock with a view to ascertaining their definitive identity",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock identification system",
+      "definition": "a system where by components such as identification of owners, a person responsible for the animal , movements and other records with animal identification are linked",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock identification and traceability officer",
+      "definition": "an officer appointed by the local government authority to perform the functions of livestock identification , registration and traceability in the local government area",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock owner or keeper",
+      "definition": "a person in charge of livestock and includes every person having or claiming jointly or severally any right, title or interest to or in any livestock or land, the authorized agent of the owner, including a market owner and an auctioneer and in the case of a body corporate or unincorporated, means the chief executive officer or other controlling officer of the body, the superintendent or overseer of any livestock , the occupier, superintendent or overseer of any land upon which livestock are kept and all persons in charge of travelling livestock in an aircraft, railway, vehicle or vessel",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock products",
+      "definition": "products derived from livestock and includes the carcass or the portion of carcass of any livestock , the meat, blood, hide, skin, wool, hair, horns, feathers, antlers, feet or offal of livestock , the fat, milk, whey, cream, butter, cheese, eggs or other food or foodstuffs derived from livestock , semen, ova or embryos of livestock and or the secretions, excretions, manure and other wastes of livestock",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock recording system",
+      "definition": "the collection, collation and storage of data or information on livestock",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock register",
+      "definition": "a register for maintaining a list of premises or farm animals",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock registration",
+      "definition": "the action by which information on animals such as identification, animal health, movement , certification, epidemiology, is collected, recorded, securely stored and made appropriately accessible and able to be utilized by the competent authority",
+      "source_provision": "s3"
+    },
+    {
+      "term": "livestock traceability",
+      "definition": "a system of following the movement livestock or their products along the food chain",
+      "source_provision": "s3"
+    },
+    {
+      "term": "local government authority",
+      "definition": "a local government authority established under the Local Government (District Authorities) Act and the Local Government (Urban Authorities) Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for livestock",
+      "source_provision": "s3"
+    },
+    {
+      "term": "movement",
+      "definition": "the introduction into or departure from an establishment of a farm animal that include births, slaughter, deaths, losses of the animal and livestock products that has to be recorded and reported",
+      "source_provision": "s3"
+    },
+    {
+      "term": "national livestock registry",
+      "definition": "a register or computer based database information repository to which premises and identified livestock are recorded regardless of their elite females or males status",
+      "source_provision": "s3"
+    },
+    {
+      "term": "premises",
+      "definition": "a holding or a village where livestock are born, held, managed, marketed, processed or exhibited",
+      "source_provision": "s3"
+    },
+    {
+      "term": "premises identification",
+      "definition": "registration of premises for the purpose of this Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "registration",
+      "definition": "the action by which information on animals regarding identification, health, movement , certification, epidemiology, is collected, recorded, securely stored and made appropriately accessible and able to be utilized by the competent authority",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Registry",
+      "definition": "the National Livestock Identification, Registration and Traceability Registry established under section 15",
+      "source_provision": "s3"
+    },
+    {
+      "term": "traditional or owners livestock identification system",
+      "definition": "other livestock identification system used by livestock farmer or owner. “ veterinary para-professional ” has the meaning ascribed to it under the Veterinary Act. Part II – National Livestock Identification, Registration and Traceability System",
+      "source_provision": "s3"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "tz-act-gn-2002-281",
+  "type": "statute",
+  "title": "Education (Admission to Government Schools) Regulations, 2002",
+  "title_en": "Education (Admission to Government Schools) Regulations, 2002",
+  "short_name": "Education (Admission to Gov...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/2002/281/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Regulations may be cited as the Education (Admission to Government Schools) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In these regulations unless the context otherwise requires— \" Commissioner \" shall have the same meaning as ascribed to it under the Education Act 1 ; 1 Cap. 353 \" District Education Officer \" means any Government education officer appointed by the Minister to be in charge of education services in a district and includes any person to whom he delegates his duties; \" nomadic tribe \" means a tribe which moves from place to place in search of water and pasture for its animals; \" Regional Education Officer \" means any Government education officer appointed by the Minister to be in charge of education services in a region and includes any person to whom he delegates his duties."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Admission without discrimination",
+      "content": "No child shall be refused admission to any Government school on ground of race, creed, sex, political or ideological belief: Provided that the Minister may in his discretion determine the number of children of non-citizens who may be admitted to post primary schools."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "No admission below seven years of age",
+      "content": "Except with the permission of the District Education Officer , no child shall be admitted to a Government primary school who is under seven years of age on the 31st day of March of the year of admission."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Eligibility for admission or transfer to any Government primary school",
+      "content": "A pupil of any Government primary school shall be eligible for admission on transfer to any Government primary school provided that: (a) the pupil brings from the head of the former school a certificate concerning his school career prior to the transfer; (b) the certificate of transfer to a school within the area of jurisdiction is countersigned by the District Education Officer or his representative and in the case of transfer to a school in the area of jurisdiction of another district, the certificate shall be countersigned by the Regional Education Officer ; (c) subparagraph (ii) shall not apply to children of nomadic tribes for whom only a copy of the transfer certificate under subsection (i) shall be sent to the District Education Officer or the Regional Education Officer as the case may be."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Admission or transfer between post-primary schools",
+      "content": "(1) Admission and transfer of pupils between post-primary schools shall be governed by such instructions in writing as may be issued by the Commissioner . (2) Transfer of a pupil of any public school to another public school shall be effected on Form No. TSS 10A and Form No. TSS 10B as appears in the Schedule hereto."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Restriction of transfers and admission between non-Government post primary school and Government post-primary school",
+      "content": "No pupils from non-Government post-primary schools shall be transferred or admitted to a Government post-primary schools."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Transfer of a pupil from outside the United Republic",
+      "content": "Any request for admission into and transfer of a pupil from outside the United Republic shall be governed by the directions or shall be effected in accordance with the instructions given by the Commissioner ."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Revocation",
+      "content": "[Revokes the Education (Admission to Public Schools) Regulations 2 .] 2 G.N. No. 430 of 2000 Schedule Forms [Editorial note: The forms have not been reproduced] History of this document 31 July 2002 this version Consolidation 28 June 2002 Published in Gazette of the United Republic of Tanzania Commenced Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "District Education Officer",
+      "definition": "any Government education officer appointed by the Minister to be in charge of education services in a district and includes any person to whom he delegates his duties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nomadic tribe",
+      "definition": "a tribe which moves from place to place in search of water and pasture for its animals",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Regional Education Officer",
+      "definition": "any Government education officer appointed by the Minister to be in charge of education services in a region and includes any person to whom he delegates his duties.",
+      "source_provision": "s2"
+    }
+  ]
+}

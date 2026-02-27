@@ -1,0 +1,71 @@
+{
+  "id": "tz-act-ord-1935-20",
+  "type": "statute",
+  "title": "Girl Guides Act",
+  "title_en": "Girl Guides Act",
+  "short_name": "Girl Guides Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/ord/1935/20/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Girl Guides Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act unless the context otherwise requires– \" Association \" means the Girl Guides Association incorporated under the Royal Charter granted on the fourteenth day of December, 1922; \" Commissioner \" means the person holding or acting in, the office of Commissioner for Girl Guides; \" Girl Guide \" means a Warranted Officer, Ranger, Girl Guide or Brownie recognised as such under the Rules of the Association and includes all officers of the Association ; \" Rules of the Association \" means the rules relating to the Association contained in the book entitled \"Rules, Policy and Organisation\", as from time to time amended, and subject to any variation sanctioned in due form in accordance with those Rules of the Association to meet local conditions."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Restriction on use of uniform of Association",
+      "content": "It shall not be lawful for any person, not being under the Rules of the Association duly authorised and entitled so to do so, to publicly wear, carry or bear any uniform, badge, token or emblem which under the Rules of the Association are specifically adopted for the use under the authority of the Association or which could reasonably be held to be an imitation of the same in such style or manner as to convey an impression that such person is under the Rules of the Association entitled so to wear, carry or bear such uniform, badge, token or emblem."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Restriction on sale of badges",
+      "content": "No person shall sell, or offer for sale, any article bearing a badge, token or emblem specifically adopted for use under the Authority of the Association , or which could reasonably be held to be an imitation of the same, unless that person shall have first obtained authority from the Commissioner in writing to do so."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "No person to claim connection with Association without authority",
+      "content": "It shall not be lawful for any person to form, organise, or work in connection with, or be concerned in forming organising or working in connection with, any corps or body of persons who without due authority granted in accordance with the Rules of the Association , claim or purport to be Girl Guides or otherwise to be connected with the Association or who hold themselves out, or pass off as, Girl Guides or as otherwise connected with the Association : Provided that no person shall be liable to conviction under this section who, being engaged at the date of the commencement of this Act in work in connection with a corps or body of persons claiming or purporting to be Girl Guides, applies within three months of such date to the Commissioner for authority under the Rules of the Association to continue in such work, and the Commissioner has agreed to issue such authority and has informed the applicant accordingly."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Penalties",
+      "content": "Any person contravening any of the provisions of this Act is guilty of an offence and is liable to imprisonment for one month or a fine of two hundred shillings or to both. History of this document 31 December 2023 Chapter 69 Revised Laws 2023 Consolidation 31 July 2002 this version Chapter 69 Revised Laws 2002 Consolidation 05 July 1935 Commenced Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Association",
+      "definition": "the Girl Guides Association incorporated under the Royal Charter granted on the fourteenth day of December, 1922",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "the person holding or acting in, the office of Commissioner for Girl Guides",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Girl Guide",
+      "definition": "a Warranted Officer, Ranger, Girl Guide or Brownie recognised as such under the Rules of the Association and includes all officers of the Association",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Rules of the Association",
+      "definition": "the rules relating to the Association contained in the book entitled \"Rules, Policy and Organisation\", as from time to time amended, and subject to any variation sanctioned in due form in accordance with those Rules of the Association to meet local conditions.",
+      "source_provision": "s2"
+    }
+  ]
+}

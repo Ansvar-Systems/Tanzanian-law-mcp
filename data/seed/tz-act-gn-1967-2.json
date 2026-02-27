@@ -1,0 +1,58 @@
+{
+  "id": "tz-act-gn-1967-2",
+  "type": "statute",
+  "title": "Sisal Manufacturers (Submission of Information and Statistics) Rules, 1967",
+  "title_en": "Sisal Manufacturers (Submission of Information and Statistics) Rules, 1967",
+  "short_name": "Sisal Manufacturers (Submis...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/1967/2/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Rules may be cited as the Sisal Manufacturers (Submission of Information and Statistics) Rules."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In these Rules, unless the context otherwise requires— \" manufacturer \" means any person who uses sisal or sisal product in the process of manufacturing or making any article; \" processed sisal fibre \" means sisal fibre that has been subjected to spinning, weaving or any other form of manufacturing process; \" processed tow \" means short and or broken sisal fibre that has been subjected to spinning, weaving or any further form of manufacturing process; \" sisal fibre \" means the fibre of sisal; \" tow \" means short and or broken sisal fibre generally known to manufacturers as \"tow\" and does not include \"flume tow\"."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Monthly returns",
+      "content": "(1) Every manufacturer using sisal or sisal product in the process of manufacture shall as from the 1st January, 1967, make and submit a return to the Authority, not later than the fifth day of each month, in respect of sisal or sisal product purchased, stocked, processed or delivered by him. (2) The return made under subrule (1) shall contain the particulars, information and statistics set out in the First Schedule. (3) The monthly returns shall be in the form prescribed in the Second Schedule. First Schedule 1. The grade of sisal fibre and/or tow purchased. 2. The amount of unprocessed sisal fibre and/or tow purchased by the manufacturer during the month previous to the submission of the return. 3. The amount of sisal fibre and/or tow processed in the course of the manufacture during the month previous to the submission of the return. 4. The amount of unprocessed sisal fibre and/or tow held in stock at the end of the month previous to the submission of the return. Second Schedule Manufacturer's monthly return of purchases and stocks of sisal Tanzania Sisal Authority Name of Manufacturer ______________________________ Return for the Month ended ______________________________ Type of Manufacturer ______________________________ [N.B. Figures to be given to nearest whole ton] No. 1 No. A No. 2 No. 3L No. 3 No. UG. Tow 1 Tow 2 Total 1. Stocks of unprocessed sisal fibre brought forward Add 2. Purchases of sisal fibre during month 3. Total of 1 and 2 Deduct: 4. Quantity of sisal fibre processed during the month 5. Stocks of unprocessed sisal fibre carried forward Dated __________________ Signed __________________ History of this document 31 July 2002 this version Consolidation Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "manufacturer",
+      "definition": "any person who uses sisal or sisal product in the process of manufacturing or making any article",
+      "source_provision": "s2"
+    },
+    {
+      "term": "processed sisal fibre",
+      "definition": "sisal fibre that has been subjected to spinning, weaving or any other form of manufacturing process",
+      "source_provision": "s2"
+    },
+    {
+      "term": "processed tow",
+      "definition": "short and or broken sisal fibre that has been subjected to spinning, weaving or any further form of manufacturing process",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sisal fibre",
+      "definition": "the fibre of sisal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tow",
+      "definition": "short and or broken sisal fibre generally known to manufacturers as \"tow\" and does not include \"flume tow\".",
+      "source_provision": "s2"
+    }
+  ]
+}

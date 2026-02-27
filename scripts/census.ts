@@ -1,23 +1,22 @@
 #!/usr/bin/env tsx
 /**
- * Tanzania Law MCP -- Census Script (Laws.Africa API)
+ * Tanzania Law MCP -- Census Script (AfricanLII Direct Scraping)
  *
- * Enumerates ALL acts for Tanzania from the Laws.Africa Content API
- * and writes data/census.json in golden standard format.
+ * Scrapes the legislation listing pages from tanzlii.org to enumerate
+ * ALL acts. Writes data/census.json in golden standard format.
  *
- * Requires: LAWS_AFRICA_TOKEN environment variable.
+ * No API key required -- scrapes the public listing pages directly.
  *
- * Source: Laws.Africa Content API (https://api.laws.africa/v3)
- * Portal: https://tanzlii.org
+ * Source: https://tanzlii.org/en/legislation/
  *
  * Usage:
- *   LAWS_AFRICA_TOKEN=xxx npx tsx scripts/census.ts
+ *   npx tsx scripts/census.ts
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { listActs, type Work } from './lib/laws-africa-api.js';
+import { fetchWithRateLimit } from './lib/fetcher.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -29,6 +28,8 @@ const COUNTRY_CODE = 'tz';
 const JURISDICTION = 'TZ';
 const JURISDICTION_NAME = 'Tanzania';
 const PORTAL = 'https://tanzlii.org';
+const LISTING_BASE = 'https://tanzlii.org/en/legislation/';
+const AKN_PATH_PREFIX = '/en/akn/tz/';
 
 /* ---------- Types ---------- */
 
@@ -65,37 +66,91 @@ interface CensusFile {
   laws: CensusLawEntry[];
 }
 
+interface ScrapedAct {
+  title: string;
+  href: string;
+  frbr_uri: string;
+}
+
 /* ---------- Helpers ---------- */
 
 /**
- * Convert a Laws.Africa Work into a stable kebab-case ID.
- * Uses the FRBR URI to generate a unique, deterministic ID.
+ * Convert an AKN path into a stable kebab-case ID.
  * E.g. "/akn/tz/act/2015/4" -> "tz-act-2015-4"
+ * E.g. "/en/akn/tz/act/2015/4/eng@2015-06-01" -> "tz-act-2015-4"
  */
-function workToId(work: Work): string {
-  return work.frbr_uri
-    .replace(/^\/akn\//, '')
-    .replace(/\//g, '-')
-    .toLowerCase();
+function hrefToId(href: string): string {
+  // Strip /en/ prefix and /eng@... suffix
+  let cleaned = href.replace(/^\/en\//, '/');
+  // Extract the FRBR URI part: /akn/XX/act/YYYY/NN or /akn/XX/act/type/YYYY/NN
+  const aknMatch = cleaned.match(/\/akn\/([a-z]{2}\/act(?:\/[a-z]+)?\/\d{4}\/[a-zA-Z0-9]+)/);
+  if (aknMatch) {
+    return aknMatch[1].replace(/\//g, '-').toLowerCase();
+  }
+  // Fallback: strip /akn/ prefix and /eng@... suffix, convert slashes
+  cleaned = cleaned.replace(/^\/akn\//, '').replace(/\/eng@.*$/, '');
+  return cleaned.replace(/\//g, '-').toLowerCase();
 }
 
 /**
- * Determine the legislative status from Laws.Africa Work metadata.
+ * Extract the FRBR URI from an href.
+ * E.g. "/en/akn/tz/act/2015/4/eng@2015-06-01" -> "/akn/tz/act/2015/4"
  */
-function workToStatus(work: Work): 'in_force' | 'amended' | 'repealed' {
-  if (work.repealed) return 'repealed';
-  if (work.amended) return 'amended';
-  return 'in_force';
+function hrefToFrbrUri(href: string): string {
+  let cleaned = href.replace(/^\/en\//, '/');
+  // Remove /eng@... suffix
+  cleaned = cleaned.replace(/\/eng@.*$/, '');
+  return cleaned;
 }
 
 /**
- * Determine classification: repealed acts are excluded, uncommenced acts
- * are excluded, everything else is ingestable.
+ * Extract year and number from an FRBR URI.
+ * E.g. "/akn/tz/act/2015/4" -> { year: "2015", number: "4" }
+ * E.g. "/akn/tz/act/gn/2017/507" -> { year: "2017", number: "507" }
  */
-function workToClassification(work: Work): 'ingestable' | 'excluded' {
-  if (work.repealed) return 'excluded';
-  if (!work.commenced) return 'excluded';
-  return 'ingestable';
+function extractYearNumber(frbrUri: string): { year: string; number: string } {
+  // Match patterns: /akn/XX/act/YYYY/NN or /akn/XX/act/type/YYYY/NN
+  const match = frbrUri.match(/\/(\d{4})\/([a-zA-Z0-9]+)$/);
+  if (match) {
+    return { year: match[1], number: match[2] };
+  }
+  return { year: 'unknown', number: 'unknown' };
+}
+
+/**
+ * Scrape act entries from a single listing page HTML.
+ * Extracts <a href="/en/akn/tz/act/..."> links and their text.
+ */
+function scrapeListingPage(html: string): ScrapedAct[] {
+  const acts: ScrapedAct[] = [];
+  // Match anchors with href containing the AKN path prefix
+  const linkPattern = new RegExp(
+    `<a\\s+href="(${AKN_PATH_PREFIX.replace(/\//g, '\\/')}[^"]+)"[^>]*>([^<]+)<\\/a>`,
+    'g',
+  );
+
+  let match: RegExpExecArray | null;
+  while ((match = linkPattern.exec(html)) !== null) {
+    const href = match[1];
+    const title = match[2]
+      .replace(/&#x27;/g, "'")
+      .replace(/&#39;/g, "'")
+      .replace(/&amp;/g, '&')
+      .replace(/&lt;/g, '<')
+      .replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"')
+      .trim();
+
+    if (title.length > 0) {
+      acts.push({
+        title,
+        href,
+        frbr_uri: hrefToFrbrUri(href),
+      });
+    }
+  }
+
+  return acts;
 }
 
 /**
@@ -121,12 +176,12 @@ function loadExistingCensus(): Map<string, CensusLawEntry> {
 /* ---------- Main ---------- */
 
 async function main(): Promise<void> {
-  console.log(`${JURISDICTION_NAME} Law MCP -- Census (Laws.Africa API)`);
+  console.log(`${JURISDICTION_NAME} Law MCP -- Census (AfricanLII Scraping)`);
   console.log('='.repeat(55) + '\n');
   console.log(`  Jurisdiction:  ${JURISDICTION} (${JURISDICTION_NAME})`);
   console.log(`  Country code:  ${COUNTRY_CODE}`);
   console.log(`  Portal:        ${PORTAL}`);
-  console.log(`  API:           https://api.laws.africa/v3`);
+  console.log(`  Listing URL:   ${LISTING_BASE}`);
   console.log();
 
   const existingEntries = loadExistingCensus();
@@ -134,34 +189,67 @@ async function main(): Promise<void> {
     console.log(`  Loaded ${existingEntries.size} existing entries from previous census\n`);
   }
 
-  // Fetch all acts from Laws.Africa
-  console.log('  Fetching acts from Laws.Africa API...\n');
-  const works = await listActs(COUNTRY_CODE);
+  // Scrape all listing pages
+  const allScrapedActs: ScrapedAct[] = [];
+  const seenHrefs = new Set<string>();
+  let page = 1;
+  let emptyPages = 0;
 
-  console.log(`\n  Total acts from API: ${works.length}\n`);
+  console.log('  Scraping legislation listing pages...\n');
+
+  while (emptyPages < 2) {
+    const url = page === 1 ? LISTING_BASE : `${LISTING_BASE}?page=${page}`;
+    process.stdout.write(`  Page ${page}...`);
+
+    const result = await fetchWithRateLimit(url);
+
+    if (result.status !== 200) {
+      console.log(` HTTP ${result.status} -- stopping pagination`);
+      break;
+    }
+
+    const pageActs = scrapeListingPage(result.body);
+    const newActs = pageActs.filter(a => !seenHrefs.has(a.href));
+
+    for (const act of newActs) {
+      seenHrefs.add(act.href);
+      allScrapedActs.push(act);
+    }
+
+    if (newActs.length === 0) {
+      console.log(' 0 new acts (empty page)');
+      emptyPages++;
+    } else {
+      console.log(` ${newActs.length} acts (total: ${allScrapedActs.length})`);
+      emptyPages = 0;
+    }
+
+    page++;
+  }
+
+  console.log(`\n  Total acts scraped: ${allScrapedActs.length}\n`);
 
   // Convert to census entries, merging with existing data
   const today = new Date().toISOString().split('T')[0];
 
-  for (const work of works) {
-    const id = workToId(work);
-    const status = workToStatus(work);
-    const classification = workToClassification(work);
+  for (const scraped of allScrapedActs) {
+    const id = hrefToId(scraped.href);
+    const { year, number } = extractYearNumber(scraped.frbr_uri);
 
     // Preserve ingestion data from existing census if available
     const existing = existingEntries.get(id);
 
     const entry: CensusLawEntry = {
       id,
-      title: work.title,
-      identifier: `act/${work.year}/${work.number}`,
-      frbr_uri: work.frbr_uri,
-      url: work.url,
-      year: work.year,
-      number: work.number,
-      status,
+      title: scraped.title,
+      identifier: `act/${year}/${number}`,
+      frbr_uri: scraped.frbr_uri,
+      url: `${PORTAL}${scraped.href}`,
+      year,
+      number,
+      status: existing?.status ?? 'in_force',
       category: 'act',
-      classification,
+      classification: 'ingestable',
       ingested: existing?.ingested ?? false,
       provision_count: existing?.provision_count ?? 0,
       ingestion_date: existing?.ingestion_date ?? null,
@@ -185,7 +273,7 @@ async function main(): Promise<void> {
     jurisdiction_name: JURISDICTION_NAME,
     portal: PORTAL,
     census_date: today,
-    agent: 'laws-africa-api',
+    agent: 'africanlii-scraper',
     summary: {
       total_laws: allLaws.length,
       ingestable,

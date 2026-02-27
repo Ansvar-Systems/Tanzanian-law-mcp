@@ -1,0 +1,547 @@
+{
+  "id": "tz-act-2002-2",
+  "type": "statute",
+  "title": "Land Disputes Courts Act",
+  "title_en": "Land Disputes Courts Act",
+  "short_name": "Land Disputes Courts Act",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/2002/2/eng@2023-12-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Land Disputes Courts Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context otherwise requires— “ assessor ” means a person appointed to serve as an assessor under section 26(2) ; “ Chairman ” means the chairman of a Village Land Council , a Ward Tribunal, District Land and Housing Tribunal or person who presides at proceedings of the Village Land Council , the Ward Tribunal or District Land and Housing Tribunal ; “ Council ” has the meaning ascribed to it under the Local Government (District Authorities) Act and the Local Government (Urban Authorities) Act; [Cap. 287; Cap. 288] “ court ” has the meaning ascribed to it by the Land Act ; [Cap. 113] “ Court of Resident Magistrate ” has the meaning ascribed to it by the Magistrates’ Courts Act; [Cap. 11] “ Customary Law ” has the meaning ascribed to it by the Interpretation of Laws Act ; [Cap. 1] “ decision ” includes a judgment, finding or ruling; “ dispute ” includes any case where a person complains of and is aggrieved by the actions of another person, or any case in which a complaint is made in an official capacity or is a complaint against an official act; “ District Court ” has the meaning ascribed to it by the Magistrates’ Courts Act; [Cap. 11] “ District Land and Housing Tribunal ” has the meaning ascribed to it by the Land Act ; [Cap. 113] “ High Court ” means the High Court of Tanzania established by Article 108 of the Constitution of the United Republic of Tanzania; [Cap. 2] “ land ” includes the surface of the earth and the earth below the surface and all substances other than minerals and petroleum forming part of or below the surface, things naturally growing on the land, buildings and other structures permanently affixed to land; “ magistrates’ court ” has the meaning ascribed to it by the Magistrates’ Courts Act; [Cap. 11] “ member ” means a member of a Village Land Council or Ward Tribunal; “ Minister ” means the Minister responsible for land ; “ order ” includes warrant, summons or other process, and a decree, revisional or confirmatory order and any other formal expression of the division of a court or tribunal ; “ Primary Court ” and “Primary Court Magistrate” have the meaning ascribed to them by the Magistrates’ Courts Act; [Cap. 11] “ Principal Judge ” has the meaning ascribed to it by the Constitution of the United Republic of Tanzania; [Cap. 2] “ proceedings ” includes any application, reference, cause, matter, suit, trial, appeal or revision, whether final or interlocutory, and whether or not between parties; “ Registrar ” means the Registrar or Deputy Registrar of the High Court and includes the Registrar or Assistant Registrar appointed under section 28 and the Registrar of Villages appointed under the Local Government (District Authorities) Act; [Cap. 287] “ tribunal ” means the ward tribunal established under the Ward Tribunals Act or, as the case may be, the District Land and Housing Tribunal established under this Act; [Cap. 206] “ Ward Committee ” means a ward committee established under the Local Government (Urban Authorities) Act; [Cap. 288] “ village ”, “village council”, “village land council”, “villager” have the meaning ascribed to them by the Village Land Act . [Cap. 114] [2 of 2010 s. 19; 13 of 2017 s. 4; 5 of 2021 s. 44] [Acts Nos 2 of 2010 s. 19; 13 of 2017 s. 4; 5 of 2021 s. 44] Part II – Establishment and jurisdiction of land courts"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Institution of land disputes",
+      "content": "(1) Subject to section 177 of the Land Act and section 62 of the Village Land Act , every dispute or complaint concerning land shall be instituted in the court having jurisdiction to determine land disputes in a given area. (2) The courts of jurisdiction under subsection (1) include— (a) the village land council; (b) the ward tribunal ; (c) the District Land and Housing Tribunal ; (d) the High Court ; or (e) the Court of Appeal of Tanzania. [ Act No. 2 of 2010 s. 19; Cap. 113; Cap. 114]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Jurisdiction of Magistrates’ Courts",
+      "content": "(1) Unless otherwise provided by the Land Act , no magistrates’ court established by the Magistrates’ Courts Act shall have civil jurisdiction in any matter under the Land Act and the Village Land Act . (2) Magistrates’ courts established under the Magistrates’ Courts Act shall have and exercise jurisdiction in all proceedings of a criminal nature under the Land Act and the Village Land Act . [Cap. 11; Cap. 113; Cap. 114] Part III – Village land council Functions and powers of the village land council"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part III",
+      "section": "5",
+      "title": "Composition of village land council",
+      "content": "(1) The village land council shall consist of seven members of whom three shall be women, and each member shall be nominated by the village council and approved by the Village Assembly. (2) Qualification for nomination and appointment of members to the village land council shall be as stipulated under section 60 of the Village Land Act . [Cap. 114]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part III",
+      "section": "6",
+      "title": "Registrar",
+      "content": "The Registrar of village appointed under section 23 of the Local Government (District Authorities) Act shall be responsible for the total administrative functions of all village land councils and ward tribunals and shall— (a) be the Chief Executive of all village land councils and ward tribunals; (b) be responsible for estimates and expenditure; and (c) advise local authorities on any matter regarding the functions of village land councils and ward tribunals in their respective areas of jurisdiction. [GN. No. 225 of 2003; Cap. 287]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Functions of village land council",
+      "content": "Subject to section 61 of the Village Land Act , the functions of the village land council shall include— (a) receiving complaints from parties in respect of land ; (b) convening meetings for hearing of disputes from parties; and (c) mediating between and assisting parties to arrive at a mutually acceptable settlement of disputes on any matter concerning land within its area of jurisdiction. [Cap. 114; GN. No. 225 of 2003]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Procedure for mediation",
+      "content": "Procedures for mediation by the village land council shall be as stipulated under section 61 of the Village Land Act . [Cap. 114]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Reference of dispute to ward tribunal",
+      "content": "Where the parties to the dispute before the village land council are not satisfied with the decision of the Council , the dispute in question shall be referred to the ward tribunal in accordance with section 62 of the Village Land Act . [Cap. 114] Part IV – The ward tribunals Jurisdiction, powers and procedure of the ward tribunal"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part IV",
+      "section": "10",
+      "title": "Ward tribunal",
+      "content": "(1) Each ward tribunal established under the Ward Tribunals Act shall be a court for the purpose of this Act, the Land Act and the Village Land Act and shall have jurisdiction and powers in relation to the area in which it is established. (2) The provisions of the Ward Tribunals Act shall apply as appropriately modified by this Act, and in the event of conflict between this Act and the Ward Tribunals Act in relation to ward tribunals, the provisions of this Act shall apply. [ Act No. 13 of 2017 s. 5; Cap. 113; Cap. 114; Cap. 206]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part IV",
+      "section": "11",
+      "title": "Composition of Ward tribunal",
+      "content": "Each tribunal shall consist of not less than four nor more than eight members of whom three shall be women who shall be elected by a ward committee as provided for under section 4 of the Ward Tribunals Act . [Cap. 206]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part IV",
+      "section": "12",
+      "title": "Qualification of members",
+      "content": "Qualification of members to the tribunal , tenure of membership, and appointment of secretary shall be as provided for under the provisions of sections 5 and 6 of the Ward Tribunals Act . [Cap. 206]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "General jurisdiction",
+      "content": "(1) Subject to the provisions of subsection (1) of section 8 of the Ward Tribunals Act , the primary function of each tribunal shall be to secure peace and harmony in the area for which it is established, by mediating between and assisting parties to arrive at a mutually acceptable solution on any matter concerning land within its jurisdiction. (2) The tribunal shall, in performing its function of mediation, have regard to— (a) any customary principles of mediation; (b) natural justice in so far as any customary principles of mediation do not apply; (c) any principles and practices of mediation in which members have received any training. (3) The tribunal shall, in all matters attempt to reach a settlement by mediation and may adjourn any proceedings relating to dispute in which it is exercising jurisdiction if it thinks that by so doing a just and amicable settlement of the dispute may be reached. (4) Notwithstanding subsection (1) , the District Land and Housing Tribunal shall not hear any proceeding affecting the title to or any interest in land unless the ward tribunal has certified that it has failed to settle the matter amicably: Provided that, where the ward tribunal fails to settle a land dispute within thirty days from the date the matter was instituted, the aggrieved party may proceed to institute the land dispute without the certificate from the ward tribunal . (5) The Minister responsible for legal affairs may, in consultation with the Minister responsible for ward tribunals and Minister responsible for lands, make rules prescribing the conduct and procedure of mediation of land disputes. [ Act No. 5 of 2021 s. 45; Cap. 206]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Procedure for mediation",
+      "content": "(1) The tribunal shall in all matters of mediation consist of three members at least one of whom shall be a woman. (2) The Chairman to the tribunal shall select all three members including a convenor who shall preside at the meeting of the tribunal . (3) In the event of the equality of votes, the member presiding shall have a casting vote in addition to his deliberative vote. (4) The ward tribunal shall, immediately after settlement of a dispute record the order of mediation."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Repealed",
+      "content": "[Repeal by Act No. 5 of 2021 , s. 46]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Repealed",
+      "content": "[Repeal by Act No. 5 of 2021 , s. 46]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Reference of disputes to tribunal",
+      "content": "(1) A person may, subject to section 61 of the Village Land Act , and sections 11 , 12 and 13 of the Ward Tribunals Act , make a complaint to the Secretary of the tribunal . (2) When a complaint is made to the Secretary under subsection (1) , that Secretary shall cause it to be submitted to the Chairman of the tribunal who shall immediately select three members of the tribunal to mediate. (3) Where the complaint is received orally from the complainant, the Secretary shall immediately put it in writing and produce a copy for a complainant. [Cap. 114; Cap. 206]"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Appearance by advocate prohibited",
+      "content": "(1) No advocate as such may appear and act for any party in a ward tribunal . (2) Subject to the provisions of subsections (1) and (3) of this section, a ward tribunal may permit any relative or any member of the household of any party to any proceeding, upon request of such party to appear and act for such party. (3) In a proceeding in a ward tribunal to which a body corporate is a party, its director, secretary, member or a person in the employment of the body corporate and duly authorised in that behalf, other than an advocate, may appear and act on behalf of that party. [GN. No. 225 of 2003]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part IV",
+      "section": "19",
+      "title": "Appeals from ward tribunal",
+      "content": "A person aggrieved by an order or decision of the ward tribunal may appeal to the District Land and Housing Tribunal ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part IV",
+      "section": "20",
+      "title": "Repealed",
+      "content": "[Repeal by Act No. 5 of 2021 , s. 47]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part IV",
+      "section": "21",
+      "title": "Repealed",
+      "content": "[Repeal by Act No. 5 of 2021 , s. 47] Part V – The District Land and Housing Tribunal A. Establishment of the District Land and Housing Tribunal"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Establishment of District Land and Housing Tribunal",
+      "content": "(1) The Minister shall, subject to section 177 of the Land Act and section 62 of the Village Land Act , establish in each district, region or zone, as the case may be, a court to be known as the District Land and Housing Tribunal . (2) The court established under subsection (1) shall exercise jurisdiction within the district, region or zone in which it is established. [Cap. 113; Cap. 114]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Composition",
+      "content": "(1) The District Land and Housing Tribunal established under section 22 shall be composed of at least a Chairman and not less than two assessors. (2) The District Land and Housing Tribunal shall be duly constituted when held by a Chairman and two assessors who shall be required to give out their opinion before the Chairman reaches the judgment. (3) Notwithstanding the provisions of subsection (2) , if in the course of any proceedings before the tribunal , either or both assessors of the tribunal who were present at the commencement of proceedings is or are absent, the Chairman and the remaining assessor , if any, may continue and conclude the proceedings notwithstanding such absence. [ Act No. 13 of 2017 s. 6; GN. No. 225 of 2003]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Opinion of assessors",
+      "content": "In reaching decisions, the Chairman shall take into account the opinion of the assessors but shall not be bound by it, except that the Chairman shall in the judgment give reasons for differing with such opinion."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Appointment of Chairman",
+      "content": "(1) The Chairman of District Land and Housing Tribunal shall be appointed from amongst legally qualified persons in accordance with the Public Service Act. (2) The names of persons appointed as Chairmen under this section shall be published in the Gazette . (3) The Chairman of the Tribunal shall before holding office take an oath before a Judge of the High Court . (4) The provisions of subsection (3) shall not apply where a Resident Magistrate is appointed to be Chairman to the tribunal . [Acts Nos. 12 of 2004 Sch. 5 of 2021 s. 48; Cap. 298]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Appointment of assessors",
+      "content": "(1) The Minister shall, after consultation with the Regional Commissioner, appoint not more than seven assessors three of whom shall be women for each established District Land and Housing Tribunal . (2) Subject to exemptions of section 27 , any persons above the age of twenty-one years shall be eligible to serve as assessors. (3) An assessor appointed under subsection (1) shall hold office for a term of three years and may be eligible for re-appointment. (4) The Minister shall, from time to time, make rules— (a) regulating the area within which a person may be summoned to serve as assessors; (b) prescribing the constitution and composition of panels of assessors; (c) prescribing forms for the purposes of summoning assessors; (d) prescribing the conditions and other matters in respect of the service of assessors."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Qualification of assessors",
+      "content": "A person shall not be eligible to be nominated as an assessor or continue as an assessor if he is— (a) not ordinarily resident in the district; (b) a member of the National Assembly, district council, village council, village land council or ward tribunal ; (c) a mentally unfit person; (d) a person who has been convicted of a criminal offence involving violence, dishonesty or moral turpitude; or (e) not a citizen of the United Republic."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Appointment of Registrar",
+      "content": "(1) There shall be a Registrar who shall be appointed by the President. (2) A person shall not be appointed to be the Registrar unless he holds a degree in law from a recognised university and has experience in the field of law for the period of not less than ten years. (3) The Registrar appointed under subsection (1) shall— (a) be responsible for the total administrative functions of the District Land and Housing Tribunal ; (b) be the Chief Executive of the District Land and Housing Tribunal ; (c) be responsible for estimates and expenditure; (d) advise the Minister on the fees payable for the services of the District Land and Housing Tribunal ; and (e) perform any other duties as may be determined by the Minister . [GN. No. 225 of 2003] (4) There shall be an Assistant Registrars appointed by the Minister who shall perform all such duties as may be determined by the Registrar . (5) The Ministers shall have the power to appoint such other staff of the tribunal to perform functions as may be required. [ Act No. 13 of 2017 s. 7]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part V",
+      "section": "29",
+      "title": "Appointment of tribunal brokers and process servers",
+      "content": "There shall be such number of tribunal brokers and process servers appointed by the Committee from amongst court brokers and process servers registered under the Court Brokers and Process Service (Appointment, Remuneration and Disciplines) Rules, for execution of decrees or orders falling within the jurisdiction of the tribunal . [s. 28A] [GN. No. 363 of 2017; Act No. 5 of 2021 s. 49]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part V",
+      "section": "30",
+      "title": "Establishment of Committee",
+      "content": "(1) There shall be established a committee to be known as the Appointment and Disciplinary Committee for Tribunal Brokers and Process Servers. (2) The Committee shall be composed of the following members appointed by the Minister : (a) a senior judicial officer representing Jaji Kiongozi who shall be a Chairman ; (b) a law officer representing the Attorney General; (c) a senior officer with experience in land matters from the Ministry responsible for lands; (d) a senior officer from the Ministry responsible for home affairs; (e) a senior officer from the President’s Office Public Service and Good Governance; and (f) one member representing court brokers. (3) The Registrar shall be the secretary to the Committee. [s. 28B]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part V",
+      "section": "31",
+      "title": "Power to make rules",
+      "content": "The Minister may, in consultation with the Chief Justice, make rules prescribing for— (a) the general guidance and control of tribunal brokers and process servers; (b) matters relating to tenure of office of members, termination of appointment, proceedings of the Committee and other procedural matters of the Committee; and (c) generally for regulating affairs of tribunal brokers and process servers. [s. 28C]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part V",
+      "section": "32",
+      "title": "Places and times of meetings",
+      "content": "A District Land and Housing Tribunal — (a) may be held at any place within its local limits of jurisdiction; and (b) shall sit at such times as may be necessary for the convenient and speedy discharge of the business of the tribunal . [s. 29]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part V",
+      "section": "33",
+      "title": "Proceedings and representation of parties",
+      "content": "Proceeding of the District Land and Housing Tribunal shall be held in public and a party to the proceedings may appear in person or by an advocate or any relative or any member of the household or authorised officer of a body corporate."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part V",
+      "section": "34",
+      "title": "Registers and returns",
+      "content": "Every District Land and Housing Tribunal shall— (a) keep such register or registers of all the proceedings filed, heard and determined in the tribunal as the Minister may, by regulations published in the Gazette , prescribe; (b) submit to the Minister annual returns of all proceedings ; and (c) use seals or stamp of such nature and pattern as the Minister may direct. [s. 31]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part V",
+      "section": "35",
+      "title": "Repealed",
+      "content": "[Repeal by Act No. 1 of 2021 , s. 7] [s. 32] B. Jurisdiction and powers of the Tribunal"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part V",
+      "section": "36",
+      "title": "General jurisdiction",
+      "content": "(1) The District Land and Housing Tribunal shall have and exercise original jurisdiction— (a) in all proceedings under the Land Act , the Village Land Act , the Customary Leaseholds (Enfranchisement) Act and the Regulation of Land Tenure (Established Villages) Act ; and (b) in all such other proceedings relating to land under any written law in respect of which jurisdiction is conferred on a District Land and Housing Tribunal by any such law. (2) The jurisdiction conferred under subsection (1) shall be limited— (a) in proceedings for the recovery of possession of immovable property, to proceedings in which the value of the property does not exceed three hundred million shillings; and (b) in other proceedings where the subject matter is capable of being estimated at a money value, to proceedings in which the value of the subject matter does not exceed two hundred million shillings, Provided that, the pecuniary jurisdiction of the tribunal shall be unlimited in proceedings under the Customary Leaseholds (Enfranchisement) Act and the Regulation of Land Tenure (Established Villages) Act . [Cap. 377; Cap. 267] (3) The District Land and Housing Tribunal shall have powers to execute its own orders and decrees. [s. 33] [ Act No. 13 of 2017 s. 8; Cap. 113; Cap. 114; Cap. 377; Cap. 267; GN. No. 225 of 2003]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part V",
+      "section": "37",
+      "title": "Hearing of appeals",
+      "content": "(1) The District Land and Housing Tribunal shall, in hearing an appeal against any decision of the ward tribunal sit with not less than two assessors, and shall— (a) consider the records relevant to the decision ; (b) receive such additional evidence if any; and (c) make such inquiries, as it may deem necessary. (2) A party to any proceeding appealed against may appear— (a) personally; or (b) by an advocate or any relative or any member of the household or authorised officer of a body corporate. [s. 34]"
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part V",
+      "section": "38",
+      "title": "Powers of District Land and Housing Tribunal",
+      "content": "(1) A District Land and Housing Tribunal hearing an appeal may— (a) confirm the decision ; (b) reverse, or vary in any manner the decision ; (c) quash any proceedings ; or (d) order the matter to be dealt with again by the ward tribunal , and may, if it deems appropriate, give an order or direction as to how any defect in the earlier decision may be rectified. (2) The District Land and Housing Tribunal shall immediately after making the decision on appeal, record the decision and the reasons thereof. [s. 35]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part V",
+      "section": "39",
+      "title": "Revision",
+      "content": "(1) A District Land and Housing Tribunal may call for and examine the record of any proceedings of the ward tribunal for the purpose of satisfying itself as to whether in such proceedings the tribunals decision has— (a) not contravened any Act of Parliament, or subsidiary legislation; or (b) not conflicted with the rules of natural justice; and whether the tribunal has been properly constituted or has exceeded its jurisdiction, and may revise any such proceedings . (2) In the exercise of its revisional jurisdiction, a District Land and Housing Tribunal shall have all the powers conferred upon it in the exercise of its appellate jurisdiction. [s. 36] Part VI – The High Court"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VI",
+      "section": "40",
+      "title": "Original jurisdiction of High Court",
+      "content": "(1) Subject to the provisions of this Act, the High Court shall have and exercise original jurisdiction— (a) in proceedings for the recovery of possession of immovable property in which the value of the property exceeds three hundred million shillings; (b) in other proceedings where the subject matter capable of being estimated at a money value in which the value of the subject matter exceeds two hundred million shillings; (c) in all proceedings under the Tanzania Investment Act , the Land Act and the Land Acquisition Act in respect of proceedings involving the Government; (d) in all proceedings involving Public Corporations specified in the Rent Restriction (Exemption) (Specified Parastatals) Order; and in such other disputes of national interests which the Minister may by notice published in the Gazette , specify; or (e) in all such other proceedings relating to land under any written law in respect of which jurisdiction is not limited to any particular court or tribunal . (2) Where the High Court is not operational within any given district, the Land and Housing Tribunal shall have the jurisdiction to determine disputes involving public corporations specified under subsection (1)(d) . [s. 37] [Acts Nos. 11 of 2005 s. 29; 13 of 2017 s. 9; GNs. Nos. 41 of 1992 225 of 2; Cap. 38; Cap. 113; Cap. 118]"
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VI",
+      "section": "41",
+      "title": "Appeals of matters originating from Ward Tribunal",
+      "content": "(1) A party who is aggrieved by a decision or order of the District Land and Housing Tribunal in the exercise of its appellate or revisional jurisdiction, may within sixty days after the date of the decision or order , appeal to the High Court : Provided that, the High Court may for good and sufficient cause extend the time for filing an appeal either before or after such period of sixty days has expired. [ Act No. 2 of 2010 s. 21] (2) Every appeal to the High Court shall be by way of petition and shall be filed in the District Land and Housing Tribunal from the decision , or order of which the appeal is brought. (3) Upon receipt of a petition under this section, the District Land and Housing Tribunal shall, within fourteen days dispatch the petition together with the record of the proceedings in the ward tribunal and the District Land and Housing Tribunal to the High Court . [s. 38]"
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VI",
+      "section": "42",
+      "title": "Procedure for Appeal",
+      "content": "(1) Appeal to the High Court under section 41 shall be heard by one Judge. (2) In any appeal, to the High Court under this section in which any rule of Customary Law is an issue or relevant, the High Court may refer any question of Customary Law to an expert or panel of experts constituted in accordance with rules under the Magistrates’ Courts Act, but the High Court shall not be bound by the opinion of such expert or experts in determining the appeal. [s. 39] [ Act No. 2 of 2010 s. 19; Cap. 11]"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part VI",
+      "section": "43",
+      "title": "Powers of Registrar on appeal",
+      "content": "Where an appeal is received in the High Court , a Registrar of the Court may exercise the powers as conferred upon him under the Civil Procedure Code. [s. 40] [Cap. 33; Act No. 2 of 2010 s. 21]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part VI",
+      "section": "44",
+      "title": "Appeals and revision",
+      "content": "(1) Subject to the provisions of any law for the time being in force, all appeals, revisions and similar proceeding from or in respect of any proceeding in a District Land and Housing Tribunal in the exercise of its original jurisdiction shall be heard by the High Court . (2) An appeal under subsection (1) may be lodged within forty-five days after the date of the decision or order : Provided that, the High Court may, for good cause, extend the time for filing an appeal either before or after the expiration of such period of forty-five days. [s. 41] [Acts Nos. 2 of 2010 s. 21; 4 of 2016 s. 41]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part VI",
+      "section": "45",
+      "title": "Extended jurisdiction",
+      "content": "(1) Notwithstanding section 44 , the Chief Justice may, after consultation with the Minister responsible for legal affairs and the Attorney General, by order published in the Gazette , vest any resident magistrate with the appellate or revisional jurisdiction ordinarily exercisable by the High Court under this Act. (2) For the purpose of any appeal from or revision in the exercise of jurisdiction referred to under subsection (1) , the resident magistrate with extended jurisdiction shall be deemed to be the judge of the High Court , and court presided over by him while exercising such jurisdiction shall be deemed to be the High Court . (3) The High Court may direct that an appeal or revision instituted in the High Court be transferred to and be heard by a resident magistrate upon whom extended jurisdiction has been conferred by this section. [s. 41A] [ Act No. 8 of 2018 s. 8]"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part VI",
+      "section": "46",
+      "title": "Powers of High Court on appeals",
+      "content": "The High Court shall in the exercise of its appellate jurisdiction have power to take or to order the District Land and Housing Tribunal to take and certify additional evidence and whether additional evidence is taken or not, to confirm, reverse, amend or vary in any manner the decision or order appealed against. [s. 42] [ Act No. 2 of 2010 s. 21]"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part VI",
+      "section": "47",
+      "title": "Supervisory and revisional powers",
+      "content": "(1) In addition to any other powers in that behalf conferred upon the High Court , the High Court — (a) shall exercise general powers of supervision over all District Land and Housing Tribunals and may, at any time, call for and inspect the records of such tribunal and give directions as it considers necessary in the interests of justice, and all such tribunals shall comply with such direction without undue delay; (b) may in any proceedings determined in the District Land and Housing Tribunal in the exercise of its original, appellate or revisional jurisdiction, on application being made in that behalf by any party or of its own motion, if it appears that there has been an error material to the merits of the case involving injustice, revise the proceedings and make such decision or order therein as it may think fit. (2) In the exercise of its revisional jurisdiction, the High Court shall have all the powers in the exercise of its appellate jurisdiction. [s. 43] [ Act No. 2 of 2010 s. 21]"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part VI",
+      "section": "48",
+      "title": "Powers of Registrar on revision",
+      "content": "(1) A Registrar of the High Court may, for the purpose of satisfying himself as to the correctness, legality or propriety of any decision or order and as to the regularity of the proceeding, call for and inspect the record of any proceedings in a District Land and Housing Tribunal and examine the records or registers thereof. (2) Where the Registrar in any case after making the inspection and examination of the records under subsection (1) , is of the opinion that, any decision or order is illegal or improper or any proceedings are irregular, may forward the record together with the report to the High Court so that it may consider whether or not to exercise its powers of revision. (3) Where the High Court has made any findings as to the correctness, legality or propriety of any decision , order or regularity of any proceedings on the matter forwarded to it under subsection (2) , the High Court shall remit the file to the District Land and Housing Tribunal within fourteen days from the date of the order . [s. 44] [Acts Nos. 2 of 2010 s. 21; 13 of 2017 s. 10]"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part VI",
+      "section": "49",
+      "title": "Substantial justice",
+      "content": "A decision or order of a ward tribunal or District Land and Housing Tribunal shall not be reversed or altered on appeal or revision on account of any error, omission or irregularity in the proceedings before or during the hearing or in such decision or order or on account of the improper admission or rejection of any evidence unless such error, omission or irregularity or improper admission or rejection of evidence has in fact occasioned a failure of justice. [s. 45]"
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part VI",
+      "section": "50",
+      "title": "Representation of parties",
+      "content": "In any proceeding in the High Court , parties may appear in person or by an advocate or other representatives in accordance with the Civil Procedure Code. [s. 46] [Cap. 33; Act No. 2 of 2010 s. 21; GN. No. 225 of 2003]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part VI",
+      "section": "51",
+      "title": "Appeal from High Court",
+      "content": "(1) A person who is aggrieved by the decision of the High Court in the exercise of its original Appellate or revisional jurisdiction may appeal to the Court of Appeal in accordance with the provisions of the Appellate Jurisdiction Act . (2) Where an appeal to the Court of Appeal originates from the ward tribunal , the appellant shall be required to seek for the certificate from the High Court certifying that there is point of law involved in the appeal. (3) The procedure for appeal to the Court of Appeal under this section shall be governed by the Court of Appeal Rules. [GN. No. 368 of 2009] [s. 47] [Acts Nos. 2 of 2010 s. 21; 8 of 2018 s. 9; 11 of 2023 s. 47] Part VII – Appeals to the Court of Appeal of Tanzania"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part VII",
+      "section": "52",
+      "title": "Appeals",
+      "content": "(1) Subject to the provisions of the Land Act and Village Land Act, the Court of Appeal shall have jurisdiction to hear and determine appeals from the High Court . (2) The Appellate Jurisdiction Act shall apply to proceedings in the Court of Appeal under this section. [s. 48] [ Act No. 2 of 2010 s. 21; Cap. 113; Cap. 114; Cap. 141] Part VIII – Miscellaneous provisions"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part VIII",
+      "section": "53",
+      "title": "Laws to be applied",
+      "content": "In the exercise of their respective jurisdictions, the village land council, ward tribunal , District Land and Housing Tribunal , High Court and the Court of Appeal shall apply the laws set out in section 190 of the Land Act . [s. 49] [ Act No. 2 of 2010 s. 21; Cap. 113]"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part VIII",
+      "section": "54",
+      "title": "Application of Customary law",
+      "content": "(1) In the exercise of its customary law jurisdiction, a ward tribunal shall apply the customary law prevailing within its local jurisdiction, or if there is more than one such law, the law applicable in the area in which the act, transaction or matter occurred or arose, unless it is satisfied that some other customary law is applicable but it shall apply the customary law prevailing within the area of its local jurisdiction in matter of practice and procedure to the exclusion of any other customary law. (2) In the exercise of their respective jurisdictions, the High Court and the District Land and Housing Tribunals shall not refuse to recognise any rule of customary law on the grounds that it has not been established by evidence but may accept any statement thereof which appears to it to be worth of belief which is contained in the record of proceedings or from any other source which appears to be credible or may take judicial notice thereof. (3) Where there is any dispute or uncertainty as to any customary law whether by reason of anything contained in the record of the proceedings , the grounds of appeal or otherwise, the High Court or the District Land and Housing Tribunal shall not be required to accept as conclusive or binding any evidence contained in the record but shall— (a) in any case of dispute , determine the customary law applicable, and give judgment thereon, in accordance with what it conceives to be the best and most credible opinion or statement which is consistent with the provisions of such customary law as are undisputed; and (b) in any case of uncertainty, determine the appeal and give judgment thereon, in such manner as accords as near as may be to the provisions of such customary law as are established and certain. [s. 50] [ Act No. 2 of 2010 s. 21]"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part VIII",
+      "section": "55",
+      "title": "Admissibility of evidence",
+      "content": "(1) In the exercise of its jurisdiction, the High Court shall apply the Civil Procedure Code and the Evidence Act and may, regardless of any other laws governing production and admissibility of evidence, accept such evidence and proof which appears to be worthy of belief. (2) The District Land and Housing Tribunals shall apply the regulations made under section 56 and where there is inadequacy in those regulations it shall apply the Civil Procedure Code. [s. 51] [ Act No. 2 of 2010 s. 20; Cap. 33; Cap. 6; GN. No. 225 of 2003; Cap. 33]"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part VIII",
+      "section": "56",
+      "title": "Limitation",
+      "content": "(1) The Customary Law (Limitation of Proceedings) Rules shall apply to proceedings in the ward tribunal in the exercise of its compulsive jurisdiction. (2) The Law of Limitation Act shall apply to proceedings in the District Land and Housing Tribunal and the High Court in the exercise of their respective original jurisdiction. [s. 52] [ Act No. 2 of 2010 s. 21; GN. No. 311 of 1964; Cap. 89]"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part VIII",
+      "section": "57",
+      "title": "Disestablishment of tribunals",
+      "content": "The following tribunals are hereby disestablished— (a) the Customary Land Tribunal established under the Customary Leaseholds (Enfranchisement) Act ; [Cap. 377] (b) the Regional Housing Tribunal and the Housing Appeal Tribunal established under the Rent Restriction Act ; [Act No. 17 of 1984] (c) the Customary Land Appeals Tribunal established under the Customary Leasehold (Enfranchisement) Act. [Cap. 377] [s. 53]"
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part VIII",
+      "section": "58",
+      "title": "Savings",
+      "content": "(1) Notwithstanding the provisions of section 57 , proceedings or appeals commenced in the High Court , the Magistrates’ Courts, Regional Housing Tribunal, Housing Appeals Tribunal, Customary Land Tribunal and the Customary Land Appeals Tribunal which are pending on the date of commencement of this Act shall be continued, concluded and decisions and orders made thereon shall be executed accordingly as if this Act had not been passed. (2) Every decision or order of the High Court , the Magistrates’ Court, Regional Housing Tribunal, Housing Appeals Tribunal, or Customary Land Tribunal or Customary Land Appeal Tribunal, which shall not have been fully executed or enforced before the date of commencement of this Act, may be executed and enforced after that day as if this Act had not been passed. (3) All proceedings or appeals under this section shall be concluded within the period of two years from the date of commencement of this Act. (4) Where the High Court or the Magistrates’ Court fails to hear and conclude the proceedings or appeals within the period specified in subsection (3) , the Chief Justice may, upon application by the Registrar , extend the time to such other time as he may determine. (5) Where the tribunal fails to hear and conclude the proceedings or appeals within the period specified in subsection (3) , the Minister may upon application by the relevant Registrar , extend the time to such other time as he may determine. [s. 54] [GN. No. 225 of 2003]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part VIII",
+      "section": "59",
+      "title": "Protection of members and others",
+      "content": "A matter or thing done by a Chairman , member , officer, servant or agent of a Village Land Council or Ward Tribunal and District Land and Housing Tribunal shall not if done in good faith in the execution or purported execution of the provisions of this Act or of regulations made thereunder, subject any such person to any action, liability or demand whatsoever. [s. 55] [ Act No. 13 of 2017 s. 11; GN. No. 225 of 2003]"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part VIII",
+      "section": "60",
+      "title": "Power to make regulations",
+      "content": "(1) The Minister may make regulations for the better carrying out of the provisions of this Act. (2) Without prejudice to the generality of subsection (1) , the Minister may make in respect of the District Land and Housing Tribunal regulations prescribing— (a) the practice and procedure for execution of decisions and orders thereof; (b) the practice and procedure for hearing and determining appeals; (c) the manner in which appeals may be presented or filed; (d) the manner in which revisional jurisdiction may be exercised; (e) costs and fees; (f) forms to be used in the proceedings ; (g) allowances for Chairman presiding at the District Land and Housing Tribunal , assessors and witnesses to the disputes; (h) procedures for appointment and removal of the Chairman and assessors from the office; (i) the conduct of Chairman and assessors; and (j) any other matter or thing, which requires to be prescribed under this Act. (3) Regulations made under this section shall be published in the Gazette . [s. 56] [Acts Nos. 13 of 2017 s. 12; 5 of 2021 s. 50; GN. No. 225 of 2003]"
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part VIII",
+      "section": "61",
+      "title": "Amendment of other written laws",
+      "content": "[Omitted] [s. 57] Schedule [Omitted] History of this document 31 December 2023 this version Chapter 216 Revised Laws 2023 Consolidation 01 December 2023 Amended by Legal Sector Laws (Miscellaneous Amendments) Act, 2023 11 October 2021 Amended by Written Laws (Miscellaneous Amendments) (No. 3) Act, 2021 09 July 2021 Amended by Written Laws (Miscellaneous Amendments) Act, 2021 Read this version 30 November 2019 Chapter 216 Revised Laws 2019 Consolidation Read this version 25 September 2018 Amended by Written Laws (Miscellaneous Amendments) (No. 3) Act, 2018 01 December 2017 Amended by Written Laws (Miscellaneous Amendments) (No. 4) Act, 2017 08 July 2016 Amended by Written Laws (Miscellaneous Amendments) (No. 2) Act, 2016 26 March 2010 Amended by Written Laws (Miscellaneous Amendments) (No. 3) Act, 2010 24 June 2005 Amended by Written Laws (Miscellaneous Amendment) (No. 2) Act, 2005 31 December 2004 Amended by Written Laws (Miscellaneous Amendments) Act, 2004 01 October 2003 Commenced by Land Disputes Courts Act (Date of Commencement) Notice, 2003 08 August 2003 Amended by Rectification of Printing Errors (The Land Disputes Courts Act, 2002) Order, 2003 31 July 2002 Chapter 216 Revised Laws 2002 26 April 2002 Published in Tanzania Government Gazette 17 28 March 2002 Assented to Related documents Is amended by Legal Sector Laws (Miscellaneous Amendments) Act, 2023 Rectification of Printing Errors (The Land Disputes Courts Act, 2002) Order, 2003 Written Laws (Miscellaneous Amendment) (No. 2) Act, 2005 Written Laws (Miscellaneous Amendments) (No. 2) Act, 2016 Written Laws (Miscellaneous Amendments) (No. 3) Act, 2010 Written Laws (Miscellaneous Amendments) (No. 3) Act, 2018 Written Laws (Miscellaneous Amendments) (No. 3) Act, 2021 Written Laws (Miscellaneous Amendments) (No. 4) Act, 2017 Written Laws (Miscellaneous Amendments) Act, 2004 Written Laws (Miscellaneous Amendments) Act, 2021 Is commenced by Land Disputes Courts Act (Date of Commencement) Notice, 2003 More documents like this one Subsidiary legislation Title Kanuni za Marekebisho ya Kanuni za Uteuzi, Malipo na Nidhamu kwa Madalali wa Baraza na Wasambaza Nyaraka za Mwaka 2024 Government Notice 61 of 2024 Kanuni za Uteuzi, Malipo na Nidhamu kwa Madalali wa Mabaraza na Wasambaza Nyaraka za Mwaka 2024 Government Notice 172 of 2023 Land Disputes Courts (District Land and Housing Tribunal) (Amendment) Regulations, 2023 Government Notice 171 of 2023 Land Dispute Courts (Extension of Appellate and Revisional Jurisdiction) Order, 2018 Repealed Government Notice 802 of 2018 Amendment of the Code of Conduct (District Land and Housing Tribunals), 2016 Government Notice 249 of 2017 Codes of Conduct for Chairmen of District Land and Housing Tribunals, 2016 Government Notice 177 of 2016 Land Disputes Courts (District Land and Housing Tribunal) Regulations, 2002 Government Notice 174 of 2003 [] [] [] [{\"provision_eid\": \"part_II\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_5\", \"citations\": 3}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_7\", \"citations\": 3}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_7__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_8\", \"citations\": 1}, {\"provision_eid\": \"part_III__subpart_nn_1__sec_9\", \"citations\": 9}, {\"provision_eid\": \"part_II/~part_II__sec_3__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_3\", \"citations\": 60}, {\"provision_eid\": \"part_II__sec_3/~part_II__sec_3__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_3__subsec_1\", \"citations\": 76}, {\"provision_eid\": \"part_II__sec_3__subsec_1/~part_VIII__sec_57__para_b\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_3__subsec_2\", \"citations\": 37}, {\"provision_eid\": \"part_II__sec_3__subsec_2__para_a\", \"citations\": 2}, {\"provision_eid\": \"part_II__sec_3__subsec_2__para_b\", \"citations\": 7}, {\"provision_eid\": \"part_II__sec_3__subsec_2__para_c\", \"citations\": 5}, {\"provision_eid\": \"part_II__sec_3__subsec_2__para_d\", \"citations\": 2}, {\"provision_eid\": \"part_II__sec_3__subsec_2__para_e\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_4\", \"citations\": 20}, {\"provision_eid\": \"part_II__sec_4__subsec_1\", \"citations\": 22}, {\"provision_eid\": \"part_II__sec_4__subsec_1/~part_III__subpart_nn_1__sec_5\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_4__subsec_2\", \"citations\": 7}, {\"provision_eid\": \"part_I__sec_1\", \"citations\": 3}, {\"provision_eid\": \"part_I__sec_2\", \"citations\": 15}, {\"provision_eid\": \"part_IV\", \"citations\": 2}, {\"provision_eid\": \"part_IV__sec_11\", \"citations\": 1}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_10\", \"citations\": 6}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_10__subsec_1\", \"citations\": 9}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_10__subsec_2\", \"citations\": 3}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_11\", \"citations\": 187}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_11/~part_II__sec_4\", \"citations\": 3}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_11/~part_II__sec_4__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_11/~part_II__sec_4__subsec_2\", \"citations\": 2}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_12\", \"citations\": 2}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_13\", \"citations\": 82}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_13/~part_II__sec_3__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_13/~part_VIII__sec_58__subsec_4\", \"citations\": 2}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_13__subsec_1\", \"citations\": 14}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_13__subsec_2\", \"citations\": 16}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_13__subsec_3\", \"citations\": 2}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_13__subsec_4\", \"citations\": 74}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_13__subsec_5\", \"citations\": 2}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_14\", \"citations\": 30}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_14__subsec_1\", \"citations\": 22}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_14__subsec_2\", \"citations\": 7}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_14__subsec_3\", \"citations\": 3}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_14__subsec_4\", \"citations\": 4}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_15\", \"citations\": 83}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_16\", \"citations\": 28}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_17\", \"citations\": 4}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_17__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_17__subsec_2\", \"citations\": 6}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_17__subsec_3\", \"citations\": 2}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_18\", \"citations\": 4}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_18__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_18__subsec_2\", \"citations\": 25}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_18__subsec_3\", \"citations\": 1}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_19\", \"citations\": 38}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_20\", \"citations\": 40}, {\"provision_eid\": \"part_IV__subpart_nn_1__sec_21\", \"citations\": 4}, {\"provision_eid\": \"part_V\", \"citations\": 2}, {\"provision_eid\": \"part_VI\", \"citations\": 2}, {\"provision_eid\": \"part_VIII__sec_54\", \"citations\": 6}, {\"provision_eid\": \"part_VIII__sec_54__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__sec_54__subsec_3\", \"citations\": 3}, {\"provision_eid\": \"part_VIII__sec_55\", \"citations\": 2}, {\"provision_eid\": \"part_VIII__sec_55__subsec_2\", \"citations\": 16}, {\"provision_eid\": \"part_VIII__sec_56\", \"citations\": 4}, {\"provision_eid\": \"part_VIII__sec_56__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__sec_57\", \"citations\": 3}, {\"provision_eid\": \"part_VIII__sec_57__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_VIII__sec_58__subsec_4\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_52\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_52__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_52__subsec_1/~part_I\", \"citations\": 2}, {\"provision_eid\": \"part_VII__sec_52__subsec_2\", \"citations\": 31}, {\"provision_eid\": \"part_VI/~part_II__sec_3__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_38\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_40\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_40__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_41\", \"citations\": 87}, {\"provision_eid\": \"part_VI__sec_41__subsec_1\", \"citations\": 143}, {\"provision_eid\": \"part_VI__sec_41__subsec_1/~part_VI__sec_41\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_41__subsec_2\", \"citations\": 507}, {\"provision_eid\": \"part_VI__sec_41__subsec_2/~part_IV__subpart_nn_1__sec_14__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_VI__sec_42\", \"citations\": 69}, {\"provision_eid\": \"part_VI__sec_42__subsec_1\", \"citations\": 5}, {\"provision_eid\": \"part_VI__sec_42__subsec_2\", \"citations\": 4}, {\"provision_eid\": \"part_VI__sec_43\", \"citations\": 654}, {\"provision_eid\": \"part_VI__sec_43/~part_VIII__sec_57__para_a\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_44\", \"citations\": 14}, {\"provision_eid\": \"part_VI__sec_44__subsec_1\", \"citations\": 9}, {\"provision_eid\": \"part_VI__sec_44__subsec_1/~part_VI__sec_41__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_44__subsec_2\", \"citations\": 21}, {\"provision_eid\": \"part_VI__sec_45\", \"citations\": 202}, {\"provision_eid\": \"part_VI__sec_45__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_45__subsec_2\", \"citations\": 4}, {\"provision_eid\": \"part_VI__sec_46\", \"citations\": 8}, {\"provision_eid\": \"part_VI__sec_47\", \"citations\": 108}, {\"provision_eid\": \"part_VI__sec_47/~part_II__sec_3__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_VI__sec_47/~part_II__sec_3__subsec_2\", \"citations\": 4}, {\"provision_eid\": \"part_VI__sec_47/~part_VI__sec_41__subsec_3\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_47__subsec_1\", \"citations\": 178}, {\"provision_eid\": \"part_VI__sec_47__subsec_1__para_a\", \"citations\": 7}, {\"provision_eid\": \"part_VI__sec_47__subsec_1__para_b\", \"citations\": 16}, {\"provision_eid\": \"part_VI__sec_47__subsec_1/~part_III__subpart_nn_1__sec_5\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_47__subsec_1/~part_III__subpart_nn_1__sec_5__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_VI__sec_47__subsec_1/~part_III__subpart_nn_1__sec_5__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_47__subsec_1/~part_IV__subpart_nn_1__sec_11\", \"citations\": 2}, {\"provision_eid\": \"part_VI__sec_47__subsec_1/~part_VI__sec_47\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_47__subsec_2\", \"citations\": 307}, {\"provision_eid\": \"part_VI__sec_47__subsec_2/~part_III__subpart_nn_1__sec_5__subsec_1\", \"citations\": 2}, {\"provision_eid\": \"part_VI__sec_47__subsec_2/~part_III__subpart_nn_1__sec_5__subsec_1/~part_VI__sec_47__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_47__subsec_2/~part_IV__subpart_nn_1__sec_11\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_47__subsec_2/~part_VI__sec_46\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_48\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_48__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_48__subsec_2\", \"citations\": 7}, {\"provision_eid\": \"part_VI__sec_49\", \"citations\": 12}, {\"provision_eid\": \"part_VI__sec_50\", \"citations\": 2}, {\"provision_eid\": \"part_VI__sec_51\", \"citations\": 36}, {\"provision_eid\": \"part_VI__sec_51/~part_II__sec_3__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_51__subsec_1\", \"citations\": 50}, {\"provision_eid\": \"part_VI__sec_51__subsec_2\", \"citations\": 89}, {\"provision_eid\": \"part_VI__sec_51__subsec_2/~part_III__subpart_nn_1__sec_9\", \"citations\": 1}, {\"provision_eid\": \"part_VI__sec_51__subsec_2/~part_IV__subpart_nn_1__sec_14__subsec_1\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_A__sec_22\", \"citations\": 10}, {\"provision_eid\": \"part_V__subpart_A__sec_22/~part_II__sec_3__subsec_2\", \"citations\": 1}, {\"provision_eid\": \"part_V__subpart_A__se"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "assessor",
+      "definition": "a person appointed to serve as an assessor under section 26(2)",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairman",
+      "definition": "the chairman of a Village Land Council , a Ward Tribunal, District Land and Housing Tribunal or person who presides at proceedings of the Village Land Council , the Ward Tribunal or District Land and Housing Tribunal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "ascribed to it under the Local Government (District Authorities) Act and the Local Government (Urban Authorities) Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "ascribed to it by the Land Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Court of Resident Magistrate",
+      "definition": "ascribed to it by the Magistrates’ Courts Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Customary Law",
+      "definition": "ascribed to it by the Interpretation of Laws Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "decision",
+      "definition": "a judgment, finding or ruling",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dispute",
+      "definition": "any case where a person complains of and is aggrieved by the actions of another person, or any case in which a complaint is made in an official capacity or is a complaint against an official act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "District Court",
+      "definition": "ascribed to it by the Magistrates’ Courts Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "District Land and Housing Tribunal",
+      "definition": "ascribed to it by the Land Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "High Court",
+      "definition": "the High Court of Tanzania established by Article 108 of the Constitution of the United Republic of Tanzania",
+      "source_provision": "s2"
+    },
+    {
+      "term": "land",
+      "definition": "the surface of the earth and the earth below the surface and all substances other than minerals and petroleum forming part of or below the surface, things naturally growing on the land, buildings and other structures permanently affixed to land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "magistrates’ court",
+      "definition": "ascribed to it by the Magistrates’ Courts Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "a member of a Village Land Council or Ward Tribunal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for land",
+      "source_provision": "s2"
+    },
+    {
+      "term": "order",
+      "definition": "warrant, summons or other process, and a decree, revisional or confirmatory order and any other formal expression of the division of a court or tribunal",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Principal Judge",
+      "definition": "ascribed to it by the Constitution of the United Republic of Tanzania",
+      "source_provision": "s2"
+    },
+    {
+      "term": "proceedings",
+      "definition": "any application, reference, cause, matter, suit, trial, appeal or revision, whether final or interlocutory, and whether or not between parties",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "the Registrar or Deputy Registrar of the High Court and includes the Registrar or Assistant Registrar appointed under section 28 and the Registrar of Villages appointed under the Local Government (District Authorities) Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tribunal",
+      "definition": "the ward tribunal established under the Ward Tribunals Act or, as the case may be, the District Land and Housing Tribunal established under this Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Ward Committee",
+      "definition": "a ward committee established under the Local Government (Urban Authorities) Act",
+      "source_provision": "s2"
+    }
+  ]
+}

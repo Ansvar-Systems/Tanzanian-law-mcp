@@ -1,0 +1,564 @@
+{
+  "id": "tz-act-gn-2020-820",
+  "type": "statute",
+  "title": "Industrial and Consumer Chemicals (Management and Control) Regulations, 2020",
+  "title_en": "Industrial and Consumer Chemicals (Management and Control) Regulations, 2020",
+  "short_name": "Industrial and Consumer Che...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/2020/820/eng@2020-10-02",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Citation",
+      "content": "These Regulations may be cited as the Industrial and Consumer Chemicals (Management and Control) Regulations, 2020."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In these Regulations, unless the context otherwise requires— “ accidental release ” means an unplanned or accidental discharge, emission, explosion, out gassing or other escape of chemicals, or any component or compound evolving from a chemical into the ambient air, water bodies, soil and environment in general— “ Act ” means Industrial and Consumer Chemicals (Management and Control) Act; [Cap. 182] “ Authorised agent ” means a person authorised to act on behalf of a chemical registrant “ Authority ” means Government Chemist Laboratory Authority; “ Board ” has the meaning ascribed to it under the Act ; “ chemical ” has the meaning ascribed to it under the Act ; “ chemical consignment ” means a quantity of chemical imported, exported or transported per issued permit; “ chemical waste ” has the meaning ascribed to it under the Act ; “ clean-up ” means the act of clearance, decontamination or remediation of contaminated sites or environment; “ contingency plan ” means the procedure of dealing with chemical accidents or spillages; “ convoy ” means a maximum of ten trucks transporting a chemical at one given time; “ corrosive chemical ” means a chemical that has the ability to cause severe damage to a living tissue by chemical action or a chemical that reacts with the surface of a material causing it to deteriorate or wear away; “ dealer ” has the meaning ascribed to it under the Act ; “ disposal ” means the immediate treatment by using physical, chemical , biological, thermal or other methods to alter the physical, chemical or biological characteristics or composition of a chemical ; “ emergency ” means an immediate danger to public safety arising directly or indirectly from the handling of a chemical ; “ fill date ” means the date on which a container is filled and can no longer be used to accumulate waste; “ final disposal ” means disposal of a chemical waste in a sanitary landfill, sealed landfill or stabilized landfill, incineration or any means authorised by the Registrar; “ hazardous chemical ” means any chemical which has the likelihood of causing adverse effect or injury to human health or to the environment and which has been so designated by the Board ; “ inspector ” means a person appointed by the Minister in the Gazette to conduct inspection; “ Minister ” means the Minister responsible for matters relating to chemical management and control; “ package ” means as substance or material used for containment of a chemical ; “ premises ” means any land, shop, store, warehouse or place where any chemical is produced, sold, stored or used; “ small scale entrepreneur ” means a person dealing in chemicals whose capital investment does not exceed five million shillings; “ spill kit ” means any sorbent materials capable of containing chemical spills in case of accidents; and “ transit chemical ” means a chemical imported through Tanzania to another country outside Tanzania. Part II – Administration"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part II",
+      "section": "3",
+      "title": "Emergency Response Committee",
+      "content": "(1) The Registrar shall form an Emergency Response Committee established under section 8 of the Act . (2) The Emergency Response Committee shall comprise of senior experts from— (a) the Prime Minister ’s Office (the Director of Disaster Management who shall be the Chairperson of the Committee); (b) the Land Transport Regulatory Authority ; (c) the Ministry responsible for regional administration and local government ( chemical or environmental expert); (d) the Ministry responsible for health (Head of Disaster Management); (e) the Police Force; (f) Fire and Rescue Force; (g) Tanzania Port Authority (Fire and Safety Department); and (h) the Private Fire Rescue Services Company. (3) The Registrar shall be the Secretary to the Committee. (4) The tenure of the Committee shall be three years. (5) The quorum for the meetings shall be fifty percent of the members. (6) The Committee shall meet once annually or upon emergency related to major chemical accidents. (7) The Committee may co-opt any person to assist in dealing with a specific matter."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Functions of Emergency Response Committee",
+      "content": "The functions of the Emergency Response Committee shall be— (a) to receive annual reports on implementation of contingency plans; (b) to review reports on chemical accidents; (c) to advise the Board on how to deal with emergencies and accidents; (d) to liaise with any other disaster management authorities or other institutions established to ensure coordination and collaboration with all stakeholders; and (e) to perform such other functions necessary for the implementation of the Act as may be assigned by the Board . Part III – Importation and exportation of chemicals"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part III",
+      "section": "5",
+      "title": "Requirements for importation and exportation of chemicals",
+      "content": "(1) Any person who imports or exports a chemical shall— (a) be registered and be issued a certificate; (b) register the premises and chemicals; (c) create awareness to the public on the inherent risks of indiscriminate use and misuse of chemicals; (d) set and adhere to the code of practice and guidelines on the safe use and handling of chemicals; (e) apply for chemical importation or exportation permit for every chemical consignment prior to importation or exportation; and (f) submit to the Registrar, in writing, the name of an authorised agent. (2) An application for registration under this Regulation shall be accompanied by respective documents prescribed in the First Schedule. (3) Registration of a chemical export or importer shall be according to the threshold set out in the Second Schedule. (4) An application for an import or export permit shall be made in the form set out in the Third Schedule and shall be accompanied by a payment of fees prescribed in the Fourth Schedule. (5) An application for an import or an export permit for any registered chemical may be accompanied by any other documents, particulars or information as the Registrar may require. (6) A person shall not import any chemical unless that person has submitted to the Registrar a certificate of analysis of a chemical to be imported. (7) The Registrar shall issue a chemical import or export permit in the form prescribed in the Fifth and Sixth Schedule, respectively. (8) The import or export permit shall be valid for a period of four months. (9) A person who contravenes the provisions of this regulation commits an offence."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part III",
+      "section": "6",
+      "title": "Duty of importer or exporter",
+      "content": "(1) An importer or exporter of chemicals shall, before importing or exporting a chemical — (a) provide the Registrar with the details of the consignment; (b) produce a corresponding invoice for importation; and (c) produce a purchasing order for exportation. (2) An importer or exporter of chemicals shall ensure that, all information, shipping documents and package are legible, in indelible print and are written in English or Kiswahili languages."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part III",
+      "section": "7",
+      "title": "Requirements for dealing with hazardous or corrosive chemicals",
+      "content": "(1) Notwithstanding section 28 of the Act , an importer or exporter of hazardous, highly hazardous or corrosive chemical shall— (a) maintain records of import or export of hazardous, highly hazardous or corrosive chemical ; (b) submit information on the imported or exported chemical to the Registrar after every three months; (c) provide sufficient information to enable a dealer to take necessary measures regarding safety and protection of human health and the environment; (d) provide a contingency plan for approval by the Registrar; and (e) comply with the storage requirements set out in the Seventh Schedule. (2) Any person who contravenes the provisions of this regulation commits an offence."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Application of East African Community Customs Management",
+      "content": "(1) Section 11 of the East African Community Customs Management Act shall apply to these Regulations. (2) A person who imports or exports a chemical through unauthorized port commits an offence. [ Act No. 1 of 2005 ] Part IV – Transportation of chemicals"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part IV",
+      "section": "9",
+      "title": "Requirements for registration of transporters of chemicals",
+      "content": "(1) A person who transports a chemical shall— (a) be registered by the Registrar and be issued with a certificate; and (b) register the company and premises . (2) An application for registration as transporter of chemical shall be in the manner set out under section 15 of the Act . (3) Any person who applies for registration under this regulation shall submit relevant documents as provided in the First Schedule. (4) Registration of a chemical transporter shall be conducted in accordance with the threshold set out under the Second Schedule."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part IV",
+      "section": "10",
+      "title": "Requirements for transportation of chemicals",
+      "content": "(1) Every registered transporter of a chemical shall— (a) maintain appropriate and adequate personal protective gears, antidotes, first aid facilities and ensure enforcement of their use; (b) provide adequate and appropriate transportation facilities to ensure that all chemicals and equipment are in safe condition; (c) set and adhere to code of practice and guidelines on the safe handling of chemicals during transportation; (d) inform, instruct, supervise and train employees on safety and health aspects for safe transportation; and (e) create awareness to the public on the inherent risks of chemical . (2) A person shall not transport any chemical appearing under the Third, Sixth, Seventh and Eighth Schedules to the Act , under any circumstances in a vehicle in which passengers, food or animals are being transported. (3) An owner of the chemical consignment to be transported shall submit— (a) all necessary documents relating to the consignment, including Material Safety Data Sheets; (b) the packing list; and (c) an invoice. (4) A chemical transporter shall— (a) be knowledgeable in chemical handling skills; (b) have workers with skills in handling chemicals; (c) provide training and information to other workers and laborers on handling chemicals on a continuous basis; and (d) provide emergency preparedness techniques for handling spills, leakages, fire and explosion of chemicals. (5) Any person driving a vehicle carrying a chemical shall be required to undergo special training on chemical management and control offered by the Authority . (6) Any person who contravenes the provisions of this regulation commits an offence."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part IV",
+      "section": "11",
+      "title": "Requirements for vehicle carrying chemicals",
+      "content": "(1) A vehicle carrying a chemical shall— (a) meet the requirements specified in the Material Safety Data Sheets and other applicable guidelines; (b) be road worthy; (c) not carry passengers, food items or animals; (d) be fitted with a communication system; (e) be provided with an appropriate spill or first aid kit as per Material Safety Data Sheets; (f) be fitted with fire-fighting appliances according to the type of load; (g) be fixed with posters, according to the transported chemical ; and (h) have protective equipment for personal protection. (2) Any transporter of a hazardous chemical shall conduct a mock drill of their contingency plan every six months."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part IV",
+      "section": "12",
+      "title": "Application and issuance of transport permit",
+      "content": "(1) Every transported chemical consignment shall be accompanied by a transport permit issued by the Registrar. (2) Pursuant to subregulation (1) , an application for permit to transport a chemical from the point of entry to the point of destination within a region of entry shall be made by a chemical owner, chemical transporter or authorized agent. (3) Pursuant to subregulation (1) , an application for transportation for chemical consignment from one region to another shall be made by a registered chemical transporter: Provided that, where the chemical consignment belongs to a small scale entrepreneur , the application for permit may be made by the chemical owner, chemical transporter or authorized agent. (4) Any person who transports a chemical pursuant to subregulation (2) or (3) shall have basic training in chemicals management from the Authority. (5) An application for transport permit shall be made in the form set out in the Eighth Schedule and accompanied by payment of fees as per the Fourth Schedule. (6) An application for transport permit under subregulation (2) or (3) shall be accompanied by relevant documents as provided in the First Schedule and any other information as the Registrar may direct. (7) The Registrar shall issue a chemical transport permit in the form prescribed in the Ninth Schedule. (8) The transport permit shall be valid for one month. (9) Any person who contravenes the provisions of this regulation commits an offence."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "Duty of transporter",
+      "content": "(1) Before transportation of a hazardous chemical , a transporter shall notify the Registrar on the details of the chemical consignment and produce invoice, import permit and purchase order. (2) A person who supplies false or misleading information when applying for a transport permit of any chemical commits an offence."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Transportation of transit chemicals",
+      "content": "(1) A person who intends to transport chemicals on transit through Tanzania shall obtain a permit by making an application to the Registrar in the form set out in the Tenth Schedule and be accompanied by a fee prescribed in Fourth Schedule. (2) The permit for transportation of transit chemicals shall be in the form prescribed in the Eleventh Schedule. (3) A person who transports a chemical on transit shall comply with requirements set out under regulations 13 . (4) A person who handles or transports transit chemicals shall have basic knowledge in chemicals management. (5) The chemical transit permit shall be valid for thirty days from the day of clearance at the port of entry. (6) The transporter of transit chemicals shall comply with the requirements set out in regulation 47 ."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Requirements for transportation of hazardous chemicals",
+      "content": "(1) Transportation of hazardous and highly toxic chemicals shall be— (a) in a convoy under escort marked with legible warning signs written in English or Kiswahili language; (b) in a convoy of not more than ten trucks; (c) done by trained personnel for leading the convoy who shall be responsible for informing the Registrar of any occurrence of incidences while in-route. (2) The Registrar shall prescribe the kind of security escort required while transporting highly hazardous and toxic chemical . (3) A person carrying hazardous chemical shall— (a) ensure that the vehicle is labeled with conspicuous legible, indelible hazardous chemicals identities written in English or Kiswahili language; (b) ensure that the chemical is delivered to the authorised person; (c) ensure that the chemical transported is accompanied by relevant documents and that, the quantity corresponds to specifications in the transportation documents; (d) ensure that the chemical transported is not leaking; (e) supervise the loading of the chemical to avoid an overflow or overloading; and (f) ensure that relevant documents are given to the receiver of the chemical ."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Requirements for loading or unloading of chemicals",
+      "content": "(1) Any person who is involved in loading or unloading a chemical shall— (a) ensure that containers are securely sealed; (b) wear appropriate protective equipment; (c) ensure there is no over-loading; (d) ensure that the chemical is properly packed; and (e) ensure that cross-reactive chemicals are properly segregated. (2) Any person who supervises the loading and unloading of chemicals shall ensure that— (a) every personnel wears appropriate protective equipment; (b) actions that may cause accidents or spill are avoided; and (c) all safety precautions as per the material safety data sheet are in place and made aware to the employees. (3) A person who drives a vehicle carrying a chemical shall ensure that the vehicle is thoroughly cleaned after unloading that chemical ."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Requirement for haulage",
+      "content": "(1) An authorized transporter of a chemical shall— (a) avoid high speed; (b) avoid road haulage during peak hours; and (c) refuel the vehicles at designated petrol stations or service stations. (2) The vehicle in which chemicals are transported shall be parked at designated places."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Requirements for management of spills and sites",
+      "content": "(1) In case of a spillage or leakage of a chemical , the transporter shall— (a) deal with spillage or leakage promptly in accordance with the approved contingency plan , Material Safety Data Sheets or instructions on the label and other applicable guidelines; (b) use appropriate protective gear when cleaning the spillage or leakage; (c) keep people and animals away from the area of spillage or leakage; (d) ensure that spillage is dealt with or handled by two or more people vested with the knowledge of handling chemical spillage; and (e) ensure that liquid spills do not spread to a wider area. (2) A person who gives false information in the reporting of accidents or spills commits an offence. Part V – Chemical distribution and sale"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Requirements for distribution and sale of chemicals",
+      "content": "(1) A person who distributes or sales a chemical shall— (a) be registered by the Registrar and be issued with a certificate; (b) register the company, premises and the chemical ; (c) create awareness to the public on the inherent risks of indiscriminate use and misuse of the chemical ; (d) set and adhere to code of practice and guidelines on the safe use and handling of chemicals; and (e) submit relevant documents as provided in the First Schedule. (2) Registration of a chemical distributor shall be conducted in accordance with the threshold set out in the Second Schedule."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Requirements for submission of information for distributors and sellers of hazardous, highly hazardous, corrosive chemicals",
+      "content": "(1) Notwithstanding section 28(4) of the Act , a distributor or seller of a chemical shall provide records of hazardous, highly hazardous or corrosive chemical transactions in every three months to the Registrar. (2) Details of information required from distributors and sellers of hazardous, highly hazardous or corrosive chemical shall be provided by filling the form prescribed in Thirteenth Schedule. (3) A person who gives false information in relation to sale or distribution of hazardous, highly hazardous or corrosive chemical commits an offence."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Requirements for distribution or sale of hazardous, highly hazardous or corrosive chemicals",
+      "content": "A distributor or seller of a hazardous, highly hazardous or corrosive chemical shall, at the time of application for registration— (a) submit a contingency plan to the Registrar for approval; (b) provide sufficient information to enable users or handlers of hazardous, highly hazardous or corrosive chemical to take necessary measures regarding the safety and protection of human health and the environment; and (c) comply with storage requirements set out in the Seventh Schedule."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Requirements for technical personnel in chemical management",
+      "content": "(1) A person who distributes or sells chemical shall— (a) be knowledgeable and have skilled workers in handling chemicals; (b) provide training and information to other workers and laborers on continuous basis; and (c) provide emergency preparedness techniques for handling spills, leakages, fire and explosion. (2) Any person who contravenes the provisions of subregulation (1) commits offence."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Risk assessment and risk management",
+      "content": "(1) The certificate holder for highly hazardous chemical shall submit to the Registrar a summary of the Risk Assessment and Risk Management Programme prescribed under section 45(2) of the Act . (2) The Risk Assessment and Risk Management Programme referred to under subregulation (1) shall include the following: (a) identification of hazards; (b) indication of persons or groups at risk; (c) mitigation measures to prevent risk; (d) communication methods and procedures in case of risk incidents; and (e) the method employed to conduct the risk assessment. (3) The risk assessment report shall— (a) be valid for the registration period and whereas after registration a new assessment shall be conducted and a report be submitted to the Registrar; and (b) be conducted where there are changes in the operation or surrounding environment. Part VI – Chemical users and producers"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part VI",
+      "section": "24",
+      "title": "Requirements for chemical user and producer",
+      "content": "(1) A person who uses or produces a chemical shall— (a) be registered by the Registrar and be issued with a certificate; (b) register the company, premises and chemicals; (c) create awareness to the public on the inherent risks of indiscriminate use and misuse of chemicals; and (d) set and adhere to the code of practice and guidelines on the safe use and handling of chemicals. (2) A person who applies for registration under this regulation shall submit relevant documents as prescribed in the First Schedule. (3) Registration of a chemical producer or user shall be conducted in accordance with the threshold set out in the Second Schedule. (4) Any person who applies for registration shall register the premises in accordance with the provisions of section 27 of the Act . (5) A person shall not produce any chemical for marketing purposes unless— (a) he submits a certificate of analysis of the chemical to be produced; and (b) the Registrar approves the package ."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part VI",
+      "section": "25",
+      "title": "Requirement for submission of information for use and producer of hazardous, highly hazardous and corrosive chemicals",
+      "content": "(1) Notwithstanding section 28(4) of the Act , a producer or seller shall— (a) provide records of hazardous, highly hazardous or corrosive chemical transactions in every three months to the Registrar in the manner prescribed in the Twelfth Schedule; and (b) provide to the Registrar a contingency plan for approval. (2) Any person who contravenes the provisions of subregulation (1) commits an offence."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part VI",
+      "section": "26",
+      "title": "Requirements for distribution or sale of hazardous, highly hazardous or corrosive chemicals",
+      "content": "A producer of hazardous, highly hazardous or corrosive chemical shall— (a) provide sufficient information to enable users or handlers of the chemicals to take the necessary measures regarding the safety and protection of human health and the environment; (b) comply with storage requirements set out in the Seventh Schedule. Part VII – Storage of chemicals"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part VII",
+      "section": "27",
+      "title": "Requirements for storage of chemicals",
+      "content": "(1) A person who intends to store or warehouse a chemical shall— (a) be registered by the Registrar and be issued a certificate; (b) register the premises ; (c) ensure the public is aware of the inherent risks of indiscriminate use and misuse of a chemical ; and (d) set and adhere to the code of practice and guidelines on the safe use and handling of a chemical . (2) A person who applies for registration for storage or warehousing of a chemical shall submit to the Registrar relevant documents prescribed in the First Schedule. (3) The registration of a person who intends to store or warehouse a chemical shall be in accordance with the threshold set out in the Second Schedule. (4) A chemical store or warehouse shall comply with requirements prescribed in Seventh Schedule."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part VII",
+      "section": "28",
+      "title": "Storage and warehouse of hazardous, highly hazardous and corrosive chemicals",
+      "content": "(1) Notwithstanding the provisions of section 28(4) of the Act , the storage or warehouse operator shall provide records of hazardous, highly hazardous or corrosive chemical transactions in every three months to the Registrar. (2) The details of information required for storage or warehouse operator of hazardous, highly hazardous or corrosive chemical shall be in a manner prescribed in Twelfth Schedule. (3) Any person who contravenes the provisions of this regulation commits an offence."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VII",
+      "section": "29",
+      "title": "Requirements for technical personnel in chemical",
+      "content": "(1) Any person who stores or warehouses chemical shall— (a) be knowledgeable and have skilled workersn management in handling chemical ; (b) provide training and information to other workers and labourers on continuous basis; and (c) provide emergency preparedness techniques for handling spills, leakages, fire and explosion. (2) The storage or warehouse operator shall have a supervisor with qualifications of at least a Diploma or its equivalent in chemical related sciences. (3) Notwithstanding the requirement of subregulation (2) , the storage or warehouse supervisor shall undertake special training in chemicals management from the Authority. (4) Any person who contravenes the provisions of this regulation commits an offence. Part VIII – Management of bulk chemicals"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VIII",
+      "section": "30",
+      "title": "Designation port or area",
+      "content": "The Director General of the Tanzania Port Authority shall, in collaboration with the Registrar, designate a port or an area where the operations for handling bulk chemicals shall be undertaken."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VIII",
+      "section": "31",
+      "title": "Requirement for management of bulk chemicals",
+      "content": "Pursuant to section 43(11) of the Act , any person who loads, unloads or repackages bulk chemical shall— (a) carry out the work in an area designated for that purpose only; (b) ensure that there is no release of spill or leakage to the environment; (c) use special equipment which sucks the chemical from the vessel to the closed transport facility directly; (d) be away from source of ignition and oxidizing agent; (e) store the chemical away from the area which has other operations; (f) avoid dust generations or release; (g) possess appropriate firefighting equipment; (h) have knowledgeable personnel; (i) provide appropriate warning signs; and (j) immediately attend and inform the Registrar of any spillage, leakage or occurrence of other accidents."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VIII",
+      "section": "32",
+      "title": "Loading and packaging of bulk chemicals",
+      "content": "(1) A person shall not load or repackage bulk chemical in a container or package , unless the container or package in which that chemical is to be contained or repackaged meets national and international standards. (2) A container or packaging material referred to under subregulation (1) shall be suitable for storage of chemical for which an application for storage has been made and shall— (a) not be reactive with the chemical in question; (b) be free from the possibility of leakage; and (c) be capable of protecting the health of persons involved in handling the chemical , the neighboring community and the environment in general. (3) A container or repackaging materials provided for under this regulation shall be— (a) labelled; (b) punctured after its lifespan or after use; and (c) disposed of in accordance with these Regulations. (4) Any person who loads or packs bulk chemical contrary to these Regulations commits an offence."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VIII",
+      "section": "33",
+      "title": "Conditions for permit to transport loaded or repacked chemical",
+      "content": "A person who has been granted a permit to transport loaded or repackaged chemical shall— (a) use appropriate means of transport taking into account the type of loaded or repacked chemical in order to avoid the chemical spreading or noxious releases during transportation; (b) ensure that each transport facility is labeled with appropriate symbols, provided with First Aid equipment and fire extinguisher according to the type of chemical carried; (c) ensure that the chemical consignment is accompanied by all necessary transport documents at all times together with permits and licenses from other Authorities; (d) use the shortest routes or routes presenting the lowest risk for the public and environment; (e) provide adequate protective and safety gears to personnel involved in handling the chemical ; (f) provide safe and secure seating facilities in the cabin for personnel involved during transportation of the chemical ; (g) ensure the loaded chemical is transported in a covered transport facility or closed container at all times depending on the type of chemical ; (h) provide basic training to staff on safe chemical transport and handling of emergency cases or accidents; and (i) comply with any other condition which the Registrar may impose. Part IX – Chemical waste management"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part IX",
+      "section": "34",
+      "title": "Requirements for management of chemical waste",
+      "content": "A person or company in possession of a chemical waste shall— (a) notify the Registrar in annual basis in the form set out in the Thirteenth Schedule to these Regulations; (b) ensure that the employees are made aware on the inherent nature and risks of mismanagement of the chemical waste ; and (c) set and adhere to the code of practice and guidelines on the safe handling of chemical waste ."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part IX",
+      "section": "35",
+      "title": "Requirements for segregation of obsolete or chemical waste",
+      "content": "A person who generates chemical waste shall ensure— (a) there is proper segregation of the chemical waste according to type, nature and characteristics; (b) that the chemical waste is removed from the chemical storage or operation area and placed into chemical waste storage area; and (c) that any unknown chemical waste is handled in the same manner as highly hazardous chemical waste."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part IX",
+      "section": "36",
+      "title": "Requirements for chemical waste inventory and collection",
+      "content": "(1) An owner or operator of a chemical waste facility shall— (a) conduct routine inventory reviews at least once quarterly to identify any chemical waste or substances; and (b) ensure proper collection and storage of chemical waste at the point of generation. (2) The chemical waste collected during the operation of a process or otherwise accumulated in the generation site shall be placed into containers that are in good condition, compatible with the contents and are leak proof."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part IX",
+      "section": "37",
+      "title": "Prohibition and restriction on transportation of chemical waste",
+      "content": "(1) A person shall— (a) not transport chemical waste without a permit issued by the Registrar; (b) fulfill transportation requirements before transporting chemical waste ; (c) deliver the chemical waste at the disposal facility; and (d) immediately inform the Registrar in case of any spillage, leakage or occurrence of other accidents during transportation. (2) Any person who contravenes the provisions of sub regulation (1) commits an offence."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part IX",
+      "section": "38",
+      "title": "Requirements for handling chemical waste",
+      "content": "An owner or operator of a chemical waste disposal facility shall adhere to section 43 of the Act and keep records and submit information in annual basis in the manner prescribed in the Thirteenth Schedule."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part IX",
+      "section": "39",
+      "title": "Requirements to operate chemical waste disposal facility",
+      "content": "(1) An owner or operator of a chemical waste disposal facility shall be registered by the Registrar. (2) The application for registration shall be made in the form prescribed in the Fourteenth Schedule. (3) Notwithstanding subregulation (1) , a person who operates a chemical waste disposal facility shall— (a) register his premises ; (b) register the disposal facility; (c) notify the Registrar by providing information on the nature and capacity of the waste disposal facility; (d) ensure that employees who handle chemical waste are trained before they assume their duties; (e) ensure that the employees are made aware on the inherent nature and risks of mismanagement of the chemical waste ; (f) set and adhere to code of practice and guidelines on the safe handling of chemical waste ; (g) institute contingency plans for prevention and management of the chemical waste incidences; (h) specify types of chemical waste to be handled, stored, treated and or disposed of; and (i) provide report of Environmental Impact Assessment (EIA) prior to establishment of the facility. (4) Any person who contravenes the provisions of this regulation commits an offence."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part IX",
+      "section": "40",
+      "title": "Requirements for decommissioning of waste disposal facility",
+      "content": "(1) Notwithstanding section 47(1) of the Act , a person who intends to decommission a chemical waste disposal facility shall— (a) restore the site as close as possible to its original state; (b) ensure that all remaining stock of chemical waste facility and equipment are disposed of soundly; and (c) provide report of environmental impact assessment at the closure of a facility and equipment. (2) Any person who contravenes the provisions of subregulation (1) commits an offence."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part IX",
+      "section": "41",
+      "title": "Closure of chemical waste disposal facility",
+      "content": "(1) Where there are reasonable grounds to believe that, the chemical waste facility is causing pollution, contamination or is likely to cause an infection or to harm the health of human beings, the Registrar shall issue closure notice in the form set out in Fifteenth Schedule. (2) Where a chemical waste facility has been closed, the owner or operator of the facility shall not operate it unless he has met all the required standards prescribed in the closure notice. (3) Any person who contravenes the provisions of this regulation commits an offence."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part IX",
+      "section": "42",
+      "title": "Management of chemical containers",
+      "content": "(1) Chemical containers that are either empty or contain some left over chemicals that may be hazardous shall be managed and regarded as chemical waste and disposed of as a hazardous chemical . (2) Subject to subregulation (1) , a chemical container shall not be sold or used for domestic purpose. (3) Any person who contravenes the provisions of this regulation commits an offence."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part IX",
+      "section": "43",
+      "title": "Requirements for labeling and marking of chemical waste container",
+      "content": "(1) A container used to collect a chemical waste shall be clearly marked with the words “ chemical waste ” followed by the name of a chemical waste . (2) An empty container used to collect a chemical waste shall contain the words “open date” listed on the container label and when full or no longer being filled, the container shall contain the words “ fill date ”."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part IX",
+      "section": "44",
+      "title": "Requirements for inspection of chemical waste disposal facility",
+      "content": "A chemical inspector may at any time enter a chemical waste disposal facility or chemical waste transportation facility for the purpose of conducting an inspection or carrying out any lawful order."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part IX",
+      "section": "45",
+      "title": "Requirements for testing of chemical waste disposal facility",
+      "content": "An operator of a chemical waste disposal facility shall— (a) comply with testing procedures as per the manufacturer's specifications and provide report to the Registrar annually; (b) retain and make available testing data and results for inspection; and (c) submit information as prescribed in the First Schedule. Part X – Provision of consultancy services in chemicals management"
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part X",
+      "section": "46",
+      "title": "Requirements for provision of consultancy services",
+      "content": "(1) A person who intends to provide any consultancy service in chemicals management shall— (a) apply for registration to the Registrar by filling the form set out in the Sixteenth Schedule and submit relevant documents as set out in the First Schedule, respectively; (b) have at least a diploma in science related courses and experience of not less than 5years, depending on the nature of consultancy service to be provided; and (c) pay registration fees prescribed in the Fourth Schedule. (2) The Registrar shall register the applicant upon being satisfied that the requirements for registration have been fully met. (3) The Registrar may, suspend or revoke registration of a consultant in chemicals management if he fails to meet the requirements of provisions of the Act . Part XI – Chemical accident reporting"
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part XI",
+      "section": "47",
+      "title": "Requirements for accident reporting",
+      "content": "Notwithstanding section 45 of the Act , where a chemical accident occurs, the person who is in possession or in-charge of that chemical shall— (a) immediately report to the Registrar and the owner of the chemical by phone or other means available; (b) prepare a written report containing the information in the form prescribed in the Seventeenth Schedule and submit it to the Registrar within seven days."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part XI",
+      "section": "48",
+      "title": "Requirement for submission of records",
+      "content": "A certificate holder shall keep records and submit a report on a chemical accident to the Registrar twice in each calendar year."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part XI",
+      "section": "49",
+      "title": "Requirement for chemical accident investigation",
+      "content": "A certificate holder shall investigate all chemical accidents and submit a report of his findings to the Registrar indicating the recommendations and corrective measures proposed to be taken."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part XI",
+      "section": "50",
+      "title": "Contravention of this part",
+      "content": "Any person who contravenes any provision under this Part commits an offence. Part XII – Offences and penalties"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part XII",
+      "section": "51",
+      "title": "Offences and penalty",
+      "content": "Any person who commits an offence under these Regulations shall, upon conviction be liable: (a) in the case of a natural person, to a fine of not less than fifty thousand shillings and not more than five million shillings or to imprisonment for a term of one year or to both; and (b); (b) in the case of a body corporate, to a fine of not less than five million shillings but not exceeding fifty million shillings."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part XII",
+      "section": "52",
+      "title": "Issuance of warning",
+      "content": "Notwithstanding the provision of regulations 50 and 51 , the Registrar may, where he deems necessary, issue a warning to an offender for contravention of any provision of these Regulations."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part XII",
+      "section": "53",
+      "title": "Compounding of offences",
+      "content": "(1) Pursuant to section 61A of the Act , the Registrar or any person authorized by him may compound offences in the manner prescribed in these Regulations. (2) The nature of offence and the sum of money to be paid for the compounded offence shall be as set out in the Eighteenth Schedule."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part XII",
+      "section": "54",
+      "title": "Notification of offence",
+      "content": "(1) The Authority shall, after identifying the offence committed contrary to a provision of the Act or these Regulations, notify the offender in the form prescribed in the Nineteenth Schedule on the— (a) offence committed; (b) penalty under the relevant provision of the Act or these Regulations; (c) amount to be compounded; (d) the date and manner in which such money shall be paid to the Authority ; and (e) any other information as the Authority may deem relevant. (2) Where an offender admits to have committed an offence, he shall, within fourteen days from the date of notification, fill and sign Part B of the Notification of Offence Form set out in the Nineteenth Schedule. (3) Where an offender denies commission of an offence alleged to have been committed, he shall, within fourteen days from the date of notification, fill and sign Part A of the Notification of Offence Form set out in the Nineteenth Schedule and submit it to the Authority . (4) An offender who fails or refuses to submit to the Authority a duly filled Notification of Offence Form within the time prescribed under this regulation shall be deemed to have denied commission of the offence."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part XII",
+      "section": "55",
+      "title": "Mode of payment and default",
+      "content": "(1) Where a person admits commission of an offence, the Registrar or person authorized by him shall issue an order for compounding and require the offender to pay the compounded amount within fourteen days and submit to the Authority evidence of payment. (2) Payment of a compounded amount shall be made through the Authority ’s bank account. (3) Upon submission of evidence of payment pursuant to sub regulation (1) , the Authority shall issue an official receipt in respect of payment received. (4) Where an offender fails to pay the compounded amount within the time specified under sub regulation (1) , the Authority shall charge an interest of five per centum of the compounded amount."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part XII",
+      "section": "56",
+      "title": "Failure to pay compounded amount",
+      "content": "Where the offender fails to pay the compounded amount and any interest charged within thirty days from the date of the compounding order, the Authority may enforce the order in the same manner as a decree of a Court for the payment of the amount stated in the order plus any interest thereof. Part XIII – General provisions"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "Part XIII",
+      "section": "57",
+      "title": "Maintenance of certificate",
+      "content": "(1) A person who holds a certificate issued by the Registrar shall maintain the certificate by payment of the fees prescribed in the Fourth Schedule. (2) The fees referred to in sub regulation (1) shall be paid before the 30 th of June of each financial year."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "Part XIII",
+      "section": "58",
+      "title": "Requirements for contingency plan",
+      "content": "A contingency plan to be approved under these Regulations shall contain information prescribed in the Twentieth Schedule."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "Part XIII",
+      "section": "59",
+      "title": "Requirements for labels",
+      "content": "(1) An importer, exporter, producer, distributor, seller, user or warehouse operator shall affix a label on the chemical to be imported, exported, transported, produced, distributed, sold, used, stored or warehoused in the form and standard prescribed in the Twenty First Schedule. (2) Any person who imports, exports, produces, distributes, sells, uses, stores or warehouses unlabeled chemical or chemical labelled in a language other than Kiswahili or English commits an offence (3) Without prejudice to subregulation (2) , any person who imports, exports, produces, distributes, sells, uses, stores or warehouses unlabelled chemical or chemical labelled in a language other than Kiswahili or English shall require laboratory analysis report from the Authority. (4) Notwithstanding subregulation (3) , any imported unlabelled chemical consignment or a chemical consignment labelled in a language other than Kiswahili or English shall be subject to be returned to the country of origin in case— (a) the laboratory analytical report indicates that the imported chemical is not the chemical declared or it is a waste or noxious material; or (b) the chemical consignment is unknown. (5) Without prejudice to subregulation (4)(a) , a chemical other than chemical waste or noxious material may be confiscated by the Government. (6) The costs for laboratory analysis, returning the chemical consignment to the country of origin or disposal of a chemical shall be incurred by the owner of the consignment or his authorised agent."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "Part XIII",
+      "section": "60",
+      "title": "Safety policy",
+      "content": "A transporter, distributor or producer shall have a safety policy regarding the chemicals being handled."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "Part XIII",
+      "section": "61",
+      "title": "Application for renewal of registration",
+      "content": "(1) A person who intends to renew registration shall submit an application to the Registrar three months before the expiry of his registration. (2) Where the application for renewal is made in time, the Registrar shall process the application before the expiry of the initial registration."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "Part XIII",
+      "section": "62",
+      "title": "Revocation",
+      "content": "The Industrial and Consumer Chemicals (Management and Control) Regulations, 2015 are hereby revoked. [G.N. No. 25 of 2015] First Schedule (Made under regulations 5(2), 9(3), 19(1)(e), 24(2), 27(2) and 45(c) Documents required for registrations 1. Importer/exporter/user/distributor/ (tick as appropriate) (a) Application letter should include type of business category requested. (b) Filled application form for registration of— (i) Certificate holder; (ii) Premise and branches if any; (iii) Chemical. (c) Copy of the extract of the Material Safety Data Sheet which shows the type of chemical and ingredient; (d) Scanned original Business License; (e) Scanned original Certificate of Incorporation or Extract certificate; (f) GCLA pay in receipts; (g) Scanned original Certificate of Tax Identification Number (TIN); (h) Scanned original academic qualification of the person in-charge of chemicals management. 2. Requirements of specific group 2(1) Vat leaching and small scale gold mining (a) Application letter should include type of business category requested. (b) Filled application form for registration of— (i) certificate holder; (ii) premise and branches if any; (iii) chemical; (c) copy of the extract of the Material Safety Data Sheet which shows the type of chemical and ingredient; (d) scanned original processing license/Primary Mining License/Introduction letter from Local authority; (e) GCLA pay in receipts; (f) scanned original Certificate of Tax Identification Number (TIN); (g) scanned original academic qualification related to chemicals/GCLA training certificate of the person in-charge of chemicals management; 2(2) Small scale entrepreneurs (a) Application letter should include type of business category requested; (b) Filled application form for registration of— (i) certificate holder; (ii) premise and branches if any; (iii) chemical. (c) scanned original Introduction letter from Local Government Authority or SIDO or VETA; (d) scanned original Identification Card (National ID or Driving license or Voter ID). (e) GCLA pay in receipts; (f) scanned original Certificate of Tax Identification Number (TIN) or Special ID from the Local Government Authority; (g) scanned original academic qualification related to chemicals or Special Training Certificate of chemicals management issued by the Authority or SIDO or VETA to the person in-charge of chemicals management. 2(3) Chemicals retail shop (a) Application letter should include type of business category requested. (b) Filled application form for registration of: (i) certificate holder; (ii) premise and branches if any; (iii) chemical; (c) scanned original Introduction letter from Local Government Authority; (d) scanned original Identification Card (National ID or Driving license or Voter ID); (e) GCLA pay in receipts; (f) scanned original Certificate of Tax Identification Number (TIN) or Special ID from the Local Government Authority; (g) scanned original academic qualification related to chemicals or Special Training Certificate of chemicals management issued by the Authority, SIDO, VETA to the person in-charge of chemicals management (save for consumer Chemicals Retail Shop). 3. Producer/warehousing (a) Application letter should include type of business category requested; (b) Filled application form for registration of— (i) certificate holder; (ii) premise and branches if any; (iii) chemical; (c) copy of the extract of the Material Safety Data Sheet which shows the type of chemical and ingredient; (d) scanned original Certificate of Incorporation or Extract certificate; (e) GCLA pay in receipts; (f) scanned original Certificate of Tax Identification Number (TIN); (g) scanned original academic qualification of the person in-charge of chemicals management; (h) scanned original Environmental Impact Assessment (EIA)/Environmental Audit certificate. 4. Transporter (a) Application letter stating the mode (road, rail, water, air or pipeline) of transport; (b) Contingency Plan; (c) Filled application form for registration of— (i) certificate holder; (ii) office location; (d) scanned original Certificate of Incorporation or Extract certificate; (e) GCLA pay in receipts; (f) scanned original Certificate of Tax Identification Number (TIN); (g) scanned original GCLA certificates for driver’s training in chemicals handling; (h) Specimen for pictogram or warning sign for highly hazardous chemicals 5. Waste disposal facility operator (a) Application letter including category or type of waste chemicals (hazardous/non-hazardous); (b) Company Profile— (i) type and capacity of facility; (ii) mode of disposal and operations; (iii) number of competent staff with relevant qualifications; (iv) land size and right of occupancy for the intended purpose. (c) contingency Plan; (d) Filled application form for registration of— (i) certificate holder; (ii) premise and branches if any; (e) Scanned original Certificate of Incorporation or Extract certificate; (f) GCLA pay in receipts; (g) Scanned original Certificate of Tax Identification Number (TIN); (h) Scanned original academic qualification of the person in-charge of chemicals management; (i) Scanned original Environmental Impact Assessment/Environmental Audit Certificate; 6. Provider of consultancy services in chemicals management (a) Application letter; (b) Filled application form for registration of certificate holder; (c) A Business Profile, including— (i) type and details of consultancy service to be conducted; (ii) basic requirements of such service; (iii) experience of the service to be provided; (iv) scanned original academic qualifications; (d) Scanned original Certificate of Incorporation or Extract certificate; (e) GCLA pay in receipts; (f) Scanned original Certificate of Tax Identification Number (TIN). Second Schedule (Made under regulations 5(3), 9(4), 19(2), 24(3) and 27(3)) Threshold for regislation Registration of companies in respect of a chemical shall be categorized as follows: S/N Nature of business Categories Volume/quantity of chemical handled per year Importer, Distributor, Exporter, User, Producer or Transporter. Large Scale Above 500 MT or above 100,000Litres Medium Scale Above 500 MT or above 100,000Litres Small Scale Below 50 MT or Below 10,000Litres Where the certificate holder applies for registration of chemicals both in solid and fluid, for the purpose of this Schedule 1 kilogram of a chemical shall be equivalent to 1litre of a chemical. Third Schedule (Made under regulation 5(4)) Application form for chemical import or chemical export permit [Please note: The form has not been reproduced. Please refer to the publication document.] Fourth Schedule (Made under regulations 5(4), 12(5), 14(1), 46(1)(b) and 57(1)) Fees 1.0 Regislation S/N Items Fees 1 Chemical registration and renewal TZS 40,000/= per chemical per registration for large scale chemical stakeholders with capital investment above 5 Million. TZS 10,000 per chemical per registration for small scale entrepreneurs with capital investment below 5 Million. 2 Import permit 0.5% of FOB or $20 whichever is greater. 3 Export permit 0.25% of FOB or $10 whichever is greater. 4 Service charge for express permit $100 5 Certificate holder TZS 200,000 large scale chemical stakeholders with capital investment above 5 Million TZS 50,000 for small scale entrepreneurs with capital investment below 5 Million. 6 Premises TZS 200,000 large scale chemical stakeholders with capital investment above 5 Million TZS 50,000 for small scale entrepreneurs with capital investment below 5 Million. 2.0 Maintenance of registation S/N Item Fees 1. Large scale mining Company $1000 Annually 2 Large scale Distributor, User or Producer $500 Annually 3. Medium Scale Distributor, User or Producer $250 Annually 4 Transporter of Hazardous chemicals $1000 Annually 5 Transporter of general chemicals $500 Annually 6 Consultancy Services on Sound Management of Chemicals $250 Annually 7 Chemical waste disposal facility $1000 Annually 3.0 Consultancy S/N Item Fees 1 Sorting of obsolete chemicals TZS 300,000/= per day per person 2 Identification and approval of disposal method TZS 200,000/= per chemical 3 Supervising of loading, transportation, unloading and disposal of obsolete chemicals TZS 300,000/= per day per person 4 Training of chemical stakeholders with capital investment above 5 Million. TZS 150,000 per day per person 5 Training of chemical small scale entrepreneurs with capital investment below 5 Million. TZS 20,000 per day per person 6 Interpretation of Material Safety Data Sheet (MSDS) TZS 5,000 per one MSDS for small scale entrepreneurs with capitalinvestment below 5 Million. TZS 50,000 per one MSDS large scale chemical stakeholders with capital investment above 5 Million 4.0 Inspection and sampling S/N Item Fees 1. Medium scale Distributor, User or Producer TZS 300,000 per inspection 2. Large scale Distributor, User or Producer TZS 500,000 per inspection 3. Small scale entrepreneurs with capital investment below 5 Million. No inspection fees required 4. Transportation Routes assessment inspection TZS 150,000 per person per day 5. Sampling $ 20 per sample. $100 per day per person for sampling done outside ports of entry. 6. Sample analysis Cost of analysis shall be as per price list. 5.0 Transportation S/N Quantities of chemicals to be transported in MT Amount in USD 1 0.1 to 10 10 2 Above 10 to 200 1 per MT 3 Above 200 to 1000 400 4 Above 1000 to 5000 600 5 Above 5000 to 10,000 800 6 Above 10,000 to 20,000 1,200 7 Above 20,000 to 40,000 1,500 8 Above 40,000 2,000 9 Escort of Chemical convoy TZS 150,000/= per person per day Fifth Schedule (Made under regulation 5(7)) Permit to import chemical [Please note: The form has not been reproduced. Please refer to the publication document.] Sixth Schedule (Made under regulation 5(7))and 10(2) Permit to export chemical [Please note: The form has not been reproduced. Please refer to the publication document.] Seventh Schedule (Made under regulations 7(1)(e), 21(c), 26(b) and 27(4)) Storage requirement for hazardous chemicals The following are minimum requirements for storage of hazardous chemicals. 1. Site selection (a) Chemicals storage areas should be located away from: (i) densely populated areas; (ii) water sources; (iii) areas liable to flooding; and external sources of hazards; and (b) The location should provide easy access for transport and emergency services. 2. Store layout (a) be designed to allow possible separation of incompatible materials; (b) provide reasonable working conditions; and (c) allow clear access. 3. Security Be adequately protected from trespassers by secure fencing, gates, and other security measures. 4. Store access (a) the number of access gates should be kept to a minimum consistent with efficient operation with adequate provision for emergency exits; and (b) the store should be compartmentalized to allow the necessary segregation of incompatible hazardous chemicals. 5. Wall External walls shall be of solid brick or concrete blocks. 6. Floors shall be: (a) impermeable to liquids; (b) smooth, but not slippery; (c) free from cracks; and (d) designed to contain leakage. 7. Emergency exits (a) not less than two exits other than the main door; (b) should be free from obstruction; and (c) should be easy to open in the dark. 8. Drainage system (a) should be provided to take rainwater away from roof and outside areas; and (b) should prevent uncontrolled release of contaminated and spilled or released chemicals. 9. Roof (a) should allow fumes and heat to be vented in the event of fire; and (b) should be made of non-combustible material. 10. Ventilation The warehouse should be well ventilated by natural or mechanical means. 11. Lighting and electrical equipment (a) no need for artificial lighting where operations are carried out during daytime; (b) lighting can be improved by inserting transparent panels in the roof; and (c) where electric equipment is required including wiring, must be in"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accidental release",
+      "definition": "an unplanned or accidental discharge, emission, explosion, out gassing or other escape of chemicals, or any component or compound evolving from a chemical into the ambient air, water bodies, soil and environment in general— “ Act ” means Industrial and Consumer Chemicals (Management and Control) Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authorised agent",
+      "definition": "a person authorised to act on behalf of a chemical registrant “ Authority ” means Government Chemist Laboratory Authority",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "ascribed to it under the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "chemical",
+      "definition": "ascribed to it under the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "chemical consignment",
+      "definition": "a quantity of chemical imported, exported or transported per issued permit",
+      "source_provision": "s2"
+    },
+    {
+      "term": "chemical waste",
+      "definition": "ascribed to it under the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clean-up",
+      "definition": "the act of clearance, decontamination or remediation of contaminated sites or environment",
+      "source_provision": "s2"
+    },
+    {
+      "term": "contingency plan",
+      "definition": "the procedure of dealing with chemical accidents or spillages",
+      "source_provision": "s2"
+    },
+    {
+      "term": "convoy",
+      "definition": "a maximum of ten trucks transporting a chemical at one given time",
+      "source_provision": "s2"
+    },
+    {
+      "term": "corrosive chemical",
+      "definition": "a chemical that has the ability to cause severe damage to a living tissue by chemical action or a chemical that reacts with the surface of a material causing it to deteriorate or wear away",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dealer",
+      "definition": "ascribed to it under the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "disposal",
+      "definition": "the immediate treatment by using physical, chemical , biological, thermal or other methods to alter the physical, chemical or biological characteristics or composition of a chemical",
+      "source_provision": "s2"
+    },
+    {
+      "term": "emergency",
+      "definition": "an immediate danger to public safety arising directly or indirectly from the handling of a chemical",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fill date",
+      "definition": "the date on which a container is filled and can no longer be used to accumulate waste",
+      "source_provision": "s2"
+    },
+    {
+      "term": "final disposal",
+      "definition": "disposal of a chemical waste in a sanitary landfill, sealed landfill or stabilized landfill, incineration or any means authorised by the Registrar",
+      "source_provision": "s2"
+    },
+    {
+      "term": "hazardous chemical",
+      "definition": "any chemical which has the likelihood of causing adverse effect or injury to human health or to the environment and which has been so designated by the Board",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inspector",
+      "definition": "a person appointed by the Minister in the Gazette to conduct inspection",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for matters relating to chemical management and control",
+      "source_provision": "s2"
+    },
+    {
+      "term": "package",
+      "definition": "as substance or material used for containment of a chemical",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "any land, shop, store, warehouse or place where any chemical is produced, sold, stored or used",
+      "source_provision": "s2"
+    },
+    {
+      "term": "small scale entrepreneur",
+      "definition": "a person dealing in chemicals whose capital investment does not exceed five million shillings",
+      "source_provision": "s2"
+    },
+    {
+      "term": "spill kit",
+      "definition": "any sorbent materials capable of containing chemical spills in case of accidents",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transit chemical",
+      "definition": "a chemical imported through Tanzania to another country outside Tanzania. Part II – Administration",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "tz-act-1962-14",
+  "type": "statute",
+  "title": "Publications (Compulsory Deposit) Act",
+  "title_en": "Publications (Compulsory Deposit) Act",
+  "short_name": "Publications (Compulsory De...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/1962/14/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the Publications (Compulsory Deposit) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context requires otherwise— \" Minister \" means the Minister for the time being responsible for education; \" printed \" as applied to books, means produced by printing, lithography or any other like process, and \"printer\" shall be construed accordingly; \" publication \" includes every part or division of a book, pamphlet, newspaper, periodical, magazine, review, gazette, sheet of letterpress, sheet of music, map, plan, chart or table separately printed , but does not include any second or subsequent edition of a book, unless such edition contains additions or alterations either in the letterpress or in the maps, prints or other illustrative materials belonging to it, or any book which will not be made available to the public at large."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Delivery of copies of publications printed in Mainland Tanzania",
+      "content": "(1) The printer of every publication printed in Mainland Tanzania, within one month after the day on which any such book is first delivered out of the press, and notwithstanding any agreement, if the publication is published, between the printer and its publisher, deliver at his own expense a copy each of the publication to any person or persons whom and at any place or places which the Minister may, by order published in the Gazette , direct. (2) Every copy delivered under the provisions of this section shall be a copy of the whole publication , with all maps and illustrations belonging to it, finished and coloured in the same manner as the best copies of the same are produced, and shall be bound, sewed or stitched together, and on the best paper on which the publication is printed . (3) The publisher or other person employing the printer shall, within a reasonable time before the expiration of the said month, supply the printer with all maps, prints and other illustrative material finished and coloured as aforesaid which are necessary to enable him to comply with the requirements of this section. (4) The person to whom any copies of publications are delivered pursuant to this section shall give or cause to be given to the printer a receipt in writing for the same."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Penalties for non-delivery of books by printer or for non-delivery of maps, etc., by publisher",
+      "content": "(1) Any printer who fails to comply with the provisions of subsection (1) or (2) of section 3 commits an offence and upon conviction is liable to a fine not exceeding one hundred shillings and the court before which that printer is convicted may in addition order him to deliver to the person or persons mentioned in any order made by the Minister under subsection (1) of section 3 , a copy of the publication in respect of which the conviction is recorded. (2) Any publisher or other person employing any printer who neglects to supply the printer, in accordance with subsection (3) of section 3 , with the maps, prints or other illustrative materials which may be necessary to enable him to comply with the requirements of this Act commits an offence and upon conviction is liable to a fine not exceeding one hundred shillings."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Exemption and rules",
+      "content": "The Minister may— (a) by order exempt from the provisions of section 3 any publication or any class or descriptions of publication specified in the order either absolutely or subject to any conditions which may be specified in the order; and (b) make rules providing for the better carrying out of the provisions of this Act. History of this document 31 December 2023 Chapter 294 Revised Laws 2023 Consolidation 31 July 2002 this version Chapter 294 Revised Laws 2002 Consolidation 01 April 1963 Commenced Related documents More documents like this one Subsidiary legislation Title Publications (Compulsory Deposit) Order, 1964 Government Notice 61 of 1964 [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Minister",
+      "definition": "the Minister for the time being responsible for education",
+      "source_provision": "s2"
+    },
+    {
+      "term": "publication",
+      "definition": "every part or division of a book, pamphlet, newspaper, periodical, magazine, review, gazette, sheet of letterpress, sheet of music, map, plan, chart or table separately printed , but does not include any second or subsequent edition of a book, unless such edition contains additions or alterations either in the letterpress or in the maps, prints or other illustrative materials belonging to it, or any book which will not be made available to the public at large.",
+      "source_provision": "s2"
+    }
+  ]
+}

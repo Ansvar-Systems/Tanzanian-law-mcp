@@ -1,0 +1,71 @@
+{
+  "id": "tz-act-gn-2002-285",
+  "type": "statute",
+  "title": "Education (Names of Teachers Suspended from the Register) Regulations, 2002",
+  "title_en": "Education (Names of Teachers Suspended from the Register) Regulations, 2002",
+  "short_name": "Education (Names of Teacher...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/gn/2002/285/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Citation",
+      "content": "These regulations may be cited as the Education (Names of Teachers Suspended from the Register) Regulations."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "In these Regulations, unless the context otherwise requires— \" the Act \" means the Education Act 1 ; 1 Cap. 353 \" Commissioner \" shall have the same meaning as ascribed to it under the Act ; \" register \" means any of the registers maintained in accordance with the provisions of section 50 of the Act ; \" service \" means the teachers service; \" service post \" shall have the same meaning as ascribed to it under the Teachers' Service Commission Regulations; \" suspension \" means temporary or definite removal of the teacher's name from the Register of Teachers."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Grounds for suspension",
+      "content": "The Commissioner may suspend a teacher from the Register of Teachers— (a) on the teacher being suspended from the service post in accordance to regulation 31 of the Teachers Service Commission Regulations, 1990; (b) on the teacher's dismissal from the service post without termination of membership of the service in accordance to regulation 27 of the Teachers Service Commission Regulations; (c) on the teacher's voluntary resignation from the service post before he is confirmed in his appointment or while the teacher is bound under any agreement; and (d) if due to some mental or physical incapacity, the Medical Board has certified in writing that the teacher is not fit to continue with or pursue teaching duties in accordance to Regulation 47(3) of the Teachers' Service Commission Regulations."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Prohibition on teaching",
+      "content": "Any teacher whose name has been suspended from the Register of Teachers shall be deemed to be an unauthorised person to teach any secular subject in any school as long as the suspension order is in force."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Offences",
+      "content": "Any person who contravenes the provision of these Regulations commits an offence and the provision of section 59 of the Education Act 2 shall apply mutatis mutandis to such a person as if references to subparagraph (g) of that section were references to the person permitting a teacher whose name has been suspended from the Register of Teachers to teach any secular subject in any school. 2 Cap. 353"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Revocation",
+      "content": "[Revokes the National Education (Suspension of Names of Teachers from the Register of Teachers) Regulations 3 .] 3 G.N. No. 424 of 2000 History of this document 31 July 2002 this version Consolidation 28 June 2002 Published in Gazette of the United Republic of Tanzania 01 January 2002 Commenced Related documents More documents like this one [] [] [] [] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Act",
+      "definition": "the Education Act 1",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "any of the registers maintained in accordance with the provisions of section 50 of the Act",
+      "source_provision": "s2"
+    },
+    {
+      "term": "service",
+      "definition": "the teachers service",
+      "source_provision": "s2"
+    },
+    {
+      "term": "suspension",
+      "definition": "temporary or definite removal of the teacher's name from the Register of Teachers.",
+      "source_provision": "s2"
+    }
+  ]
+}

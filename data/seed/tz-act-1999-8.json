@@ -1,0 +1,542 @@
+{
+  "id": "tz-act-1999-8",
+  "type": "statute",
+  "title": "National Health Insurance Fund Act",
+  "title_en": "National Health Insurance Fund Act",
+  "short_name": "National Health Insurance F...",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://tanzlii.org/en/akn/tz/act/1999/8/eng@2002-07-31",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "Part I",
+      "section": "1",
+      "title": "Short title",
+      "content": "This Act may be cited as the National Health Insurance Fund Act."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "Part I",
+      "section": "2",
+      "title": "Application",
+      "content": "(1) This Act shall apply to all civil servants other than those employed in the local government, defence, police, prison and those covered by the National Social Security Fund . (2) The Board may from time to time by Notice published in the Gazette determine any other category of members to the Fund ."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "Part I",
+      "section": "3",
+      "title": "Interpretation",
+      "content": "In this Act, unless the context requires otherwise— \" accreditation \" means a process whereby the qualification and capabilities of health care providers are verified for the purpose of conferring the privilege of participation in the scheme ; \" beneficiary \" means a person entitled to health care benefits under this Act; \" benefit package \" means the services offered to a beneficiary ; \" Board \" means the Board of Directors of the Fund ; \" capitation \" means a payment mechanism where a fixed rate is negotiated by the Fund for a specified period with a health care provider for delivery of health services due to a beneficiary ; \" child \" includes a step child, a child born out of wedlock and any child to whom the member stands in loco parentis, who has not attained the age of eighteen years; \" civil servant \" means an employee of the Government, excluding local government, soldiers, police, prison officers and those civil servants covered under the National Social Security Fund Act 1 ; 1 Cap. 50 \" contribution \" means the amount from salary or wages paid to the Fund by or on behalf of a member ; \" dependant \" means a member of a family of a member who is wholly or in part dependent upon the member ’s earning; \" diagnostic procedure \" means a procedure of analysis and examination for the identification of a disease or health condition; \" employee \" means a person who performs services for the Government as a civil servant ; \" employer \" means the Government employing the services of an employee ; \" enrolment \" means the process of listing individuals who are members or dependants covered by the scheme ; \" Essential Drug List \" means the list of drugs for Tanzania which is prepared by the Ministry ; \" fee for service \" means a fee charged by a health care provider to the Fund for past services offered to a beneficiary ; \" Fund \" means the National Health Insurance Fund; \" health care institution \" includes a dispensary, health centre, hospital and any other medical clinic; \" health care providers \" means a health care institution ; \" member \" means a person registered with the Fund ; \" Minister \" means the Minister responsible for health matters; \" Ministry \" means the Ministry of Health; \" peer review \" means a review of the treatment of a patient or the performance of a health care provider by a professional colleague; \" Quality assurance \" means review and assurance of quality of health care service, quality assessment and corrective action to a deficiency; \" retiree \" means a member who has ceased from being a civil servant ; \" scheme \" means the National Health Insurance Scheme; \" Tribunal \" means the National Health Insurance Fund Tribunal; \" utilisation review \" means the evaluation of patient utilisation or of the appropriateness of health care services. Part II – National Health Insurance Fund (ss. 4-7)"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "Part II",
+      "section": "4",
+      "title": "Establishment of the Fund and its objectives",
+      "content": "(1) There is hereby established an autonomous institution to be known as the National Health Insurance Fund . (2) The Fund shall be a body corporate with perpetual succession and a common seal and, shall in its own name be capable of— (a) suing and being sued; (b) acquiring and holding movable and immovable property, to dispose of property and to enter into any contract or other transaction which may be performed by a body corporate lawfully. (3) The objectives of the Fund shall be— (a) to administer the Scheme; and (b) to formulate and promulgate policies for sound administration of the Scheme."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "Part II",
+      "section": "5",
+      "title": "Management and administration",
+      "content": "The management and administration of the Fund shall vest in the Board ."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "Part II",
+      "section": "6",
+      "title": "Director-General",
+      "content": "(1) There shall be a Director-General of the Fund who shall be appointed by the Board and shall be responsible for the general conduct of the operations and management functions of the Fund and for other duties assigned to him by the Board from time to time. (2) A person shall not be qualified for appointment to be the Director-General unless he— (a) has the necessary training and experience in the field of health insurance, health financing or corporate management; (b) is not an interested party in any health care institution . (3) The Director-General shall be the Secretary to the Board . (4) The post of the Director-General shall be advertised and confirmed by the Board for appointment after consultation with the Minister ."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "Part II",
+      "section": "7",
+      "title": "Directors",
+      "content": "There shall be other Directors of the Fund whose posts shall be advertised and confirmed by the Board for appointment. Part III – Registration and contributions (ss. 8-10)"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "Part III",
+      "section": "8",
+      "title": "Registration with the Fund",
+      "content": "All contributing employers and employees shall be registered with the Fund ."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "Part III",
+      "section": "9",
+      "title": "Rate of contribution",
+      "content": "(1) Each employer shall make a monthly contribution to the Fund of an equivalency of three per centum of his employee ’s salary. (2) Treasury shall deposit the monthly contribution of the employee together with another three per centum contribution from the employer to the Fund ."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "Part III",
+      "section": "10",
+      "title": "Board may vary rate of contribution",
+      "content": "The Board may, under an order published in the Gazette , vary the rate of the contributions specified under section 9 as it may deem proper. Part IV – Health care benefits (ss. 11-18)"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "Part IV",
+      "section": "11",
+      "title": "Coverage",
+      "content": "(1) The Scheme shall cover— (a) all civil servants; (b) their spouses; (c) their children or dependants not exceeding four in number. (2) In the event of both spouses being civil servants, the Board may set criteria for enrolment of more than four children or dependants as beneficiaries under this Act."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "Part IV",
+      "section": "12",
+      "title": "Entitlement to benefit",
+      "content": "(1) A member whose contributions have been paid for three months after the coming into operation of the Fund shall be entitled to the benefit package under the Fund . (2) Any person who has been employed as a civil servant after coming into operation of the Fund shall be entitled to the benefit package after payment of three months' contribution . (3) A retiree who was a beneficiary of the Fund shall be entitled to the benefit package for a period of three months after the retirement, after which the benefit package and membership shall cease: Provided that the period of receiving the benefit package after retirement may be reviewed by the Board ."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "Part IV",
+      "section": "13",
+      "title": "Portability of benefit",
+      "content": "The Fund shall develop and enforce a mechanism and procedure that shall assure benefits are portable across the areas of work within Mainland Tanzania."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "Part IV",
+      "section": "14",
+      "title": "Membership",
+      "content": "(1) Every civil servant shall be a member of the Fund . (2) The Fund shall enrol the beneficiaries under this Act by identifying them and issuing to them the appropriate documents specifying the entitlement to the benefit."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "Part IV",
+      "section": "15",
+      "title": "Identity card",
+      "content": "(1) The Board shall issue a health insurance identity card to any beneficiary for identification, verification and utilisation recording purposes. (2) The issuance of the identity card shall be accompanied by an explanation to the enrolled member of his rights, privileges and obligations and a list of health care providers accredited by the Board shall be likewise attached thereto."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "Part IV",
+      "section": "16",
+      "title": "Benefit package",
+      "content": "(1) Subject to the provisions of this Act personal health services benefits granted to a beneficiary shall be— (a) the inpatient's hospital care fee consisting of a fixed sum determined by the Board ; (b) the outpatient care consisting of drugs and medicine in generic prescription in accordance with the Essential Drug List unless an explicit exception is granted by the Fund . (2) If the actual fees for inpatient hospital care exceed the fixed sum determined by the Board under paragraph (a) of subsection (1) , the difference of that amount shall be paid by the beneficiary. (3) All costs not included in associated costs other than the costs referred to in paragraph (b) of subsection (1) shall be paid by the beneficiary."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "Part IV",
+      "section": "17",
+      "title": "Excluded health care services",
+      "content": "The benefits granted under the Scheme shall not cover— (a) health care services and drugs not prescribed in an accredited health facility; (b) public health care services; (c) illness or injuries arising from attempted suicide or self destruction while the person is insane or is of unsound mind; (d) purchase of eye lenses, wheel chairs or prosthetic appliances; (e) illegal abortions; (f) abuse in the use of drugs or alcohol and any other illness that may arise from such abuse; (g) employment injuries or illness arising from occupational hazards or accidents which are compensated under other schemes; (h) circumcision; (i) cosmetic surgery."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "Part IV",
+      "section": "18",
+      "title": "Disapplication",
+      "content": "The provisions of section 100 of the Employment Act 2 , which relates to provision of medicine and medical treatment, and section 31 of the Workers' Compensation Act 3 , which relates to medical expenses, shall not apply to employers registered with the Fund . 2 Cap. 366 3 Cap. 263 Part V – Health care providers (ss. 19-28)"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "Part V",
+      "section": "19",
+      "title": "Accreditation of health facility",
+      "content": "The authority to grant accreditation to a health care provider is vested into the Board ."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "Part V",
+      "section": "20",
+      "title": "Requirements for accreditation",
+      "content": "The requirements for accreditation of a health facility shall be— (a) the availability of human resources, equipment and physical structure that is in conformity with the standard of the relevant facility as determined by the Ministry ; (b) the acceptance of a formal programme of quality assurance and utilisation review ; (c) the acceptance of the payment mechanism specified by the Board ; (d) adoption of referral protocols and health resources sharing arrangements; (e) the recognition of rights of patients; (f) the acceptance of information system requirements and regular transfer of information."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "Part V",
+      "section": "21",
+      "title": "Accreditation eligibility",
+      "content": "(1) A health facility shall be eligible for accreditation if it is in operation for at least three years. (2) The Board may vary the condition specified under subsection (1) in relation to any specific health facility taking into account the circumstances of the geographical area."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "Part V",
+      "section": "22",
+      "title": "Categorisation of health facilities",
+      "content": "Any health facility shall be categorised into different levels of accredited health facilities regardless of whether it is private or public."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "Part V",
+      "section": "23",
+      "title": "Choice of health care provider",
+      "content": "A beneficiary requiring treatment or confinement shall be free to choose the accredited health care provider subject to the area of jurisdiction and in the case of confinement, the ceiling of such health care provider."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "Part V",
+      "section": "24",
+      "title": "Accreditation of pharmacies",
+      "content": "In case of non-availability of drugs from a health care provider specified under the Essential Drugs List, the Board may devise a mechanism for accreditation of pharmacies."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "Part V",
+      "section": "25",
+      "title": "Payment mechanism",
+      "content": "(1) The payment mechanism to a health care provider at the beginning shall be a fee for service which may be changed to capitation or other form of payment mechanism as the Board may determine from time to time. (2) Any money paid to a public health facility shall be deposited into the Health Services Fund Account 4 established under section 11 of the Public Finance Act 5 . 4 Cap. 21 5 Cap. 348 (3) For the purposes of this section \"public health facility\" means any government health facility and any other health facility in which the government and the health care providers have entered into service agreement."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "Part V",
+      "section": "26",
+      "title": "Quality assurance",
+      "content": "A health care provider shall take part in programmes of quality assurance utilisation review and technology assessment to ensure that— (a) the quality of health care services is delivered in accordance with the standards specified by the Ministry from time to time; (b) acquisition and use of scarce and expensive medical technology and equipment are in consonance with the actual needs and standards of the medical practice and that the performance of medical procedure and administration of drugs are appropriate and consistent with accepted standards of medical practice and ethics and are respectful of the Tanzania Standard Guidelines for Treatment."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "Part V",
+      "section": "27",
+      "title": "Monitoring mechanism",
+      "content": "(1) The Fund shall enter into a contract with each health care provider to ensure that there are monitoring mechanisms to safeguard against— (a) over-utilisation of health care services; (b) under-utilisation of health care services; (c) unnecessary diagnostic and therapeutic procedures and intervention; (d) irrational medication and prescription; (e) inappropriate referral practices. (2) The Fund may deny or reduce the payment of claims which are false or incorrect or when the claimant fails without justifiable cause to comply with the rules or regulations pertaining to payment of claims made under this Act."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "Part V",
+      "section": "28",
+      "title": "Payment of claims",
+      "content": "Any claim of money by a health care provider shall be paid within sixty days of presentation to the Fund for such claim. Part VI – The National Health Insurance Board (ss. 29-31)"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "Part VI",
+      "section": "29",
+      "title": "Establishment of the Board",
+      "content": "(1) There is established a Board to be known as the National Health Insurance Board . (2) The provisions of the Schedule to this Act shall have effect as to the composition of the Board , the appointment and tenure of its members, the proceedings of the Board and such other matters in relation to the Board . (3) The Minister may by order in the Gazette , amend, vary or replace all or any of the provisions of the Schedule to this Act."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "Part VI",
+      "section": "30",
+      "title": "Functions and duties of the Board",
+      "content": "The functions and duties of the Board shall be— (a) to set up requisite procedures for the registration and enrolment of beneficiaries under this Act; (b) to devise control measures to prevent abuses of services; (c) to submit to the Ministry an annual report which shall contain the status of the Fund , its total disbursements, reserves, average costing to beneficiaries and any other data pertinent to the implementation of the scheme ; (d) to organise its office, appoint personnel or fix their salary and other remuneration as may be deemed necessary and upon recommendation by the Director-General; (e) to supervise the provision of health benefits and to inspect medical and financial records pertaining to the Fund of the health care providers and beneficiaries; (f) to determine the requirements and issue guidelines for the accreditation of health care providers for the scheme in accordance with this Act; (g) to ensure the collection or recovery of all indebtedness and liabilities, including unpaid contributions in favour of the Fund ; (h) to enter into, make, perform and carry out contracts of every kind and description with any person, firm or association or corporation, domestic or foreign for the better carrying out of this Act; (i) to enter and inspect accredited health facilities subject to rules and regulations promulgated by the Fund ; (j) to formulate and implement guidelines on contributions and benefits, portability of benefits, cost containment and quality assurance, and health care provider arrangements, payment methods and referral systems; (k) to receive and manage goods, donations, and other forms of assistance; (l) to collect, deposit, invest, administer, and disburse the funds of the Scheme in accordance with the provision of the Act; and (m) to perform any other acts which are necessary for attainment of the objectives of the Fund and for proper enforcement of the provisions of this Act."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "Part VI",
+      "section": "31",
+      "title": "Powers of Board",
+      "content": "In the performance of its functions and duties the Board shall have power to— (a) negotiate and enter into contracts with health care institutions, professionals, and other persons, juridical or natural, regarding the pricing, payment mechanisms, design and implementation of administrative and operating systems and procedures for financing and delivery of health services; (b) acquire property, movable and immovable, which may be necessary or expedient for the attainment of the purposes of this Act; (c) set standards, rules and regulations necessary to ensure quality of care, appropriate utilisation of services, viability of the fund, satisfaction of members and overall accomplishment of the objectives of the Scheme; (d) establish branch offices when necessary; (e) authorise actuarial studies for the purpose of determining and fixing, the necessary contributions and the extent and scope of benefits of the beneficiaries of the scheme as its resources may permit in order to ensure adequate financing and disbursement of funds to participants of the scheme ; (f) hire and fire staff of the Fund ; (g) delegate some of its powers to any committee of the Board or to the Director-General or any employee of the Board on such conditions as may be specified by the Board ; (h) establish any committee of the Board whenever it may deem necessary; (i) perform such other acts as it may deem appropriate for the attainment of the objectives of the Fund and for proper enforcement of the provisions of this Act. Part VII – Financial provisions (ss. 32-39)"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "Part VII",
+      "section": "32",
+      "title": "Financial resources",
+      "content": "The resources of the Fund shall consist of— (a) the employer ’s and employee 's contribution to the Fund ; (b) any income generated from investments of the Fund approved under this Act; (c) such sums as may be received by way of donations and grants in aid; (d) fines and penalties payable under this Act; (e) such sums as may be appropriated by Parliament for the purposes; and (f) any sum which may in any manner become payable to or vested in the Board as a result of the performance by the Board of its functions and duties under this Act."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "Part VII",
+      "section": "33",
+      "title": "Management of funds",
+      "content": "The use, disposition, investment, disbursement, administration and management of funds shall be governed by resolution of the Board subject to the following limitations, namely— (a) that all funds under the management and control of the Fund shall be subject to rules and regulations applicable to public funds; (b) that the administrative costs shall not exceed eight per centum of the total income of the Fund ; (c) that reserve funds shall be set aside in the Reserve Account; (d) that any investment of the Fund shall be restricted to short term securities, interest bearing deposits and securities."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "Part VII",
+      "section": "34",
+      "title": "Annual and supplementary budget",
+      "content": "(1) In this Act \"financial year\" means any period not exceeding twelve consecutive months designated in that behalf by the Board . (2) The Board shall at its meeting before the beginning of any financial year pass an annual budget of the amounts respectively— (a) expected to be received; and (b) expected to be disbursed, by the Board during that financial year. (3) The Board may pass a supplementary budget detailing the disbursement in any financial year if it requires to make any disbursement not provided for or of an amount in excess of the amount provided for in the annual budget for that financial year. (4) The Board shall submit to the Minister for approval, the annual budget and every supplementary budget. (5) The Minister shall, upon receipt of the annual budget or any supplementary budget approve or disapprove the same or may approve subject to such amendments as he may deem fit."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "Part VII",
+      "section": "35",
+      "title": "Power to borrow",
+      "content": "The Board may borrow moneys for the purposes of the Fund by way of loan or overdraft, and upon such security and such terms relating to the repayment of the principal and the payment of interest as the Board may deem fit."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "Part VII",
+      "section": "36",
+      "title": "Reserve Fund",
+      "content": "(1) The Fund shall subject to subsections (2) and (3) set aside a portion of its accumulated revenues not needed to meet the costs of the current year's expenditures as Reserve Funds. (2) The total amount of reserves set aside under subsection (1) shall not exceed a ceiling equivalent to the amount estimated for one year's projected scheme’s expenditures. (3) Whenever actual reserves exceed the required ceiling at the end of the Fund 's fiscal year, the scheme 's benefits shall be increased or member contributions decreased respectively in order to adjust expenditures or revenues to meet the required ceiling for reserve funds."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "Part VII",
+      "section": "37",
+      "title": "Accounts and audit",
+      "content": "(1) The Board shall cause to be provided and kept proper books of accounts and records with respect to— (a) the receipt and expenditure of moneys by, and other financial transactions of, the Fund ; (b) the assets and liabilities of the Fund , and shall cause to be made out for every financial year a balance sheet and a statement of account showing details of the income and expenditure of the Fund and all its assets and liabilities. (2) Not later than six months after the close of every financial year the accounts including the balance sheet of the Fund relating to the financial year shall be audited by the auditors appointed by the Board from time to time. (3) As soon as practicable after receipt by the Minister of the copy of the statement of account together with a copy of the report submitted under subsection (2) the Minister shall lay a copy of the report together with the statement of account before the National Assembly."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "Part VII",
+      "section": "38",
+      "title": "Fund account",
+      "content": "The monies of the Fund shall be deemed to be funds held by the Board in trust for the members and the Government and shall be administered by the Board in accordance with the provisions of this Act."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "Part VII",
+      "section": "39",
+      "title": "Accounts of the Board",
+      "content": "The Board shall cause to be kept, maintained and audited the accounts of the Fund and the Reserve Account. Part VIII – Claims and appeals (ss. 40-42)"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "Part VIII",
+      "section": "40",
+      "title": "Claims",
+      "content": "A member or a health care provider who has been aggrieved by any decision made by the officers of the Scheme may appeal to the Tribunal in accordance with the provisions of this Act."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "Part VIII",
+      "section": "41",
+      "title": "Grounds for appeal",
+      "content": "The following acts shall constitute valid grounds for an appeal, namely— (a) any violation of the rights of patient; (b) a wilful neglect of duties by the implementors of the Scheme that results in the loss or non-enjoyment of benefits by beneficiaries; (c) unjustifiable delay in actions on claims; (d) delay in the processing of claims that extends beyond the period agreed upon; and (e) any other act or neglect that tends to undermine or defeat the purpose of this Act."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "Part VIII",
+      "section": "42",
+      "title": "Appeals Tribunal",
+      "content": "(1) There is established a National Health Insurance Fund Tribunal which shall have jurisdiction to adjudicate appeals on the grounds specified in section 41 . (2) The Tribunal shall consist of a lawyer who shall be the chairman, a medical practitioner and one other person with experience in health insurance, all of whom shall be appointed by the Minister . (3) Regulations made under this Act shall prescribe the powers, rules, procedures and fees for the Tribunal and provide for the tenure and remuneration of members of the Tribunal . Part IX – Legal proceedings, offences and penalties (ss. 43-48)"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "Part IX",
+      "section": "43",
+      "title": "Criminal proceedings",
+      "content": "(1) Any person who— (a) for the purpose of evading payment of any contribution by him or some other person knowingly makes any false statement or representation or produces or furnishes or causes to be produced or furnished any document or information which he knows to be false in a material particular; (b) for the purpose of obtaining any benefit or refund for himself or some other person, knowingly makes any false statement or representation or produces or causes to be produced any document or information which he knows to be false in a material particular; (c) misrepresents or fails to disclose any material fact; (d) fails to pay the required contribution under this Act; (e) fails without lawful excuse to produce documents required to be produced under this Act; (f) fails to comply with any rules or regulations made under this Act as a result of which there is loss to the Fund or the records of the contribution by the member cannot be maintained; (g) knowingly deducts from an employee ’s salary in respect of a contribution to the Fund a sum greater than the employee 's share of the statutory contribution ; (h) misrepresents or fails to disclose any material fact as a result of which he obtains the benefits which he is not entitled, commits an offence and is liable on conviction to a fine of not less than two hundred thousand shillings but not exceeding one million shillings or to imprisonment for a term not exceeding three years or to both that fine and imprisonment. (2) Any action for the recovery of contributions and all criminal proceedings under subsection (1) may be instituted in court by the Director-General, Inspector or any principal officer of the Fund appointed by the Board. (3) For the purposes of this section, \"court\" means the District or Resident Magistrates’ Court."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "Part IX",
+      "section": "44",
+      "title": "Procedure to recover sums due to Fund",
+      "content": "(1) The Court before whom any person is convicted of an offence under this Act may, without prejudice to any civil remedy, order such person to pay to the Fund the amount of the contribution due together with any penalty thereon or any other sum, and any sum so ordered shall be recoverable as a fine and paid into the Fund . (2) All sums due to the Fund shall be recoverable as debts due to the Fund and without prejudice to any other remedy may be recovered by the Fund summarily as a civil debt."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "Part IX",
+      "section": "45",
+      "title": "Penalty for late payment of contribution",
+      "content": "(1) If any contribution which any employer is liable to pay under this Act in respect of any employee is not paid on or before the day on which payment is due, a penalty equal to five per centum compounded interest of the amount of that contribution shall be payable by that employer for each month or part of a month that the contribution remains unpaid. (2) The penalty provided for under subsection (1) shall be recoverable as a sum due to the Fund, and when recovered shall be paid into the Fund."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "Part IX",
+      "section": "46",
+      "title": "Joinder in cases of non-payment of contribution",
+      "content": "Notwithstanding anything to the contrary contained in any other written law, in any proceedings against an employer in respect of contributions due for more than one of his employees, the magistrate may permit one plaint or one charge sheet to be made or filed in respect of all contributions claimed to be due."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "Part IX",
+      "section": "47",
+      "title": "Protection of contribution",
+      "content": "The sum standing to the credit of a member shall, until paid out in accordance with the provisions of this Act, remain the property of the Fund and shall not form part of the assets of that person in the event of his bankruptcy or insolvency or be liable to attachment in satisfaction of his debts."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "Part IX",
+      "section": "48",
+      "title": "Protection of attachment",
+      "content": "Notwithstanding anything to the contrary contained in any other written law, no execution or attachment or process of any like nature shall be issued against the contributions of any member , except in accordance with the terms of the Fund , and such contributions shall not form part of the assets of the member in the event of bankruptcy or insolvency. Part X – General provisions (ss. 49-56)"
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "Part X",
+      "section": "49",
+      "title": "Exemption from liability",
+      "content": "No act done or omitted to be done by any officer of the Fund shall, when done or omitted bona fide in execution or purported execution of his duties as such, subject any officer to any action, liability or demand."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "Part X",
+      "section": "50",
+      "title": "Regulations",
+      "content": "(1) The Minister may upon recommendations from the Board make regulations prescribing— (a) the amount of benefit and the period for which the benefit shall be payable; (b) conditions or limitations to the benefit; (c) the manner of making and the manner of determination of any claim to the benefit; (d) the grades of members' entitlement; (e) the period for postponement of any payment of benefit pending the relevant inquiry; (f) for any matters incidental to the payment and collection of any contribution or to the issue or replacement of any cards used under this Act; (g) for the remission in whole or in part of penalties so incurred in such circumstances and subject to such conditions as may be provided; (h) the particulars, information, proof or evidence to be furnished as to any question or matter arising under this Act, including any question or matter relevant to the payment of contributions by or in respect of any person, or the making or validity of any claim or application for the payment of any benefit under this Act; (i) in respect of any action required or permitted to be taken under this Act, the time and manner of taking that action, the procedure to be followed, and the forms to be used; (j) fees, powers, rules and procedures for the Tribunal ; (k) conditions for registration of members and procedure for enrolment of beneficiaries under this Act; (l) the mode of payment of claims; (m) the procedure for dealing with unclaimed money in the Fund ; (n) the duties of employers respecting registration of employees; (o) the period for submission of annual and any other report as may be provided under this Act; (p) the procedure for appointment of the Director-General, other directors and other senior staffs of the Fund ; (q) the rights of patients; (r) conditions for accreditation of health care providers ; (s) the performance monitoring of health care providers ; (t) the quality assurance of health care providers ; (u) the procedure of filing complaints before the Tribunal ; (v) for offences and penalties; (w) status and operations of inspectors; and (x) any other matter for purposes of effective implementation of the Act."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "Part X",
+      "section": "51",
+      "title": "Inspectors",
+      "content": "(1) The Board may appoint inspectors for the purposes of this Act. (2) Any inspector on production of a certificate under the hand of the Director-General of his appointment as an inspector, may enter at all reasonable times on the premises or place and make any examination or inquiry necessary to obtain information for the purposes of this Act. (3) An inspector may, in the performance of his duties require any person to produce any documents relating to contributions to the Fund for inspection by him. (4) For the purposes of this section \"premises\" means any building or erection used for the purposes of business, but does not include a dwelling used exclusively for residential purposes. (5) Any person who— (a) wilfully delays or obstruct an inspector in the exercise of any power under this section; or (b) refuses or neglects to answer any question or to furnish any information or to produce any document when required to do so under this section, commits an offence and on conviction is liable to a fine not exceeding five hundred thousand shillings."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "Part X",
+      "section": "52",
+      "title": "Bonus",
+      "content": "The Board may issue bonus to a member who did not utilise the health care services for a certain period depending on the viability of funds."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "Part X",
+      "section": "53",
+      "title": "Exemptions",
+      "content": "Notwithstanding any other written law— (a) no income tax shall be payable on the contributions and benefits under this Act; and (b) no stamp duty shall be payable on any receipt, instrument or document given or executed by the Board on behalf of the Fund or executed by any person in respect of the benefit or refund of contributions under this Act."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "Part X",
+      "section": "54",
+      "title": "Separability declaration",
+      "content": "In the event of any provision under this Act or the application of such provision to any person or circumstances is declared invalid, the remainder of this Act or the application of the other remaining provisions to other persons or circumstances shall not be affected by the declaration."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "Part X",
+      "section": "55",
+      "title": "Directions",
+      "content": "The Minister may, subject to relevant government procedures, give to the Board directions of general or specific nature as to the performance of the Board of any of its functions in relation to any matter appearing to the Minister to affect national interest, and the Board shall give effect to such directions."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "Part X",
+      "section": "56",
+      "title": "Remuneration",
+      "content": "The Board shall determine the remuneration of its members but subject to approval by the Minister . Schedule (Section 29(2)) Composition and proceedings of the Board 1. Interpretation In this Schedule \"member\" means a member of the Board and includes the Chairman. 2. Composition The members of the Board shall be— (a) two representatives from the Ministry of Health; (b) one representative from the Attorney-General’s Chambers; (c) one representative from the Trade Union of Government Health Employees (TUGHE); (d) one representative from the Association of Private Hospitals; (e) one representative from the Ministry of Finance; (f) two other members with expertise in business or insurance. 3. Appointment and tenure Members of the Board shall be appointed by the Minister and shall each hold office for a period of three years and may be reappointed for a further one term. 4. Vacation of office The office of a member shall become vacant— (a) on his death; (b) upon resignation; (c) if he without sufficient cause fails to attend three consecutive meetings of the Board; (d) if he becomes in any manner disqualified from membership of the Board. 5. Filling of vacancies If a member dies, resigns or has his appointment terminated or otherwise vacates his office before the expiry of the term for which he is appointed, the Minister may appoint a person to fill the vacancy during the remainder of the term for which the vacating member was appointed. 6. Chairman The Chairman shall be appointed by the Minister. 7. Vice-Chairman The Board shall elect one of its members to be the Vice-Chairman. 8. Secretary The Director-General shall act as the Secretary of the Board. 9. Meetings and quorum (1) An ordinary meeting shall be held once every four months and convened by the Chairman and the notice of the meeting shall be sent to each member not less than fourteen days before the date of the meeting. (2) The Chairman, or in his absence the Vice-Chairman, shall be bound to convene a special meeting of the Board upon receipt of request signed by not less than five members, and not less than fourteen days’ notice of the meeting shall be given to the members. (3) One half of the total number of members shall form a quorum for any meeting of the Board. (4) There shall preside at any meeting of the Board— (a) the Chairman; (b) in the absence of the Chairman, the Vice-Chairman; (c) in the absence of the Chairman and the Vice-Chairman, such member as may be elected by other members for the purpose of that meeting. 10. Voting (1) At any meeting of the Board, a decision of the majority of the members present and voting shall be deemed to be a decision of the Board. (2) In the event of equality of votes the Chairman of that meeting shall have a casting vote in addition to his deliberative vote. 11. Decision by circulation of papers Notwithstanding the provisions of paragraph 9(4) , a decision may be made by the Board without a meeting, by circulation of the relevant papers to all members and the expression in writing of their views to all members and the expression in writing of their views, but a member may require that any such decision shall be deferred until the matter is considered at a meeting of the Board. 12. Minutes Minutes in proper form of each meeting shall be kept and shall be confirmed by the Board at the next meeting and signed by the Chairman and the Secretary of the meeting. 13. Vacancy The Board may act notwithstanding any vacancy in its membership. 14. Validity of proceedings The validity of any proceedings of the Board shall not be affected by any defect in the appointment of any member. 15. Orders and directions All orders, directions, notices or other documents made or issued on behalf of the Board shall be signed by— (a) the Chairman of the Board; or (b) the Secretary or any officer authorised in writing in that behalf by the Secretary. 16. Seal The seal of the Board shall not be affixed to any instrument except in the presence of the Director-General or such other officer of the Board as the Board may appoint in that behalf. 17. Proceedings Subject to the provisions of this Schedule the Board shall have power to regulate its own proceedings. History of this document 31 December 2023 Chapter 395 Revised Laws 2023 Consolidation 11 October 2021 amendment not yet applied Amended by Written Laws (Miscellaneous Amendments) (No. 4) Act, 2021 27 July 2012 amendment not yet applied Amended by Social Security Laws (Amendments) Act, 2012 06 August 2010 amendment not yet applied Amended by Written Laws (Miscellaneous Amendments) (No. 3) Act, 2010 26 March 2010 amendment not yet applied Amended by Written Laws (Miscellaneous Amendments) (No. 3) Act, 2010 20 March 2009 amendment not yet applied Amended by Written Laws (Miscellaneous Amendments) Act, 2009 09 June 2008 amendment not yet applied Amended by National Prosecutions Service Act, 2008 24 June 2005 amendment not yet applied Amended by Written Laws (Miscellaneous Amendment) (No. 2) Act, 2005 20 December 2002 amendment not yet applied Amended by Written Laws (Miscellaneous Amendments) (No. 3) Act, 2002 31 July 2002 this version Chapter 395 Revised Laws 2002 Consolidation 01 December 1999 Commenced Related documents Is amended by National Prosecutions Service Act, 2008 Social Security Laws (Amendments) Act, 2012 Written Laws (Miscellaneous Amendment) (No. 2) Act, 2005 Written Laws (Miscellaneous Amendments) (No. 3) Act, 2002 Written Laws (Miscellaneous Amendments) (No. 3) Act, 2010 Written Laws (Miscellaneous Amendments) (No. 3) Act, 2010 Written Laws (Miscellaneous Amendments) (No. 4) Act, 2021 Written Laws (Miscellaneous Amendments) Act, 2009 More documents like this one Subsidiary legislation Title National Health Insurance Fund (Amendment) Regulations, 2009 Government Notice 11 of 2010 National Health Insurance Fund Regulations, 2002 Government Notice 491 of 2002 [] [] [] [{\"provision_eid\": \"part_III__sec_8\", \"citations\": 1}, {\"provision_eid\": \"part_III__sec_9\", \"citations\": 1}, {\"provision_eid\": \"part_II__sec_4\", \"citations\": 1}] ▲ To the top > Contact us Visit our Twitter/X profile Visit our Linked In profile Visit our YouTube channel About TanzLII TanzLII is operated by the Judiciary of Tanzania and the Office of the Attorney General, Chief Parliamentary Draftsman, and publishes the law of Tanzania for free online access for all. Free Access to the law supports the rule of law and access to justice. TanzLII partners with African Legal Information Institute and Laws.Africa , who provide it with technical support. Pocket Law Use TanzLII offline with Pocket Law . Help About us Contact us Terms of Use Our partners AfricanLII Judiciary of Tanzania Laws.Africa Office of The Attorney General Open Law Africa Other African Legal Information Institutions AfricanLII GhaLII Kenya Law LawLibrary ZA LesothoLII LiberLII MalawiLII MauritiusLII NamibLII NigeriaLII OpenbyLaws ZA RwandaLII SeyLII SieraLII eSwatiniLII TanzLII UgandaLII ZambiaLII ZanzibarLII ZimLII"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accreditation",
+      "definition": "a process whereby the qualification and capabilities of health care providers are verified for the purpose of conferring the privilege of participation in the scheme",
+      "source_provision": "s3"
+    },
+    {
+      "term": "beneficiary",
+      "definition": "a person entitled to health care benefits under this Act",
+      "source_provision": "s3"
+    },
+    {
+      "term": "benefit package",
+      "definition": "the services offered to a beneficiary",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Board",
+      "definition": "the Board of Directors of the Fund",
+      "source_provision": "s3"
+    },
+    {
+      "term": "capitation",
+      "definition": "a payment mechanism where a fixed rate is negotiated by the Fund for a specified period with a health care provider for delivery of health services due to a beneficiary",
+      "source_provision": "s3"
+    },
+    {
+      "term": "child",
+      "definition": "a step child, a child born out of wedlock and any child to whom the member stands in loco parentis, who has not attained the age of eighteen years",
+      "source_provision": "s3"
+    },
+    {
+      "term": "civil servant",
+      "definition": "an employee of the Government, excluding local government, soldiers, police, prison officers and those civil servants covered under the National Social Security Fund Act 1",
+      "source_provision": "s3"
+    },
+    {
+      "term": "contribution",
+      "definition": "the amount from salary or wages paid to the Fund by or on behalf of a member",
+      "source_provision": "s3"
+    },
+    {
+      "term": "dependant",
+      "definition": "a member of a family of a member who is wholly or in part dependent upon the member ’s earning",
+      "source_provision": "s3"
+    },
+    {
+      "term": "diagnostic procedure",
+      "definition": "a procedure of analysis and examination for the identification of a disease or health condition",
+      "source_provision": "s3"
+    },
+    {
+      "term": "employee",
+      "definition": "a person who performs services for the Government as a civil servant",
+      "source_provision": "s3"
+    },
+    {
+      "term": "employer",
+      "definition": "the Government employing the services of an employee",
+      "source_provision": "s3"
+    },
+    {
+      "term": "enrolment",
+      "definition": "the process of listing individuals who are members or dependants covered by the scheme",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Essential Drug List",
+      "definition": "the list of drugs for Tanzania which is prepared by the Ministry",
+      "source_provision": "s3"
+    },
+    {
+      "term": "fee for service",
+      "definition": "a fee charged by a health care provider to the Fund for past services offered to a beneficiary",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Fund",
+      "definition": "the National Health Insurance Fund",
+      "source_provision": "s3"
+    },
+    {
+      "term": "health care institution",
+      "definition": "a dispensary, health centre, hospital and any other medical clinic",
+      "source_provision": "s3"
+    },
+    {
+      "term": "health care providers",
+      "definition": "a health care institution",
+      "source_provision": "s3"
+    },
+    {
+      "term": "member",
+      "definition": "a person registered with the Fund",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for health matters",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Ministry",
+      "definition": "the Ministry of Health",
+      "source_provision": "s3"
+    },
+    {
+      "term": "peer review",
+      "definition": "a review of the treatment of a patient or the performance of a health care provider by a professional colleague",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Quality assurance",
+      "definition": "review and assurance of quality of health care service, quality assessment and corrective action to a deficiency",
+      "source_provision": "s3"
+    },
+    {
+      "term": "retiree",
+      "definition": "a member who has ceased from being a civil servant",
+      "source_provision": "s3"
+    },
+    {
+      "term": "scheme",
+      "definition": "the National Health Insurance Scheme",
+      "source_provision": "s3"
+    },
+    {
+      "term": "Tribunal",
+      "definition": "the National Health Insurance Fund Tribunal",
+      "source_provision": "s3"
+    },
+    {
+      "term": "utilisation review",
+      "definition": "the evaluation of patient utilisation or of the appropriateness of health care services. Part II – National Health Insurance Fund (ss. 4-7)",
+      "source_provision": "s3"
+    }
+  ]
+}
