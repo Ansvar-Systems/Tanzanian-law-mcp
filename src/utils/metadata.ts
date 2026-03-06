@@ -9,6 +9,8 @@ export interface ResponseMetadata {
   jurisdiction: string;
   disclaimer: string;
   freshness?: string;
+  note?: string;
+  query_strategy?: string;
 }
 
 export interface ToolResponse<T> {
@@ -31,7 +33,7 @@ export function generateResponseMetadata(
 
   return {
     data_source: 'Tanzania Law (tanzlii.org) — National Council for Law Reporting',
-    jurisdiction: 'KE',
+    jurisdiction: 'TZ',
     disclaimer:
       'This data is sourced from Tanzania Law under Government Open Data principles. ' +
       'The authoritative versions are in English. Swahili translations may be available for some documents. ' +
