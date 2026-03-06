@@ -26,11 +26,8 @@ export function stemWord(word: string): string | null {
 
   const lower = word.toLowerCase();
   for (const suffix of STEM_SUFFIXES) {
-    if (lower.endsWith(suffix)) {
-      const stem = lower.slice(0, -suffix.length);
-      if (stem.length >= 3) {
-        return `${stem}*`;
-      }
+    if (lower.endsWith(suffix) && lower.length - suffix.length >= 3) {
+      return lower.slice(0, -suffix.length);
     }
   }
   return null;
@@ -60,8 +57,10 @@ export function sanitizeFtsInput(input: string): string {
   }
 
   // Standard mode: aggressive strip
+  // Preserve trailing * on words (FTS5 prefix search) but strip other special chars
   const cleaned = input
-    .replace(/['"(){}[\]^~*:@#$%&+=<>|\\/.!?,;]/g, ' ')
+    .replace(/['"(){}[\]^~:@#$%&+=<>|\\/.!?,;]/g, ' ')
+    .replace(/\*(?!\s|$)/g, ' ')    // strip * unless at end of word
     .replace(/\s+/g, ' ')
     .trim();
 
@@ -115,12 +114,13 @@ export function buildFtsQueryVariants(sanitized: string): string[] {
     variants.push(prefixTerms.join(' AND '));
   }
 
-  // Tier 4: Stemmed prefix (all terms stemmed with wildcards)
-  const stemmed = tokens.map(t => stemWord(t) ?? `${t}*`);
-  const stemmedQuery = stemmed.join(' AND ');
-  // Only add if different from tier 3
-  if (!variants.includes(stemmedQuery)) {
-    variants.push(stemmedQuery);
+  // Tier 4: Stemmed prefix (suffix-truncated + wildcard)
+  const stemmedTerms = tokens.map(t => {
+    const stem = stemWord(t);
+    return stem ? `${stem}*` : t;
+  });
+  if (stemmedTerms.some((s, i) => s !== tokens[i])) {
+    variants.push(stemmedTerms.join(' AND '));
   }
 
   // Tier 5: OR query (broadest FTS5 variant)
